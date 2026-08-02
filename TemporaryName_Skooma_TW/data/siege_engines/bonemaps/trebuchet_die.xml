@@ -1,0 +1,25 @@
+<Bones>
+   <Bone Index="0">bone_root</Bone>
+   <Bone Index="1">bone_sling_b</Bone>
+   <Bone Index="2">bone_sling_a</Bone>
+   <Bone Index="3">bone_ring</Bone>
+   <Bone Index="4">bone_boulder</Bone>
+   <Bone Index="5">bone_counter_weight</Bone>
+   <Bone Index="6">bone_front_wheel</Bone>
+   <Bone Index="7">bone_pivot</Bone>
+   <Bone Index="8">bone_upper_arm</Bone>
+   <Bone Index="9">bone_rear_wheel</Bone>
+   <Bone Index="10">bone_left_bracket_1</Bone>
+   <Bone Index="11">bone_crank</Bone>
+   <Bone Index="12">bone_track2</Bone>
+   <Bone Index="13">bone_lower_arm</Bone>
+   <Bone Index="14">bone_track1</Bone>
+   <Bone Index="15">bone_sling_02</Bone>
+   <Bone Index="16">bone_sling_03</Bone>
+   <Bone Index="17">bone_sling_04</Bone>
+   <Bone Index="18">bone_sling_1</Bone>
+   <Bone Index="19">bone_fracture_3</Bone>
+   <Bone Index="20">bone_fracture_2</Bone>
+   <Bone Index="21">bone_fracture_1</Bone>
+   <Bone Index="22">bone_fracture_4</Bone>
+</Bones>

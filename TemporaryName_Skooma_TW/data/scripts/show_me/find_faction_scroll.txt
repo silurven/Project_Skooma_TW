@@ -1,0 +1,80 @@
+script
+	declare_show_me								; This is a show me script
+
+	declare_counter abandon													;Track whether the advice scroll is displayed
+	declare_counter scroll_visible											; Track whether the settlement scroll is visible or not
+	
+	monitor_event AbandonShowMe TrueCondition								;Catch the AbandonShowMe event
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event ScrollAdviceRequested TrueCondition				; Catch the advice being requested again
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event ScrollClosed ScrollClosed combined_overview_scroll		; Catch the scroll closing
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event ScrollOpened ScrollOpened diplomacy_scroll
+		set_counter abandon 1
+	end_monitor
+
+	monitor_conditions I_CompareCounter abandon = 1	
+		ui_flash_stop														; Stop the UI flash
+		enable_entire_ui
+		suspend_unscripted_advice	false									; Restore unscripted advice
+		if I_CompareCounter			scroll_visible = 1						; If the settlement scroll is visible...
+			simulate_mouse_click 	rclick_up								; ...dismiss the scroll
+		end_if
+		terminate_script													; All done
+	end_monitor
+
+	if not I_ScrollOpen diplomacy_scroll
+
+		dismiss_advice															;Gets rid of settlement help intro advice
+		while I_AdvisorVisible													;While the advisor is on screen...
+		end_while
+	
+		suspend_unscripted_advice true						;Don't display any advice that isn't part of this show me script
+		disable_entire_ui
+
+		if not I_ScrollOpen combined_overview_scroll
+			;flash the faction overview button and open the scroll
+			ui_flash_start			faction_button				; Flash the faction_button
+			wait 3												; Wait 3 seconds
+			enable_ui faction_button
+			select_ui_element 		faction_button				; Select the faction_button
+			simulate_mouse_click 	lclick_up					; Bring up the faction overview panel
+			set_counter scroll_visible 1
+			disable_ui faction_button
+			wait 3												; Wait for the scroll to finish appearing
+		end_if
+			
+		ui_flash_stop
+
+		if I_ScrollOpen combined_overview_scroll
+			;flash the faction tab and open the panel
+			ui_flash_start combined_scroll_diplomacy_tab				;flash the diplomacy tab
+			wait 3
+			enable_ui combined_scroll_diplomacy_tab
+			select_ui_element		combined_scroll_diplomacy_tab	;select the diplomacy tab	
+			simulate_mouse_click	lclick_up
+			ui_flash_stop
+			disable_ui combined_scroll_diplomacy_tab
+			wait 3
+		end_if
+
+		if I_ScrollOpen combined_overview_scroll
+			; close the faction overview scroll
+			enable_ui faction_button
+			select_ui_element 		faction_button				; Select the faction_button
+			simulate_mouse_click 	lclick_up					; Close the faction overview panel
+		end_if
+		
+		set_counter scroll_visible 0
+		enable_entire_ui
+		suspend_unscripted_advice false						; Restore unscripted advice
+	end_if
+
+end_script

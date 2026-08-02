@@ -1,0 +1,32 @@
+; -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+; v0 = position
+; v1 = blend weights
+; v2 = blend indices
+; v3 = normal
+; v4 = texture coordinates
+; -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+; -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+; r1 = Blend indices
+; r4 = Blended position in camera space
+; -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+vs_2_0
+
+dcl_position0 v0
+dcl_blendindices v2
+dcl_normal0 v3
+dcl_texcoord0 v4
+#line 18 "fleximesh0_basic.vsh"
+mul r1, v2.zyxw, c[0].wwww
+#line 21 "fleximesh0_basic.vsh"
+mova a0.x, r1.x
+m4x3 r4.xyz, v0, c[a0.x + 24]
+#line 25 "fleximesh0_basic.vsh"
+mov r4.w, c[0].x
+m4x4 r6.xyzw, r4, c[2]
+mov oPos, r6
+
+mov oD0, c[0].y
+mov oD1, c[0].zzzz
+mov oFog, c[0].z
