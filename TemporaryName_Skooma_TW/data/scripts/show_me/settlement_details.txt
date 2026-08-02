@@ -1,0 +1,63 @@
+script
+	declare_show_me															;This is a show me script
+	
+	declare_counter abandon													;Track whether the advice scroll is displayed
+
+	monitor_event ScrollClosed ScrollClosed own_settlement_info_scroll		;Catch the scroll closing
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event ScrollOpened not ScrollOpened advance_settlement_info_scroll
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event AbandonShowMe TrueCondition						; Catch the AbandonShowMe event
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event ScrollAdviceRequested TrueCondition				; Catch the advice being requested again
+		set_counter abandon 1
+	end_monitor
+
+	monitor_event SettlementScrollAdviceRequested TrueCondition				;Catch the advice being requested again
+		set_counter abandon 1
+	end_monitor
+
+	monitor_conditions I_CompareCounter abandon = 1							;Catch the show me being abandoned for whatever reason
+		ui_flash_stop														;Stop the UI highlighting
+		suspend_unscripted_advice false										;Restore unscripted advice
+		terminate_script													;All done
+	end_monitor
+
+	if I_ScrollOpen own_settlement_info_scroll
+		and not I_ScrollOpen advanced_settlement_info_scroll
+
+		dismiss_advice															;Gets rid of settlement help intro advice
+		while I_AdvisorVisible													;While the advisor is on screen...
+		end_while
+		
+		suspend_unscripted_advice true											;Don't display any advice that isn't part of this show me script
+		disable_entire_ui
+		
+		;flash the settlement details button then open the settlementd details scroll
+		ui_flash_start settlement_stats_button				;flash the settlement details button
+		wait 3
+		enable_ui settlement_stats_button
+		select_ui_element		settlement_stats_button		;select the settlement details button	
+		simulate_mouse_click	lclick_up
+		ui_flash_stop
+		disable_ui settlement_stats_button
+		wait 3
+		
+		if I_ScrollOpen advanced_settlement_info_scroll
+			; close the settlement details scroll
+			enable_ui settlement_stats_button
+			select_ui_element 		settlement_stats_button		; Select the faction_button
+			simulate_mouse_click 	lclick_up					; Close the faction overview panel
+		end_if
+		
+		enable_entire_ui
+		suspend_unscripted_advice false						; Restore unscripted advice
+	end_if
+
+end_script
