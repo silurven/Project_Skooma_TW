@@ -1,0 +1,6 @@
+<Bones>
+   <Bone Index="0">bone_body</Bone>
+   <Bone Index="1">bone_LWheel</Bone>
+   <Bone Index="2">bone_RWheel</Bone>
+   <Bone Index="3">bone_balls</Bone>
+</Bones>
