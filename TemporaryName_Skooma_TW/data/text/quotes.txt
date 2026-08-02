@@ -1,0 +1,223 @@
+¬ M2TW strings
+{Author_1}Arnaud Amaury, Abbot of Citeaux
+{Author_10}Robert Guiscard 
+{Author_100}Matthew of Edessa
+{Author_102}Fulcher of Chartres
+{Author_103}Conrad III, ruler of the Holy Roman Empire
+{Author_104}Bernard of Clairvaux
+{Author_105}Pope Eugenius III
+{Author_106}Imad ad-Din Zanghi
+{Author_107}Archbishop Hugh
+{Author_108}Il-Ghazi
+{Author_109}Walter, Chancellor to Roger of Salerno
+{Author_11}Italian proverb
+{Author_110}William of Tyre
+{Author_111}Adela, wife of Stephen of Blois
+{Author_112}Bohemund
+{Author_113}Anna Comnenus, The Alexiad 
+{Author_114}Fulcher of Chartres
+{Author_115}Fulcher of Chartres
+{Author_116}Fulcher of Chartres
+{Author_117}Matthew of Edessa
+{Author_118}William of Apulia
+{Author_119}Bernard of Clairvaux
+{Author_12}Pope Julius III 
+{Author_120}Orderic Vitalis
+{Author_13}Martin Luther 
+{Author_14}Martin Luther
+{Author_15}Martin Luther
+{Author_16}Martin Luther
+{Author_17}Niccolò Machiavelli
+{Author_18}Niccolò Machiavelli
+{Author_19}Niccolò Machiavelli
+{Author_2}Francis Bacon 
+{Author_20}Niccolò Machiavelli
+{Author_21}Niccolò Machiavelli
+{Author_22}Niccolò Machiavelli
+{Author_23}Niccolò Machiavelli
+{Author_24}Niccolò Machiavelli
+{Author_25}Niccolò Machiavelli
+{Author_26}Niccolò Machiavelli
+{Author_27}Niccolò Machiavelli
+{Author_29}Niccolò Machiavelli
+{Author_3}Thomas Aquinas
+{Author_30}Niccolò Machiavelli
+{Author_31}Niccolò Machiavelli
+{Author_32}Niccolò Machiavelli
+{Author_33}Niccolò Machiavelli
+{Author_34}Niccolò Machiavelli
+{Author_35}Christopher Marlowe 
+{Author_36}John Milton
+{Author_37}John Milton
+{Author_38}Henry II, King of England
+{Author_39}John Milton
+{Author_4}Geoffrey Chaucer, Canterbury Tales, The Knights Tale
+{Author_40}John Milton
+{Author_41}John Milton
+{Author_42}Royal letter opening the enquiry into the Templar Knights 
+{Author_43}Shakespeare, The Merchant of Venice, i, 2 
+{Author_44}Shakespeare, As You Like It, ii, 7
+{Author_45}Shakespeare, As You Like It, v, 1
+{Author_46}Shakespeare, King John, iii, 1
+{Author_47}Shakespeare, Hamlet, iv, 2 
+{Author_48}Shakespeare, King John, iv, 7
+{Author_49}Shakespeare, King Henry IV, Part:II. iii, 2
+{Author_5}Christopher Columbus
+{Author_50}Shakespeare, King Richard III, v, 3
+{Author_51}Shakespeare, King Richard III, v, 4
+{Author_52}Shakespeare, King Henry IV, Part:I, v, 4
+{Author_53}Shakespeare, King Henry the Sixth, Part:III, ii, 5
+{Author_54}Shakespeare, Much Ado About Nothing, i, 1 
+{Author_55}Shakespeare, King Henry IV, Part:II, iv, 2
+{Author_56}Shakespeare, King Henry VI, Part:III, ii, 1
+{Author_57}Shakespeare, King Henry V, iv prologue
+{Author_58}Shakespeare, Macbeth, II, 3
+{Author_59}Tamerlane
+{Author_6}Erasmus
+{Author_60}Matthew, ch. XXIV, V.6
+{Author_61}Psalm, CXLIV
+{Author_64}Moslih Eddin Saadi
+{Author_65}Gabriel Biel
+{Author_66}Fredrick I, Barbarossa
+{Author_67}Niccolò Machiavelli
+{Author_68}Edward III, King of England, Battle of Crecy 1345
+{Author_69}Thomas Elthem, Henry V's Chaplain at Agincourt
+{Author_7}Erasmus
+{Author_71}Michel Eyquem de Montaigne
+{Author_72}Michel Eyquem de Montaigne
+{Author_73}Michel Eyquem de Montaigne
+{Author_74}Louis XI, King of France
+{Author_75}Jacobus de Benedictus
+{Author_76}Petrarch
+{Author_78}Fredrick II, Holy Roman Emperor
+{Author_79}Sigismund, Holy Roman Emperor 
+{Author_8}Erasmus
+{Author_80}Moslih Eddin Saadi
+{Author_81}Saint Anselm, Archbishop of Canterbury
+{Author_82}Pope Gregory VII, Tuscan Pope
+{Author_83}Welsh proverb
+{Author_84}Welsh proverb
+{Author_85}Urban II, Pope
+{Author_86}Gian Jacopo Trivulzio
+{Author_87}Shakespeare, King Henry VI, part 1, i, 1
+{Author_88}Shakespeare, Macbeth, v, 3
+{Author_89}Shakespeare, King Henry V, iii, 1
+{Author_9}Gerard of Ridefort, letter written to King Guy 
+{Author_92}Luis Camões, The Lusíads, canto 1:15
+{Author_93}Luis Camões, The Lusíads, canto 4:86
+{Author_94}King Charles V King of France
+{Author_95}Alfonso X, the Wise, King of Castile
+{Author_96}Charles Oman
+{Author_98}Pope Urban II
+{Author_99}Matthew of Edessa
+{Quote_1}Kill them all, God will recognise his own.
+{Quote_10}The strength of God will enable us, a small but faithful band, to overcome the multitude of the faithless.
+{Quote_100}The fighting was fierce and lasted for the greater part of a day; blood ran in rivers.
+{Quote_102}Many of the common people in the armies were desolate, fearing future poverty; and so they sold their bows and the cowards returned to their own homes.
+{Quote_103}Let anyone who has zeal for God come with me! Let us fight for our brothers! Let Heaven's will be done!
+{Quote_104}God has aroused the spirit of kings and princes to root up from the earth the enemies of the Christian name.
+{Quote_105}Whoever devotedly undertakes and performs this most holy journey...shall have the enjoyment of eternal reward from the repayer of all men.
+{Quote_106}Surrender before you all die by the sword, for I do not wish you to perish.
+{Quote_107}We shall not surrender.
+{Quote_108}Come on soldiers! Guardians and agents of the supreme law! Here is a sacrifice of dogs ready for your swords!
+{Quote_109}At the first sound of the bugle, everyone should make haste to put on arms and armour.
+{Quote_11}It is better to live one day as a lion than a hundred years as a sheep
+{Quote_110}Put an end to so great an evil and arrive at a peace settlement whatever the outcome, and whatever the conditions.
+{Quote_111}Take up the weapons of the glorious army for the salvation of many thousands.
+{Quote_112}If they wish to fight today, let them come like men.
+{Quote_113}They assembled from all sides, one after another, with arms and horses and all the panoply of war... 
+{Quote_114}Alas! How many noble and valiant knights we lost.
+{Quote_115}There is now no hope of escaping. If you fight you will conquer, but if you flee you will fall.
+{Quote_116}When he caught sight of their army, he was terrified and groaned in his mind.
+{Quote_117}The Frankish duke wept bitterly to see his soldiers massacred.
+{Quote_118}He withdrew, himself wounded, and was compelled to return home inglorious, weeping - he who had once vainly hoped for the glory of a triumph.
+{Quote_119}Therefore gird yourselves manfully and take up joyful arms for the name of Christ.
+{Quote_12}Do you know, my son, with what little understanding the world is ruled?
+{Quote_120}Set out on pilgrimage and triumph gloriously over the infidels in the East.
+{Quote_13}A safe stronghold our God is still. A trusty shield and weapon.
+{Quote_14}Faith must trample under foot all reason, sense, and understanding.
+{Quote_15}Nothing good ever comes of violence.
+{Quote_16}War is the greatest plague that can affect humanity; it destroys religion, it destroys states, it destroys families. Any scourge is preferable to it.
+{Quote_17}Since love and fear can hardly coexist together, if we must choose between them, it is far safer to be feared than loved.
+{Quote_18}The princes who have done great things are the ones who have taken little account of their promises.
+{Quote_19}So far as he is able, a prince should stick to the path of good but, if the necessity arises, he should know how to follow evil. 
+{Quote_2}Nothing is to be feared but fear.
+{Quote_20}Men should either be treated generously or destroyed, because they take revenge for slight injures - for heavy ones they cannot. 
+{Quote_21}The prince must be a fox... to recognize the traps and a lion to frighten the wolves. 
+{Quote_22}The sinews of war are not gold, but good soldiers.
+{Quote_23}Among other evils which being unarmed brings you, it causes you to be despised. 
+{Quote_24}The best fortress which a prince can possess is the affection of his people.
+{Quote_25}No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+{Quote_26}A prince should therefore have no other aim or thought... but war and its organisation and discipline.
+{Quote_27}Whoever conquers a free town and does not demolish it commits a great error and may expect to be ruined himself.
+{Quote_29}Good order and discipline in any army are to be depended upon more than courage alone.
+{Quote_3}In order for a war to be just, three things are necessary. First, the authority of the sovereign. Secondly, a just cause. Thirdly, a rightful intention. 
+{Quote_30}Good order makes men bold, and confusion, cowards.
+{Quote_31}He who wishes to be obeyed must know how to command.
+{Quote_32}One should never risk one's whole fortune unless supported by one's entire forces.
+{Quote_33}It is not titles that honour men, but men that honour titles.
+{Quote_34}To ensure victory the troops must have confidence in themselves as well as in their commanders.
+{Quote_35}Strike up the drum and march courageously.
+{Quote_36}Better to reign in hell than serve in heav'n.
+{Quote_37}For what can war, but endless war, still breed?
+{Quote_38}Will no one revenge me of the injuries I have sustained from one turbulent priest?
+{Quote_39}Luck is the residue of design. 
+{Quote_4}The fields have eyes, and the woods have ears.
+{Quote_40}Peace hath her victories, no less renowned than War. 
+{Quote_41}What does not destroy me, makes me strong. 
+{Quote_42}If some among them are innocent, it is expedient that they should be assayed like gold in the furnace and purged by proper judicial examination.
+{Quote_43}He doth nothing but talk of his horse. 
+{Quote_44}All the world's a stage, And all the men and women merely players. 
+{Quote_45}I will kill thee a hundred and fifty ways. 
+{Quote_46}Here I and sorrows sit; Here is my throne, bid kings come bow to it. 
+{Quote_47}Go, bid the soldiers shoot. 
+{Quote_48}Come the three corners of the world in arms, and we shall shock them. 
+{Quote_49}A man can die but once. 
+{Quote_5}Following the light of the sun, we left the Old World.
+{Quote_50}Give me another horse: bind up my wounds. 
+{Quote_51}A horse! A horse! My kingdom for a horse! 
+{Quote_52}The better part of valour is discretion. 
+{Quote_53}To whom God will, there be the victory.
+{Quote_54}A victory is twice itself when the achiever brings home full numbers.
+{Quote_55}We are ready to try our fortunes To the last man. 
+{Quote_56}And many strokes, though with a little axe, hew down and fell the hardest-timbered oak.
+{Quote_57}Upon his royal face there is no note how dread an army hath enrounded him;
+{Quote_58}There's daggers in men's smiles. 
+{Quote_59}It is better to be on hand with ten men than absent with ten thousand.
+{Quote_6}War is delightful to those who have had no experience of it. 
+{Quote_60}And ye shall hear of wars and rumours of wars, see that ye be not troubled; for all these things must come to pass, but the end is not yet.
+{Quote_61}Blessed be the Lord my strength, which teacheth my hands to war, and my fingers to fight.
+{Quote_64}Inflict not on an enemy every injury in your power, for he may afterwards become your friend.
+{Quote_65}No one conquers who doesn't fight.
+{Quote_66}An emperor is subject to no one but God and justice.
+{Quote_67}Wars begin when you will, but they do not end when you please.
+{Quote_68}Let the boy win his spurs.
+{Quote_69}We who are the rest of the people raised our heart and eyes to heaven crying for God to have compassion upon us, and to turn away from us the power of the French.
+{Quote_7}Fortune favours the audacious.
+{Quote_71}There are some defeats more triumphant than victories.
+{Quote_72}Tis so much to be a king, that he only is so by being so.
+{Quote_73}The souls of emperors and cobblers are cast in the same mould. . . . The same reason that makes us wrangle with a neighbour causes a war betwixt princes.
+{Quote_74}He who knows not how to dissimulate, can not reign.
+{Quote_75}So many great nobles, things, administrations, so many high chieftains, so many brave nations, so many proud princes, and power so splendid; In a moment, a twinkling, all utterly ended.
+{Quote_76}It is more honourable to be raised to a throne than to be born to one. Fortune bestows the one, merit obtains the other.
+{Quote_78}He who defends everything defends nothing.
+{Quote_79}I am the King of Rome, and above grammar.
+{Quote_8}The most disadvantageous peace is better than the most just war.
+{Quote_80}When you see contention amongst your enemies, go and sit at ease with your friends; but when you see them of one mind, string your bow, and place stones upon the ramparts.
+{Quote_81}Disasters teach us humility.
+{Quote_82}I have loved justice and hated inequity; and therefore I die in exile.
+{Quote_83}It is easy to be brave behind a castle wall.
+{Quote_84}In a fight, anger is as good as courage.
+{Quote_85}Undertake this journey for the remission of your sins, with the assurance of the imperishable glory of the Kingdom of Heaven!
+{Quote_86}To carry on war, three things are necessary: money, money, and yet more money.
+{Quote_87}Fight to the last gasp.
+{Quote_88}I'll fight, till from my bones my flesh be hacked.
+{Quote_89}Once more unto the breach, dear friends, once more!
+{Quote_9}If you do not leave this pasturage, Saladin will come and attack you here. And if you retreat from this attack the shame and reproach will be very great.
+{Quote_92}Let the world tremble as it senses all you are about to accomplish.
+{Quote_93}Having done everything practical to make ready for so long a voyage, we prepared our souls to meet death, which is always on a sailor's horizon.
+{Quote_94}I speak Spanish to God, Italian to women, French to men, and German to my horse.
+{Quote_95}Had I been present at the creation, I would have given some useful hints for the better ordering of the universe.
+{Quote_96}Every man should arm himself as quickly as he could, and come to the King.
+{Quote_98}Let those who once fought against brothers and relatives now rightfully fight against barbarians.
+{Quote_99}On both sides the troops were commanded by royal princes and they massacred each other mercilessly.

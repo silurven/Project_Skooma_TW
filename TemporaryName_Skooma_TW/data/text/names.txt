@@ -1,0 +1,7394 @@
+¬ M2TW strings
+{Aaron}Aaron
+{Abadai}Abadai
+{Abadhun}Abadhun
+{Abalantes}Abalantes
+{Aban}Aban
+{Abangis}Abangis
+{Abantes}Abantes
+{Abaqha}Abaqha
+{Abas}Abas
+{Abascantus}Abascantus
+{Abashan}Abashan
+{Abayan}Abayan
+{Abbado}Abbado
+{Abbas}Abbas
+{Abbasah}Abbasah
+{Abbate}Abbate
+{Abdelatif}Abdelatif
+{Abdera}Abdera
+{Abderos}Abderos
+{Abdeshmun}Abdeshmun
+{Abdieso}Abdieso
+{Abdimilki}Abdimilki
+{Abdmelqart}Abdmelqart
+{Abdosir}Abdosir
+{Abdu_llah}Abdu'llah
+{Abensur}Abensur
+{Aberkios}Aberkios
+{Abi}Abi
+{Ablerus}Ablerus
+{Aboke}Aboke
+{Abony}Abony
+{Abraham}Abraham
+{Abrami}Abrami
+{Abreas}Abreas
+{Abronychus}Abronychus
+{Abu-Bakr}Abu-Bakr
+{Abu_Bakr}Abu Bakr
+{Abu_Shakra}Abu Shakra
+{Abydos}Abydos
+{Acacitli}Acacitli
+{Acaeus}Acaeus
+{Acamapichtli}Acamapichtli
+{Acampichtli}Acampichtli
+{Acamus}Acamus
+{Acapipilotzin}Acapipilotzin
+{Acatlotzin}Acatlotzin
+{Acaxochitl}Acaxochitl
+{Accattus}Accattus
+{Accorsi}Accorsi
+{Acestes}Acestes
+{Achaemenes}Achaemenes
+{Achaeus}Achaeus
+{Achaia}Achaia
+{Achicauhtli}Achicauhtli
+{Achigh}Achigh
+{Achitometl}Achitometl
+{Acholla}Acholla
+{Achradina}Achradina
+{Acilius}Acilius
+{Aclepiades}Aclepiades
+{Acolmiztli}Acolmiztli
+{Acrisias}Acrisias
+{Acroneos}Acroneos
+{Act}Actë
+{Actaee}Actaee
+{Acxotecatl}Acxotecatl
+{Aczo}Aczo
+{Ada}Ada
+{Adalberina}Adalberina
+{Adalbert}Adalbert
+{Adalgard}Adalgard
+{Adalmun}Adalmun
+{Adaluuih}Adaluuih
+{Adalwolf}Adalwolf
+{Adam}Ádam
+{Adamczyk}Adamczyk
+{Adames}Adames
+{Adcobrovatus}Adcobrovatus
+{Ade}Ade
+{Adeia}Adeia
+{Adeimanthos}Adeimanthos
+{Adela}Adela
+{Adelaide}Adelaide
+{Adelasia}Adelasia
+{Adelgund}Adelgund
+{Adelhaide}Adelhaide
+{Adelheidis}Adelheidis
+{Adelisa}Adelisa
+{Adelmo}Adelmo
+{Adenet}Adenet
+{Adenin}Adenin
+{Aderbal}Aderbal
+{Adgandestrius}Adgandestrius
+{Adherbal}Adherbal
+{Adil}Adil
+{Adiran}Adiran
+{Adisa}Ádísa
+{Admetos}Admetos
+{Adolar}Adolár
+{Adolf}Adolf
+{Adonibal}Adonibal
+{Adrastos}Adrastos
+{Adymos}Adymos
+{Adys}Adys
+{Aeaces}Aeaces
+{Aed}Aed
+{Aedon}Aedon
+{Aegicoros}Aegicoros
+{Aegiolea}Aegiolea
+{Aegisthes}Aegisthes
+{Aegle}Aegle
+{Aegon}Aegon
+{Aeimnestos}Aeimnestos
+{Aelfgar}Aelfgar
+{Aelianus}Aelianus
+{Aelius}Aelius
+{Aelric}Aelric
+{Aemilianus}Aemilianus
+{Aemilius}Aemilius
+{Aenesidemos}Aenesidemos
+{Aeolus}Aeolus
+{Aerope}Aerope
+{Aeropus}Aeropus
+{Aeschine}Aeschine
+{Aeschreas}Aeschreas
+{Aesculapius}Aesculapius
+{Aesepus}Aesepus
+{Aeson}Aeson
+{Aetes}Aetes
+{Aethon}Aethon
+{Aethre}Aethre
+{Aetion}Aetion
+{Aetios}Aetios
+{Aetolos}Aetolos
+{Afer}Afer
+{Affonso}Affonso
+{Afina}Afina
+{Afraig}Afraig
+{Afranius}Afranius
+{Agafia}Agafia
+{Agamede}Agamede
+{Agamedes}Agamedes
+{Agamemnon}Agamemnon
+{Aganippe}Aganippe
+{Agape}Agape
+{Agapenor}Agapenor
+{Agapia}Agapia
+{Agapias}Agapias
+{Agarista}Agarista
+{Agashka}Agashka
+{Agata}Agata
+{Agath}Agathé
+{Agatha}Agatha
+{Agathocles}Agathocles
+{Agathonice}Agathonice
+{Agave}Agave
+{Agca}Agca
+{Ageda}Ageda
+{Agelaus}Agelaus
+{Ager}Ager
+{Agetos}Agetos
+{Agis}Agis
+{Aglaia}Aglaia
+{Aglaurus}Aglaurus
+{Aglietti}Aglietti
+{Agna}Agna
+{Agnella}Agnella
+{Agnes}Agnes
+{Agnese}Agnese
+{Agnesina}Agnesina
+{Agnesot}Agnesot
+{Agnethem}Agnethem
+{Agnola}Agnola
+{Agostino}Agostino
+{Agosto}Agosto
+{Agricola}Agricola
+{Agrippa}Agrippa
+{Agrippina}Agrippina
+{Agrites}Agrites
+{Aguchu}Aguchu
+{Ahala}Ahala
+{Ahankh}Ahankh
+{Ahcambal}Ahcambal
+{Ahenobarbus}Ahenobarbus
+{Ahexotl}Ahexotl
+{Ahiram}Ahiram
+{Ahjmed}Ahjmed
+{Ahmad}Ahmad
+{Ahmed}Ahmed
+{Ahmose}Ahmose
+{Ahuitzotl}Ahuitzotl
+{Aia}Aia
+{Aidan}Aidan
+{Aigiarn}Aigiarn
+{Aiguana}Aiguana
+{Aikaterine}Aikaterine
+{Aingeru}Aingeru
+{Aioulfus}Aioulfus
+{Aischylos}Aischylos
+{Aithra}Aithra
+{Aiutus}Aiutus
+{Akadios}Akadios
+{Akalay}Akalay
+{Akapnes}Akapnes
+{Akas}Akas
+{Akbar}Akbar
+{Aketa}Aketa
+{Akhaenniut}Akhaenniut
+{Akhoris}Akhoris
+{Akil}Akil
+{Akouayn}Akouayn
+{Akylos}Akylos
+{Al-Assel}Al-Assel
+{Al-Fayed}Al-Fayed
+{Al-Fayyoumi}Al-Fayyoumi
+{Al-Jaber}Al-Jaber
+{Al-Mustansir}Al-Mustansir
+{Al-Sadat}Al-Sadat
+{Al-Zahir}Al-Zahir
+{Al_Alta}Al Alta
+{Al_Sahaf}Al Sahaf
+{Alacoque}Alacoque
+{Alagh}Alagh
+{Alalia}Alalia
+{Alami}Alami
+{Alan}Alan
+{Alarbi}Alarbi
+{Alaric}Alaric
+{Alba}Alba
+{Albani}Albani
+{Albergatore}Albergatore
+{Alberti}Alberti
+{Alberto}Alberto
+{Albertus}Albertus
+{Albin}Albin
+{Albinus}Albinus
+{Albizi}Albizi
+{Albizus}Albizus
+{Albizzo}Albizzo
+{Albrecht}Albrecht
+{Alcabe}Alcabe
+{Alcaeos}Alcaeos
+{Alcandre}Alcandre
+{Alcestis}Alcestis
+{Alcides}Alcides
+{Alcippe}Alcippe
+{Alcman}Alcman
+{Alcmene}Alcmene
+{Alcon}Alcon
+{Alcyone}Alcyone
+{Aldara}Aldara
+{Aldet}Aldet
+{Aldonca}Aldonça
+{Aleamme}Aleamme
+{Alegreza}Alegreza
+{Aleidis}Aleidis
+{Aleksandra}Aleksandra
+{Alekseev}Alekseev
+{Aleksei}Aleksei
+{Aleksy}Aleksy
+{Alemene}Alemene
+{Aleria}Aleria
+{Alessandra}Alessandra
+{Alessandro}Alessandro
+{Aleusa}Aleusa
+{Alexander}Alexander
+{Alexandre}Alexandre
+{Alexandros}Alexandros
+{Alexarchos}Alexarchos
+{Alexii}Alexii
+{Alexius}Alexius
+{Alfenius}Alfenius
+{Alferius}Alferius
+{Alfgarda}Alfgarda
+{Alfidia}Alfidia
+{Alfonso}Alfonso
+{Alfred}Alfred
+{Alfredo}Alfredo
+{Alfrun}Alfrún
+{Alfsuind}Alfsuind
+{Alfuuihi}Alfuuihi
+{Algonso}Algonso
+{Algune}Algune
+{Ali}Ali
+{Alicia}Alicia
+{Alienus}Alienus
+{Alimentus}Alimentus
+{Alips}Alips
+{Alisone}Alisone
+{Alixandre}Alixandre
+{Alizan}Alizan
+{Alkamenos}Alkamenos
+{Alketas}Alketas
+{Alkibiades}Alkibiades
+{Alkimachos}Alkimachos
+{Alkmena}Alkmena
+{Allam}Allam
+{Allan}Allan
+{Allen}Allen
+{Allthredge}Allthredge
+{Allucingoli}Allucingoli
+{Almerico}Almerico 
+{Aloeus}Aloeus
+{Alonso}Alonso
+{Altadonna}Altadonna
+{Altan}Altan
+{Althaea}Althaea
+{Althaia}Althaia
+{Althea}Althea
+{Althilt}Althilt
+{Altilie}Altilie
+{Aluar}Aluar
+{Aluysio}Aluysio
+{Alvanites}Alvanites
+{Alvares}Alvares
+{Alvaro}Alvaro
+{Alveva}Alveva
+{Aly}Aly
+{Alyamas}Alyamas
+{Alyates}Alyates
+{Alypia}Alypia
+{Alypius}Alypius
+{Ama}Ama
+{Amacui-Xolotl}Amacui-Xolotl
+{Amalberga}Amalberga
+{Amalric}Amalric
+{Amarhyllis}Amarhyllis
+{Amasis}Amasis
+{Amata}Amata
+{Amathea}Amathea
+{Amatheia}Amatheia
+{Amatus}Amatus
+{Amaury}Amaury
+{Ambaghai}Ambaghai
+{Ambiorix}Ambiorix
+{Ambon}Ambon
+{Ambrose}Ambrose
+{Ambrus}Ambrus
+{Ameinokles}Ameinokles
+{Amelot}Amelot
+{Amelyn}Amelyn
+{Americo}Americo
+{Amero}Amero
+{Amichi}Amichi
+{Amilkas}Amilkas
+{Amir}Amir
+{Amma}Amma
+{Ammianus}Ammianus
+{Amminos}Amminos
+{Ammonius}Ammonius
+{Amocacci}Amocacci
+{Amopaon}Amopaon
+{Amphidamos}Amphidamos
+{Amphimachos}Amphimachos
+{Amphion}Amphion
+{Amphithoe}Amphithoe
+{Amphitrite}Amphitrite
+{Ampinomene}Ampinomene
+{Amplias}Amplias
+{Amulius}Amulius
+{Amunmose}Amunmose
+{Amycia}Amycia
+{Amyot}Amyot
+{Amyrtaios}Amyrtaios
+{Amythaon}Amythaon
+{Amzine}Amzine
+{Ana}Ana
+{Anabella}Anabella
+{Anacaona}Anacaona
+{Anacharsis}Anacharsis
+{Anais}Anais
+{Anaksarxos}Anaksarxos
+{Anastasia}Anastasia
+{Anaxagoras}Anaxagoras
+{Anaxandros}Anaxandros
+{Anaximander}Anaximander
+{Anaximenes}Anaximenes
+{Ancharia}Ancharia
+{Anchises}Anchises
+{Ander}Ander
+{Andras}András
+{Andrea}Andrea
+{Andreas}Andreas
+{Andreev}Andreev
+{Andrei}Andrei
+{Andreuola}Andreuola
+{Andriani}Andriani
+{Andriet}Andriet
+{Androcles}Androcles
+{Androdamos}Androdamos
+{Andromeda}Andromeda
+{Andronicus}Andronicus
+{Andry}Andry
+{Anechino}Anechino
+{Aneirin}Aneirin
+{Aneksi}Aneksi
+{Angela}Angela
+{Angelina}Angelina
+{Angell}Angell
+{Angellus}Angellus
+{Angelo}Angelo
+{Angelus}Angelus
+{Angus}Angus
+{Anizka}Anizka
+{Ankhesen}Ankhesen
+{Anna}Anna
+{Annaeus}Annaeus
+{Annibas}Annibas
+{Annius}Annius
+{Anny}Anny
+{Anseau}Anseau
+{Ansehelm}Ansehelm
+{Anselm}Anselm
+{Anselmo}Anselmo
+{Antaeus}Antaeus
+{Antagoras}Antagoras
+{Antal}Antal
+{Antehe}Antehe
+{Anteia}Anteia
+{Antheia}Antheia
+{Anthes}Anthes
+{Anthoine}Anthoine
+{Anthony}Anthony
+{Anthousa}Anthousa
+{Anthusa}Anthusa
+{Anticleia}Anticleia
+{Antidoros}Antidoros
+{Antigone}Antigone
+{Antigonos}Antigonos
+{Antilochus}Antilochus
+{Antio}Antio
+{Antiochis}Antiochis
+{Antiochos}Antiochos
+{Antiochus}Antiochus
+{Antiope}Antiope
+{Antipatros}Antipatros
+{Antiphus}Antiphus
+{Antisthenes}Antisthenes
+{Antistia}Antistia
+{Antonia}Antonia
+{Antonina}Antonina
+{Antoninus}Antoninus
+{Antonio}Antonio
+{Antonius}Antonius
+{Antton}Antton
+{Anund}Anund
+{Anya}Anya
+{Anysia}Anysia
+{Aodh}Aodh
+{Apanacatl}Apanacatl
+{Aparico}Aparico
+{Apisaon}Apisaon
+{Apollonia}Apollonia
+{Apperry}Apperry
+{Appius}Appius
+{Appollonia}Appollonia
+{Appuleius}Appuleius
+{Apries}Apries
+{Apseudes}Apseudes
+{Aqhat}Aqhat
+{Aquilius}Aquilius
+{Ara}Ara
+{Arabla}Arabla
+{Arablai}Arablai
+{Araboge}Araboge
+{Aradai}Aradai
+{Aragatai}Aragatai
+{Aragei}Aragei
+{Araghun}Araghun
+{Aragibag}Aragibag
+{Arajibal}Arajibal
+{Aram}Aram
+{Arame}Arame
+{Aramu}Aramu
+{Arao}Arao
+{Arapeithes}Arapeithes
+{Arazi}Arazi
+{Arcadore}Arcadore
+{Arcarius}Arcarius
+{Arcesilaus}Arcesilaus
+{Archemides}Archemides
+{Archibugi}Archibugi
+{Archilochus}Archilochus
+{Arcidamus}Arcidamus
+{Arcill}Arcill
+{Ardaxcashca}Ardaxcashca
+{Ardumanish}Ardumanish
+{Areas}Areas
+{Areithous}Areithous
+{Ares}Ares
+{Arete}Arete
+{Arethusa}Arethusa
+{Arganthonios}Arganthonios
+{Argeia}Argeia
+{Argeos}Argeos
+{Arghun}Arghun
+{Argishti}Argishti
+{Argometto}Argometto
+{Argu}Argu
+{Argudhun}Argudhun
+{Argyre}Argyre
+{Argyros}Argyros
+{Argyrus}Argyrus
+{Ariadne}Ariadne
+{Ariaramnes}Ariaramnes
+{Arias}Arias
+{Aricanli}Aricanli
+{Arif}Arif
+{Arigboge}Arigböge
+{Arigh_Boke}Arigh Boke
+{Arikan}Arikan
+{Ario}Ario
+{Ariobarzanes}Ariobarzanes
+{Ariogaisus}Ariogaisus
+{Ariovistus}Ariovistus
+{Ariphron}Ariphron
+{Arisbe}Arisbe
+{Arishat}Arishat
+{Aristaeus}Aristaeus
+{Aristagoras}Aristagoras
+{Aristandros}Aristandros
+{Aristarchos}Aristarchos
+{Aristarchus}Aristarchus
+{Aristides}Aristides
+{Aristoboulos}Aristoboulos
+{Aristocles}Aristocles
+{Aristokritos}Aristokritos
+{Aristonike}Aristonike
+{Aristonous}Aristonous
+{Aristophane}Aristophane
+{Aristophanes}Aristophanes
+{Aristophenes}Aristophenes
+{Aristotelis}Aristotelis
+{Aristotle}Aristotle
+{Aristoxenus}Aristoxenus
+{Ariyamna}Ariyamna
+{Arkha}Arkha
+{Arlocti}Arlocti
+{Armea}Armea
+{Arminius}Arminius
+{Arnaud}Arnaud
+{Arneborg}Arneborg
+{Arnold}Arnold
+{Arnoul}Arnoul
+{Arpalos}Arpalos
+{Arrhidaeos}Arrhidaeos
+{Arrhideos}Arrhideos
+{Arria}Arria
+{Arrianos}Arrianos
+{Arrianus}Arrianus
+{Arriba}Arriba
+{Arrichino}Arrichino
+{Arrigi}Arrigi
+{Arrigus}Arrigus
+{Arsaces}Arsaces
+{Arsames}Arsames
+{Arses}Arses
+{Arshaka}Arshaka
+{Arshama}Arshama
+{Arsinoe}Arsinoe
+{Arslan}Arslan
+{Artashes}Artashes
+{Artavardiya}Artavardiya
+{Artavazd}Artavazd
+{Artaxerxes}Artaxerxes
+{Artaxias}Artaxias
+{Artaxshasa}Artaxshasa
+{Artemas}Artemas
+{Artemidora}Artemidora
+{Artemios}Artemios
+{Artemisia}Artemisia
+{Arthur}Arthur
+{Arthure}Arthure
+{Arthyn}Arthyn
+{Artostes}Artostes
+{Artyom}Artyom
+{Arxa}Arxa
+{Asander}Asander
+{Asbat}Asbat
+{Aschines}Aschines
+{Asconius}Asconius
+{Asdroubas}Asdroubas
+{Asellio}Asellio
+{Asemopoulos}Asemopoulos
+{Asentzio}Asentzio
+{Ashtartyaton}Ashtartyaton
+{Ashtzaph}Ashtzaph
+{Asiaticus}Asiaticus
+{Asina}Asina
+{Asinius}Asinius
+{Asopus}Asopus
+{Aspacanah}Aspacanah
+{Aspasia}Aspasia
+{Asphalion}Asphalion
+{Aspurgus}Aspurgus
+{Assandros}Assandros
+{Assenbjerg}Assenbjerg
+{Astera}Astera
+{Astolfi}Astolfi
+{Aston}Aston
+{Astrabacus}Astrabacus
+{Asturano}Asturano
+{Astyoche}Astyoche
+{Astyocheia}Astyocheia
+{Asul}Asul
+{Asuui}Asuui
+{Aswad}Aswad
+{At}Atë
+{Ata}Ata
+{Atalanta}Atalanta
+{Atamaita}Atamaita
+{Athalwolf}Athalwolf
+{Athanaric}Athanaric
+{Athanasios}Athanasios
+{Atheas}Atheas
+{Athena}Athena
+{Athenaeus}Athenaeus
+{Athenodorus}Athenodorus
+{Athis}Athis
+{Athiyabaushna}Athiyabaushna
+{Atia}Atia
+{Atilius}Atilius
+{Atilla}Atilla
+{Atinius}Atinius
+{Atlixcatzin}Atlixcatzin
+{Atonal}Atonal
+{Atototl}Atototl
+{Atotoztli}Atotoztli
+{Attalos}Attalos
+{Attalus}Attalus
+{Attianus}Attianus
+{Attila}Attila
+{Attius}Attius
+{Atzauatzin}Atzauatzin
+{Auaros}Auaros
+{Aubert}Aubert
+{Audenin}Audenin
+{Audley}Audley
+{Auellitoctsin}Auellitoctsin
+{Auge}Auge
+{Augo}Augo
+{Augurinus}Augurinus
+{Augustine}Augustine
+{Augusto}Augusto
+{Augustus}Augustus
+{Auletes}Auletes
+{Aulus}Aulus
+{Auncell}Auncell
+{Aurelia}Aurelia
+{Aurelianus}Aurelianus
+{Aurelius}Aurelius
+{Aureo}Aureo
+{Aureolus}Aureolus
+{Aurifex}Aurifex
+{Aurinia}Aurinia
+{Ausonius}Ausonius
+{Autesion}Autesion
+{Autonoe}Autonoe
+{Auxesia}Auxesia
+{Ava}Ava
+{Avaros}Avaros
+{Avelyn}Avelyn
+{Avidius}Avidius
+{Avilius}Avilius
+{Awood}Awood
+{Axayaca}Axayaca
+{Axayacatl}Axayacatl
+{Axayactaztin}Axayactaztin
+{Axinites}Axinites
+{Axiothea}Axiothea
+{Axoacatzin}Axoacatzin
+{Axolohua}Axolohua
+{Axoquentzin}Axoquentzin
+{Axylus}Axylus
+{Ayauhcihuatl}Ayauhcihuatl
+{Aybak}Aybak
+{Ayla}Ayla
+{Aynarde}Aynarde
+{Ayras}Ayras
+{Ays_e}Ays'e
+{Ayub}Ayub
+{Ayurbarwada}Ayurbarwada
+{Ayyub}Ayyub
+{Ayyubid}Ayyubid
+{Azcalxochitzin}Azcalxochitzin
+{Azcalxochizin}Azcalxochizin
+{Azedine}Azedine
+{Azeus}Azeus
+{Azizah}Azizah
+{Azizudeen}Azizudeen
+{Azzerello}Azzerello
+{Azzony}Azzony
+{Azzouzj}Azzouzj
+{Ba_albaki}Ba'albaki
+{Bacarelli}Bacarelli
+{Bacchides}Bacchides
+{Bacis}Bacis
+{Badeloga}Badeloga
+{Baebiana}Baebiana
+{Baecula}Baecula
+{Baerius}Baerius
+{Bagabigna}Bagabigna
+{Bagabuxsha}Bagabuxsha
+{Baghdadi}Baghdadi
+{Bahar}Bahar
+{Bahiyya}Bahiyya
+{Baiamonte}Baiamonte
+{Baias}Baias
+{Baichu}Baichu
+{Baker}Baker
+{Bakka}Bakka
+{Balaeres}Balaeres
+{Balani}Balani
+{Balantes}Balantes
+{Balas}Balas
+{Balazs}Balázs
+{Balbillus}Balbillus
+{Balbinus}Balbinus
+{Balbus}Balbus
+{Baldasera}Baldasera
+{Baldassare}Baldassare
+{Baldovini}Baldovini
+{Baldwin}Baldwin
+{Balhanno}Balhanno
+{Balind}Balind
+{Balint}Bálint
+{Balius}Balius
+{Ballan}Ballan
+{Balsamo}Balsamo
+{Balshillek}Balshillek
+{Baltasar}Baltasar
+{Baltesar}Baltesar
+{Banaszak}Banaszak
+{Banat}Banat
+{Banbacarius}Banbacarius
+{Banchello}Banchello
+{Bancherius}Bancherius
+{Banchiere}Banchiere
+{Bandecca}Bandecca
+{Bandini}Bandini
+{Bandinus}Bandinus
+{Banos}Bános
+{Banujah}Banujah
+{Baragtchina}Baragtchina
+{Baraka}Baraka
+{Barbara}Barbara
+{Barbarigo}Barbarigo
+{Barbas}Barbas
+{Barbatus}Barbatus
+{Barberini}Barberini
+{Barberius}Barberius
+{Barbus}Barbus
+{Barca}Barca
+{Barcino}Barcino
+{Bardiya}Bardiya
+{Barenos}Barenos
+{Barghujin}Barghujin
+{Barita}Barita
+{Barnaby}Barnaby
+{Barnard}Barnard
+{Barnes}Barnes
+{Barnim}Barnim
+{Barone}Barone
+{Baronis}Baronis
+{Barrivendos}Barrivendos
+{Barroso}Barroso
+{Barsbay}Barsbay
+{Bartola}Bartola
+{Bartolomea}Bartolomea
+{Bartolomeo}Bartolomeo
+{Baseggio}Baseggio
+{Basiane}Basiane
+{Basil}Basil
+{Basilacius}Basilacius
+{Basile}Basile
+{Basileios}Basileios
+{Basilia}Basilia
+{Basilides}Basilides
+{Basilio}Basilio
+{Basset}Basset
+{Bassista}Bassista
+{Batacti}Batacti
+{Bathyaes}Bathyaes
+{Batlle}Batlle
+{Batrawi}Batrawi
+{Batu}Batu
+{Batuban}Batuban
+{Batublai}Batublai
+{Batudai}Batudai
+{Batudhun}Batudhun
+{Batutai}Batutai
+{Baucis}Baucis
+{Baudet}Baudet
+{Bava}Bava
+{Bavaboge}Bavaboge
+{Bavdai}Bavdai
+{Baveca}Baveca
+{Bavjeitu}Bavjeitu
+{Bayan}Bayan
+{Baybars}Baybars
+{Baydara}Baydara
+{Bayezid}Bayezid
+{Beatrice}Beatrice
+{Beatris}Beatris
+{Beaufort}Beaufort
+{Bebelina}Bebelina
+{Bebi}Bebi
+{Beca}Beca
+{Beccus}Beccus
+{Becker}Becker
+{Becket}Becket
+{Becot}Becot
+{Beg}Beg
+{Behiye}Behiye
+{Beila}Beila
+{Bela}Béla
+{Beldina}Beldina
+{Belenus}Belenus
+{Beleson}Beleson
+{Belgutei}Belgutei
+{Bell}Bell
+{Bella}Bella
+{Bellchior}Bellchior
+{Belloza}Belloza
+{Belnirari}Belnirari
+{Belqola}Belqola
+{Beltramino}Beltramino
+{Belukha}Belukha
+{Benasuto}Benasuto
+{Benat}Benat
+{Bendidora}Bendidora
+{Bendis}Bendis
+{Benectus}Benectus
+{Benedacta}Benedacta
+{Benedek}Benedek
+{Benefs_e}Benefs'e
+{Benenati}Benenati
+{Benencasa}Benencasa
+{Benencase}Benencase
+{Benevenuta}Benevenuta
+{Benezekri}Benezekri
+{Benghi}Benghi
+{Bengtsson}Bengtsson
+{Benhassi}Benhassi
+{Benicio}Benicio
+{Benintendi}Benintendi
+{Bennett}Bennett
+{Benoite}Benoite
+{Benoldi}Benoldi
+{Benvenuta}Benvenuta
+{Benvenuto}Benvenuto
+{Benyounes}Benyounes
+{Berdic}Berdic
+{Berenguel}Berenguel
+{Berenice}Berenice
+{Berenike}Berenike
+{Bergthor}Bergthor
+{Beriotes}Beriotes
+{Berke}Berke
+{Berkei}Berkei
+{Berkeley}Berkeley
+{Berkhungis}Berkhungis
+{Bernabas}Bernabas
+{Bernaldo}Bernaldo
+{Bernard}Bernard
+{Bernardi}Bernardi
+{Bernardo}Bernardo
+{Bernardus}Bernardus
+{Bernhard}Bernhard
+{Bernildis}Bernildis
+{Berriotxoa}Berriotxoa
+{Bersiano}Bersiano
+{Berta}Berta
+{Bertalan}Bertalan
+{Bertgarda}Bertgarda
+{Bertha}Bertha
+{Berthelmi}Berthelmi
+{Berthlenda}Berthlenda
+{Bertin}Bertin
+{Bertrada}Bertada
+{Bertran}Bertran
+{Bertuccio}Bertuccio
+{Besat}Besat
+{Bescela}Bescela
+{Besina}Besina
+{Bet}Bet
+{Beth}Beth
+{Bethac}Bethac
+{Bettiza}Bettiza
+{Bezprym}Bezprym
+{Biacchi}Biacchi
+{Biallah}Biallah
+{Bianca}Bianca
+{Bianchetti}Bianchetti
+{Biancus}Biancus
+{Bice}Bice
+{Bidell}Bidell
+{Bieda}Bieda
+{Bilbilis}Bilbilis
+{Bin_Haji}Bin Haji
+{Bindello}Bindello
+{Bingen}Bingen
+{Biraghi}Biraghi
+{Birger}Birger
+{Biringeira}Biringeira
+{Birkita}Birkita
+{Bisaltes}Bisaltes
+{Bito}Bito
+{Bittor}Bittor
+{Biua}Biua
+{Biumi}Biumi
+{Bjorg}Björg
+{Bjorn}Bjørn
+{Bjornsson}Bjornsson
+{Blacke}Blacke
+{Blaesus}Blaesus
+{Blanche}Blanche
+{Blanchet}Blanchet
+{Blankenberg}Blankenberg
+{Blasio}Blasio
+{Blendidoros}Blendidoros
+{Bliaud}Bliaud
+{Bluetooth}Bluetooth
+{Bobbio}Bobbio
+{Bocca}Bocca
+{Boctarius}Boctarius
+{Bodashtart}Bodashtart
+{Bodeshmun}Bodeshmun
+{Bodinelqart}Bodinelqart
+{Bodmelqart}Bodmelqart
+{Bodonchar}Bodonchar
+{Boethus}Boethus
+{Boguslaw}Boguslaw
+{Bohemond}Bohemond
+{Boiocalus}Boiocalus
+{Bolanus}Bolanus
+{Bolda}Bolda
+{Boldin}Boldin
+{Boldyszar}Boldyszar
+{Boleslav}Boleslav
+{Boleslaw}Boleslaw
+{Bolgios}Bolgios
+{Bolla}Bolla
+{Bolon}Bolon
+{Bolverksson}Bolverksson
+{Bombello}Bombello
+{Bomilkar}Bomilkar
+{Bon}Bon
+{Bona}Bona
+{Bonomi}Bonomi
+{Bonus}Bonus
+{Borain}Borain
+{Boratav}Boratav
+{Borbala}Borbála
+{Borghese}Borghese
+{Borgia}Borgia
+{Borgognion}Borgognion
+{Boris}Boris
+{Borromini}Borromini
+{Borsarius}Borsarius
+{Borte}Borte
+{Borus}Borus
+{Borzecki}Borzecki
+{Bossi}Bossi
+{Botaneiates}Botaneiates
+{Botokhui}Botokhui
+{Bouches}Bouches
+{Bouchra}Bouchra
+{Boudecea}Boudecea
+{Boudicca}Boudicca
+{Boulami}Boulami
+{Bourchier}Bourchier
+{Bower}Bower
+{Boyd}Boyd
+{Bozbeyli}Bozbeyli
+{Brahim}Brahim
+{Branas}Branas
+{Branca}Branca
+{Branka}Branka
+{Brasia}Brasia
+{Brechyne}Brechyne
+{Brennus}Brennus
+{Bresch}Bresch
+{Brian}Brian
+{Briareus}Briareus
+{Briatiz}Briatiz
+{Bridgeman}Bridgeman
+{Brigomaglos}Brigomaglos
+{Bringas}Bringas
+{Brinkainos}Brinkainos
+{Brinkazeis}Brinkazeis
+{Brinkazis}Brinkazis
+{Brinno}Brinno
+{Briseis}Briseis
+{Broccin}Bróccín
+{Broccoli}Broccoli
+{Brodaty}Brodaty
+{Bronisad}Bronisad
+{Broune}Broune
+{Browne}Browne
+{Bruna}Bruna
+{Brunaccio}Brunaccio
+{Brunhild}Brunhild
+{Bruni}Bruni
+{Brunius}Brunius
+{Brutus}Brutus
+{Brycham}Brycham
+{Bryennius}Bryennius
+{Brynhildr}Brynhildr
+{Bryzos}Bryzos
+{Buccapeco}Buccapeco
+{Buccaporci}Buccaporci
+{Bucello}Bucello
+{Buchan}Buchan
+{Bucknell}Bucknell
+{Bucoli}Bucoli
+{Buczak}Buczak
+{Budic}Budic
+{Budinge}Budinge
+{Budshka}Budshka
+{Buffillo}Buffillo
+{Buiak}Buiak
+{Buiakov}Buiakov
+{Bulcsu}Bulcsú
+{Bulent}Bulent
+{Bulla}Bulla
+{Bunnok}Bunnok
+{Buona}Buona
+{Buonacorsus}Buonacorsus
+{Burcin}Burcin
+{Bureau}Bureau
+{Burislev}Burislev
+{Burji}Burji
+{Burkhard}Burkhard
+{Burmeister}Burmeister
+{Burnell}Burnell
+{Burrhus}Burrhus
+{Burrus}Burrus
+{Bursarius}Bursarius
+{Burubista}Burubista
+{Burunild}Burunild
+{Butilinus}Butilinus
+{Buttler}Buttler
+{Byrta}Byrta
+{Byzas}Byzas
+{Caatay}Çaatay
+{Cacama}Cacama
+{Cacamatzin}Cacamatzin
+{Cacauaxochitl}Cacauaxochitl
+{Caccianemici}Caccianemici
+{Cacumattus}Cacumattus
+{Cadeyrn}Cadeyrn
+{Cador}Cador
+{Cadwaladur}Cadwaladur
+{Caecilius}Caecilius
+{Caecina}Caecina
+{Caecus}Caecus
+{Caelius}Caelius
+{Caenis}Caenis
+{Caepio}Caepio
+{Caesennius}Caesennius
+{Caesonia}Caesonia
+{Caetani}Caetani
+{Caimi}Caimi
+{Caitrina}Caitrina
+{Caius}Caius
+{Calaphates}Calaphates
+{Calazzo}Calazzo
+{Caldolarius}Caldolarius
+{Caldus}Caldus
+{Caleope}Caleope
+{Calisthenis}Calisthenis
+{Callianeira}Callianeira
+{Callianessa}Callianessa
+{Callimachus}Callimachus
+{Callinicus}Callinicus
+{Calliphana}Calliphana
+{Calpornus}Calpornus
+{Calpurnius}Calpurnius
+{Caluela}Caluela
+{Caluo}Caluo
+{Calvia}Calvia
+{Calvinus}Calvinus
+{Calypso}Calypso
+{Calza}Calza
+{Calzaghe}Calzaghe
+{Calzolai}Calzolai
+{Calzolarius}Calzolarius
+{Camargo}Camargo
+{Cambyses}Cambyses
+{Camillus}Camillus
+{Camona}Camona
+{Campagnola}Campagnola
+{Campbell}Campbell
+{Canace}Canace
+{Canbius}Canbius
+{Candarl}Çandarl
+{Canhabibe}Canhabibe
+{Canmore}Canmore
+{Canobio}Canobio
+{Canonica}Canonica
+{Canton}Canton
+{Canuleius}Canuleius
+{Capellarius}Capellarius
+{Capitaneus}Capitaneus
+{Capito}Capito
+{Cappellarius}Cappellarius
+{Caprarius}Caprarius
+{Capussa}Capussa
+{Caracalla}Caracalla
+{Caradog}Caradog
+{Carales}Carales
+{Caratacus}Caratacus
+{Caratawc}Caratawc
+{Caraunios}Caraunios
+{Carausius}Carausius
+{Carbo}Carbo
+{Carbonetti}Carbonetti
+{Carboni}Carboni
+{Carcano}Carcano
+{Carenos}Carenos
+{Carinus}Carinus
+{Carlos}Carlos
+{Carmelengo}Carmelengo
+{Carmo}Carmo
+{Carnazza}Carnazza
+{Carolus}Carolus
+{Caros}Caros
+{Carpenter}Carpenter
+{Carpophorus}Carpophorus
+{Carpus}Carpus
+{Carracci}Carracci
+{Cartenna}Cartenna
+{Carthalo}Carthalo
+{Cartimandua}Cartimandua
+{Caruallo}Caruallo
+{Carus}Carus
+{Carvilius}Carvilius
+{Casambus}Casambus
+{Casimir}Casimir
+{Casin}Casin
+{Caspar}Caspar
+{Casperius}Casperius
+{Cassianum}Cassianum
+{Cassius}Cassius
+{Cassivellaunus}Cassivellaunus
+{Castelhana}Castelhana
+{Castellana}Castellana
+{Castianiera}Castianiera
+{Casticos}Casticos
+{Castiglioni}Castiglioni
+{Caston}Caston
+{Castor}Castor
+{Castulo}Castulo
+{Cataldo}Cataldo
+{Catalina}Catalina
+{Catarina}Catarina
+{Catavignus}Catavignus
+{Catelano}Catelano
+{Caterina}Caterina
+{Cathal}Cathal
+{Catherine}Catherine
+{Cato}Cato
+{Catualdo}Catualdo
+{Catulus}Catulus
+{Ceacilia}Ceacilia
+{Ceanatis}Ceanatis
+{Ceas}Ceas
+{Cecile}Cecile
+{Cecilia}Cecilia
+{Cecislava}Cecislava
+{Cederno}Cederno
+{Ceionius}Ceionius
+{Celadus}Celadus
+{Celeas}Celeas
+{Celer}Celer
+{Cellini}Cellini
+{Celsus}Celsus
+{Cencio}Cencio
+{Cencius}Cencius
+{Cennedig}Cennédig
+{Centehua}Centehua
+{Cenyaotl}Cenyaotl
+{Ceraunus}Ceraunus
+{Cercina}Cercina
+{Cerealis}Cerealis
+{Cerethreus}Cerethreus
+{Cernuschi}Cernuschi
+{Cerrah}Cerrâh
+{Cerularius}Cerularius
+{Cerzula}Cerzula
+{Cesare}Cesare
+{Cesaresco}Cesaresco
+{Cesti}Cesti
+{Cestini}Cestini
+{Cestius}Cestius
+{Cetani}Cetani
+{Ceyx}Ceyx
+{Chabi}Chabi
+{Chabrias}Chabrias
+{Chadili}Chadili
+{Chaerea}Chaerea
+{Chaeremon}Chaeremon
+{Chagatai}Chagatai
+{Chagdhun}Chagdhun
+{Chagdu}Chagdu
+{Chagduk}Chagduk
+{Chaghagan}Chaghagan
+{Chaghatai}Chaghatai
+{Chagla}Chagla
+{Chaglai}Chaglai
+{Chagoke}Chagoke
+{Chagur}Chagur
+{Chagurkhai}Chagurkhai
+{Chahine}Chahine
+{Chalkites}Chalkites
+{Chamberlyn}Chamberlyn
+{Chanteur}Chanteur
+{Chapman}Chapman
+{Chaqmaq}Chaqmaq
+{Charakha}Charakha
+{Charax}Charax
+{Chares}Chares
+{Charidemos}Charidemos
+{Charidimos}Charidimos
+{Charinho}Charinho
+{Chariomerus}Chariomerus
+{Charis}Charis
+{Charles}Charles
+{Checheyigen}Checheyigen
+{Cheilous}Cheilous
+{Cheiron}Cheiron
+{Chekhyna}Chekhyna
+{Chemislava}Chemislava
+{Chemnitz}Chemnitz
+{Chernek}Chernek
+{Chernekov}Chernekov
+{Chersis}Chersis
+{Chesna}Chesna
+{Chiba}Chiba
+{Chiklah}Chiklah
+{Chimalman}Chimalman
+{Chimalpahin}Chimalpahin
+{Chimalpopoca}Chimalpopoca
+{Chimenti}Chimenti
+{Chindu}Chindu
+{Chinggis}Chinggis
+{Chione}Chione
+{Chiore}Chiore
+{Chlo}Chlo
+{Chloris}Chloris
+{Choerilos}Choerilos
+{Chola}Chola
+{Chondomarius}Chondomarius
+{Chort}Chort
+{Chortov}Chortov
+{Chotan}Chotan
+{Chremes}Chremes
+{Chrestienne}Chrestienne
+{Christensen}Christensen
+{Christian}Christian
+{Christina}Christina
+{Christoffer}Christoffer
+{Christofle}Christofle
+{Christopher}Christopher
+{Christovan}Christovan
+{Chrosciszko}Chrosciszko
+{Chrysanthos}Chrysanthos
+{Chryse}Chryse
+{Chryseis}Chryseis
+{Chryses}Chryses
+{Chrysippos}Chrysippos
+{Chrysogones}Chrysogones
+{Chrysogonus}Chrysogonus
+{Chrysolorus}Chrysolorus
+{Chrysothemis}Chrysothemis
+{Chullu}Chullu
+{Chunegundis}Chunegundis
+{Churborne}Churborne
+{Chwalimir}Chwalimir
+{Ciango}Ciango
+{Ciapo}Ciapo
+{Cicero}Cicero
+{Cicilia}Cicilia
+{Ciecherella}Ciecherella
+{Ciesinski}Ciesinski
+{Cihaucu}Cihaucu
+{Cihuaton}Cihuaton
+{Cikirikci}Cikirikci
+{Cilissa}Cilissa
+{Cilla}Cilla
+{Ciller}Ciller
+{Cilnius}Cilnius
+{Cimberius}Cimberius
+{Cincinnatus}Cincinnatus
+{Cincius}Cincius
+{Cincixri}Cincixri
+{Cinna}Cinna
+{Cintugnatus}Cintugnatus
+{Ciocca}Ciocca
+{Ciolino}Ciolino
+{Ciosa}Ciosa
+{Cipactli}Cipactli
+{Cipius}Cipius
+{Circe}Circe
+{Cirta}Cirta
+{Cisantaxma}Cisantaxma
+{Cishpi}Cishpi
+{Citlacoatl}Citlacoatl
+{Ciuta}Ciuta
+{Civilis}Civilis
+{Cizinski}Cizinski
+{Clara}Clara
+{Clare}Clare
+{Clareno}Clareno
+{Clario}Clario
+{Clarke}Clarke
+{Classicianus}Classicianus
+{Classicus}Classicus
+{Claudia}Claudia
+{Claudianus}Claudianus
+{Claudius}Claudius
+{Clausus}Clausus
+{Cleades}Cleades
+{Cleandros}Cleandros
+{Cleitos}Cleitos
+{Clement}Clément
+{Cleombrotos}Cleombrotos
+{Cleomenes}Cleomenes
+{Cleon}Cleon
+{Cleonymus}Cleonymus
+{Cleopatra}Cleopatra
+{Clinton}Clinton
+{Clio}Clio
+{Clisthenes}Clisthenes
+{Clodia}Clodia
+{Clodius}Clodius
+{Clovis}Clovis
+{Clupea}Clupea
+{Clymene}Clymene
+{Clymere}Clymere
+{Cnaeus}Cnaeus
+{Co}Co
+{Coanacoch}Coanacoch
+{Coatl}Coatl
+{Coatzontli}Coatzontli
+{Cobanoglu}Cobanoglu
+{Cocceianus}Cocceianus
+{Coccino}Coccino
+{Cocles}Cocles
+{Cocolitanus}Cocolitanus
+{Cocozca}Cocozca
+{Codax}Codax
+{Coeur}Coeur
+{Cogidubnus}Cogidubnus
+{Coiarius}Coiarius
+{Colesey}Colesey
+{Colet}Colet
+{Colin}Colin
+{Colison}Colison
+{Colleta}Colleta
+{Collette}Collette
+{Collina}Collina
+{Colonna}Colonna
+{Coltellarius}Coltellarius
+{Colubra}Colubra
+{Coluccio}Coluccio
+{Columbana}Columbana
+{Columella}Columella
+{Comgell}Comgell
+{Commodus}Commodus
+{Comnenus}Comnenus
+{Comosicus}Comosicus
+{Comosikus}Comosikus
+{Complita}Complita
+{Comyn}Comyn
+{Conan}Conan
+{Conchaka}Conchaka
+{Conciata}Conciata
+{Conpangnus}Conpangnus
+{Conrad}Conrad
+{Conrrat}Conrrat
+{Constanca}Constança
+{Constance}Constance
+{Constantine}Constantine
+{Constantinius}Constantinius
+{Constantius}Constantius
+{Contzel}Contzel
+{Cooke}Cooke
+{Copil}Copil
+{Corbulo}Corbulo
+{Corduba}Corduba
+{Cordylion}Cordylion
+{Corialanus}Corialanus
+{Cormac}Cormac
+{Cornelia}Cornelia
+{Cornelius}Cornelius
+{Cornwall}Cornwall
+{Coronos}Coronos
+{Corpancho}Corpancho
+{Corrado}Corrado
+{Corrigarius}Corrigarius
+{Corsello}Corsello
+{Corsini}Corsini
+{Corsus}Corsus
+{Cortes}Cortés
+{Cortez}Cortez
+{Coruncanius}Coruncanius
+{Corvinus}Corvinus
+{Corvus}Corvus
+{Corythia}Corythia
+{Cosma}Cosma
+{Cossus}Cossus
+{Cossutius}Cossutius
+{Costanca}Costança
+{Cotiso}Cotiso
+{Cottaz}Cottaz
+{Cottius}Cottius
+{Cotys}Cotys
+{Courcy}Courcy
+{Courtnay}Courtnay
+{Cowles}Cowles
+{Cracker}Cracker
+{Crara}Crara
+{Crassus}Crassus
+{Cratais}Cratais
+{Crathis}Crathis
+{Cratippus}Cratippus
+{Cremosano}Cremosano
+{Crescentius}Crescentius
+{Cretheus}Cretheus
+{Crethon}Crethon
+{Creticus}Creticus
+{Creusa}Creusa
+{Crios}Crios
+{Crisa}Crisa
+{Crispina}Crispina
+{Crispus}Crispus
+{Cristian}Cristián
+{Cristiani}Cristiani
+{Cristiano}Cristiano
+{Cristina}Cristina
+{Cristoforo}Cristoforo
+{Cristyne}Cristyne
+{Crivelli}Crivelli
+{Croesus}Croesus
+{Cromwell}Cromwell
+{Cronos}Cronos
+{Crus}Crus
+{Crystina}Crystina
+{Ctimene}Ctimene
+{Cuaucoatl}Cuaucoatl
+{Cuauhtemoc}Cuauhtemoc
+{Cuauhtlecoatl}Cuauhtlecoatl
+{Cuautemoc}Cuautemoc
+{Cuetlaxochitl}Cuetlaxochitl
+{Cuetzpalli}Cuetzpalli
+{Cuitlahuac}Cuitlahuac
+{Cuitlalpitoc}Cuitlalpitoc
+{Cuitlauac}Cuitlauac
+{Cuixtli}Cuixtli
+{Cullane}Cullane
+{Cuniovenda}Cuniovenda
+{Cunoarda}Cunoarda
+{Cunobelinos}Cunobelinos
+{Cunovindus}Cunovindus
+{Curius}Curius
+{Curnocke}Curnocke
+{Curral}Curral
+{Cursor}Cursor
+{Curthose}Curthose
+{Curtice}Curtice
+{Curtius}Curtius
+{Custennyn}Custennyn
+{Cwnyngame}Cwnyngame
+{Cyaxares}Cyaxares
+{Cybele}Cybele
+{Cybraenes}Cybraenes
+{Cydippe}Cydippe
+{Cymodoce}Cymodoce
+{Cymothoe}Cymothoe
+{Cynan}Cynan
+{Cynfawr}Cynfawr
+{Cyrene}Cyrene
+{Cyrus}Cyrus
+{Cythereia}Cythereia
+{Cytheris}Cytheris
+{Cyzicenus}Cyzicenus
+{Czajka}Czajka
+{Czersk}Czersk
+{Czeslaw}Czeslaw
+{Cziriak}Cziriak
+{Da_ud}Da'ud
+{Dabodega}Dabodega
+{Dadaces}Dadaces
+{Dadarshi}Dadarshi
+{Daedalos}Daedalos
+{Dagun}Dagun
+{Dahia}Dahia
+{Daidukul}Daidukul
+{Dalassena}Dalassena
+{Damaris}Damaris
+{Damasippus}Damasippus
+{Damasithymos}Damasithymos
+{Damasos}Damasos
+{Damastor}Damastor
+{Damia}Damia
+{Damian}Damian
+{Damianos}Damianos
+{Damiskos}Damiskos
+{Damjan}Damjan
+{Damoetas}Damoetas
+{Damon}Damon
+{Dan}Dan
+{Dana}Danaë
+{Danaos}Danaos
+{Danaus}Danaus
+{Dane}Dane
+{Danea}Danea
+{Danel}Danel
+{Dangerfyeld}Dangerfyeld
+{Daniele}Daniele
+{Dapyx}Dapyx
+{Darayavahu}Darayavahu
+{Dardanus}Dardanus
+{Dardi}Dardi
+{Dares}Dares
+{Daria}Daria
+{Daritai}Daritai
+{Darius}Darius
+{Datus}Datus
+{Datuvahya}Datuvahya
+{Dauferi}Dauferi
+{Dauid}Dauíd
+{David}David
+{Davis}Davis
+{Davos}Davos
+{Davy}Davy
+{Dawby}Dawby
+{Dawe}Dawe
+{Dawud}Dawud
+{Dayir}Dayir
+{Dea}Dea
+{Dearbhail}Dearbháil
+{Decebal}Decebal
+{Decebalus}Decebalus
+{Decemius}Decemius
+{Deceneu}Deceneu
+{Decimus}Decimus
+{Decius}Decius
+{Deda}Deda
+{Defazio}Defazio
+{Deganello}Deganello
+{Dego}Dego
+{Dei_Segni}Dei Segni
+{Deianeira}Deianeira
+{Deineira}Deineira
+{Deines}Deines
+{Deinias}Deinias
+{Deinokrates}Deinokrates
+{Deinokratis}Deinokratis
+{Deinomenes}Deinomenes
+{Deiphobe}Deiphobe
+{Deiphobus}Deiphobus
+{Deiphonous}Deiphonous
+{Deipyle}Deipyle
+{Deipylus}Deipylus
+{Dejotarus}Dejotarus
+{Dekainos}Dekainos
+{Dekanos}Dekanos
+{Dekava}Dekava
+{Delias}Delias
+{Delicati}Delicati
+{Della_Corte}Della Corte
+{Della_Mea}Della Mea 
+{Della_Rovere}Della Rovere
+{Della_Volpe}Della Volpe
+{Dellius}Dellius
+{Delmeticus}Delmeticus
+{Delmonico}Delmonico
+{Delogu}Delogu
+{Delvecchio}Delvecchio
+{Demades}Demades
+{Demaratos}Demaratos
+{Demarmenos}Demarmenos
+{Demas}Demas
+{Demeas}Demeas
+{Demetria}Demetria
+{Demetrios}Demetrios
+{Demetrius}Demetrius
+{Demiana}Demiana
+{Democedes}Democedes
+{Democritus}Democritus
+{Demokrates}Demokrates
+{Demoleon}Demoleon
+{Demonous}Demonous
+{Demophile}Demophile
+{Demophlos}Demophlos
+{Demosthenes}Demosthenes
+{Demuth}Demuth
+{Denes}Denés
+{Denisette}Denisette
+{Denisot}Denisot
+{Denktash}Denktash
+{Dentatus}Dentatus
+{Dentupes}Dentupes
+{Dentysyka}Dentysyka
+{Deo}Deo
+{Deodato}Deodato
+{Deon}Deon
+{Deonisia}Deonisia
+{Deopus}Deopus
+{Derbil}Derbil
+{Deredere}Deredere
+{Deringil}Deringil
+{Dertosa}Dertosa
+{Dervis_e}Dervis'e
+{Derya}Derya
+{Desakenthos}Desakenthos
+{Descriua}Descriua
+{Despenser}Despenser
+{Destefani}Destefani
+{Dete}Dete
+{Detillo}Detillo
+{Dettori}Dettori
+{Deukalion}Deukalion
+{Deukalos}Deukalos
+{Deunoro}Deunoro
+{Devlet}Devlet
+{Devnet}Devnet
+{Dexamene}Dexamene
+{Diactorides}Diactorides
+{Diadromes}Diadromes
+{Diadumenus}Diadumenus
+{Diago}Diago
+{Diagoras}Diagoras
+{Dialta}Dialta
+{Diana}Diana
+{Dianeme}Dianeme
+{Diaz}Diaz
+{Diazelmis}Diazelmis
+{Diazenis}Diazenis
+{Dicaeus}Dicaeus
+{Dicomes}Dicomes
+{Didius}Didius
+{Diegis}Diegis
+{Diego}Diego
+{Dieneces}Dieneces
+{Dieter}Dieter
+{Dietrich}Dietrich
+{Dihya}Dihya
+{Dilber}Dilber
+{Dimarus}Dimarus
+{Dimenche}Dimenche
+{Dio}Dio
+{Diocles}Diocles
+{Diodoros}Diodoros
+{Diodotus}Diodotus
+{Diogenes}Diogenes
+{Diogo}Diogo
+{Diokles}Diokles
+{Diomede}Diomede
+{Diomedes}Diomedes
+{Dione}Dione
+{Dionisio}Dionisio
+{Dionysios}Dionysios
+{Dionysophanes}Dionysophanes
+{Dionysos}Dionysos
+{Dionysus}Dionysus
+{Diophantus}Diophantus
+{Diores}Diores
+{Dioscuros}Dioscuros
+{Diotrephes}Diotrephes
+{Dirce}Dirce
+{Dismas}Dismas
+{Dita}Dita
+{Ditas}Ditas
+{Dithyrambos}Dithyrambos
+{Diurpaneus}Diurpaneus
+{Diviciacus}Diviciacus
+{Divitia}Divitia
+{Dizazelmis}Dizazelmis
+{Djehutimes}Djehutimes
+{Dmetor}Dmetor
+{Dmitriev}Dmitriev
+{Dmitrii}Dmitrii
+{Dnestr}Dnestr
+{Dobes}Dobes
+{Dobrila}Dobrila
+{Dodonis}Dodonis
+{Dolabella}Dolabella
+{Dolce}Dolce
+{Dolfin}Dolfin
+{Dolon}Dolon
+{Domaslav}Domaslav
+{Domaslavov}Domaslavov
+{Domazhir}Domazhir
+{Domazhirov}Domazhirov
+{Domencius}Domencius
+{Domenico}Domenico
+{Domingo}Domingo
+{Domingues}Domingues
+{Domitia}Domitia
+{Domitianus}Domitianus
+{Domitilla}Domitilla
+{Domitius}Domitius
+{Domna}Domna
+{Domnall}Domnall
+{Domongart}Domongart
+{Donald}Donald
+{Donata}Donata
+{Donatello}Donatello
+{Donatiya}Donatiya
+{Donato}Donato
+{Donatus}Donatus
+{Donnchadh}Donnchadh
+{Doquez-khatum}Doquez-khatum
+{Doregene}Doregene
+{Doreios}Doreios
+{Doreius}Doreius
+{Dorian}Dorian
+{Doris}Doris
+{Doriskos}Doriskos
+{Doros}Doros
+{Dorotha}Dorotha
+{Dorothea}Dorothea
+{Dorottya}Dorottya
+{Doryssos}Doryssos
+{Dosithios}Dosithios
+{Doto}Doto
+{Dougall}Dougall
+{Douie}Douie
+{Dowell}Dowell
+{Dragano}Dragano
+{Draganos}Draganos
+{Dragna}Dragna
+{Dragos}Dragos
+{Drenis}Drenis
+{Drimylos}Drimylos
+{Driss}Driss
+{Dromeus}Dromeus
+{Dromichetes}Dromichetes
+{Drosinos}Drosinos
+{Drosis}Drosis
+{Drozd}Drozd
+{Drozdov}Drozdov
+{Druda}Druda
+{Drueta}Drueta
+{Drusilla}Drusilla
+{Drustan}Drustan
+{Drusus}Drusus
+{Dryantilla}Dryantilla
+{Duarte}Duarte
+{Ducas}Ducas
+{Duccio}Duccio
+{Ducetius}Ducetius
+{Dudzik}Dudzik
+{Duillius}Duillius
+{Dumnorix}Dumnorix
+{Duncan}Duncan
+{Dunixi}Dunixi
+{Dur-cihan}Dur-cihan
+{Duran}Durán
+{Duras}Duras
+{Duridar}Duridar
+{Duris}Duris
+{Duva}Duva
+{Dymas}Dymas
+{Dymnos}Dymnos
+{Dynamene}Dynamene
+{Dynamis}Dynamis
+{Dyrhildr}Dýrhildr
+{Ealdgyth}Ealdgyth
+{Ealusaid}Ealusaid
+{Eanes}Eanes
+{Ebegei}Ebegei
+{Eberharde}Eberharde
+{Eborolossy}Eborolossy
+{Ebusus}Ebusus
+{Ecatzin}Ecatzin
+{Echelaos}Echelaos
+{Echemmon}Echemmon
+{Echemus}Echemus
+{Echephron}Echephron
+{Echepolus}Echepolus
+{Echter}Echter
+{Ede}Ede
+{Edgar}Edgar
+{Edhida}Edhida
+{Edith}Edith
+{Edmund}Edmund
+{Edorta}Edorta
+{Edrigu}Edrigu
+{Edur}Edur
+{Edward}Edward
+{Edwardes}Edwardes
+{Edyth}Edyth
+{Efra}Efra
+{Egeria}Egeria
+{Egiboge}Egiboge
+{Egidu}Egidü
+{Egina}Egina
+{Egishan}Egishan
+{Egnatius}Egnatius
+{Ehrhart}Ehrhart
+{Eidothee}Eidothee
+{Eigod}Eigod
+{Eiji}Eiji
+{Eileithyia}Eileithyia
+{Ekaterina}Ekaterina
+{Ekmel}Ekmel
+{El_Cid}El Cid
+{El_Temur}El Temur
+{Elagabalus}Elagabalus
+{Elasus}Elasus
+{Elatos}Elatos
+{Elatreus}Elatreus
+{Elazar}Elazar
+{Elberhard}Elberhard
+{Elcmene}Elcmene
+{Electra}Electra
+{Elek}Elek
+{Elemer}Elemér
+{Elena}Elena
+{Eleon}Eleon
+{Elesbaam}Elesbaam
+{Eleutherios}Eleutherios
+{Elianora}Elianora
+{Eligedei}Eligedei
+{Elissa}Elissa
+{Elizabeta}Elizabeta
+{Elizabeth}Elizabeth
+{Ellen}Ellen
+{Ellice}Ellice
+{Elliotts}Elliotts
+{Ellisif}Ellisif
+{Eloxochitl}Eloxochitl
+{Elpides}Elpides
+{Elpidius}Elpidius
+{Elpir}Elpir
+{Elsebeth}Elsebeth
+{Eltes}Eltes
+{Elvira}Elvira
+{Emeline}Emeline
+{Emeludt}Emeludt
+{Emerita}Emerita
+{Emery}Emery
+{Emilio}Emilio
+{Emine}Emine
+{Eminos}Eminos
+{Emmelot}Emmelot
+{Emoni}Emoni
+{Empedocles}Empedocles
+{Emund}Emund
+{Emundsson}Emundsson
+{Endeis}Endeis
+{Endios}Endios
+{Endre}Endre
+{Endymion}Endymion
+{Enemnogenus}Enemnogenus
+{Enes}Enes
+{Enestinus}Enestinus
+{Engel}Engel
+{Engenes}Engenes
+{Engracia}Engraçia
+{Enguerran}Enguerran
+{Eniopus}Eniopus
+{Ennaeus}Ennaeus
+{Ennius}Ennius
+{Ennomus}Ennomus
+{Ennychus}Ennychus
+{Enops}Enops
+{Enrico}Enrico
+{Enrique}Enrique
+{Enyo}Enyo
+{Eoin}Eoin
+{Eos}Eos
+{Epaenetus}Epaenetus
+{Epaphos}Epaphos
+{Epeigeus}Epeigeus
+{Epeius}Epeius
+{Ephialtes}Ephialtes
+{Ephiphanes_Philadelphus}Ephiphanes Philadelphus
+{Epicaste}Epicaste
+{Epictetus}Epictetus
+{Epicurus}Epicurus
+{Epicydes}Epicydes
+{Epikrates}Epikrates
+{Epimenes}Epimenes
+{Epiphanes}Epiphanes
+{Epiphanes_Nicator}Epiphanes Nicator
+{Epistrophos}Epistrophos
+{Eponina}Eponina
+{Eporedorix}Eporedorix
+{Eptaper}Eptaper
+{Eptarys}Eptarys
+{Eptecentus}Eptecentus
+{Eptenis}Eptenis
+{Eptepus}Eptepus
+{Eptepyris}Eptepyris
+{Eptesyka}Eptesyka
+{Era}Era
+{Eraric}Eraric
+{Erasistratus}Erasistratus
+{Erato}Erato
+{Eratosthenes}Eratosthenes
+{Eratostheres}Eratostheres
+{Erbin}Erbin
+{Erechtheus}Erechtheus
+{Eretmenus}Eretmenus
+{Ereuthalion}Ereuthalion
+{Erginus}Erginus
+{Ergiyios}Ergiyios
+{Eriboea}Eriboea
+{Erichthonius}Erichthonius
+{Ericsson}Ericsson
+{Erigone}Erigone
+{Erik}Erik
+{Erim}Erim
+{Eriopis}Eriopis
+{Eriphyle}Eriphyle
+{Eris}Eris
+{Erkal}Erkal
+{Erlach}Erlach
+{Ermanes}Ermanes
+{Ermias}Ermias
+{Ermolao}Ermolao
+{Ermolt}Ermolt
+{Erromon}Erromon
+{Erruki}Erruki
+{Erskyn}Erskyn
+{Ervarius}Ervarius
+{Erxandros}Erxandros
+{Eryalus}Eryalus
+{Erzsebet}Erzsébet
+{Esa}Esa
+{Esau}Esau
+{Eschina}Eschina
+{Eshmunamash}Eshmunamash
+{Eshmunazar}Eshmunazar
+{Esja}Esja
+{Essaid}Essaid
+{Esselt}Esselt
+{Esselta}Esselta
+{Esteban}Estéban
+{Esteuao}Esteuao
+{Estevanes}Estevanes
+{Esther}Esther
+{Estienne}Estienne
+{Estington}Estington
+{Estrelda}Estrelda
+{Eszes}Eszes
+{Etelgis}Etelgis
+{Eteocles}Eteocles
+{Eteokles}Eteokles
+{Eteonous}Eteonous
+{Ethelgard}Ethelgard
+{Ethelmoda}Ethelmoda
+{Ethelred}Ethelred
+{Etienne}Étienne
+{Etor}Etor
+{Etreleus}Etreleus
+{Euaemon}Euaemon
+{Eualcidas}Eualcidas
+{Euanthes}Euanthes
+{Euarestos}Euarestos
+{Eubulus}Eubulus
+{Eucaerus}Eucaerus
+{Eucarpia}Eucarpia
+{Eucarpus}Eucarpus
+{Euchenor}Euchenor
+{Eucleides}Eucleides
+{Euclides}Euclides
+{Euda}Euda
+{Eudaf}Eudaf
+{Eudokia}Eudokia
+{Eudorus}Eudorus
+{Eue}Eue
+{Euenor}Euenor
+{Euenus}Euenus
+{Euergetes}Euergetes
+{Eufemie}Eufemie
+{Eugammon}Eugammon
+{Eugenios}Eugenios
+{Eugenius}Eugenius
+{Euhemenis}Euhemenis
+{Eukles}Eukles
+{Eumaeus}Eumaeus
+{Eumastas}Eumastas
+{Eumelus}Eumelus
+{Eumenes}Eumenes
+{Eumenis}Eumenis
+{Eumolpus}Eumolpus
+{Euneas}Euneas
+{Eunice}Eunice
+{Euodias}Euodias
+{Euonomos}Euonomos
+{Eupalinus}Eupalinus
+{Eupator}Eupator
+{Euphemia}Euphemia
+{Euphenes}Euphenes
+{Euphro}Euphro
+{Euphrosyne}Euphrosyne
+{Euredice}Euredice
+{Europa}Europa
+{Euryanax}Euryanax
+{Eurybiades}Eurybiades
+{Eurycleia}Eurycleia
+{Eurycliedes}Eurycliedes
+{Eurydamus}Eurydamus
+{Eurydemon}Eurydemon
+{Eurydemos}Eurydemos
+{Eurydike}Eurydike
+{Euryhus}Euryhus
+{Eurykrates}Eurykrates
+{Eurykratides}Eurykratides
+{Euryleon}Euryleon
+{Eurylochos}Eurylochos
+{Eurymachos}Eurymachos
+{Eurynome}Eurynome
+{Euryphon}Euryphon
+{Eurypylos}Eurypylos
+{Eurystenes}Eurystenes
+{Eurysthenes}Eurysthenes
+{Eurystheus}Eurystheus
+{Eurysthios}Eurysthios
+{Eurythion}Eurythion
+{Eurytos}Eurytos
+{Eusebes_Philopator}Eusebes Philopator
+{Eusebius}Eusebius
+{Eustace}Eustace
+{Euthydemus}Euthydemus
+{Eutlinde}Eutlinde
+{Eutropia}Eutropia
+{Eutropios}Eutropios
+{Eutuches}Eutuches
+{Eutychides}Eutychides
+{Eutychus}Eutychus
+{Eva}Eva
+{Evadne}Evadne
+{Evaenetos}Evaenetos
+{Evangelos}Evangelos
+{Evio}Evio
+{Evrart}Evrart
+{Exotrochos}Exotrochos
+{Eyahue}Eyahue
+{Eyanes}Eyañes
+{Eyja}Eyja
+{Eystein}Eystein
+{Faber}Faber
+{Fabia}Fabia
+{Fabius}Fabius
+{Fabricius}Fabricius
+{Fabyan}Fabyan
+{Facio}Facio
+{Fadia}Fadia
+{Fadlullah}Fadlullâh
+{Fahim}Fahim
+{Fakhir}Fakhir
+{Falcone}Falcone
+{Falconis}Falconis
+{Falerius}Falerius
+{Fallingborg}Fallingborg
+{Fallon}Fallon
+{Fangio}Fangio
+{Fannia}Fannia
+{Fannius}Fannius
+{Fanrripas}Fanrripas
+{Fantini}Fantini
+{Fantino}Fantino
+{Faraj}Faraj
+{Fariel}Fariel
+{Farinelli}Farinelli
+{Farnese}Farnese
+{Farquar}Farquar
+{Farrakhan}Farrakhan
+{Fasanaro}Fasanaro
+{Fasano}Fasano
+{Fastny}Fastný
+{Fathi}Fathi
+{Fathima}Fathima
+{Fathy}Fathy
+{Fatima}Fatima
+{Fatimah}Fatimah
+{Fausta}Fausta
+{Faustina}Faustina
+{Favsta}Favsta
+{Fazekas}Fazekas
+{Fazila}Fazila
+{Fearghus}Fearghus
+{Featris}Featris
+{Febre}Fébre
+{Fedada}Fedada
+{Federico}Federico
+{Fedora}Fedora
+{Feher}Feher
+{Fejes}Fejes
+{Feklitsa}Feklitsa
+{Felicia}Felicia
+{Felipa}Felipa
+{Felle}Felle
+{Feniss}Feniss
+{Fenso}Fenso
+{Feona}Feona
+{Feradac}Feradac
+{Feram}Feram
+{Ferenc}Ferenc
+{Fernadic}Fernãdiç
+{Fernam}Fernam
+{Fernan}Fernan
+{Fernanado}Fernanado
+{Fernandez}Fernandez
+{Fernando}Fernando
+{Ferraius}Ferraius
+{Ferran}Ferran
+{Ferrand}Ferrand
+{Ferrandes}Ferrandes
+{Ferrando}Ferrando
+{Ferrario}Ferrario
+{Ferrer}Ferrer
+{Fiametta}Fiametta
+{Fidenas}Fidenas
+{Fieschi}Fieschi
+{Figulus}Figulus
+{Filali}Filali
+{Filde}Filde
+{Filippa}Filippa
+{Filippus}Filippus
+{Finguine}Finguine
+{Finna}Finna
+{Fiora}Fiora
+{Fitzneale}Fitzneale
+{Fitzwalter}Fitzwalter
+{Flaccus}Flaccus
+{Flaminius}Flaminius
+{Flavius}Flavius
+{Flavus}Flavus
+{Floarianus}Floarianus
+{Flora}Flora
+{Flore}Flore
+{Florentia}Florentia
+{Florentinus}Florentinus
+{Florete}Florete
+{Florie}Florie
+{Florioli}Florioli
+{Florus}Florus
+{Flos}Flos
+{Flosason}Flosason
+{Flower}Flower
+{Fodor}Fodor
+{Foedus}Foedus
+{Fonteius}Fonteius
+{Fonzi}Fonzi
+{Forkbeard}Forkbeard
+{Fornarius}Fornarius
+{Forster}Forster
+{Forveleth}Forveleth
+{Foscari}Foscari
+{Foteine}Foteine
+{Foteinos}Foteinos
+{Foucher}Foucher
+{Fouinon}Fouinon
+{Fouso}Fouso
+{Fowler}Fowler
+{Frada}Frada
+{Frakokk}Frakokk
+{Francesca}Francesca
+{Francesco}Francesco
+{Francis}Francis
+{Francisca}Francisca
+{Francisco}Françisco
+{Francisquita}Françisquita
+{Franco}Franco
+{Francois}François
+{Francoise}Francoise
+{Francoys}Françoys
+{Frangibus}Frangibus
+{Frangipani}Frangipani
+{Frankline}Frankline
+{Fraunce}Fraunce
+{Fravarti}Fravarti
+{Fredericus}Fredericus
+{Frederik}Frederik
+{Fredskild}Fredskild
+{Freydis}Freydís
+{Fridewiga}Fridewiga
+{Friedrich}Friedrich
+{Frigge}Frigge
+{Fritz}Fritz
+{Froderigus}Froderigus
+{Frojaz}Frojaz
+{Frolio}Frolio
+{Frontinus}Frontinus
+{Fronto}Fronto
+{Fruzsina}Fruzsina
+{Fufetius}Fufetius
+{Fugosi}Fugosi
+{Fulcaris}Fulcaris
+{Fulk}Fulk
+{Fulvia}Fulvia
+{Fulvius}Fulvius
+{Fundanus}Fundanus
+{Funicello}Funicello
+{Furillo}Furillo
+{Furius}Furius
+{Furlano}Furlano
+{Furtuis}Furtuis
+{Fuscus}Fuscus
+{Fye}Fye
+{Fylep}Fylep
+{Fytor}Fytor
+{Gabalas}Gabalas
+{Gaballah}Gaballah
+{Gabinius}Gabinius
+{Gabirel}Gabirel
+{Gades}Gades
+{Gaetulicus}Gaetulicus
+{Gaia}Gaia
+{Gaidres}Gaidres
+{Gaiobomarus}Gaiobomarus
+{Gaiseric}Gaiseric
+{Gaitanus}Gaitanus
+{Gaius}Gaius
+{Gaizka}Gaizka
+{Galatea}Galatea
+{Galaxio}Galaxio
+{Galba}Galba
+{Galego}Galego
+{Galenus}Galenus
+{Galerius}Galerius
+{Galib}Galib
+{Galienus}Galienus
+{Galilei}Galilei
+{Galinda}Galinda
+{Galindo}Galindo
+{Galla}Galla
+{Galli}Galli
+{Galliano}Galliano
+{Gallio}Gallio
+{Galoys}Galoys
+{Galussa}Galussa
+{Gamal}Gamal
+{Gandaza}Gandaza
+{Gano}Gano
+{Garcia}Garçia
+{Garnot}Garnot
+{Garret}Garret
+{Gartzi}Gartzi
+{Gascoigne}Gascoigne
+{Gaspar}Gaspar
+{Gaspard}Gaspard
+{Gasparo}Gasparo
+{Gassot}Gassot
+{Gassou}Gassou
+{Gaston}Gaston
+{Gaubaruva}Gaubaruva
+{Gauchier}Gauchier
+{Gauda}Gauda
+{Gaumata}Gaumata
+{Gautier}Gautier
+{Gaveston}Gaveston
+{Gavriel}Gavriel
+{Gawain}Gawain
+{Gazi}Gazi
+{Geiles}Geiles
+{Geirny}Geirný
+{Gelasius}Gelasius
+{Geleon}Geleon
+{Gellir}Gellir
+{Gellius}Gellius
+{Gelo}Gelo
+{Gelon}Gelon
+{Geminiano}Geminiano
+{Gemma}Gemma
+{Gendai}Gendai
+{Genduk}Genduk
+{Genebra}Genebra
+{Genevote}Genevote
+{Genghis}Genghis
+{Genke}Genke
+{Gennadios}Gennadios
+{Gentza}Gentza
+{Genucius}Genucius
+{Geoffrey}Geoffrey
+{Geoffroi}Geoffroi
+{George}George
+{Georges}Georges
+{Georgia}Georgia
+{Georgios}Georgios
+{Georgius}Georgius
+{Gepaepyris}Gepaepyris
+{Geragio}Geragio
+{Geraint}Geraint
+{Gerardo}Gerardo
+{Gerbert}Gerbert
+{Gerburg}Gerburg
+{Gergely}Gergely
+{Gergori}Gergori
+{Gerhard}Gerhard
+{Gerita}Gerita
+{Germain}Germain
+{Germelqart}Germelqart
+{Geronima}Geronima
+{Gersenda}Gersenda
+{Gertruda}Gertruda
+{Gertrudis}Gertrudis
+{Gervaise}Gervaise
+{Gervaisot}Gervaisot
+{Gessius}Gessius
+{Geta}Geta
+{Geugi}Geugi
+{Geza}Geza
+{Gezmen}Gezmen
+{Ghali}Ghali
+{Ghandour}Ghandour
+{Ghayda}Ghayda
+{Ghazan}Ghazan
+{Ghazandu}Ghazandu
+{Ghazatai}Ghazatai
+{Ghazuk}Ghazuk
+{Gherardi}Gherardi
+{Gherardo}Gherardo
+{Gherardus}Gherardus
+{Ghinga}Ghinga
+{Ghita}Ghita
+{Ghunan}Ghunan
+{Giacinto}Giacinto
+{Giacomo}Giacomo
+{Giaconi}Giaconi
+{Gian}Gian
+{Gianetta}Gianetta
+{Giannini}Giannini
+{Giannis}Giannis
+{Gieffroy}Gieffroy
+{Giffard}Giffard
+{Gilbert}Gilbert
+{Giles}Giles
+{Gilforde}Gilforde
+{Gilherme}Gilherme
+{Gilia}Gilia
+{Gilio}Gilio
+{Gill}Gill
+{Gille}Gille
+{Gille_Calline}Gille Callíne
+{Gille_Coimded}Gille Coimded
+{Gille_Patrick}Gille Patrick
+{Gille_Petair}Gille Petair
+{Gillette}Gillette
+{Gilot}Gilot
+{Gimignano}Gimignano
+{Ginevra}Ginevra
+{Ginzo}Ginzo
+{Giomar}Giomar
+{Gionta}Gionta
+{Giorgio}Giorgio
+{Giovanna}Giovanna
+{Giovanni}Giovanni
+{Girard}Girard
+{Girolamo}Girolamo
+{Giscon}Giscon
+{Gisela}Gisela
+{Gisgo}Gisgo
+{Giuliana}Giuliana
+{Giuliani}Giuliani
+{Giuliano}Giuliano
+{Giulio}Giulio
+{Glabrio}Glabrio
+{Glasobrin}Glasobrin
+{Glassenbury}Glassenbury
+{Glauce}Glauce
+{Glaucia}Glaucia
+{Glaukias}Glaukias
+{Glaukos}Glaukos
+{Glycon}Glycon
+{Glyke}Glyke
+{Glykys}Glykys
+{Gnaeus}Gnaeus
+{Gobryas}Gobryas
+{Gocaluic}Gõcaluiç
+{Gocauo}Gocauo
+{Gocek}Göçek
+{Godafrid}Godafrid
+{Godfred}Godfred
+{Godfrey}Godfrey
+{Godit}Godit
+{Godwine}Godwine
+{Godwinson}Godwinson
+{Godzimir}Godzimir
+{Goffredo}Goffredo
+{Gokalp}Gökalp
+{Goland}Goland
+{Gomes}Gomes
+{Gomez}Gomez
+{Goncales}Gonçales
+{Goncallo}Gonçallo
+{Goncalo}Gonçalo
+{Goncalu}Gonçalu
+{Goncaluo}Gonçaluo
+{Goncalvo}Gonçalvo
+{Gonsaluu}Gonsaluu
+{Gonsaluus}Gonsaluus
+{Gonzo}Gonzo
+{Gordias}Gordias
+{Gordon}Gordon
+{Gorgias}Gorgias
+{Gorgo}Gorgo
+{Gorteyrn}Gorteyrn
+{Gostanza}Gostanza
+{Gottfied}Gottfied
+{Gotzon}Gotzon
+{Gracchus}Gracchus
+{Gracia}Graçia
+{Gradenigo}Gradenigo
+{Grainger}Grainger
+{Grana}Grana
+{Granziano}Granziano
+{Grathe}Grathe
+{Gratianus}Gratianus
+{Gratidia}Gratidia
+{Gravriia}Gravriia
+{Grechin}Grechin
+{Grechinov}Grechinov
+{Gredechin}Gredechin
+{Gregoria}Gregoria
+{Gregorio}Gregorio
+{Gregory}Gregory
+{Grey}Grey
+{Greystoke}Greystoke
+{Grigoriev}Grigoriev
+{Grigorii}Grigorii
+{Grim}Grim
+{Grima}Gríma
+{Grycki}Grycki
+{Gryffin}Gryffin
+{Grypus}Grypus
+{Guadagno}Guadagno
+{Gualandus}Gualandus
+{Guba}Guba
+{Gubin}Gubin
+{Guda}Guda
+{Guddrodson}Guddrodson
+{Guerrieri}Guerrieri
+{Guidi}Guidi
+{Guido}Guido
+{Guilelmo}Guilelmo
+{Guillaume}Guillaume
+{Guillelmo}Guillelmo
+{Guillemette}Guillemette
+{Guillemin}Guillemin
+{Guillemot}Guillemot
+{Guiomar}Guiomar
+{Guion}Guion
+{Guiot}Guiot
+{Guiote}Guiote
+{Guiskard}Guiskard
+{Guistiniani}Guistiniani
+{Gulbahar}Gülbahar
+{Gulfem}Gülfem
+{Gumus}Gümüs
+{Gundahar}Gundahar
+{Gunderic}Gunderic
+{Gundioc}Gundioc
+{Gunduz}Gündüz
+{Gunnar}Gunnar
+{Gunnarsson}Gunnarsson
+{Gunnvor}Gunnvör
+{Gunther}Günther
+{Gurbesu}Gurbesu
+{Gurgos}Gurgos
+{Gurian}Gurian
+{Gurutz}Gurutz
+{Gusme}Gusme
+{Gustav}Gustav
+{Gusti}Gusti
+{Guteres}Guteres
+{Guterres}Guterres
+{Guy}Guy
+{Guyag}Guyag
+{Guyke}Guyke
+{Guyllemes}Guyllemes
+{Guyuk}Güyük
+{Gwenddolau}Gwenddolau
+{Gygaea}Gygaea
+{Gynna}Gynna
+{Gyorgy}György
+{Gyras}Gyras
+{Gyrtias}Gyrtias
+{Haakon}Haakon
+{Habachi}Habachi
+{Hachim}Hachim
+{Haddad}Haddad
+{Hadice}Hadice
+{Hadrianus}Hadrianus
+{Hadrumetum}Hadrumetum
+{Haedus}Haedus
+{Haemon}Haemon
+{Haengsson}Haengsson
+{Haflidhi}Haflidhi
+{Hafza}Hafza
+{Hagias}Hagias
+{Haidee}Haidee
+{Hajji}Hajji
+{Hakeema}Hakeema
+{Hakki}Hakki
+{Haldita}Haldita
+{Haldor}Haldor
+{Halie}Halie
+{Halil}Halil
+{Hallerna}Hallerna
+{Hallotta}Hallótta
+{Halstan}Halstan
+{Haluk}Haluk
+{Hamalcar}Hamalcar
+{Hamdin}Hamdin
+{Hamza}Hamza
+{Hanhavaldi}Hanhavaldi
+{Hannibal}Hannibal
+{Hanno}Hanno
+{Hanrrique}Hanrrique
+{Hans}Hans
+{Harald}Harald
+{Haraldsson}Haraldsson
+{Hardeknud}Hardeknud
+{Hardine}Hardine
+{Harfford}Harfford
+{Harghasun}Harghasun
+{Hariulfus}Hariulfus
+{Harkany}Harkány
+{Harmatidas}Harmatidas
+{Harmer}Harmer
+{Harmocydes}Harmocydes
+{Harmodias}Harmodias
+{Harmodios}Harmodios
+{Harmon}Harmon
+{Harmonia}Harmonia
+{Harold}Harold
+{Harris}Harris
+{Harrold}Harrold
+{Harry}Harry
+{Harsa}Harsa
+{Hasas}Hasas
+{Hasdrubal}Hasdrubal
+{Hasna}Hasna
+{Hassan}Hassan
+{Hassiba}Hassiba
+{Hasting}Hasting
+{Haxamanish}Haxamanish
+{Haynes}Haynes
+{Hazem}Hazem
+{Heaven}Heaven
+{Hebeny}Hebeny
+{Hecuba}Hecuba
+{Hedewigis}Hedewigis
+{Hedwigis}Hedwigis
+{Hegedus}Hegedus
+{Heidindrudis}Heidindrudis
+{Heilewif}Heilewif
+{Heinrich}Heinrich
+{Heinricus}Heinricus
+{Heiron}Heiron
+{Hekabe}Hekabe
+{Hekaline}Hekaline
+{Hekate}Hekate
+{Hekhemmut}Hekhemmut
+{Hekja}Hekja
+{Hektor}Hektor
+{Helena}Helena
+{Helicaon}Helicaon
+{Helice}Helice
+{Helike}Helike
+{Heliodora}Heliodora
+{Helios}Helios
+{Heliot}Heliot
+{Hellanike}Hellanike
+{Helle}Helle
+{Helmut}Helmut
+{Helvia}Helvia
+{Helvius}Helvius
+{Hema}Hema
+{Hemina}Hemina
+{Hengist}Hengist
+{Henri}Henri
+{Henrik}Henrik
+{Henriksson}Henriksson
+{Henrique}Henrique
+{Henry}Henry
+{Heraclitus}Heraclitus
+{Herakleitos}Herakleitos
+{Herakles}Herakles
+{Heraklides}Heraklides
+{Herbert}Herbert
+{Herden}Herden
+{Herdonius}Herdonius
+{Herennius}Herennius
+{Heriman}Heriman
+{Herius}Herius
+{Herleif}Herleif
+{Herlinda}Herlinda
+{Herman}Herman
+{Hermant}Hermant
+{Hermeias}Hermeias
+{Hermias}Hermias
+{Hermine}Hermine
+{Hermione}Hermione
+{Hermolaos}Hermolaos
+{Hermon}Hermon
+{Hermotimos}Hermotimos
+{Hernan}Hernan
+{Hernandez}Hernandez
+{Hero}Hero
+{Herodes}Herodes
+{Herodion}Herodion
+{Heromenes}Heromenes
+{Herophile}Herophile
+{Herrmann}Herrmann
+{Heruben}Heruben
+{Hesa}Hesa
+{Hesione}Hesione
+{Hestia}Hestia
+{Hetepheres}Hetepheres
+{Hette}Hette
+{Hew}Hew
+{Hewlinge}Hewlinge
+{Hextilda}Hextilda
+{Heyway}Heyway
+{Hezbenus}Hezbenus
+{Hicetaon}Hicetaon
+{Hicham}Hicham
+{Hicke}Hicke
+{Hideg}Hideg
+{Hiempsal}Hiempsal
+{Hierakes}Hierakes
+{Hierax}Hierax
+{Hiero}Hiero
+{Higgines}Higgines
+{Hilaera}Hilaera
+{Hildetand}Hildetand
+{Hill}Hill
+{Himilcar}Himilcar
+{Himilco}Himilco
+{Hind}Hind
+{Hipparchos}Hipparchos
+{Hipparinos}Hipparinos
+{Hippias}Hippias
+{Hippocratus}Hippocratus
+{Hippodameia}Hippodameia
+{Hippodamia}Hippodamia
+{Hippoklides}Hippoklides
+{Hippokratides}Hippokratides
+{Hippolyta}Hippolyta
+{Hippomenes}Hippomenes
+{Hippostratos}Hippostratos
+{Hiram}Hiram
+{Hirtius}Hirtius
+{Hirtuleius}Hirtuleius
+{Hisham}Hisham
+{Hissou}Hissou
+{Hjordis}Hjördís
+{Ho'elun}Ho'elun
+{Hobbes}Hobbes
+{Hobogetur}Hobogetur
+{Hogelun}Hogelun
+{Holland}Holland
+{Holuikhan}Holuikhan
+{Honnore}Honnoré
+{Honoratus}Honoratus
+{Honoria}Honoria
+{Horacio}Horacio
+{Horatius}Horatius
+{Horby}Hørby
+{Hordeonius}Hordeonius
+{Horkhudagh}Horkhudagh
+{Horsa}Horsa
+{Horston}Horston
+{Hortensius}Hortensius
+{Hortiz}Hortiz
+{Hosni}Hosni
+{Hossman}Hossman
+{Hostia}Hostia
+{Hostilius}Hostilius
+{Howard}Howard
+{Hrafnsson}Hrafnsson
+{Hrefna}Hrefna
+{Hrodgar}Hrodgar
+{Huban}Huban
+{Hubert}Hubert
+{Huctia}Huctia
+{Huemac}Huemac
+{Huet}Huet
+{Huetzin}Huetzin
+{Huevos}Ambon
+{Hugh}Hugh
+{Hugo}Hugo
+{Huguenin}Huguenin
+{Hugues}Hugues
+{Huicton}Huicton
+{Huitzilihuitl}Huitzilihuitl
+{Huleblai}Huleblai
+{Hulegu}Hülegü
+{Huleke}Huleke
+{Humer}Hümér
+{Hummel}Hümmel
+{Humphrey}Humphrey
+{Hunger}Hunger
+{Hunmark}Hunmark
+{Hunthjofson}Hunthjofson
+{Hurriya}Hurriya
+{Husayn}Husayn
+{Husni}Husni
+{Husniya}Husniya
+{Hvass}Hvass
+{Hviid}Hviid
+{Hyakinthos}Hyakinthos
+{Hydarnes}Hydarnes
+{Hygiaenon}Hygiaenon
+{Hylgaard}Hylgaard
+{Hypsipyle}Hypsipyle
+{Hyrmina}Hyrmina
+{Hyrtacus}Hyrtacus
+{Hyrtius}Hyrtius
+{Hystaspes}Hystaspes
+{Iacoba}Iacoba
+{Iacobi}Iacobi
+{Iacobus}Iacobus
+{Iaera}Iaera
+{Iagues}Iagues
+{Iakchos}Iakchos
+{Ialmenes}Ialmenes
+{Iamam}Iamam
+{Iambulus}Iambulus
+{Ian}Ian
+{Ianeira}Ianeira
+{Ianessa}Ianessa
+{Ianka}Ianka
+{Iannis}Iannis
+{Ianthe}Ianthe
+{Iasites}Iasites
+{Iasos}Iasos
+{Iatragoras}Iatragoras
+{Iatrokles}Iatrokles
+{Ibakha}Ibakha
+{Ibera}Ibera
+{Ibrahim}Ibrahim
+{Icarus}Icarus
+{Icosium}Icosium
+{Iczoxochitl}Iczoxochitl
+{Idaeus}Idaeus
+{Idaios}Idaios
+{Idanthyrsus}Idanthyrsus
+{Idas}Idas
+{Idomeneus}Idomeneus
+{Iecifovich}Iecifovich
+{Ifestionas}Ifestionas
+{Ignatius}Ignatius
+{Ihsanoglu}Ihsanoglu
+{Iker}Iker
+{Ilahi}Ilahi
+{Ilancueitl}Ilancueitl
+{Ilerda}Ilerda
+{Ilhuicamina}Ilhuicamina
+{Ilioneus}Ilioneus
+{Ilipa}Ilipa
+{Ilixo}Ilixo
+{Ilker}Ilker
+{Illugei}Illugei
+{Ilona}Ilona
+{Ilorci}Ilorci
+{Ilus}Ilus
+{Imad_ad_Din}Imad ad Din
+{Imanish}Imanish
+{Imbert}Imbert
+{Imbrus}Imbrus
+{Imre}Imre
+{Inachos}Inachos
+{Inaki}Inaki
+{Inal}Inal
+{Inalchi}Inalchi
+{Inanpas_a}Inanpas'a
+{Inchmertyn}Inchmertyn
+{Indihar}Indihar
+{Ine}Ine
+{Ines}Ines
+{Infanti}Infanti
+{Inge}Inge
+{Ingeborg}Ingeborg
+{Ingela}Ingela
+{Ingrid}Ingrid
+{Inguiomerus}Inguiomerus
+{Ininthimeus}Ininthimeus
+{Ino}Ino
+{Intaphernes}Intaphernes
+{Intisar}Intisar
+{Ioanna}Ioanna
+{Ioannes}Ioannes
+{Ioannousa}Ioannousa
+{Iobates}Iobates
+{Iohan}Iohan
+{Iohannes}Iohannes
+{Iol}Iol
+{Iola}Iola
+{Iolanthe}Iolanthe
+{Iolaos}Iolaos
+{Iole}Iole
+{Iollas}Iollas
+{Iomene}Iomene
+{Ion}Ion
+{Ione}Ione
+{Iosif}Iosif
+{Iphianassa}Iphianassa
+{Iphiclus}Iphiclus
+{Iphicrates}Iphicrates
+{Iphigenia}Iphigenia
+{Iphikrates}Iphikrates
+{Iphimedeia}Iphimedeia
+{Iphis}Iphis
+{Iphitheme}Iphitheme
+{Iptacens}Iptacens
+{Irene}Irene
+{Irindhuk}Irindhuk
+{Iringis}Iringis
+{Irinjibal}Irinjibal
+{Iris}Iris
+{Irisko}Irisko
+{Irmingarda}Irmingarda
+{Ironside}Ironside
+{Isaac}Isaac
+{Isabel}Isabel
+{Isabelica}Isabelica
+{Isabell}Isabell
+{Isabelle}Isabelle
+{Isabetta}Isabetta
+{Isadora}Isadora
+{Isagoras}Isagoras
+{Isalcas}Isalcas
+{Isauricus}Isauricus
+{Ischenous}Ischenous
+{Isetnofet}Isetnofet
+{Iseult}Iseult
+{Iseulta}Iseulta
+{Isibel}Isibel
+{Isidoros}Isidoros
+{Islah}Islah
+{Ismail}Ismail
+{Ismene}Ismene
+{Ismenios}Ismenios
+{Isocrates}Isocrates
+{Isodemos}Isodemos
+{Isokrates}Isokrates
+{Isolde}Isolde
+{Issa}Issa
+{Istok}Istok
+{Istvan}István
+{Italicus}Italicus
+{Itimad}Itimad
+{Iturgen}Iturgen
+{Itzcoatl}Itzcoatl
+{Itzquauatzin}Itzquauatzin
+{Itzquemitl}Itzquemitl
+{Iunius}Iunius
+{Iuventius}Iuventius
+{Ivan}Ivan
+{Ivanov}Ivanov
+{Ivanovich}Ivanovich
+{Ivomagus}Ivomagus
+{Ixaka}Ixaka
+{Ixtlilxochitl}Ixtlilxochitl
+{Iza}Iza
+{Izquixochitl}Izquixochitl
+{Iztahuatzin}Iztahuatzin
+{Jacob}Jacob
+{Jacobo}Jacobo
+{Jacobsen}Jacobsen
+{Jacome}Jacome
+{Jacopa}Jacopa
+{Jacopo}Jacopo
+{Jadwidze}Jadwidze
+{Jadwiga}Jadwiga
+{Jadwige}Jadwige
+{Jadwigi}Jadwigi
+{Jagadai}Jagadai
+{Jagatai}Jagatai
+{Jagiello}Jagiello
+{Jagielon}Jagielon
+{Jagu}Jagu
+{Jahangir}Jahangir
+{Jaida}Jaida
+{Jajiradai}Jajiradai
+{Jakab}Jakab
+{Jakemina}Jakemina
+{Jakha}Jakha
+{Jakome}Jakome
+{Jalaf}Jalaf
+{Jalal}Jalal
+{Jalloun}Jalloun
+{Jambyn}Jambyn
+{James}James
+{Jan}Jan
+{Janbulat}Janbulat
+{Jangg}Jangg
+{Janos}János
+{Janus}Janus
+{Jaqmaq}Jaqmaq
+{Jaques}Jaques
+{Jaquette}Jaquette
+{Jaquob}Jaquob
+{Jarena}Jarena
+{Jarita}Jarita
+{Jarl}Jarl
+{Jasmine}Jasmine
+{Jasper}Jasper
+{Jean}Jean
+{Jeannin}Jeannin
+{Jebdun}Jebdun
+{Jebe}Jebe
+{Jeblai}Jeblai
+{Jebu}Jebu
+{Jebuk}Jebuk
+{Jehanin}Jehanin
+{Jehanne}Jehanne
+{Jehannette}Jehannette
+{Jenkines}Jenkines
+{Jens}Jens
+{Jesper}Jesper
+{Jesus}Jesús
+{Jo}Jo
+{Joachim}Joachim
+{Joan}Joan
+{Joana}Joana
+{Joanna}Joanna
+{Jobst}Jobst
+{Jocabo}Jocabo
+{Jocasta}Jocasta
+{Jochi}Jochi
+{Joham}Joham
+{Johan}Johan
+{Johana}Johana
+{Johanes}Johanes
+{Johann}Johann
+{Johanna}Johanna
+{Johannes}Johannes
+{Johao}Johão
+{John}John
+{Jolinn}Jólinn
+{Jon}Jon
+{Jonas}Jonas
+{Jorge}Jorge
+{Jose}José
+{Josias}Josias
+{Jourdain}Jourdain
+{Jozsa}Józsa
+{Juana}Juana
+{Juba}Juba
+{Jubal}Jubal
+{Judda}Judda
+{Judit}Judit
+{Judith}Judith
+{Jugurthen}Jugurthen
+{Julia}Julia
+{Julian}Julian
+{Julianus}Julianus
+{Juliote}Juliote
+{Julius}Julius
+{Junien}Junien
+{Junius}Junius
+{Justeniano}Justeniano
+{Juva}Juva
+{Kadem}Kadem
+{Kaenas}Kaenas
+{Kaeneus}Kaeneus
+{Kaeso}Kaeso
+{Kafur}Kafur
+{Kahina}Kahina
+{Kaiblis}Kaiblis
+{Kaidu}Kaidu
+{Kaikawus}Kaikawus
+{Kaikosru}Kaikosru
+{Kaikubad}Kaikubad
+{Kaisar}Kaisar
+{Kaishan}Kaishan
+{Kaizuk}Kaizuk
+{Kalas}Kalas
+{Kalchas}Kalchas
+{Kale}Kale
+{Kalesius}Kalesius
+{Kalia}Kalia
+{Kalliaros}Kalliaros
+{Kallias}Kallias
+{Kallikles}Kallikles
+{Kallikrates}Kallikrates
+{Kallimachos}Kallimachos
+{Kallinicus}Kallinicus
+{Kallinos}Kallinos
+{Kallipides}Kallipides
+{Kallipos}Kallipos
+{Kallisthenes}Kallisthenes
+{Kallisto}Kallisto
+{Kallixeina}Kallixeina
+{Kallon}Kallon
+{Kalman}Kálmán
+{Kaloudes}Kaloudes
+{Kambugiya}Kambugiya
+{Kambyses}Kambyses
+{Kamytzes}Kamytzes
+{Kandaules}Kandaules
+{Kanmi}Kanmi
+{Kaouch}Kaouch
+{Kapabas_a}Kapabas'a
+{Kapaneus}Kapaneus
+{Kapys}Kapys
+{Kara_Hulegu}Kara Hülegü
+{Karembeu}Karembeu
+{Karia}Karia
+{Karif}Karif
+{Karipos}Karipos
+{Karl}Karl
+{Karo}Karo
+{Karolinger}Karolinger
+{Karoly}Károly
+{Karopophores}Karopophores
+{Kasaros}Kasaros
+{Kasif}Kasif
+{Kasim}Kâsim
+{Kaspax}Kaspax
+{Kasper}Kasper
+{Kassandra}Kassandra
+{Kassandros}Kassandros
+{Katalin}Katalin 
+{Katana}Katana
+{Katarzina}Katarzina
+{Katarziny}Katarziny
+{Katharzina}Katharzina
+{Katherina}Katherina
+{Katherine}Katherine
+{Katina}Katina
+{Kato}Kató
+{Kavur}Kavur
+{Kaynetli}Kaynetli
+{Kazczyk}Kazczyk
+{Kazimierz}Kazimierz
+{Kebalinos}Kebalinos
+{Kebes}Kebes
+{Keblovszki}Keblovszki
+{Kekrops}Kekrops
+{Kemen}Kemen
+{Kenez}Kenéz
+{Kephissa}Kephissa
+{Kerameikos}Kerameikos
+{Kerbasi}Kerbasi
+{Keresztes}Keresztes
+{Kerkyon}Kerkyon
+{Kersebleptos}Kersebleptos
+{Kersos}Kersos
+{Keteus}Keteus
+{Ketripora}Ketripora
+{Ketriporis}Ketriporis
+{Keyne}Keyne
+{Keynea}Keynea
+{Kezhna}Kezhna
+{Khadagan}Khadagan
+{Khaled}Khaled
+{Khalil}Khalîl
+{Khalja}Khalja
+{Khan}Khan
+{Kharchu}Kharchu
+{Kharmion}Kharmion
+{Khasekhem}Khasekhem
+{Khatabi}Khatabi
+{Khayra}Khayra
+{Khayri}Khayri
+{Khilletzbal}Khilletzbal
+{Khloris}Khloris
+{Khlöe}Khlöe
+{Khnumhoptep}Khnumhoptep
+{Khoblai}Khoblai
+{Khochi}Khochi
+{Khodhun}Khodhun
+{Khoduk}Khoduk
+{Khodun}Khodun
+{Khogadai}Khogadai
+{Khogibag}Khogibag
+{Khojin}Khojin
+{Khorshed}Khorshed
+{Khortdad}Khortdad
+{Khoshila}Khoshila
+{Khotai}Khotai
+{Khoyan}Khoyan
+{Khoyu}Khoyu
+{Khristin}Khristin
+{Khu}Khu
+{Khubilai}Khubilai
+{Khublai}Khublai
+{Khugis}Khugis
+{Khugurchin}Khugurchin
+{Khulan}Khulan
+{Khultulun}Khultulun
+{Khundu}Khundu
+{Khushan}Khushan
+{Khushqadam}Khushqadam
+{Khuzuk}Khuzuk
+{Kicham}Kicham
+{Kilij}Kilij
+{Kimon}Kimon
+{Kinge}Kinge
+{Kira}Kira
+{Kiraly}Kiraly
+{Kirk}Kirk
+{Kirphis}Kirphis
+{Kisel}Kisel
+{Kiselev}Kiselev
+{Kitbugha}Kitbugha
+{Kitbuqa}Kitbuqa
+{Kitta}Kitta
+{Kiya}Kiya
+{Klara}Klára
+{Kleio}Kleio
+{Kleitarxos}Kleitarxos
+{Kleobis}Kleobis
+{Kleomenes}Kleomenes
+{Kleopatra}Kleopatra
+{Klymene}Klymene
+{Klytemnestra}Klytemnestra
+{Kniess}Kniess
+{Knight}Knight
+{Knud}Knud
+{Koinos}Koinos
+{Kokachin}Kokachin
+{Kolbein}Kolbein
+{Komana}Komana
+{Komanos}Komanos
+{Konops}Konops
+{Konrad}Konrad
+{Konstantinos}Konstantinos
+{Kor}Koré
+{Kordula}Kordula
+{Koritto}Koritto
+{Kovacs}Kovacs
+{Kowacz}Kowacz
+{Kozel}Kozel
+{Kozlov}Kozlov
+{Krafla}Krafla
+{Krateros}Krateros
+{Krawczyk}Krawczyk
+{Kreon}Kreon
+{Krinippos}Krinippos
+{Krisztina}Krisztina
+{Kritias}Kritias
+{Kritoboulos}Kritoboulos
+{Kritodemos}Kritodemos
+{Kroisos}Kroisos
+{Krokinos}Krokinos
+{Ktesiphon}Ktesiphon
+{Kubadai}Kubadai
+{Kubeke}Kubeke
+{Kubla}Kubla
+{Kublai}Kublai
+{Kubuk}Kubuk
+{Kuchuk}Kuchuk
+{Kudurmabug}Kudurmabug
+{Kujuk}Kujuk
+{Kulla}Kulla
+{Kulwiec}Kulwiec
+{Kundu}Kundu
+{Kungund}Kungund
+{Kuo_Kan}Kuo Kan
+{Kuonrad}Kuonrad
+{Kuritsa}Kuritsa
+{Kuritsev}Kuritsev
+{Kurt}Kurt
+{Kuru}Kuru
+{Kuyuk}Kuyuk
+{Kuz_mich}Kuz'mich
+{Kydilla}Kydilla
+{Kyle}Kyle
+{Kynna}Kynna
+{Kynner}Kynner
+{Kynthia}Kynthia
+{Kypris}Kypris
+{Kyra}Kyra
+{Kyriakia}Kyriakia
+{Kyriakos}Kyriakos
+{Kyritzes}Kyritzes
+{Kyrstyan}Kyrstyan
+{Labda}Labda
+{Laberius}Laberius
+{Labib}Labib
+{Labienus}Labienus
+{Lablakha}Lablakha
+{Lachin}Lachin
+{Lachlan}Lachlan
+{Laco}Laco
+{Lacumaces}Lacumaces
+{Laeca}Laeca
+{Laelius}Laelius
+{Laenas}Laenas
+{Laertes}Laertes
+{Laetus}Laetus
+{Laevinus}Laevinus
+{Lagarto}Lagarto
+{Lagia}Lagia
+{Lahlafi}Lahlafi
+{Lahyani}Lahyani
+{Laios}Laios
+{Lais}Lais
+{Lajin}Lajin
+{Lalage}Lalage
+{Lamachos}Lamachos
+{Lambaesis}Lambaesis
+{Lambert}Lambert
+{Lamberto}Lamberto
+{Lampetie}Lampetie
+{Lampito}Lampito
+{Lanberti}Lanberti
+{Lanbertus}Lanbertus
+{Lancelot}Lancelot
+{Landolfi}Landolfi
+{Lanfranchi}Lanfranchi
+{Lanfrancus}Lanfrancus
+{Lanfrank}Lanfrank
+{Langliva}Langliva
+{Langton}Langton
+{Lanike}Lanike
+{Lanka}Lanka
+{Lannildut}Lannildut
+{Laodamas}Laodamas
+{Laodameia}Laodameia
+{Laodamia}Laodamia
+{Laodice}Laodice
+{Laodocus}Laodocus
+{Laogonus}Laogonus
+{Laothoe}Laothoe
+{Lapa}Lapa
+{Laphanes}Laphanes
+{Lappius}Lappius
+{Larbi}Larbi
+{Lars}Lars
+{Lascaris}Lascaris
+{Lasos}Lasos
+{Lasthena}Lasthena
+{Lasthenes}Lasthenes
+{Laszlo}László
+{Latona}Latona
+{Laurence}Laurence
+{Laurencius}Laurencius
+{Laurens}Laurens
+{Laurentin}Laurentin
+{Layla}Layla
+{Laysa}Laysa
+{Lazzarini}Lazzarini
+{Learner}Learner
+{Lechsinska}Lechsinska
+{Leda}Leda
+{Lede}Lede
+{Legnano}Legnano
+{Lehtonen}Lehtonen
+{Lena}Lena
+{Lentulus}Lentulus
+{Lenuzo}Lenuzo
+{Leo}Leo
+{Leocedes}Leocedes
+{Leocharis}Leocharis
+{Leodes}Leodes
+{Leofric}Leofric
+{Leon}Leon
+{Leonard}Leonard
+{Leonarda}Leonarda
+{Leonardo}Leonardo
+{Leonardus}Leonardus
+{Leonatos}Leonatos
+{Leonete}Leonete
+{Leonidas}Leonidas
+{Leonor}Leonor
+{Leontia}Leontia
+{Leopold}Leopold
+{Lepida}Lepida
+{Lepidus}Lepidus
+{Lepis}Lepis
+{Lerino}Lerino
+{Lesly}Lesly
+{Leszek}Leszek
+{Letitia}Letitia
+{Letizi}Letizi
+{Leto}Leto
+{Letta}Letta
+{Leucon}Leucon
+{Leucothea}Leucothea
+{Leucotho}Leucothoë
+{Leukon}Leukon
+{Lewes}Lewes
+{Lianor}Lianor
+{Liapos}Liapos
+{Libo}Libo
+{Licci}Licci
+{Lichas}Lichas
+{Licinia}Licinia
+{Licinianus}Licinianus
+{Licinius}Licinius
+{Liddyatt}Liddyatt
+{Lila}Lila
+{Lilith}Lilith
+{Limas}Limas
+{Limnoreia}Limnoreia
+{Linota}Linota
+{Linus}Linus
+{Linyeve}Linyeve
+{Lippa}Lippa
+{Lisa}Lisa
+{Lisabetta}Lisabetta
+{Livia}Livia
+{Livilla}Livilla
+{Livius}Livius
+{Lixus}Lixus
+{Loefwine}Loefwine
+{Loftsson}Loftsson
+{Lois}Lois
+{Lollius}Lollius
+{Lon}Lon
+{Longchamp}Longchamp
+{Longe}Longe
+{Longinus}Longinus
+{Longus}Longus
+{Lope}Lope
+{Lopez}Lopez
+{Lopo}Lopo
+{Lorenz}Lorenz
+{Lorenza}Lorenza
+{Lorenzo}Lorenzo
+{Lorin}Lorin
+{Lothair}Lothair
+{Lothar}Lothar
+{Lotus}Lotus
+{Louis}Louis
+{Loukites}Loukites
+{Loumbertos}Loumbertos
+{Lourenco}Lourenço
+{Loys}Loys
+{Loyse}Loyse
+{Luca}Luca
+{Lucanus}Lucanus
+{Lucardis}Lucardis
+{Lucas}Lucas
+{Lucco}Lucco
+{Lucia}Lucia
+{Lucilla}Lucilla
+{Lucius}Lucius
+{Lucrecia}Lucreçia
+{Lucrezia}Lucrezia
+{Lucullius}Lucullius
+{Lucullus}Lucullus
+{Ludwig}Ludwig
+{Ludwiga}Ludwiga
+{Lugotorix}Lugotorix
+{Luino}Luino
+{Luis}Luis
+{Lukac}Lukac
+{Lukas}Lukas
+{Lukman}Lukman
+{Lulach}Lulach
+{Luquin}Luquin
+{Luscinus}Luscinus
+{Lusius}Lusius
+{Lutatius}Lutatius
+{Lutgardis}Lutgardis
+{Lutterius}Lutterius
+{Luzia}Luzia
+{Lycomedes}Lycomedes
+{Lycophon}Lycophon
+{Lykomedes}Lykomedes
+{Lykon}Lykon
+{Lype}Lype
+{Lyra}Lyra
+{Lysagoras}Lysagoras
+{Lysandros}Lysandros
+{Lyse}Lyse
+{Lysias}Lysias
+{Lysikles}Lysikles
+{Lysimachos}Lysimachos
+{Lysippos}Lysippos
+{Lyssimachos}Lyssimachos
+{Maazouzi}Maazouzi
+{Mabel}Mabel
+{Mabilia}Mabilia
+{Mabon}Mabon
+{Mac_Bethad}Mac Bethad
+{Mac_Dobarchon}Mac Dobarchon
+{Macchiavelli}Macchiavelli
+{Maccio}Maccio
+{Maccius}Maccius
+{Macconel}Macconel
+{Macdonchie}Macdonchie
+{Macdougall}Macdougall
+{Macer}Macer
+{Macgoulchane}Macgoulchane
+{Machaon}Machaon
+{Macia}Maçia
+{Macrianus}Macrianus
+{Macrinus}Macrinus
+{Macro}Macro
+{Macuilmalinal}Macuilmalinal
+{Maczeus}Maczeus
+{Madelena}Madelena
+{Madyes}Madyes
+{Maecenas}Maecenas
+{Maelius}Maelius
+{Maenius}Maenius
+{Maeon}Maeon
+{Maeonia}Maeonia
+{Maera}Maera
+{Maesa}Maesa
+{Mafeo}Mafeo
+{Maffi}Maffi
+{Magdalena}Magdalena
+{Magdolna}Magdolna
+{Maggote}Maggote
+{Magia}Magia
+{Magliorie}Magliorie
+{Maglocunus}Maglocunus
+{Magna}Magna
+{Magnus}Magnus
+{Mago}Mago
+{Maha}Maha
+{Maharbal}Maharbal
+{Mahault}Mahault
+{Mahfouz}Mahfouz
+{Mahiet}Mahiet
+{Mahjoub}Mahjoub
+{Mahmoud}Mahmoud
+{Maia}Maia
+{Maiandria}Maiandria
+{Maiandrios}Maiandrios
+{Maidar}Maidar
+{Mainake}Mainake
+{Maise}Maise
+{Maitland}Maitland
+{Maiuri}Maiuri
+{Majtyka}Majtyka
+{Makarios}Makarios
+{Makartane}Makartane
+{Makdowall}Makdowall
+{Makfulchiane}Makfulchiane
+{Makgullane}Makgullane
+{Makmartane}Makmartane
+{Maknab}Maknab
+{Maknakill}Maknakill
+{Maknauchtan}Maknauchtan
+{Maksim}Maksim
+{Maksimov}Maksimov
+{Mal}Mal
+{Malaga}Malaga
+{Malatesta}Malatesta
+{Malcolm}Malcolm
+{Maleos}Maleos
+{Maleses}Maleses
+{Malewicz}Malewicz
+{Malha}Malha
+{Malik}Malik
+{Malika}Malika
+{Malina}Malina
+{Malinal}Malinal
+{Malinche}Malinche
+{Malintzin}Malintzin
+{Mallius}Mallius
+{Mallobo}Mallobo
+{Malorix}Malorix
+{Malov}Malov
+{Maluginensis}Maluginensis
+{Mamaea}Mamaea
+{Mamai}Mamai
+{Mamdhuk}Mamdhuk
+{Mamdu}Mamdu
+{Mamercus}Mamercus
+{Mamexi}Mamexi
+{Mamgis}Mamgis
+{Mamilius}Mamilius
+{Mammeri}Mammeri
+{Manawyddan}Manawyddan
+{Mancinus}Mancinus
+{Mandorf}Mandorf
+{Mandubracius}Mandubracius
+{Mandughai}Mandughai
+{Manfred}Manfred
+{Maniakes}Maniakes
+{Manilius}Manilius
+{Manius}Manius
+{Manlius}Manlius
+{Manno}Manno
+{Manoel}Manoel
+{Manouel}Manouel
+{Manselli}Manselli
+{Mansure}Mansure
+{Mantes}Mantes
+{Mantios}Mantios
+{Mantle}Mantle
+{Manuel}Manuel
+{Manuela}Manuela
+{Maquereau}Maquereau
+{Mar}Mar
+{Marc}Marc
+{Marcel}Marcel
+{Marcella}Marcella
+{Marcellinus}Marcellinus
+{Marcellus}Marcellus
+{Marcia}Marcia
+{Marciana}Marciana
+{Marcin}Marcin
+{Marcion}Marcion
+{Marcius}Marcius
+{Marco}Marco
+{Marcus}Marcus
+{Marcuui}Marcuui
+{Mardonius}Mardonius
+{Marduniya}Marduniya
+{Margaida}Margaida
+{Margaret}Margaret
+{Margareta}Margaréta
+{Margarida}Margarida
+{Margarita}Margarita
+{Margarito}Margarito
+{Margherita}Margherita
+{Margot}Margot
+{Margret}Margrét
+{Marguerite}Marguerite
+{Mari}Mari
+{Maria}Maria
+{Marie}Marie
+{Marina}Marina
+{Mariniara}Mariniara
+{Marino}Marino
+{Marion}Marion
+{Mariorie}Mariorie
+{Mariot}Mariot
+{Marioziota}Marioziota
+{Maritsa}Maritsa
+{Marjory}Marjory
+{Markos}Markos
+{Markus}Markus
+{Marment}Marment
+{Marnes}Marnes
+{Maro}Maro
+{Maroboduus}Maroboduus
+{Maron}Maron
+{Marosz}Marosz
+{Marpessa}Marpessa
+{Marsal}Marsal
+{Marsias}Marsias
+{Marsilia}Marsilia
+{Marsyas}Marsyas
+{Marta}Márta
+{Marte}Marte
+{Martelli}Martelli
+{Martin}Martín
+{Martine}Martine
+{Martinella}Martinella
+{Martinengo}Martinengo
+{Martinez}Martinez
+{Martinho}Martinho
+{Martini}Martini
+{Martino}Martino
+{Martinus}Martinus
+{Martio}Martio
+{Martiya}Martiya
+{Marton}Márton
+{Martym}Martym
+{Mary}Mary
+{Masci}Masci
+{Masgava}Masgava
+{Masid}Masid
+{Masina}Masina
+{Massaria}Massaria
+{Massinissa}Massinissa
+{Massiva}Massiva
+{Massnsen}Massnsen
+{Masson}Masson
+{Mastanabal}Mastanabal
+{Mastor}Mastor
+{Masud}Masud
+{Matad}Matad
+{Matarrese}Matarrese
+{Mate}Máté
+{Maternus}Maternus
+{Mathieu}Mathieu
+{Matidia}Matidia
+{Matilda}Matilda
+{Matildis}Matildis
+{Matlacihuatl}Matlacihuatl
+{Matlal}Matlal
+{Matlalihuitl}Matlalihuitl
+{Matoub}Matoub
+{Matteo}Matteo
+{Matthias}Matthias
+{Matugenus}Matugenus
+{Matyas}Mátyás
+{Mauclerc}Mauclerc
+{Mausolos}Mausolos
+{Mauvoisin}Mauvoisin
+{Mavros}Mavros
+{Maxentius}Maxentius
+{Maximian}Maximian
+{Maximianus}Maximianus
+{Maximillian}Maximillian
+{Maxixcatzin}Maxixcatzin
+{Maxtla}Maxtla
+{May}May
+{Mayeuatzin}Mayeuatzin
+{Mayor}Mayor
+{Mazatl}Mazatl
+{Maziwiecki}Maziwiecki
+{Mazovia}Mazovia
+{Mea}Mea
+{Mecia}Meçia
+{Mecistes}Mecistes
+{Meckil}Meckil
+{Meconetzin}Meconetzin
+{Medea}Medea
+{Medesicaste}Medesicaste
+{Medhat}Medhat
+{Medicus}Medicus
+{Medios}Medios
+{Medon}Medon
+{Medus}Medus
+{Meen}Meen
+{Megabyzus}Megabyzus
+{Megadates}Megadates
+{Megaera}Megaera
+{Megakles}Megakles
+{Megara}Megara
+{Megaravicos}Megaravicos
+{Megare}Megare
+{Megareus}Megareus
+{Megasthenes}Megasthenes
+{Megistias}Megistias
+{Megujin}Megujin
+{Mehmed}Mehmed
+{Meidias}Meidias
+{Meinburg}Meinburg
+{Mela}Mela
+{Melampos}Melampos
+{Melanie}Melanie
+{Melantho}Melantho
+{Melas}Melas
+{Melchior}Melchior
+{Meleagros}Meleagros
+{Melegros}Melegros
+{Meles}Meles
+{Meliboeus}Meliboeus
+{Melicertes}Melicertes
+{Melike}Melike
+{Melissa}Melissa
+{Melissenus}Melissenus
+{Melita}Melita
+{Melite}Melite
+{Melkorka}Melkorka
+{Mella}Mella
+{Melles}Melles
+{Mellouk}Mellouk
+{Melqart}Melqart
+{Melqartpilles}Melqartpilles
+{Memmius}Memmius
+{Memmon}Memmon
+{Memnon}Memnon
+{Memo}Memo
+{Menalcas}Menalcas
+{Menandros}Menandros
+{Menares}Menares
+{Mencia}Mencia
+{Mendez}Mendez
+{Menegi}Menegi
+{Menekrates}Menekrates
+{Menelaia}Menelaia
+{Menelaos}Menelaos
+{Menendi}Menendi
+{Menendus}Menendus
+{Menenius}Menenius
+{Menestas}Menestas
+{Menesthes}Menesthes
+{Menesthios}Menesthios
+{Mengadai}Mengadai
+{Menggei}Menggei
+{Menglai}Menglai
+{Menguk}Menguk
+{Menhar}Menhar
+{Meninx}Meninx
+{Menmaatre}Menmaatre
+{Mensies}Mensies
+{Mentes}Mentes
+{Mentor}Mentor
+{Menua}Menua
+{Menved}Menved
+{Meogo}Meogo
+{Meraude}Meraude
+{Meriadoc}Meriadoc
+{Meriones}Meriones
+{Merlin}Merlin
+{Merode}Merode
+{Merope}Merope
+{Merops}Merops
+{Merowinger}Merowinger
+{Merrett}Merrett
+{Meryre}Meryre
+{Merzanna}Merzanna
+{Mesaulius}Mesaulius
+{Messala}Messala
+{Messalina}Messalina
+{Messius}Messius
+{Mesthles}Mesthles
+{Metella}Metella
+{Metellus}Metellus
+{Methildis}Methildis
+{Metiochus}Metiochus
+{Metis}Metis
+{Metochites}Metochites
+{Meton}Meton
+{Metriche}Metriche
+{Metrobius}Metrobius
+{Metron}Metron
+{Metrophanes}Metrophanes
+{Mettius}Mettius
+{Meurent}Meurent
+{Meurius}Meurius
+{Meysun}Meysun
+{Miahuaxiuitl}Miahuaxiuitl
+{Miahuaxochitl}Miahuaxochitl
+{Miazga}Miazga
+{Miccele}Miccele
+{Michael}Michael
+{Michault}Michault
+{Micheil}Micheil
+{Michel}Michel
+{Michell}Michell
+{Michiel}Michiel
+{Micipsa}Micipsa
+{Micola}Micola
+{Micythos}Micythos
+{Midas}Midas
+{Middlemore}Middlemore
+{Midylos}Midylos
+{Mieszko}Mieszko
+{Migianino}Migianino
+{Miguel}Miguel
+{Migueles}Migueles
+{Mihaly}Mihály
+{Mikel}Mikel
+{Mikhail}Mikhail
+{Mikhailovich}Mikhailovich
+{Mikkelsen}Mikkelsen
+{Mikkos}Mikkos
+{Miklos}Miklós
+{Mikolas}Mikolas
+{Mikolaus}Mikolaus
+{Mikon}Mikon
+{Mil}Mil
+{Milanion}Milanion
+{Milehva}Milehva
+{Milet}Milet
+{Milkherem}Milkherem
+{Milkpilles}Milkpilles
+{Milkyaton}Milkyaton
+{Milling}Milling
+{Millord}Millord
+{Milo}Milo
+{Miloslav}Miloslav
+{Miloslavov}Miloslavov
+{Milov}Milov
+{Miltiades}Miltiades
+{Milto}Milto
+{Minervina}Minervina
+{Minghan}Minghan
+{Minos}Minos
+{Minucius}Minucius
+{Miran}Miran
+{Miron}Miron
+{Miroslav}Miroslav
+{Miroslavov}Miroslavov
+{Misagenes}Misagenes
+{Misenus}Misenus
+{Miswar}Miswar
+{Mithradates}Mithradates
+{Miwsher}Miwsher
+{Mixail}Mixail
+{Miyaoaxochitl}Miyaoaxochitl
+{Mizquixaual}Mizquixaual
+{Mnester}Mnester
+{Mnesus}Mnesus
+{Mobray}Mobray
+{Mocenigo}Mocenigo
+{Moctezuma}Moctezuma
+{Modestos}Modestos
+{Moesgaard}Moesgaard
+{Mohamed}Mohamed
+{Mohsen}Mohsen
+{Mokasokos}Mokasokos
+{Molin}Molin
+{Molon}Molon
+{Molpadia}Molpadia
+{Mondello}Mondello
+{Monduk}Monduk
+{Monetario}Monetario
+{Mongatai}Mongatai
+{Mongke}Mongke
+{Mongoljin}Mongoljin
+{Mongu}Mongu
+{Monica}Monica
+{Monima}Monima
+{Monime}Monime
+{Monomachus}Monomachus
+{Monomakh}Monomakh
+{Montella}Montella
+{Montes}Montes
+{Montezuma}Montezuma
+{Montfort}Montfort
+{Moquihuix}Moquihuix
+{Mor}Mor
+{Mora}Mora
+{Morcar}Morcar
+{Morelli}Morelli
+{Morello}Morello
+{Moreno}Moreno
+{Morgan}Morgan
+{Morgunn}Morgunn
+{Morirex}Morirex
+{Morosini}Morosini
+{Morosino}Morosino
+{Morris}Morris
+{Mors}Mors
+{Mortimer}Mortimer
+{Moschion}Moschion
+{Moses}Moses
+{Mostafa}Mostafa
+{Motecuhzoma}Motecuhzoma
+{Motecuma}Motecuma
+{Motelchiuh}Motelchiuh
+{Motius}Motius
+{Moussa}Moussa
+{Moustafa}Moustafa
+{Msciwoi}Msciwoi
+{Mubarak}Mubarak
+{Mucia}Mucia
+{Mucianus}Mucianus
+{Muhammad}Muhammad
+{Muhayya}Muhayya
+{Mukaboris}Mukaboris
+{Mukakenthos}Mukakenthos
+{Mukapaibes}Mukapaibes
+{Mukaporis}Mukaporis
+{Mukazeis}Mukazeis
+{Mukazenis}Mukazenis
+{Mukos}Mukos
+{Mulk_Khanum}Mulk Khanum
+{Mumcu}Mumcu
+{Mummius}Mummius
+{Munatius}Munatius
+{Munda}Munda
+{Munos}Muños
+{Murad}Murad
+{Murat}Murat
+{Murena}Murena
+{Muriel}Muriel
+{Murtzuphlus}Murtzuphlus
+{Mus}Mus
+{Musa}Musa
+{Musaeus}Musaeus
+{Musaios}Musaios
+{Mustafa}Mustafa
+{Mutnodjmet}Mutnodjmet
+{Muttines}Muttines
+{Muttunbaal}Muttunbaal
+{Myassa}Myassa
+{Mydon}Mydon
+{Mykale}Mykale
+{Mylles}Mylles
+{Myrine}Myrine
+{Myristikos}Myristikos
+{Myron}Myron
+{Myrsinus}Myrsinus
+{Myrto}Myrto
+{Mys}Mys
+{Mytonnes}Mytonnes
+{Nabih}Nabih
+{Nabila}Nabila
+{Nabonidus}Nabonidus
+{Nabukudracara}Nabukudracara
+{Nabunaita}Nabunaita
+{Nader}Nader
+{Nadezhda}Nadezhda
+{Nadzieja}Nadzieja
+{Naevius}Naevius
+{Nafisa}Nafisa
+{Nagib}Nagib
+{Nagla}Nagla
+{Naguib}Naguib
+{Naishe}Naishe
+{Najet}Najet
+{Najia}Najia
+{Najm_ad_Din}Najm ad Din
+{Nakhrankh}Nakhrankh
+{Nakhti}Nakhti
+{Nanna}Nanna
+{Nar}Nar
+{Naraggara}Naraggara
+{Narkissos}Narkissos
+{NasIra}NasIra
+{Nasica}Nasica
+{Nasir}Nasir
+{Nasir_ad_Din}Nasir ad Din
+{Naso}Naso
+{Nasser}Nasser
+{Nastasiia}Nastasiia
+{Nasua}Nasua
+{Natale}Natale
+{Natalez}Natalez
+{Nataliia}Nataliia
+{Natta}Natta
+{Naueas}Naueas
+{Nausicaa}Nausicaa
+{Nautius}Nautius
+{Nauyotl}Nauyotl
+{Nayaga}Nayaga
+{Nayan}Nayan
+{Naybet}Naybet 
+{Naydhun}Naydhun
+{Nayu}Nayu
+{Nayuk}Nayuk
+{Neaera}Neaera
+{Nearchos}Nearchos
+{Necahual}Necahual
+{Nectan}Nectan
+{Neferet}Neferet
+{Neferetiabet}Neferetiabet
+{Nefise}Nefise
+{Nekho}Nekho
+{Nektanebo}Nektanebo
+{Nekun}Nekun
+{Nelpus}Nelpus
+{Nemerte}Nemerte
+{Nencia}Nencia
+{Nene}Nene
+{Neokles}Neokles
+{Neoptolemos}Neoptolemos
+{Neos_Dionysos}Neos Dionysos
+{Neos_Philopator}Neos Philopator
+{Nephele}Nephele
+{Nepheris}Nepheris
+{Nepherites}Nepherites
+{Nepos}Nepos
+{Neqrouz}Neqrouz
+{Nergis}Nergis
+{Neritos}Neritos
+{Nero}Nero
+{Nesaea}Nesaea
+{Neslihan}Neslihan
+{Nesti}Nesti
+{Nestor}Nestor
+{Netikerty}Netikerty
+{Neto}Neto
+{Neues}Neues
+{Nevell}Nevell
+{Neville}Neville
+{Nevin}Nevin
+{Nevjolvson}Nevjolvson
+{Nezahualpilli}Nezahualpilli
+{Nezetta}Nezetta
+{Nezha}Nezha
+{Nezhek}Nezhek
+{Nezhkov}Nezhkov
+{Ni_mah}Ni'mah
+{Niarchos}Niarchos
+{Nicandros}Nicandros
+{Nicanor}Nicanor
+{Nicator}Nicator
+{Niccoli}Niccoli
+{Niccolo}Niccolo
+{Niccolus}Niccolus
+{Nichetti}Nichetti
+{Nichola}Nichola
+{Nicholas}Nicholas
+{Nicias}Nicias
+{Nicodromos}Nicodromos
+{Nicola}Nicola
+{Nicolas}Nicolas
+{Nicole}Nicole
+{Nicollas}Nicollas
+{Nicolo}Nicolo
+{Nicolosa}Nicolosa
+{Nicomachos}Nicomachos
+{Nicon}Nicon
+{Nicopolis}Nicopolis
+{Nidintu-Bel}Nidintu-Bel
+{Niebor}Niebor
+{Niegoslaw}Niegoslaw
+{Niels}Niels
+{Niemoj}Niemoj
+{Niesenn}Niesenn
+{Nigel}Nigel
+{Nigidius}Nigidius
+{Nikaia}Nikaia
+{Nikandros}Nikandros
+{Nikanor}Nikanor
+{Nikasepolis}Nikasepolis
+{Nikasios}Nikasios
+{Nikeforos}Nikeforos
+{Nikeratos}Nikeratos
+{Nikerites}Nikerites
+{Niketas}Niketas
+{Nikha}Nikha
+{Nikias}Nikias
+{Nikita}Nikita
+{Nikitin}Nikitin
+{Niko}Niko
+{Nikolaos}Nikolaos
+{Nikolaus}Nikolaus
+{Nikomachos}Nikomachos
+{Nikomedes}Nikomedes
+{Niksha}Niksha
+{Niobe}Niobe
+{Niptasan}Niptasan
+{Nireus}Nireus
+{Nisos}Nisos
+{Nobilior}Nobilior
+{Nocelao}Noçelao
+{Nochehuatl}Nochehuatl
+{Noddo}Noddo
+{Noel}Noel
+{Noemon}Noemon
+{Nomion}Nomion
+{Nomolun}Nomolun
+{Noor}Noor
+{Nopaltzin}Nopaltzin
+{Nopalxochitl}Nopalxochitl
+{Norbanus}Norbanus
+{Notarius}Notarius
+{Nothon}Nothon
+{Nourreddine}Nourreddine
+{Novella}Novella
+{Nucca}Nucca
+{Numerius}Numerius
+{Nunez}Nuñez
+{Nuno}Nuno
+{Nuntius}Nuntius
+{Nuzhet}Nüzhet
+{Nyambek}Nyambek
+{Nyla}Nyla
+{Oares}Oares
+{Ocealu}Ocealu
+{Ocellina}Ocellina
+{Ocelopan}Ocelopan
+{Ochesius}Ochesius
+{Octavia}Octavia
+{Octavianus}Octavianus
+{Octavius}Octavius
+{Ocuitecatl}Ocuitecatl
+{Odaenathus}Odaenathus
+{Odchigin}Odchigin
+{Oddus}Oddus
+{Odescalchi}Odescalchi
+{Odo}Odo
+{Odovacar}Odovacar
+{Odysseus}Odysseus
+{Oea}Oea
+{Oedipus}Oedipus
+{Oenemaus}Oenemaus
+{Oenomaus}Oenomaus
+{Oenone}Oenone
+{Oenopion}Oenopion
+{Oesalces}Oesalces
+{Ofella}Ofella
+{Ofonius}Ofonius
+{Ogadai}Ogadai
+{Ogatai}Ogatai
+{Oghul_Qamish}Oghul Qamish
+{Ogitzak}Ogitzak
+{Ogodei}Ögödei
+{Ogodhun}Ogodhun
+{Ogoshila}Ogoshila
+{Ogoshin}Ogoshin
+{Ogulnius}Ogulnius
+{Oicles}Oicles
+{Oimeracz}Oimeracz
+{Oitane}Oitane
+{Ola}Ola
+{Olaf}Olaf
+{Olalla}Olalla
+{Olaskos}Olaskos
+{Oldaghar}Oldaghar
+{Olearius}Olearius
+{Olga}Olga
+{Olganos}Olganos
+{Olintecke}Olintecke
+{Olisipo}Olisipo
+{Oliverio}Oliverio
+{Oljeitu}Öljeitü
+{Ollin}Ollin
+{Oltenia}Oltenia
+{Olus}Olus
+{Olympias}Olympias
+{Olympiodorus}Olympiodorus
+{Omar}Omar
+{Ometochtl}Ometochtl
+{Omixochitl}Omixochitl
+{Omphale}Omphale
+{Onamakritos}Onamakritos
+{Onetas}Onetas
+{Onggiran}Onggiran
+{Onias}Onias
+{Onomastos}Onomastos
+{Opellius}Opellius
+{Ophelestes}Ophelestes
+{Opimius}Opimius
+{Opochtli}Opochtli
+{Opochtzin}Opochtzin
+{Oppius}Oppius
+{Oquitzin}Oquitzin
+{Ora}Ora
+{Orabilia}Orabilia
+{Orbei}Orbei
+{Orbiana}Orbiana
+{Orda}Orda
+{Ordai}Ordai
+{Ordhun}Ordhun
+{Ordoniz}Ordoniz
+{Oreithuia}Oreithuia
+{Oreithyia}Oreithyia
+{Orekh}Orekh
+{Orekhov}Orekhov
+{Oremus}Oremus
+{Orestes}Orestes
+{Orgetorix}Orgetorix
+{Orhan}Orhan
+{Orion}Orion
+{Orithyia}Orithyia
+{Orjibal}Orjibal
+{Orlandi}Orlandi
+{Orlandus}Orlandus
+{Orlicki}Orlicki
+{Oroites}Oroites
+{Orpheus}Orpheus
+{Orqina}Orqina
+{Orraca}Orraca
+{Orsellus}Orsellus
+{Orsilochus}Orsilochus
+{Orsini}Orsini
+{Orsiphantes}Orsiphantes
+{Orso}Orso
+{Orsolya}Orsolya
+{Orthaeus}Orthaeus
+{Orthia}Orthia
+{Ortwinus}Ortwinus
+{Ortzi}Ortzi
+{Orvendilson}Orvendilson
+{Osca}Osca
+{Osman}Osman
+{Ostina}Ostina
+{Ostorius}Ostorius
+{Otanes}Otanes
+{Othelhildis}Othelhildis
+{Otho}Otho
+{Otonia}Otonia
+{Otterbach}Otterbach
+{Otto}Ottó
+{Ottobono}Ottobono
+{Otus}Otus
+{Ouakili}Ouakili
+{Ouaziz}Ouaziz
+{Oudart}Oudart
+{Oudet}Oudet
+{Oudin}Oudin
+{Oudine}Oudine
+{Ovidius}Ovidius
+{Oxynta}Oxynta
+{Oza}Oza
+{Pablo}Pablo
+{Pacuvius}Pacuvius
+{Paelignus}Paelignus
+{Paerisades}Paerisades
+{Paetus}Paetus
+{Paganelli}Paganelli
+{Pagenellus}Pagenellus
+{Paggs}Paggs
+{Paios}Paios
+{Pakoslaw}Pakoslaw
+{Pal}Pál
+{Palacus}Palacus
+{Paladin}Paladin
+{Palaechthon}Palaechthon
+{Palaemon}Palaemon
+{Palaeologus}Palaeologus
+{Palben}Palben
+{Palermo}Palermo
+{Pales}Pales
+{Pallas}Pallas
+{Palma}Palma
+{Palmarocchi}Palmarocchi
+{Palmeria}Palmeria
+{Palmerio}Palmerio
+{Palmeyro}Palmeyro
+{Pamiu}Pamiu
+{Panaetios}Panaetios
+{Panaetius}Panaetius
+{Panagiotes}Panagiotes
+{Panares}Panares
+{Pandaros}Pandaros
+{Pandion}Pandion
+{Panelo}Panelo
+{Pangratio}Pangratio
+{Paniagua}Paniagua
+{Panionos}Panionos
+{Panites}Panites
+{Panitzin}Panitzin
+{Pankratios}Pankratios
+{Pannarius}Pannarius
+{Panope}Panope
+{Panora}Panora
+{Pansa}Pansa
+{Pantaleone}Pantaleone
+{Pantites}Pantites
+{Pao}Pao
+{Paolo}Paolo
+{Pap}Pap
+{Papan}Papan
+{Papantzin}Papantzin
+{Papareschi}Papareschi
+{Papero}Papero
+{Paphlagonian}Paphlagonian
+{Papinianus}Papinianus
+{Papinius}Papinius
+{Papiria}Papiria
+{Papirius}Papirius
+{Paraebates}Paraebates
+{Paramonos}Paramonos
+{Pardal}Pardal
+{Paris}Paris
+{Parmenides}Parmenides
+{Parmenion}Parmenion
+{Parsones}Parsones
+{Partatua}Partatua
+{Parthenia}Parthenia
+{Parthenopaeus}Parthenopaeus
+{Parthenope}Parthenope
+{Pas_abegi}Pas'abegi
+{Pascal}Pascal
+{Pascuala}Pascuala
+{Pasebakhaen}Pasebakhaen
+{Pasiphae}Pasiphae
+{Pasqua}Pasqua
+{Pasqual}Pasqual
+{Pasqualigo}Pasqualigo
+{Pasqualina}Pasqualina
+{Paterculus}Paterculus
+{Paterinos}Paterinos
+{Patrick}Patrick
+{Patrobas}Patrobas
+{Patrova}Patrova
+{Paul}Paul
+{Paula}Paula
+{Paulina}Paulina
+{Paulinus}Paulinus
+{Paullus}Paullus
+{Paulo}Paulo
+{Paulus}Paulus
+{Pausanias}Pausanias
+{Pausanius}Pausanius
+{Pavel}Pavel
+{Pavlov}Pavlov
+{Pawol}Pawol
+{Paxenos}Paxenos
+{Payne}Payne
+{Peckham}Peckham
+{Pedercini}Pedercini
+{Pedianus}Pedianus
+{Pedibastet}Pedibastet
+{Pedius}Pedius
+{Pedocles}Pedocles
+{Pedrazzolli}Pedrazzolli
+{Pedro}Pedro
+{Peducaeus}Peducaeus
+{Pefkolaos}Pefkolaos
+{Pegler}Pegler
+{Peiros}Peiros
+{Peithon}Peithon
+{Pelagon}Pelagon
+{Pelegon}Pelegon
+{Pelekanos}Pelekanos
+{Peleus}Peleus
+{Pelias}Pelias
+{Pelicles}Pelicles
+{Pellarius}Pellarius
+{Pellicciarius}Pellicciarius
+{Pelopia}Pelopia
+{Penc}Penc
+{Pencina}Pencina
+{Peneleos}Peneleos
+{Penelope}Penelope
+{Peneus}Peneus
+{Penina}Penina
+{Pennus}Pennus
+{Pensotti}Pensotti
+{Penthesilea}Penthesilea
+{Pentheus}Pentheus
+{Penthylos}Penthylos
+{Peolpidas}Peolpidas
+{Pepi}Pepi
+{Pera}Pera
+{Percalus}Percalus
+{Percy}Percy
+{Perdicas}Perdicas
+{Perdiccas}Perdiccas
+{Perdikkas}Perdikkas
+{Perego}Perego
+{Peres}Peres
+{Perfelti}Perfelti
+{Perialla}Perialla
+{Periandros}Periandros
+{Periboea}Periboea
+{Periclymenus}Periclymenus
+{Perikles}Perikles
+{Perimedes}Perimedes
+{Perimos}Perimos
+{Periz}Periz
+{Perkin}Perkin
+{Permenion}Permenion
+{Pero}Pero
+{Perperna}Perperna
+{Perrette}Perrette
+{Perrin}Perrin
+{Perronete}Perronete
+{Perrot}Perrot
+{Perse}Perse
+{Perseas}Perseas
+{Persephone}Persephone
+{Persis}Persis
+{Persius}Persius
+{Pertinax}Pertinax
+{Pervica}Pervica
+{Pervinca}Pervinca
+{Pescennius}Pescennius
+{Pessina}Pessina
+{Peteos}Peteos
+{Peter}Péter
+{Petillius}Petillius
+{Petratz}Petratz
+{Petreius}Petreius
+{Petri}Petri
+{Petronius}Petronius
+{Petros}Petros
+{Petrus}Petrus
+{Peukestes}Peukestes
+{Phaedo}Phaedo
+{Phaedra}Phaedra
+{Phaedre}Phaedre
+{Phaestus}Phaestus
+{Phaethusa}Phaethusa
+{Phaia}Phaia
+{Phaidon}Phaidon
+{Phalanthus}Phalanthus
+{Phalinos}Phalinos
+{Phameas}Phameas
+{Phanagoras}Phanagoras
+{Pharnaces}Pharnaces
+{Pharsanzes}Pharsanzes
+{Pheidias}Pheidias
+{Pheidippides}Pheidippides
+{Pheidon}Pheidon
+{Phemius}Phemius
+{Phereclus}Phereclus
+{Pherecydes}Pherecydes
+{Pherenike}Pherenike
+{Pherusa}Pherusa
+{Phidias}Phidias
+{Phigaleia}Phigaleia
+{Phigaleios}Phigaleios
+{Philadelphos}Philadelphos
+{Philadelphus}Philadelphus
+{Philagros}Philagros
+{Philaon}Philaon
+{Philea}Philea
+{Phileas}Phileas
+{Philemon}Philemon
+{Philibert}Philibert
+{Philinna}Philinna
+{Philip}Philip
+{Philipos}Philipos
+{Philipp}Philipp
+{Philippe}Philippe
+{Philippos}Philippos
+{Philiskos}Philiskos
+{Philistos}Philistos
+{Phillip}Phillip
+{Phillipos}Phillipos
+{Philo}Philo
+{Philocrates}Philocrates
+{Philoctetes}Philoctetes
+{Philocypros}Philocypros
+{Philoetius}Philoetius
+{Philogus}Philogus
+{Philokles}Philokles
+{Philokrates}Philokrates
+{Philolaos}Philolaos
+{Philomache}Philomache
+{Philomela}Philomela
+{Philometor}Philometor
+{Philon}Philon
+{Philona}Philona
+{Philonikos}Philonikos
+{Philopater}Philopater
+{Philopator}Philopator
+{Philopoemon}Philopoemon
+{Philoromaeus}Philoromaeus
+{Philosir}Philosir
+{Philostratos}Philostratos
+{Philotas}Philotas
+{Philotectes}Philotectes
+{Phineus}Phineus
+{Phlipote}Phlipote
+{Phocas}Phocas
+{Phoebe}Phoebe
+{Phokas}Phokas
+{Phokion}Phokion
+{Phorbas}Phorbas
+{Phorcys}Phorcys
+{Phraotes}Phraotes
+{Phrixus}Phrixus
+{Phryne}Phryne
+{Phrynichos}Phrynichos
+{Phrynikos}Phrynikos
+{Phrynon}Phrynon
+{Phylace}Phylace
+{Phylas}Phylas
+{Phylia}Phylia
+{Phylipo}Phylipo
+{Phyllis}Phyllis
+{Phylo}Phylo
+{Phylomedusa}Phylomedusa
+{Pia}Pia
+{Piavonius}Piavonius
+{Piccardo}Piccardo
+{Piccolomini}Piccolomini
+{Picconis}Picconis
+{Pidytes}Pidytes
+{Piera}Piera
+{Pieri}Pieri
+{Pieritz}Pieritz
+{Pierleoni}Pierleoni
+{Pierre}Pierre
+{Pierus}Pierus
+{Pietro}Pietro
+{Pigat}Pigat
+{Pigres}Pigres
+{Pilatus}Pilatus
+{Pilson}Pilson
+{Pimotl}Pimotl
+{Pinder}Pinder
+{Pioska}Pioska
+{Piotr}Piotr
+{Piovani}Piovani
+{Pir_Muhammed}Pir Muhammed
+{Piroska}Piroska
+{Pisanus}Pisanus
+{Piso}Piso
+{Pistias}Pistias
+{Pistoriensis}Pistoriensis
+{Pittacos}Pittacos
+{Pittacus}Pittacus
+{Pixodarus}Pixodarus
+{Piye}Piye
+{Pizotzin}Pizotzin
+{Placidia}Placidia
+{Placus}Placus
+{Plancus}Plancus
+{Plantagenet}Plantagenet
+{Plantee}Plantée
+{Plast}Plast
+{Plato}Plato
+{Platorius}Platorius
+{Plautianus}Plautianus
+{Plautilla}Plautilla
+{Plautius}Plautius
+{Plautus}Plautus
+{Pleistarchos}Pleistarchos
+{Pleistos}Pleistos
+{Pleminius}Pleminius
+{Pleneria}Pleneria
+{Plesseraud}Plesseraud
+{Pleures}Pleures
+{Plinius}Plinius
+{Plittersdorf}Plittersdorf
+{Plone}Plone
+{Plotina}Plotina
+{Pochotl}Pochotl
+{Podaeleirus}Podaeleirus
+{Podaleirios}Podaleirios
+{Podaleirus}Podaleirus
+{Podalinus}Podalinus
+{Podarces}Podarces
+{Podarge}Podarge
+{Podargos}Podargos
+{Podaroes}Podaroes
+{Podes}Podes
+{Poecas}Poecas
+{Poetelius}Poetelius
+{Poimen}Poimen
+{Poitevin}Poitevin
+{Pole}Pole
+{Polemion}Polemion
+{Polemo}Polemo
+{Poliadas}Poliadas
+{Poliorcetes}Poliorcetes
+{Pollio}Pollio
+{Poluccia}Poluccia
+{Polybius}Polybius
+{Polycaste}Polycaste
+{Polycratis}Polycratis
+{Polyctor}Polyctor
+{Polydamna}Polydamna
+{Polydectes}Polydectes
+{Polydeuces}Polydeuces
+{Polydius}Polydius
+{Polydora}Polydora
+{Polydoros}Polydoros
+{Polygonus}Polygonus
+{Polykleitos}Polykleitos
+{Polykles}Polykles
+{Polykritos}Polykritos
+{Polymede}Polymede
+{Polymedes}Polymedes
+{Polyperchon}Polyperchon
+{Polyphetes}Polyphetes
+{Polyxena}Polyxena
+{Pomardi}Pomardi
+{Pompeia}Pompeia
+{Pompeius}Pompeius
+{Pompilius}Pompilius
+{Pomponia}Pomponia
+{Pomponius}Pomponius
+{Poncet}Poncet
+{Pontferrada}Pontferrada
+{Pontius}Pontius
+{Popillia}Popillia
+{Popillius}Popillius
+{Popopoyotl}Popopoyotl
+{Poppaea}Poppaea
+{Poppaedius}Poppaedius
+{Poppaeus}Poppaeus
+{Porcia}Porcia
+{Porcius}Porcius
+{Porco}Porco
+{Porphyrios}Porphyrios
+{Porphyrius}Porphyrius
+{Posides}Posides
+{Posidonios}Posidonios
+{Posthumus}Posthumus
+{Postumius}Postumius
+{Potitus}Potitus
+{Potter}Potter
+{Powell}Powell
+{Praesutagus}Praesutagus
+{Prasutagus}Prasutagus
+{Pratinos}Pratinos
+{Praxilaus}Praxilaus
+{Praxinos}Praxinos
+{Praxiteles}Praxiteles
+{Praxites}Praxites
+{Prelatus}Prelatus
+{Premarin}Premarin
+{Premysl}Premysl
+{Premyslid}Premyslid
+{Priam}Priam
+{Prignano}Prignano
+{Primus}Primus
+{Prinetadas}Prinetadas
+{Prisca}Prisca
+{Priscus}Priscus
+{Priska}Priska
+{Priuli}Priuli
+{Probus}Probus
+{Procne}Procne
+{Procris}Procris
+{Procrustes}Procrustes
+{Proctus}Proctus
+{Proetus}Proetus
+{Prone}Prone
+{Propertius}Propertius
+{Protagoras}Protagoras
+{Proto}Proto
+{Protogonia}Protogonia
+{Protus}Protus
+{Prousenos}Prousenos
+{Proxenos}Proxenos
+{Prusias}Prusias
+{Prvovencani}Prvovencani
+{Prymneus}Prymneus
+{Przebor}Przebor
+{Przemysl}Przemysl
+{Przemyslaw}Przemyslaw
+{Psamathe}Psamathe
+{Psammetikhos}Psammetikhos
+{Psamuthis}Psamuthis
+{Psotka}Psotka
+{Psyche}Psyche
+{Ptahhotep}Ptahhotep
+{Ptahotem}Ptahotem
+{Ptolemais}Ptolemais
+{Ptolemee}Ptolemee
+{Ptolemeos}Ptolemeos
+{Ptolemy}Ptolemy
+{Publilius}Publilius
+{Publius}Publius
+{Puccio}Puccio
+{Puch}Puch
+{Pulcher}Pulcher
+{Pulcheria}Pulcheria
+{Pullus}Pullus
+{Pupienus}Pupienus
+{Pylaemenes}Pylaemenes
+{Pylaeus}Pylaeus
+{Pylartes}Pylartes
+{Pylas}Pylas
+{Pylenor}Pylenor
+{Pylia}Pylia
+{Pyris}Pyris
+{Pyrrha}Pyrrha
+{Pyrrhus}Pyrrhus
+{Pyrzyce}Pyrzyce
+{Pythagoras}Pythagoras
+{Pythias}Pythias
+{Pythodoris}Pythodoris
+{Pythogenes}Pythogenes
+{Python}Python
+{Pytros}Pytros
+{Qacha}Qacha
+{Qalawun}Qalawun
+{Qansawh}Qansawh
+{Qasim}Qasim
+{Qassim}Qassim
+{Qayit}Qayit
+{Qilich}Qilich
+{Quadrigarius}Quadrigarius
+{Quahcoatl}Quahcoatl
+{Quahtlatoa}Quahtlatoa
+{Qualpopoca}Qualpopoca
+{Quauhpopoca}Quauhpopoca
+{Quauhtli}Quauhtli
+{Quauhxochitl}Quauhxochitl
+{Qubilah}Qubilah
+{Queimado}Queimado
+{Quiauhxochitl}Quiauhxochitl
+{Quietus}Quietus
+{Quilaztli}Quilaztli
+{Quimichetl}Quimichetl
+{Quinatzin}Quinatzin
+{Quinctilius}Quinctilius
+{Quinctius}Quinctius
+{Quintilianus}Quintilianus
+{Quintis}Quintis
+{Quintus}Quintus
+{Quirinius}Quirinius
+{Qutuz}Qutuz
+{Rabirius}Rabirius
+{Rabiye}Rabiye
+{Radomiros}Radomiros
+{Radoslav}Radoslav
+{Radoslavov}Radoslavov
+{Radoslaw}Radoslaw
+{Radozta}Radozta
+{Raefillsson}Raefillsson
+{Raffiano}Raffiano
+{Raghnailt}Raghnailt
+{Ragnvald}Ragnvald
+{Rahshia}Rahshia
+{Raibert}Raibert
+{Raina}Raina
+{Rainald}Rainald
+{Rainilda}Rainilda
+{Raisa}Raisa
+{Rakia}Rakia
+{Ralph}Ralph
+{Rambaldo}Rambaldo
+{Rameses}Rameses
+{Ramira}Ramira
+{Ramiric}Ramiriç
+{Ramis}Ramis
+{Ramona}Ramona
+{Ramose}Ramose
+{Ranald}Ranald
+{Randalin}Randalín
+{Randall}Randall
+{Rando}Rando
+{Randve}Randvé
+{Ranerii}Ranerii
+{Ranerius}Ranerius
+{Raoulet}Raoulet
+{Rasha}Rasha
+{Rashne}Rashne
+{Rasia}Rasia
+{Raspe}Raspe
+{Rassul}Rassul
+{Ratibor}Ratibor
+{Raul}Raul
+{Raymond}Raymond
+{Raynucio}Raynucio
+{Raziya}Raziya
+{Rebecca}Rebecca
+{Redondo}Redondo
+{Regaino}Regaino
+{Regillus}Regillus
+{Regina}Regina
+{Regnault}Regnault
+{Regulus}Regulus
+{Reingardis}Reingardis
+{Reis}Reis
+{Remon}Remon
+{Renaldi}Renaldi
+{Renaldus}Renaldus
+{Rene}René
+{Rescuturme}Rescuturme
+{Respigli}Respigli
+{Reudilo}Reudilo
+{Rex}Rex
+{Rhadamsades}Rhadamsades
+{Rhaskos}Rhaskos
+{Rhaskuporis}Rhaskuporis
+{Rhea}Rhea
+{Rhene}Rhene
+{Rhescuporis}Rhescuporis
+{Rhesus}Rhesus
+{Rhetogenes}Rhetogenes
+{Rhoda}Rhoda
+{Rhode}Rhode
+{Rhodope}Rhodope
+{Rhoemetalces}Rhoemetalces
+{Rhydderch}Rhydderch
+{Rianorix}Rianorix
+{Ribaddi}Ribaddi
+{Ribsi}Ribsi
+{Ricardo}Ricardo
+{Ricbolda}Ricbolda
+{Ricburgis}Ricburgis
+{Riccha}Riccha
+{Ricco}Ricco
+{Ricgard}Ricgard
+{Richa}Richa
+{Richard}Richard
+{Richart}Richart
+{Richelieu}Richelieu
+{Richelmi}Richelmi
+{Ricordi}Ricordi
+{Rigarda}Rigarda
+{Rigi}Rigi
+{Riguardatta}Riguardatta
+{Rimsin}Rimsin
+{Rino}Rino
+{Ritter}Ritter
+{Rizah}Rizah
+{Rizardo}Rizardo
+{Robert}Robert
+{Robin}Robin
+{Robins}Robins
+{Rodgers}Rodgers
+{Rodrigo}Rodrigo
+{Rodrigues}Rodrigues
+{Rodulf}Rodulf
+{Roger}Roger
+{Rogerios}Rogerios
+{Rogier}Rogier
+{Roht}Roht
+{Rokh}Rokh
+{Rolandino}Rolandino
+{Rolando}Rolando
+{Roles}Roles
+{Rolet}Rolet
+{Rolin}Rolin
+{Romano}Romano
+{Romanus}Romanus
+{Romaso}Romaso
+{Roos}Roos
+{Rory}Rory
+{Rosana}Rosana
+{Roshan}Roshan
+{Rossa}Rossa
+{Rossana}Rossana
+{Rossi}Rossi
+{Rossos}Rossos
+{Rossus}Rossus
+{Roxane}Roxane
+{Roxanna}Roxanna
+{Roy}Roy
+{Rrui}Rrui
+{Ruadri}Ruadrí
+{Ruberto}Ruberto
+{Rubertus}Rubertus
+{Rubeus}Rubeus
+{Rudolf}Rudolf
+{Ruesdorf}Ruesdorf
+{Rufus}Rufus
+{Rugiero}Rugiero
+{Rui}Rui
+{Rullianus}Rullianus
+{Rupilius}Rupilius
+{Ruppel}Ruppel
+{Ruprecht}Ruprecht
+{Rusa}Rusa
+{Rushdi}Rushdi
+{Rusicade}Rusicade
+{Russadir}Russadir
+{Russell}Russell
+{Rustem}Rüstem
+{Rusucuru}Rusucuru
+{Rutilius}Rutilius
+{Ruy}Ruy
+{Ruyz}Ruyz
+{Ryksa}Ryksa
+{Ryszard}Ryszard
+{Rzegotka}Rzegotka
+{S_ah-huban}S'ah-huban
+{S_erife-bol}S'erife-bol
+{S_eruda}S'eruda
+{Saad}Saad
+{Saadauri}Saadauri
+{Sabina}Sabina
+{Sabinus}Sabinus
+{Sabrata}Sabrata
+{Sabratha}Sabratha
+{Sabry}Sabry
+{Saccas}Saccas
+{Sacchi}Sacchi
+{Sacha}Sacha
+{Sacrovir}Sacrovir
+{Saduf}Saduf
+{Saeed}Saeed
+{Safiya}Safiya
+{Safiye}Safiye
+{Sagirah}Sagirah
+{Saheena}Saheena
+{Sahiri}Sahiri
+{Said}Said
+{Saidi-Sief}Saidi-Sief
+{Saisset}Saisset
+{Sakarbal}Sakarbal
+{Saladin}Saladin
+{Salahud_Din}Salahud Din
+{Salam}Salam
+{Salamish}Salamish
+{Salan}Salan
+{Saldae}Saldae
+{Saled}Saled
+{Salheddine}Salheddine
+{Salier}Salier
+{Salih}Salih
+{Salim}Salim
+{Sallustias}Sallustias
+{Sallvador}Sallvador
+{Salma}Salma
+{Salmoneus}Salmoneus
+{Salonina}Salonina
+{Saluador}Saluador
+{Salutari}Salutari
+{Salvaza}Salvaza
+{Salvi}Salvi
+{Salviati}Salviati
+{Salvidienus}Salvidienus
+{Salvius}Salvius
+{Samir}Samir
+{Samuel}Samuel
+{Samy}Samy
+{Sancha}Sancha
+{Sanches}Sanches
+{Sanchiz}Sanchiz
+{Sancho}Sancho
+{Sandino}Sandino
+{Sandomierz}Sandomierz
+{Sandra}Sandra
+{Sandy}Sandy
+{Santa}Santa
+{Santesa}Santesa
+{Santiago}Santiago
+{Sanuto}Sanuto
+{Sappho}Sappho
+{Sara}Sára
+{Saraceno}Saraceno
+{Saracinus}Saracinus
+{Saray}Saray
+{Sardini}Sardini
+{Sarduri}Sarduri
+{Sarosh}Sarosh
+{Sarrasin}Sarrasin
+{Sartaq}Sartaq
+{Sartor}Sartor
+{Saruca}Saruca
+{Satres}Satres
+{Satsobek}Satsobek
+{Saturninus}Saturninus
+{Saulius}Saulius
+{Saunites}Saunites
+{Sauromates}Sauromates
+{Sautes}Sautes
+{Savelli}Savelli
+{Savia}Savia
+{Sayf_ad_Din}Sayf ad Din
+{Sbyslav}Sbyslav
+{Sbyslavov}Sbyslavov
+{Scaevola}Scaevola
+{Scamandius}Scamandius
+{Scannabecchi}Scannabecchi
+{Scapula}Scapula
+{Scarlatti}Scarlatti
+{Scaurus}Scaurus
+{Scherer}Scherer
+{Scholast}Scholast
+{Scipio}Scipio
+{Sclavo}Sclavo
+{Scolari}Scolari
+{Scorilo}Scorilo
+{Scotti}Scotti
+{Scribonianus}Scribonianus
+{Scribonius}Scribonius
+{Scrope}Scrope
+{Scylax}Scylax
+{Scyles}Scyles
+{Scylla}Scylla
+{Scylurus}Scylurus
+{Sebasteia}Sebasteia
+{Sebastian}Sebastián
+{Sechequr}Sechequr
+{Secundus}Secundus
+{Sef}Sef
+{Segestes}Segestes
+{Segimerus}Segimerus
+{Segovax}Segovax
+{Sejanus}Sejanus
+{Sekhemwy}Sekhemwy
+{Sekoundos}Sekoundos
+{Selcuk}Selçuk
+{Selefkos}Selefkos
+{Seleucus}Seleucus
+{Selim}Selim
+{Selime}Selime
+{Seloua}Seloua
+{Selvo}Selvo
+{Selwin}Selwin
+{Semele}Semele
+{Semelino}Semelino
+{Semenov}Semenov
+{Semne}Semne
+{Semnos}Semnos
+{Sempronia}Sempronia
+{Sempronius}Sempronius
+{Semyon}Semyon
+{Senaculus}Senaculus
+{Senbi}Senbi
+{Seneca}Seneca
+{Senecio}Senecio
+{Sennianus}Sennianus
+{Sensalis}Sensalis
+{Seonaid}Seonaid
+{Septimius}Septimius
+{Serapia}Serapia
+{Serapio}Serapio
+{Serena}Serena
+{Sergei}Sergei
+{Sergius}Sergius
+{Sertorius}Sertorius
+{Servianus}Servianus
+{Servilia}Servilia
+{Servilianus}Servilianus
+{Servilius}Servilius
+{Servius}Servius
+{Sesithacus}Sesithacus
+{Settignano}Settignano
+{Seubersdorf}Seubersdorf
+{Severa}Severa
+{Severina}Severina
+{Severus}Severus
+{Sextius}Sextius
+{Sextus}Sextus
+{Shabaka}Shabaka
+{Shaban}Shaban
+{Shabana}Shabana
+{Shabataka}Shabataka
+{Shadi}Shadi
+{Shafar}Shafar
+{Shah}Shah
+{Shahira}Shahira
+{Shahrukh}Shahrukh
+{Shakir}Shakir
+{Shaykh}Shaykh
+{Shchuka}Shchuka
+{Shchukin}Shchukin
+{Shehata}Shehata
+{Sherh}Sherh
+{Shidadai}Shidadai
+{Shidebala}Shidebala
+{Shidedai}Shidedai
+{Shideghuk}Shideghuk
+{Shiklah}Shiklah
+{Shillam}Shillam
+{Shuba}Shuba
+{Shubin}Shubin
+{Siamak}Siamak
+{Sibel}Sibel
+{Sibilia}Sibilia
+{Siburg}Siburg
+{Sicca}Sicca
+{Sicco}Sicco
+{Sicinnos}Sicinnos
+{Sidetes}Sidetes
+{Sido}Sido
+{Sidor}Sidor
+{Sidorov}Sidorov
+{Siegfried}Siegfried
+{Sifridus}Sifridus
+{Siga}Siga
+{Sighvat}Sighvat
+{Sigifrid}Sigifrid
+{Sigimer}Sigimer
+{Sigismund}Sigismund
+{Sigurd}Sigurd
+{Silanus}Silanus
+{Siligno}Siligno
+{Silius}Silius
+{Silo}Silo
+{Silva}Silva
+{Silvanus}Silvanus
+{Simmias}Simmias
+{Simo}Simo
+{Simoisius}Simoisius
+{Simon}Simon
+{Simona}Simona
+{Simonides}Simonides
+{Simonis}Simonis
+{Sindhom}Sindhom
+{Sinibaldi}Sinibaldi
+{Sinibaldo}Sinibaldo
+{Sinis}Sinis
+{Sippas}Sippas
+{Siromos}Siromos
+{Sismondi}Sismondi
+{Sitheag}Sitheag
+{Sithy}Sithy
+{Sitti}Sitti
+{Sittius}Sittius
+{Skaaning}Skaaning
+{Skah}Skah
+{Skapti}Skapti
+{Skaris}Skaris
+{Skeggjason}Skeggjason
+{Skender}Skender
+{Skotkonung}Skotkonung
+{Skovgaard}Skovgaard
+{Skunxa}Skunxa
+{Skílas}Skílas
+{Slana}Slana
+{Slavos}Slavos
+{Slembe}Slembe
+{Slyngebard}Slyngebard
+{Smail}Smail
+{Smerdis}Smerdis
+{Smithe}Smithe
+{Snorri}Snorri
+{Soaemias}Soaemias
+{Soarez}Soarez
+{Soavizi}Soavizi
+{Sobislaw}Sobislaw
+{Sochaczew}Sochaczew
+{Socrates}Socrates
+{Socus}Socus
+{Soderino}Soderino
+{Soerensen}Soerensen
+{Sofia}Sofia
+{Sogdianus}Sogdianus
+{Sohnker}Sohnker
+{Sokhatai}Sokhatai
+{Sokollu}Sokollu
+{Solaz}Solaz
+{Solomon}Solomon
+{Sophanes}Sophanes
+{Sophia}Sophia
+{Sophokles}Sophokles
+{Sopianka}Sopianka
+{Soranzo}Soranzo
+{Sorel}Sorel
+{Sorghaghtani_Beki}Sorghaghtani Beki
+{Sosibios}Sosibios
+{Sosicles}Sosicles
+{Sosigines}Sosigines
+{Sosimenes}Sosimenes
+{Sosius}Sosius
+{Sosthenes}Sosthenes
+{Sostias}Sostias
+{Soter}Soter
+{Sotera}Sotera
+{Soylu}Soylu
+{Sparke}Sparke
+{Spartacus}Spartacus
+{Spartocus}Spartocus
+{Specialis}Specialis
+{Speio}Speio
+{Spill}Spill
+{Spiteri}Spiteri
+{Spurius}Spurius
+{Spynner}Spynner
+{Stafford}Stafford
+{Stagio}Stagio
+{Stainey}Stainey
+{Staite}Staite
+{Stammatike}Stammatike
+{Stania}Stania
+{Stanimir}Stanimir
+{Stanimirov}Stanimirov
+{Stanislaus}Stanislaus
+{Stanley}Stanley
+{Stasiak}Stasiak
+{Statilius}Statilius
+{Statius}Statius
+{Stawecki}Stawecki
+{Steaphan}Steaphan
+{Stefania}Stefania
+{Stefano}Stefano
+{Stefanos}Stefanos
+{Steffen}Steffen
+{Stella}Stella
+{Stembanos}Stembanos
+{Sten}Sten
+{Stenger}Stenger
+{Stenkil}Stenkil
+{Stenkilsson}Stenkilsson
+{Stepan}Stepan
+{Stepanov}Stepanov
+{Stepham}Stepham
+{Stephanus}Stephanus
+{Stephen}Stephen
+{Stertinius}Stertinius
+{Stewart}Stewart
+{Stheneboea}Stheneboea
+{Stilo}Stilo
+{Stolo}Stolo
+{Stolos}Stolos
+{Storegaard}Storegaard
+{Strachys}Strachys
+{Stratford}Stratford
+{Stratiocus}Stratiocus
+{Stratios}Stratios
+{Stratonice}Stratonice
+{Strenna}Strenna
+{Stringer}Stringer
+{Strophius}Strophius
+{Strymon}Strymon
+{Stuart}Stuart
+{Stubbe}Stubbe
+{Stuer}Stuer
+{Sturlasson}Sturlasson
+{Suarez}Suarez
+{Suariz}Suariz
+{Subujin}Subujin
+{Subuke}Subuke
+{Subutai}Subutai
+{Sudani}Sudani
+{Suetonius}Suetonius
+{Suhe}Suhe
+{Suker}Suker
+{Sulayman}Sulayman
+{Suleyman}Süleyman
+{Suleymish}Suleymish
+{Sulla}Sulla
+{Sulpicia}Sulpicia
+{Sulpicius}Sulpicius
+{Sumayya}Sumayya
+{Sundak}Sundak
+{Suratralis}Suratralis
+{Surtsson}Surtsson
+{Surur}Surur
+{Sutorius}Sutorius
+{Suyiketu}Suyiketu
+{Svana}Svana
+{Svendsen}Svendsen
+{Sviatopolk}Sviatopolk
+{Svyatopolk}Svyatopolk
+{Swanley}Swanley
+{Swannoc}Swannoc
+{Sweyn}Sweyn
+{Swietopelk}Swietopelk
+{Swynford}Swynford
+{Syagros}Syagros
+{Syele}Syele
+{Symond}Symond
+{Symonne}Symonne
+{Synges}Synges
+{Synnigar}Synnigar
+{Syphax}Syphax
+{Syrus}Syrus
+{Szabo}Szabo
+{Szczepan}Szczepan
+{Szekeres}Szekeres
+{Szymon}Szymon
+{Ta_anari}Ta'anari
+{Tabat}Tabat
+{Tabnit}Tabnit
+{Tabor}Tabor
+{Tacapantzin}Tacapantzin
+{Tacitus}Tacitus
+{Taddea}Taddea
+{Tadeusz}Tadeusz
+{Taha}Taha
+{Tahar}Tahar
+{Taharqa}Taharqa
+{Tailor}Tailor
+{Talaemenes}Talaemenes
+{Talalit}Talalit
+{Talaos}Talaos
+{Talaus}Talaus
+{Talbot}Talbot
+{Talentus}Talentus
+{Tallis}Tallis
+{Talos}Talos
+{Tamas}Tamás
+{Tamer}Tamer
+{Tamerighi}Tamerighi
+{Tamim}Tamim
+{Tancogeistla}Tancogeistla
+{Tancred}Tancred
+{Tangaxoan}Tangaxoan
+{Tanlay}Tanlay
+{Tantawi}Tantawi
+{Tanutamun}Tanutamun
+{Tarchon}Tarchon
+{Tarcia}Tarçia
+{Tareija}Tareija
+{Tareisa}Tareisa
+{Tarek}Tarek
+{Tarnovius}Tarnovius
+{Tarraco}Tarraco
+{Tartessus}Tartessus
+{Tarusinas}Tarusinas
+{Tarvixio}Tarvixio
+{Tasciovanus}Tasciovanus
+{Tasguk}Tasguk
+{Tashfin}Tashfin
+{Tasso}Tasso
+{Tatar}Tatar
+{Tatiana}Tatiana
+{Taureas}Taureas
+{Tauretto}Tauretto
+{Taximagulus}Taximagulus
+{Taxmaspada}Taxmaspada
+{Tayauh}Tayauh
+{Tebaeus}Tebaeus
+{Tecmessa}Tecmessa
+{Tecocoitzin}Tecocoitzin
+{Tecton}Tecton
+{Tecuelhuatzin}Tecuelhuatzin
+{Tecuichpo}Tecuichpo
+{Tedaldo}Tedaldo
+{Teglbjaerg}Teglbjaerg
+{Teicuih}Teicuih
+{Teiranes}Teiranes
+{Teiresias}Teiresias
+{Teispes}Teispes
+{Telamon}Telamon
+{Telemacho}Telemacho
+{Telemachos}Telemachos
+{Telemachus}Telemachus
+{Telephassa}Telephassa
+{Telephos}Telephos
+{Telephus}Telephus
+{Telines}Telines
+{Telles}Telles
+{Tellias}Tellias
+{Telling}Telling
+{Tellis}Tellis
+{Telys}Telys
+{Temictzin}Temictzin
+{Temilotecatl}Temilotecatl
+{Temilotzin}Temilotzin
+{Temublai}Temublai
+{Temudhuk}Temudhuk
+{Temudhun}Temudhun
+{Temudur}Temudur
+{Temugis}Temugis
+{Temujin}Temujin
+{Temulun}Temulun
+{Temur}Temur
+{Tenes}Tenes
+{Tenoch}Tenoch
+{Tenoiro}Tenoiro
+{Tenzacatetl}Tenzacatetl
+{Teobaldo}Teobaldo
+{Teoctlamazqui}Teoctlamazqui
+{Teofilatto}Teofilatto
+{Teos}Teos
+{Teotalco}Teotalco
+{Tepemkau}Tepemkau
+{Tepin}Tepin
+{Teputzitoloc}Teputzitoloc
+{Terentia}Terentia
+{Terentilius}Terentilius
+{Terentius}Terentius
+{Teresa}Teresa
+{Tereus}Tereus
+{Terrett}Terrett
+{Tertius}Tertius
+{Teson}Teson
+{Tessa}Tessa
+{Teti}Teti
+{Tettius}Tettius
+{Teuch}Teuch
+{Teudile}Teudile
+{Teuicui}Teuicui
+{Teukros}Teukros
+{Teutamos}Teutamos
+{Teuthranes}Teuthranes
+{Teuthras}Teuthras
+{Tevenete}Tevenete
+{Texcoyo}Texcoyo
+{Teyacapan}Teyacapan
+{Tezcan}Tezcan
+{Tezozomoc}Tezozomoc
+{Tezozomoctzin}Tezozomoctzin
+{Thabitah}Thabitah
+{Thabraca}Thabraca
+{Thadeo}Thadeo
+{Thais}Thais
+{Thalassa}Thalassa
+{Thaleia}Thaleia
+{Thales}Thales
+{Thalysios}Thalysios
+{Thamagadi}Thamagadi
+{Thapsus}Thapsus
+{Tharybis}Tharybis
+{Thaulos}Thaulos
+{Thea}Thea
+{Theagenes}Theagenes
+{Theages}Theages
+{Theano}Theano
+{Thebe}Thebe
+{Thelma}Thelma
+{Thelonius}Thelonius
+{Theocydes}Theocydes
+{Theodekles}Theodekles
+{Theodericus}Theodericus
+{Theodora}Theodora
+{Theodoric}Theodoric
+{Theodoros}Theodoros
+{Theodosio}Theodosio
+{Theodotis}Theodotis
+{Theodotus}Theodotus
+{Theofano}Theofano
+{Theomestor}Theomestor
+{Theophane}Theophane
+{Theophanes}Theophanes
+{Theophania}Theophania
+{Theophano}Theophano
+{Theophrastos}Theophrastos
+{Theophrastus}Theophrastus
+{Theophylaktos}Theophylaktos
+{Theopompos}Theopompos
+{Theopropides}Theopropides
+{Theoros}Theoros
+{Theos}Theos
+{Theotokios}Theotokios
+{Theramenes}Theramenes
+{Therapon}Therapon
+{Theras}Theras
+{Theresa}Theresa
+{Thero}Thero
+{Theron}Theron
+{Thersandros}Thersandros
+{Therseandros}Therseandros
+{Thersilochus}Thersilochus
+{Thersites}Thersites
+{Thessala}Thessala
+{Thessalonike}Thessalonike
+{Thessalos}Thessalos
+{Thestor}Thestor
+{Thetis}Thetis
+{Thevenin}Thevenin
+{Theveste}Theveste
+{Thibault}Thibault
+{Thierry}Thierry
+{Thisbe}Thisbe
+{Thlohtzin}Thlohtzin
+{Tho}Thoë
+{Thodberg}Thodberg
+{Thomas}Thomas
+{Thomasse}Thomasse
+{Thomisina}Thomisina
+{Thomsen}Thomsen
+{Thorbjorg}Thorbjorg
+{Thorgeir}Thorgeir
+{Thorgils}Thorgils
+{Thorkel}Thorkel
+{Thorkell}Thorkell
+{Thornom}Thornom
+{Thorrodson}Thorrodson
+{Thorsten}Thorsten
+{Thothorses}Thothorses
+{Thoösa}Thoösa
+{Thrasea}Thrasea
+{Thrasidaios}Thrasidaios
+{Thrasilaus}Thrasilaus
+{Thrasymedes}Thrasymedes
+{Thukydides}Thukydides
+{Thusnelda}Thusnelda
+{Thutmose}Thutmose
+{Thuxra}Thuxra
+{Thyestes}Thyestes
+{Thyia}Thyia
+{Thylakas}Thylakas
+{Thymoetes}Thymoetes
+{Thyrsos}Thyrsos
+{Tiacapan}Tiacapan
+{Tiacapantzin}Tiacapantzin
+{Tiberius}Tiberius
+{Tibor}Tibor
+{Tigellinus}Tigellinus
+{Tigran}Tigran
+{Tigranes}Tigranes
+{Tilicuetzpal}Tilicuetzpal
+{Tilik}Tilik
+{Tillman}Tillman
+{Tillo}Tillo
+{Tillote}Tillote
+{Tilmatzin}Tilmatzin
+{Timagenidas}Timagenidas
+{Timagoras}Timagoras
+{Timandra}Timandra
+{Timas}Timas
+{Timasion}Timasion
+{Timasitheus}Timasitheus
+{Timesitheus}Timesitheus
+{Timesithius}Timesithius
+{Timnes}Timnes
+{Timo}Timo
+{Timoleon}Timoleon
+{Timon}Timon
+{Timonax}Timonax
+{Timotheus}Timotheus
+{Timoxenos}Timoxenos
+{Timur}Timur
+{Timurbugha}Timurbugha
+{Tincommius}Tincommius
+{Tingis}Tingis
+{Tipasa}Tipasa
+{Tiro}Tiro
+{Tirynthius}Tirynthius
+{Tita}Tita
+{Tithonius}Tithonius
+{Titiana}Titiana
+{Titus}Titus
+{Tiy}Tiy
+{Tizoc}Tizoc
+{Tizrano}Tizrano
+{Tjorvason}Tjorvason
+{Tlacaelel}Tlacaelel
+{Tlacahuepan}Tlacahuepan
+{Tlacateotl}Tlacateotl
+{Tlaco}Tlaco
+{Tlacochcalcatl}Tlacochcalcatl
+{Tlacoehua}Tlacoehua
+{Tlacoteotzin}Tlacoteotzin
+{Tlacotl}Tlacotl
+{Tlacotzin}Tlacotzin
+{Tlacoxochitl}Tlacoxochitl
+{Tlacyelel}Tlacyelel
+{Tlahuicoli}Tlahuicoli
+{Tlalchiac}Tlalchiac
+{Tlaltececatzin}Tlaltececatzin
+{Tlapaltecatl}Tlapaltecatl
+{Tlapanecatzin}Tlapanecatzin
+{Tlaquiach}Tlaquiach
+{Tlillocapantin}Tlillocapantin
+{Tlilpopoctazin}Tlilpopoctazin
+{Tlilpotonqui}Tlilpotonqui
+{Tlotzin}Tlotzin
+{Tmolus}Tmolus
+{Tobdun}Tobdun
+{Tobiasz}Tobiasz
+{Tobranna}Tobranna
+{Tobritza}Tobritza
+{Tobromeros}Tobromeros
+{Tobu}Tobu
+{Toby}Toby
+{Tochel}Tochel
+{Tochintecuhtli}Tochintecuhtli
+{Tochtli}Tochtli
+{Toda}Toda
+{Togodumnus}Togodumnus
+{Tohin}Tohin
+{Toka}Tóka
+{Toke}Toke
+{Tokhtamysh}Tokhtamysh
+{Tolgyesi}Tolgyesi
+{Tolo}Tolo
+{Tolui}Tolui
+{Tolun}Tolun
+{Tomacelli}Tomacelli
+{Tomado}Tomado
+{Tomas}Tomas
+{Tomascius}Tomascius
+{Tomasia}Tomasia
+{Tomaso}Tomaso
+{Tomasz}Tomasz
+{Tommasa}Tommasa
+{Topiltzin}Topiltzin
+{Toqoqan}Toqoqan
+{Toraren}Toraren
+{Toregene}Toregene
+{Tornikes}Tornikes
+{Torquatus}Torquatus
+{Torriani}Torriani
+{Toscanelli}Toscanelli
+{Tostig}Tostig
+{Tot}Tot
+{Tototl}Tototl
+{Touchet}Touchet
+{Tove}Tove
+{Townsend}Townsend
+{Trajanus}Trajanus
+{Tranquillina}Tranquillina
+{Trdat}Trdat
+{Trebellius}Trebellius
+{Trebonianus}Trebonianus
+{Trebonius}Trebonius
+{Trechus}Trechus
+{Triadano}Triadano
+{Triarius}Triarius
+{Trifyllios}Trifyllios
+{Triopas}Triopas
+{Triptolemus}Triptolemus
+{Tristram}Tristram
+{Troiden}Troiden
+{Troika}Troika
+{Tros}Tros
+{Trutilda}Trutilda
+{Tryggvasson}Tryggvasson
+{Tryphaena}Tryphaena
+{Tryphena}Tryphena
+{Trypho}Trypho
+{Tryphon}Tryphon
+{Tryphosa}Tryphosa
+{Tsagadai}Tsagadai
+{Tsagatai}Tsagatai
+{Tubertus}Tubertus
+{Tuditanus}Tuditanus
+{Tudrus}Tudrus
+{Tullia}Tullia
+{Tullius}Tullius
+{Tullus}Tullus
+{Tulun}Tulun
+{Tungge}Tungge
+{Tunis}Tunis
+{Turbo}Turbo
+{Turek}Turek
+{Turia}Turia
+{Turranius}Turranius
+{Tusco}Tusco
+{Tusculani}Tusculani
+{Tutankhemwy}Tutankhemwy
+{Tutush}Tutush
+{Tvorimir}Tvorimir
+{Tvorimirov}Tvorimirov
+{Txanton}Txanton
+{Txeru}Txeru
+{Txomin}Txomin
+{Tydeides}Tydeides
+{Tydeids}Tydeids
+{Tyler}Tyler
+{Tymnes}Tymnes
+{Tyndareus}Tyndareus
+{Tyndarios}Tyndarios
+{Tyro}Tyro
+{Tzimisces}Tzimisces
+{Tzompan}Tzompan
+{Tzompantli}Tzompantli
+{Tzotzomatzin}Tzotzomatzin
+{Tzuitecatl}Tzuitecatl
+{Uacalxochitl}Uacalxochitl
+{Ubaid}Ubaid
+{Ubaldo}Ubaldo
+{Ubaldus}Ubaldus
+{Uberto}Uberto
+{Udeline}Udeline
+{Udutai}Udutai
+{Ugablai}Ugablai
+{Ugamysh}Ugamysh
+{Ugedai}Ugedai
+{Ugo}Ugo
+{Ugolinus}Ugolinus
+{Ugron}Ugron
+{Ugurgieri}Ugurgieri
+{Ugutz}Ugutz
+{Uhtred}Uhtred
+{Ukhuna}Ukhuna
+{Ulaghci}Ulaghci
+{Ulaszlo}Ulászló
+{Ulayyah}Ulayyah
+{Ulf}Ulf
+{Ulfhedin}Ulfhedin
+{Ulfhildr}Úlfhildr
+{Ulfsen}Ulfsen
+{Ulgarda}Ulgarda
+{Ulpia}Ulpia
+{Ulpianus}Ulpianus
+{Ulpius}Ulpius
+{Ulrich}Ulrich
+{Ulrik}Ulrik
+{Ulrike}Ulrike
+{Umamaita}Umamaita
+{Umar}Umar
+{Umar_Shaykh}Umar Shaykh
+{Umayma}Umayma
+{Umayyah}Umayyah
+{Ummu}Ummu
+{Unai}Unai
+{Underwood}Underwood
+{Unujur}Ûnujur
+{Upadarma}Upadarma
+{Urbicus}Urbicus
+{Urgulania}Urgulania
+{Urgunalla}Urgunalla
+{Urraca}Urraca
+{Urso}Urso
+{Ursus}Ursus
+{Urtzi}Urtzi
+{Ustina}Ustina
+{Usun}Usun
+{Utana}Utana
+{Uthman}Uthman
+{Utica}Utica
+{Uttenheim}Uttenheim
+{Uvaxshtra}Uvaxshtra
+{Vaasco}Vaasco
+{Vaclav}Vaclav
+{Vadas}Vadas
+{Vaggio}Vaggio
+{Vahauka}Vahauka
+{Vahumisa}Vahumisa
+{Vahyavishdapaya}Vahyavishdapaya
+{Vahyazdata}Vahyazdata
+{Vak}Vak
+{Val}Val
+{Valbusa}Valbusa
+{Valdemar}Valdemar
+{Valens}Valens
+{Valenta}Valenta
+{Valerius}Valerius
+{Valsamon}Valsamon
+{Vamos}Vamos
+{Vangio}Vangio
+{Vannius}Vannius
+{Varius}Varius
+{Varro}Varro
+{Varus}Varus
+{Varzi}Varzi
+{Vasileios}Vasileios
+{Vasilievich}Vasilievich
+{Vasilii}Vasilii
+{Vasilike}Vasilike
+{Vatatzes}Vatatzes
+{Vatinius}Vatinius
+{Vaumisa}Vaumisa
+{Vayaspara}Vayaspara
+{Vazques}Vazques
+{Vedis}Védís
+{Veleda}Veleda
+{Velkonia}Velkonia
+{Vellius}Vellius
+{Vellocatus}Vellocatus
+{Vencaslac}Vencaslac
+{Vendramino}Vendramino
+{Venier}Venier
+{Ventidius}Ventidius
+{Ventura}Ventura
+{Veny}Véný
+{Vercassivellaunos}Vercassivellaunos
+{Vercingetorix}Vercingetorix
+{Verctissa}Verctissa
+{Verde}Verde
+{Verdiana}Verdiana
+{Vergilius}Vergilius
+{Verginius}Verginius
+{Verica}Verica
+{Verina}Verina
+{Verisimo}Verisimo
+{Vermuiz}Vermuiz
+{Vermuu}Vermuu
+{Veron}Veron
+{Veroncia}Veroncia
+{Veronika}Veronika
+{Verres}Verres
+{Verritus}Verritus
+{Verrius}Verrius
+{Verus}Verus
+{Vespasianus}Vespasianus
+{Vettias}Vettias
+{Vettius}Vettius
+{Vettus}Vettus
+{Vezina}Vezina
+{Viaro}Viaro
+{Vibia}Vibia
+{Vibius}Vibius
+{Vicini}Vicini
+{Vicke}Vicke
+{Vico}Vico
+{Victor}Victor
+{Viktor}Viktor
+{Vilain}Vilain
+{Villanus}Villanus
+{Villelmes}Villelmes
+{Vilmos}Vilmos
+{Vinarius}Vinarius
+{Vincent}Vincent
+{Vindarna}Vindarna
+{Vindex}Vindex
+{Vindomorucius}Vindomorucius
+{Vinicianus}Vinicianus
+{Violante}Violante
+{Violentilla}Violentilla
+{Viotti}Viotti
+{Vipsania}Vipsania
+{Vipsanius}Vipsanius
+{Virgilio}Virgilio
+{Viriathos}Viriathos
+{Viriathus}Viriathus
+{Virius}Virius
+{Virssuccius}Virssuccius
+{Vishtaspa}Vishtaspa
+{Vissman}Vissman
+{Vistilia}Vistilia
+{Vitale}Vitale
+{Vitaliano}Vitaliano
+{Vitalis}Vitalis
+{Vitellius}Vitellius
+{Vito}Vito
+{Vitruvius}Vitruvius
+{Vivana}Vivana
+{Viviaez}Viviaez
+{Vivianus}Vivianus
+{Vlad}Vlad
+{Vladimir}Vladimir
+{Vlasios}Vlasios
+{Voconius}Voconius
+{Voislav}Voislav
+{Voislavov}Voislavov
+{Volchkov}Volchkov
+{Volchok}Volchok
+{Volesus}Volesus
+{Volkanos}Volkanos
+{Volkmar}Volkmar
+{Vollpato}Vollpato
+{Volo}Volo
+{Volsinius}Volsinius
+{Volubilis}Volubilis
+{Volumnius}Volumnius
+{Vortigern}Vortigern
+{Voteporix}Voteporix
+{Voulgariotes}Voulgariotes
+{Vsevolod}Vsevolod
+{Vtalyus}Vtalyus
+{Vuifken}Vuifken
+{Vulso}Vulso
+{Wah}Wah
+{Wahren}Wahren
+{Walkley}Walkley 
+{Wallace}Wallace
+{Wallach}Wallach
+{Wallia}Wallia
+{Walter}Walter
+{Waradsin}Waradsin
+{Warner}Warner
+{Wartislaw}Wartislaw
+{Watkins}Watkins
+{Webbe}Webbe
+{Weinmuth}Weinmuth
+{Welf}Welf
+{Wenceslaus}Wenceslaus
+{Went}Went
+{Wenzel}Wenzel
+{Weste}Weste
+{Wikerus}Wikerus
+{Wilhelm}Wilhelm
+{Wilhelmus}Wilhelmus
+{Wilkines}Wilkines
+{Willadsen}Willadsen
+{Willelda}Willelda
+{William}William
+{Windeck}Windeck
+{Witcombe}Witcombe
+{Wladyslaw}Wladyslaw
+{Wojno}Wojno
+{Wolfgang}Wolfgang
+{Wolman}Wolman
+{Wood}Wood
+{Wos}Wos
+{Wosret}Wosret
+{Wotecorix}Wotecorix
+{Wozniak}Wozniak
+{Wykowski}Wykowski
+{Wynckworth}Wynckworth
+{Wyndow}Wyndow
+{Xalbador}Xalbador
+{Xanthe}Xanthe
+{Xanthippe}Xanthippe
+{Xanthippos}Xanthippos
+{Xanthippus}Xanthippus
+{Xanthos}Xanthos
+{Xanti}Xanti
+{Xantippe}Xantippe
+{Xavier}Xavier
+{Xenagoras}Xenagoras
+{Xene}Xene
+{Xenokrates}Xenokrates
+{Xenokratis}Xenokratis
+{Xenophanes}Xenophanes
+{Xenophile}Xenophile
+{Xenophon}Xenophon
+{Xenos}Xenos
+{Xerxes}Xerxes
+{Xeus}Xeus
+{Xiconocatzin}Xiconocatzin
+{Xicotencatl}Xicotencatl
+{Xilotzin}Xilotzin
+{Xiloxoch}Xiloxoch
+{Xiloxochitl}Xiloxochitl
+{Xiphilinus}Xiphilinus
+{Xiucaque}Xiucaque
+{Xiucozcatl}Xiucozcatl
+{Xiuhcozcatl}Xiuhcozcatl
+{Xochipanitzin}Xochipanitzin
+{Xochipepe}Xochipepe
+{Xochitl}Xochitl
+{Xoco}Xoco
+{Xocoyol}Xocoyol
+{Xocoyotl}Xocoyotl
+{Xolotl}Xolotl
+{Xomimitl}Xomimitl
+{Xshathrita}Xshathrita
+{Xshayarshan}Xshayarshan
+{Xuthos}Xuthos
+{Xuthus}Xuthus
+{Yaba}Yaba
+{Yahiya}Yahiya
+{Yahya}Yahya
+{Yalbay}Yalbay
+{Yalcin}Yalçin
+{Yalpat}Yalpat
+{Yamak}Yamak
+{Yanes}Yañes
+{Yaotl}Yaotl
+{Yaroslav}Yaroslav
+{Yasser}Yasser
+{Yazici}Yazîcî
+{Yazid}Yazid
+{Yaztachimal}Yaztachimal
+{Ybelote}Ybelote
+{Yedi}Yedi
+{Yegu}Yegu
+{Yehawwielon}Yehawwielon
+{Yeke}Yeke
+{Yeonge}Yeonge
+{Yesublai}Yesublai
+{Yesugatai}Yesugatai
+{Yesugei}Yesugei
+{Yesugis}Yesugis
+{Yesugun}Yesugun
+{Yesui}Yesui
+{Yesuk}Yesuk
+{Yesukai}Yesukai
+{Ynes}Ynes
+{Yngvild}Yngvild
+{Yngwie}Yngwie
+{Youssef}Youssef
+{Yrsa}Yrsa
+{Ysa}Ysa
+{Ysabeau}Ysabeau
+{Ysabel}Ysabel
+{Ysabelle}Ysabelle
+{Ysenda}Ysenda
+{Ysevolod}Ysevolod
+{Yuli}Yuli
+{Yuri}Yuri
+{Yurukhan}Yurukhan
+{Yusuf}Yusuf
+{Yutpan}Yutpan
+{Yves}Yves
+{Zabeya}Zabeya
+{Zabinas}Zabinas
+{Zacharek}Zacharek
+{Zadornin}Zadornin
+{Zafer}Zafer
+{Zagreus}Zagreus
+{Zahra}Zahra
+{Zaiats}Zaiats
+{Zaitsev}Zaitsev
+{Zakariyya}Zakariyya
+{Zakhariev}Zakhariev
+{Zaki}Zaki
+{Zalelsan}Zalelsan
+{Zalmoxis}Zalmoxis
+{Zamolxis}Zamolxis
+{Zancani}Zancani
+{Zane}Zane
+{Zaneta}Zaneta
+{Zanotti}Zanotti
+{Zapolya}Zapolya
+{Zappa}Zappa
+{Zaretti}Zaretti
+{Zavadsky}Zavadsky
+{Zavid}Zavid
+{Zavidov}Zavidov
+{Zaynab}Zaynab
+{Zbigniew}Zbigniew
+{Zbyshka}Zbyshka
+{Zdeb}Zdeb
+{Zein}Zein
+{Zen}Zen
+{Zenicetes}Zenicetes
+{Zeno}Zeno
+{Zenobia}Zenobia
+{Zenodoros}Zenodoros
+{Zerbos}Zerbos
+{Zethus}Zethus
+{Zeuxis}Zeuxis
+{Zhen_Jin}Zhen Jin
+{Zhiroslav}Zhiroslav
+{Zhiroslavov}Zhiroslavov
+{Zhiznobud}Zhiznobud
+{Zhiznobudov}Zhiznobudov
+{Zhor}Zhor
+{Ziaelas}Ziaelas
+{Ziemowit}Ziemowit
+{Ziepyrus}Ziepyrus
+{Zigor}Zigor
+{Ziles}Ziles
+{Zilio}Zilio
+{Zimrida}Zimrida
+{Zincicha}Zincicha
+{Zipaibes}Zipaibes
+{Ziper}Ziper
+{Zipoetes}Zipoetes
+{Zircon}Zircon
+{Zirn}Zirn
+{Zita}Zita
+{Zitouna}Zitouna
+{Ziyad}Ziyad
+{Zizi}Zizi
+{Zoe}Zoe
+{Zoilos}Zoilos
+{Zolin}Zolin
+{Zolton}Zolton
+{Zonta}Zonta
+{Zophia}Zophia
+{Zoppo}Zoppo
+{Zoranna}Zoranna
+{Zorion}Zorion
+{Zoroaster}Zoroaster
+{Zorzi}Zorzi
+{Zougla}Zougla
+{Zsigmond}Zsigmond
+{Zsofia}Zsófia
+{Zsuzsanna}Zsuzsanna
+{Zuabi}Zuabi
+{Zub}Zub
+{Zubov}Zubov
+{Zuhal}Zühal
+{Zuraw}Zuraw
+{Zurawski}Zurawski
+{Zusto}Zusto
+{Zygmunt}Zygmunt
+{Zyraxes}Zyraxes
+{ad-Dawlah}ad-Dawlah
+{al-Abbas}al-Abbas
+{al-Andalusi}al-Andalusi
+{al-Balansi}al-Balansi
+{al-Dani}al-Dani
+{al-Garnati}al-Garnati
+{al-Ifriqi}al-Ifriqi
+{al-Isbili}al-Isbili
+{al-Jayyani}al-Jayyani
+{al-Magribi}al-Magribi
+{al-Mari}al-Mari
+{al-Mayurqui}al-Mayurqui
+{al-Mulk}al-Mulk
+{al-Mursi}al-Mursi
+{al-Qurtubi}al-Qurtubi
+{al-Rundi}al-Rundi
+{al-Su_ud}al-Su'ud
+{al-Talamanki}al-Talamanki
+{al-Tulaytuli}al-Tulaytuli
+{al-Tunayzi}al-Tunayzi
+{al_Adid}al Âdid
+{al_Adil}al Adil
+{al_Alai}al Alai
+{al_Alfi}al Alfi
+{al_Amin}al Amin
+{al_Amir}al Amir
+{al_Ashqar}al Ashqar
+{al_Az_iz}al Az'iz
+{al_Aziz}al Aziz
+{al_Faiz}al Faiz
+{al_Hadi}al Hadi
+{al_Hafiz}al Hafiz
+{al_Hakim}al Hakim
+{al_Hasan}al Hasan
+{al_Ikhshid}al Ikhshid
+{al_Jashnakir}al Jashnakir
+{al_Kamil}al Kamil
+{al_Labi}al Labi
+{al_Ma_mun}al Ma'mun
+{al_Mahdi}al Mahdi
+{al_Mahmudi}al Mahmudi
+{al_Mansur}al Mansur
+{al_Mu_izz}al Mu'izz
+{al_Mu_tasim}al Mu'tasim
+{al_Muazzam}al Muazzam
+{al_Mubi}al Mubi
+{al_Muizzi}al Muizzi
+{al_Muntasir}al Muntasir
+{al_Mustain}al Mustain
+{al_Mustakfi}al Mustakfi
+{al_Mustali}al Mustali
+{al_Mustamsik}al Mustamsik
+{al_Mustanjid}al Mustanjid
+{al_Mutadid}al Mutadid
+{al_Mutasim}al Mutasim
+{al_Mutawakkil}al Mutawakkil
+{al_Qaim}al Qaim
+{al_Rashid}al Rashid
+{al_Turkumani}al Turkumani
+{al_Wathiq}al Wathiq
+{al_Zahiri}al Zahiri
+{as_Salih}as Salih
+{az_Zafir}az Zafir
+{d_Albret}d'Albret
+{d_Allmeida}d'Allmeida
+{d_Alvarez}d'Alvarez
+{d_Angers}d'Angers
+{d_Aquino}d'Aquino
+{d_Arles}d'Arles
+{d_Artois}d'Artois
+{d_Atayde}d'Atayde
+{d_Orleans}d'Orléans
+{d_Ulhoa}d'Ulhoa
+{da_Baggio}da Baggio
+{da_Canal}da Canal
+{da_Costa}da Costa
+{da_Gaetan}da Gaetan
+{da_Molin}da Molin
+{da_Ponte}da Ponte
+{da_Silva}da Silva
+{da_Valgoma}da Valgoma
+{da_Vinci}da Vinci
+{de_Acaudes}de Acaudes
+{de_Alario}de Alario
+{de_Alba}de Alba
+{de_Alicante}de Alicante
+{de_Andura}de Andura
+{de_Anguino}de Anguino
+{de_Arizio}de Arizio
+{de_Auleta}de Auleta
+{de_Avena}de Avena
+{de_Avolos}de Avolos
+{de_Bagnaro}de Bagnaro
+{de_Balliol}de Balliol
+{de_Balneo}de Balneo
+{de_Bangno}de Bangno
+{de_Barcelona}de Barcelona
+{de_Bardi}de Bardi
+{de_Bargio}de Bargio
+{de_Barros}de Barros
+{de_Baza}de Baza
+{de_Beauchamp}de Beauchamp
+{de_Bello}de Bello
+{de_Benafri}de Benafri
+{de_Bestia}de Bestia
+{de_Bethune}de Béthune
+{de_Biancho}de Biancho
+{de_Bianco}de Bianco
+{de_Biella}de Biella
+{de_Bilbao}de Bilbao
+{de_Blois}de Blois
+{de_Bolaque}de Bolaque
+{de_Bonaval}de Bonaval
+{de_Bordeaux}de Bordeaux
+{de_Bouillon}de Bouillon
+{de_Bourbon}de Bourbon
+{de_Bourges}de Bourges
+{de_Brabant}de Brabant
+{de_Breze}de Brézé
+{de_Brienne}de Brienne
+{de_Briho}de Briho
+{de_Bronzo}de Bronzo
+{de_Brunec}de Brunec
+{de_Buona}de Buona
+{de_Calais}de Calais
+{de_Calama}de Calama
+{de_Calce}de Calce
+{de_Caldera}de Caldera
+{de_Calheiros}de Calheiros
+{de_Calpizato}de Calpizato
+{de_Calvelo}de Calvelo
+{de_Cana}de Cana
+{de_Canol}de Canol
+{de_Canpo}de Canpo
+{de_Cantone}de Cantone
+{de_Cardinale}de Cardinale
+{de_Cariati}de Cariati
+{de_Caro}de Caro
+{de_Carracedo}de Carraçedo
+{de_Casino}de Casino
+{de_Castelbuzo}de Castelbuzo
+{de_Castile}de Castile
+{de_Castinous}de Castinous
+{de_Castro}de Castro
+{de_Catallo}de Catallo
+{de_Cava}de Cava
+{de_Chabannes}de Chabannes
+{de_Champagne}de Champagne
+{de_Chiara}de Chiara
+{de_Chiza}de Chiza
+{de_Chrem}de Chrem
+{de_Cinabro}de Cinabro
+{de_Ciuas}de Ciuas
+{de_Cleves}de Clèves
+{de_Clue_foni}de Clue foni
+{de_Coco}de Coco
+{de_Coligny}de Coligny
+{de_Concordia}de Concordia
+{de_Contuzzo}de Contuzzo
+{de_Cordoba}de Cordoba
+{de_Corso}de Corso
+{de_Costoa}de Costoa
+{de_Crasto}de Crasto
+{de_Crenola}de Crenola
+{de_Crete}de Crete
+{de_Crotone}de Crotone
+{de_Cunha}de Cunha
+{de_Dalmatia}de Dalmatia
+{de_Dampierre}de Dampierre
+{de_Dardia}de Dardia
+{de_Dijon}de Dijon
+{de_Dingna}de Dingna
+{de_Draga}de Draga
+{de_Elche}de Elche
+{de_Embolo}de Embolo
+{de_Fabro}de Fabro
+{de_Fagiano}de Fagiano
+{de_Felice}de Felice
+{de_Felitta}de Felitta 
+{de_Feltre}de Feltre
+{de_Feques}de Feques
+{de_Fereyrra}de Fereyrra 
+{de_Ferraria}de Ferraria
+{de_Ferro}de Ferro
+{de_Feun}de Feun
+{de_Figarolo}de Figarolo
+{de_Finale}de Finale
+{de_Finiza}de Finiza
+{de_Fiume}de Fiume
+{de_Foix}de Foix
+{de_Fondaco}de Fondaco
+{de_Fonpical}de Fonpical
+{de_Garda}de Garda
+{de_Genoa}de Genoa
+{de_Gera}de Gera
+{de_Giallo}de Giallo
+{de_Giemona}de Giemona
+{de_Giovanni}de Giovanni
+{de_Giusti}de Giusti
+{de_Gorgeto}de Gorgeto
+{de_Granada}de Granada
+{de_Grasse}de Grasse
+{de_Grasso}de Grasso
+{de_Gualsto}de Gualsto
+{de_Guardia}de Guardia
+{de_Guilhade}de Guilhade
+{de_Isoleta}de Isoleta
+{de_Lama}de Lama
+{de_Lannoy}de Lannoy
+{de_Larocha}de Larocha
+{de_Lemos}de Lemos
+{de_Leon}de Leon
+{de_Lima}de Lima
+{de_Lisano}de Lisano
+{de_Loches}de Loches
+{de_Lopizo}de Lopizo
+{de_Loronha}de Loronha
+{de_Luca}de Luca
+{de_Lugana}de Lugana
+{de_Lusignan}de Lusignan
+{de_Luynes}de Luynes
+{de_Lyon}de Lyon
+{de_Madia}de Madia
+{de_Madrid}de Madrid
+{de_Magas}de Magas
+{de_Magio}de Magio
+{de_Manchia}de Manchia
+{de_Mantua}de Mantua
+{de_Marano}de Marano
+{de_Marchi}de Marchi
+{de_Marigny}de Marigny
+{de_Marseille}de Marseille
+{de_Martino}de Martino
+{de_Massa}de Massa
+{de_Mauchaut}de Mauchaut
+{de_Mauro}de Mauro
+{de_Medici}de Medici
+{de_Mello}de Mello
+{de_Menesses}de Menesses
+{de_Meo}de Meo
+{de_Mesa}de Mesa
+{de_Michelis}de Michelis
+{de_Milan}de Milan
+{de_Modina}de Modina
+{de_Molay}de Molay
+{de_Molta}de Molta
+{de_Monaco}de Monaco
+{de_Montfort}de Montfort
+{de_Montona}de Montona
+{de_Mota}de Mota
+{de_Murcia}de Murcia
+{de_Naples}de Naples
+{de_Narayola}de Narayola
+{de_Negri}de Negri
+{de_Neufville}de Neufville
+{de_Nevers}de Nevers
+{de_Nino}de Nino
+{de_Niro}de Niro
+{de_Nogal}de Nogal
+{de_Nogaret}de Nogaret
+{de_Occhio}de Occhio
+{de_Orticaio}de Orticaio
+{de_Oviedo}de Oviedo
+{de_Paiva}de Paiva
+{de_Palenza}de Palenza
+{de_Palma}de Palma
+{de_Parenzo}de Parenzo
+{de_Paris}de Paris
+{de_Parma}de Parma
+{de_Paulo}de Paulo
+{de_Pisce}de Pisce
+{de_Pistoia}de Pistoia
+{de_Plaisians}de Plaisians
+{de_Plater}de Plater
+{de_Poitiers}de Poitiers
+{de_Pola}de Pola
+{de_Ponteba}de Ponteba
+{de_Potenza}de Potenza
+{de_Provence}de Provence
+{de_Puccio}de Puccio
+{de_Recho}de Recho
+{de_Reims}de Reims
+{de_Rhezo}de Rhezo
+{de_Ribeyrina}de Ribeyriña
+{de_Richemont}de Richemont
+{de_Riomor}de Riomor
+{de_Rogiano}de Rogiano
+{de_Ronigno}de Ronigno
+{de_Rosa}de Rosa
+{de_Ruggiero}de Ruggiero 
+{de_Sala}de Sala
+{de_Salerno}de Salerno
+{de_Sancia}de Sancia
+{de_Sanctis}de Sanctis
+{de_Sandin}de Sandin
+{de_Santiago}de Santiago
+{de_Sarrea}de Sarrea
+{de_Sarria}de Sarría
+{de_Scala}de Scala
+{de_Scylazo}de Scylazo
+{de_Seabra}de Seabra
+{de_Sere}de Sere
+{de_Serso}de Serso
+{de_Sevilla}de Sevilla
+{de_Sicily}de Sicily
+{de_Sousa}de Sousa
+{de_Spina}de Spina
+{de_Spino}de Spino
+{de_Surriba}de Surriba
+{de_Talaveira}de Talaveira
+{de_Tarante}de Tarante
+{de_Tarragona}de Tarragona
+{de_Tippen}de Tippen
+{de_Tobrio}de Tobrio
+{de_Tolmezo}de Tolmezo
+{de_Torilia}de Torilia
+{de_Toro}de Toro
+{de_Tortona}de Tortona
+{de_Toulouse}de Toulouse
+{de_Trebesaio}de Trebesaio
+{de_Treis}de Treis
+{de_Turchio}de Turchio
+{de_Turin}de Turin
+{de_Turri}de Turri
+{de_Vaca}de Vaca
+{de_Valence}de Valence
+{de_Valencia}de Valencia
+{de_Valois}de Valois
+{de_Vecchio}de Vecchio
+{de_Veer}de Veer
+{de_Vela}de Vela
+{de_Vendome}de Vendôme
+{de_Venice}de Venice
+{de_Verde}de Verde
+{de_Vere}de Vere
+{de_Verona}de Verona
+{de_Vesc}de Vesc
+{de_Vesci}de Vesci
+{de_Vibona}de Vibona
+{de_Vico}de Vico
+{de_Vietre}de Vietre
+{de_Vigo}de Vigo
+{de_Vinago}de Vinago
+{de_Vito}de Vito
+{de_Vitoria}de Vitoria
+{de_Vleho}de Vleho
+{de_Volta}de Volta
+{de_Yuso}de Yuso
+{de_casa_Lei}de casa Lei
+{del_Arco}del Arco
+{del_Fra}del Fra
+{del_Noce}del Noce
+{del_Picoto}del Picoto
+{del_Piero}del Piero
+{der_Bar}der Bar
+{der_Bartige}der Bartige
+{der_Rote}der Rote
+{der_Stoltze}der Stoltze
+{des_Roches}des Roches
+{di_Augusta}di Augusta
+{di_Biagio}di Biagio
+{di_Camarana}di Camarana
+{di_Capizzi}di Capizzi
+{di_Caprio}di Caprio
+{di_Castello}di Castello
+{di_Catania}di Catania
+{di_Centa}di Centa 
+{di_Galeata}di Galeata
+{di_Giovine}di Giovine
+{di_Grande}di Grande
+{di_Iasio}di Iasio
+{di_Labruca}di Labruca
+{di_Livio}di Livio
+{di_Lucca}di Lucca
+{di_Martamo}di Martamo
+{di_Monsanto}di Monsanto
+{di_Roca}di Roca
+{di_Suburra}di Suburra
+{di_Taranto}di Taranto
+{di_Tella}di Tella
+{di_Vittorio}di Vittorio
+{di_natali}di natali
+{di_spina}di spina
+{do_Coton}do Coton
+{do_Vinhal}do Vinhal
+{du_Guesclin}du Guesclin
+{du_Lac}du Lac
+{el_Valiente}el Valiente
+{le_Brun}le Brun
+{le_Gris}le Gris
+{le_Maingre}le Maingre
+{le_Sueur}le Sueur
+{of_Aalborg}of Aalborg
+{of_Abarquh}of Abarquh
+{of_Abdera}of Abdera
+{of_Aberdeen}of Aberdeen
+{of_Abila}of Abila
+{of_Abingdon}of Abingdon
+{of_Abydos}of Abydos
+{of_Acarnania}of Acarnania
+{of_Ace}of Ace
+{of_Achaea}of Achaea
+{of_Actium}of Actium
+{of_Adana}of Adana
+{of_Adianbene}of Adianbene
+{of_Aduatuca}of Aduatuca
+{of_Aduatucorum}of Aduatucorum
+{of_Aegina}of Aegina
+{of_Aegium}of Aegium
+{of_Aenus}of Aenus
+{of_Agathe}of Agathe
+{of_Agbatana}of Agbatana
+{of_Agedincum}of Agedincum
+{of_Agra}of Agra
+{of_Agrigentum}of Agrigentum
+{of_Ahvaz}of Ahvaz
+{of_Akhmim}of Akhmim
+{of_Akrokos}of Akrokos
+{of_Al_Jizah}of Al Jizah
+{of_Al_Minya}of Al Minya
+{of_Alabum}of Alabum
+{of_Albis}of Albis
+{of_Albrighton}of Albrighton
+{of_Alcester}of Alcester
+{of_Aleppo}of Aleppo
+{of_Alesia}of Alesia
+{of_Alethina}of Alethina
+{of_Algeria}of Algeria
+{of_Almeria}of Almeria
+{of_Alnwick}of Alnwick
+{of_Amasei}of Amasei
+{of_Amasia}of Amasia
+{of_Amastris}of Amastris
+{of_Ambracia}of Ambracia
+{of_Amersham}of Amersham
+{of_Amesbury}of Amesbury
+{of_Amisus}of Amisus
+{of_Amphipolis}of Amphipolis
+{of_Anatolia}of Anatolia
+{of_Ancyra}of Ancyra
+{of_Anderita}of Anderita
+{of_Andijan}of Andijan
+{of_Angus}of Angus
+{of_Ani}of Ani
+{of_Annam}of Annam
+{of_Ans}of Ans
+{of_Antaradus}of Antaradus
+{of_Antigonela}of Antigonela
+{of_Antiochus}of Antiochus
+{of_Antipatreia}of Antipatreia
+{of_Apamea}of Apamea
+{of_Apaortenon}of Apaortenon
+{of_Apavortene}of Apavortene
+{of_Apollonia}of Apollonia
+{of_Appolonia}of Appolonia
+{of_Aqua_Arnemetiae}of Aqua Arnemetiae
+{of_Aquae_Sulis}of Aquae Sulis
+{of_Arad}of Arad
+{of_Aradus}of Aradus
+{of_Arausio}of Arausio
+{of_Arbeia}of Arbeia
+{of_Arbela}of Arbela
+{of_Arduenna}of Arduenna
+{of_Arethusa}of Arethusa
+{of_Argentorate}of Argentorate
+{of_Argos}of Argos
+{of_Argyll}of Argyll
+{of_Ariaratheia}of Ariaratheia
+{of_Armenia}of Armenia
+{of_Armerinia}of Armerinia
+{of_Arsamosata}of Arsamosata
+{of_Arshak}of Arshak
+{of_Arsinoe}of Arsinoe
+{of_Artaxata}of Artaxata
+{of_Arurius}of Arurius
+{of_Arzanene}of Arzanene
+{of_Asaak}of Asaak
+{of_Ascalon}of Ascalon
+{of_Ashbourne}of Ashbourne
+{of_Ashir}of Ashir
+{of_Ashkha}of Ashkha
+{of_Ashur}of Ashur
+{of_Ashwell}of Ashwell
+{of_Aspendus}of Aspendus
+{of_Astacus}of Astacus
+{of_Aswan}of Aswan
+{of_Asyut}of Asyut
+{of_Athamania}of Athamania
+{of_Athens}of Athens
+{of_Athos}of Athos
+{of_Atropatene}of Atropatene
+{of_Attaleia}of Attaleia
+{of_Attica}of Attica
+{of_Aturius}of Aturius
+{of_Aventicum}of Aventicum
+{of_Avnik}of Avnik
+{of_Axbridge}of Axbridge
+{of_Axona}of Axona
+{of_Ayrshire}of Ayrshire
+{of_Azcapotzalco}of Azcapotzalco
+{of_Azotus}of Azotus
+{of_Babylon}of Babylon
+{of_Babylonia}of Babylonia
+{of_Badajoz}of Badajoz
+{of_Baecula}of Baecula
+{of_Baghdad}of Baghdad
+{of_Bagut}of Bagut
+{of_Bam}of Bam
+{of_Bambyce}of Bambyce
+{of_Bampton}of Bampton
+{of_Banffshire}of Banffshire
+{of_Barcino}of Barcino
+{of_Bardasir}of Bardasir
+{of_Basra}of Basra
+{of_Bedford}of Bedford
+{of_Behistun}of Behistun
+{of_Belogorod}of Belogorod
+{of_Belum}of Belum
+{of_Belyigora}of Belyigora
+{of_Belz}of Belz
+{of_Beroea}of Beroea
+{of_Berwick}of Berwick
+{of_Berwickshire}of Berwickshire
+{of_Berytus}of Berytus
+{of_Bibrax}of Bibrax
+{of_Biggleswade}of Biggleswade
+{of_Bilbilis}of Bilbilis
+{of_Birmingham}of Birmingham
+{of_Birs_Nimrud}of Birs Nimrud
+{of_Bithyniae}of Bithyniae
+{of_Bithynium}of Bithynium
+{of_Blatooulgium}of Blatooulgium
+{of_Boeotia}of Boeotia
+{of_Bogense}of Bogense
+{of_Bonna}of Bonna
+{of_Borcastle}of Borcastle
+{of_Borovaia}of Borovaia
+{of_Borsippa}of Borsippa
+{of_Bostra}of Bostra
+{of_Boüsa}of Boüsa
+{of_Braclaw}of Braclaw
+{of_Brasso}of Brasso
+{of_Bremenium}of Bremenium
+{of_Bremetennacum}of Bremetennacum
+{of_Bremia}of Bremia
+{of_Brigantium}of Brigantium
+{of_Bristol}of Bristol
+{of_Brocavum}of Brocavum
+{of_Buckingham}of Buckingham
+{of_Bukhara}of Bukhara
+{of_Burdigala}of Burdigala
+{of_Burma}of Burma
+{of_Bust}of Bust
+{of_Bute}of Bute
+{of_Byblus}of Byblus
+{of_Byggland}of Byggland
+{of_Bytom}of Bytom
+{of_Cabeira}of Cabeira
+{of_Cabillonum}of Cabillonum
+{of_Cairo}of Cairo
+{of_Caithness}of Caithness
+{of_Calatayud}of Calatayud
+{of_Calchedon}of Calchedon
+{of_Calleva}of Calleva
+{of_Cambridge}of Cambridge
+{of_Camulodunum}of Camulodunum
+{of_Canovium}of Canovium
+{of_Cantebury}of Cantebury
+{of_Capilico}of Capilico
+{of_Carana}of Carana
+{of_Caranionus}of Caranionus
+{of_Carcaso}of Carcaso
+{of_Carmo}of Carmo
+{of_Carnavarane}of Carnavarane
+{of_Carparthia}of Carparthia
+{of_Carrhae}of Carrhae
+{of_Carteia}of Carteia
+{of_Carthago_Nova}of Carthago Nova
+{of_Cassandreia}of Cassandreia
+{of_Castabala}of Castabala
+{of_Castillejo}of Castillejo
+{of_Castulo}of Castulo
+{of_Catana}of Catana
+{of_Cenabum}of Cenabum
+{of_Cenad}of Cenad
+{of_Centuripae}of Centuripae
+{of_Cephallenia}of Cephallenia
+{of_Cerasus}of Cerasus
+{of_Ceuta}of Ceuta
+{of_Cevenna}of Cevenna
+{of_Chabacta}of Chabacta
+{of_Chalcatzingo}of Chalcatzingo
+{of_Chalcidice}of Chalcidice
+{of_Chalcis}of Chalcis
+{of_Champa}of Champa
+{of_Chaonia}of Chaonia
+{of_Charax}of Charax
+{of_Chelm}of Chelm
+{of_Cheltenham}of Cheltenham
+{of_Chernigov}of Chernigov
+{of_Chimara}of Chimara
+{of_Chios}of Chios
+{of_Cholula}of Cholula
+{of_Chorzow}of Chorzow
+{of_Chudleigh}of Chudleigh
+{of_Cierus}of Cierus
+{of_Cius}of Cius
+{of_Clair}of Clair
+{of_Clausentum}of Clausentum
+{of_Clunia}of Clunia
+{of_Cobhame}of Cobhame
+{of_Colonia}of Colonia
+{of_Comana}of Comana
+{of_Copenhagen}of Copenhagen
+{of_Corcyra}of Corcyra
+{of_Cordoba}of Cordoba
+{of_Corduba}of Corduba
+{of_Coria}of Coria
+{of_Corinium}of Corinium
+{of_Corinth}of Corinth
+{of_Corstopitum}of Corstopitum
+{of_Corycus}of Corycus
+{of_Cos}of Cos
+{of_Crete}of Crete
+{of_Ctesiphon}of Ctesiphon
+{of_Cuernavaca}of Cuernavaca
+{of_Cuexcomate}of Cuexcomate
+{of_Cuicuilco}of Cuicuilco
+{of_Cunetio}of Cunetio
+{of_Cyprus}of Cyprus
+{of_Cypsela}of Cypsela
+{of_Dakhla}of Dakhla
+{of_Damanhur}of Damanhur
+{of_Damascus}of Damascus
+{of_Damghan}of Damghan
+{of_Damietta}of Damietta
+{of_Dandera}of Dandera
+{of_Danum}of Danum
+{of_Dara}of Dara
+{of_Darband}of Darband
+{of_Dardania}of Dardania
+{of_Darlington}of Darlington
+{of_Decetia}of Decetia
+{of_Delhi}of Delhi
+{of_Delium}of Delium
+{of_Delos}of Delos
+{of_Delphi}of Delphi
+{of_Demetrias}of Demetrias
+{of_Dertosa}of Dertosa
+{of_Deva}of Deva
+{of_Dia}of Dia
+{of_Diabolos}of Diabolos
+{of_Dianium}of Dianium
+{of_Dibractes}of Dibractes
+{of_Dimale}of Dimale
+{of_Dium}of Dium
+{of_Dolopia}of Dolopia
+{of_Doncaster}of Doncaster
+{of_Dora}of Dora
+{of_Dorylaeum}of Dorylaeum
+{of_Douglas}of Douglas
+{of_Drachova}of Drachova
+{of_Dragor}of Dragør
+{of_Drepana}of Drepana
+{of_Droitwich}of Droitwich
+{of_Drymostia}of Drymostia
+{of_Dubis}of Dubis
+{of_Dunwich}of Dunwich
+{of_Dura-Europas}of Dura-Europas
+{of_Duranius}of Duranius
+{of_Durham}of Durham
+{of_Durnovaria}of Durnovaria
+{of_Durobrivae}of Durobrivae
+{of_Durocortorum}of Durocortorum
+{of_Durolipons}of Durolipons
+{of_Durovernum}of Durovernum
+{of_Durovigutum}of Durovigutum
+{of_Dyf}of Dyf
+{of_Dyrrachium}of Dyrrachium
+{of_East_Lothian}of East Lothian
+{of_Eboracum}of Eboracum
+{of_Ebro}of Ebro
+{of_Ecbatana}of Ecbatana
+{of_Echinus}of Echinus
+{of_Eddur}of Eddur
+{of_Edessa}of Edessa
+{of_Edinburgh}of Edinburgh
+{of_Eikey}of Eikey
+{of_Elaver}of Elaver
+{of_Elblag}of Elblag
+{of_Elegeia}of Elegeia
+{of_Elis}of Elis
+{of_Elymais}of Elymais
+{of_Emerita}of Emerita
+{of_Emesa}of Emesa
+{of_Emporiae}of Emporiae
+{of_Enna}of Enna
+{of_Epardus}of Epardus
+{of_Ephesus}of Ephesus
+{of_Epidamnus}of Epidamnus
+{of_Epiphaneia}of Epiphaneia
+{of_Epirus}of Epirus
+{of_Eretria}of Eretria
+{of_Ermeleia}of Ermeleia
+{of_Esbjerg}of Esbjerg
+{of_Esztergom}of Esztergom
+{of_Euboea}of Euboea
+{of_Eulaeus}of Eulaeus
+{of_Europa-Rhagai}of Europa-Rhagai
+{of_Europatoria}of Europatoria
+{of_Evesham}of Evesham
+{of_Evniani}of Evniani
+{of_Eynsham}of Eynsham
+{of_Ezova}of Ezova
+{of_Faborg}of Fåborg
+{of_Fairford}of Fairford
+{of_Fars}of Fars
+{of_Fehervar}of Fehervar
+{of_Fez}of Fez
+{of_Fife}of Fife
+{of_Flookburgh}of Flookburgh
+{of_Fossae}of Fossae
+{of_Frampton}of Frampton
+{of_Gabae}of Gabae
+{of_Gadara}of Gadara
+{of_Gades}of Gades
+{of_Galich}of Galich
+{of_Galicia}of Galicia
+{of_Gangra}of Gangra
+{of_Ganja}of Ganja
+{of_Garumna}of Garumna
+{of_Gaza}of Gaza
+{of_Gaziura}of Gaziura
+{of_Gdansk}of Gdansk
+{of_Gedrosia}of Gedrosia
+{of_Gela}of Gela
+{of_Genava}of Genava
+{of_Georgia}of Georgia
+{of_Gerasa}of Gerasa
+{of_Geredeh}of Geredeh
+{of_Gesoriacum}of Gesoriacum
+{of_Ghazna}of Ghazna
+{of_Gindarus}of Gindarus
+{of_Glannaventa}of Glannaventa
+{of_Glastonbury}of Glastonbury
+{of_Gleva}of Gleva
+{of_Glevum}of Glevum
+{of_Gomphi}of Gomphi
+{of_Gonni}of Gonni
+{of_Gordiucome}of Gordiucome
+{of_Gordium}of Gordium
+{of_Gordyene}of Gordyene
+{of_Gorgobina}of Gorgobina
+{of_Gorneae}of Gorneae
+{of_Gortyn}of Gortyn
+{of_Gracchuris}of Gracchuris
+{of_Grena}of Grenå
+{of_Grenada}of Grenada
+{of_Grindsted}of Grindsted
+{of_Grudziadz}of Grudziadz
+{of_Guildford}of Guildford
+{of_Gurgan}of Gurgan
+{of_Gythium}of Gythium
+{of_Haderslev}of Haderslev
+{of_Hadsund}of Hadsund
+{of_Haemilium}of Haemilium
+{of_Halicz}of Halicz
+{of_Hamadan}of Hamadan
+{of_Hartford}of Hartford
+{of_Hastings}of Hastings
+{of_Hatra}of Hatra
+{of_Hecatompylos}of Hecatompylos
+{of_Hedyphon}of Hedyphon
+{of_Helenopolis}of Helenopolis
+{of_Heliopolis}of Heliopolis
+{of_Heraclea}of Heraclea
+{of_Heracleia}of Heracleia
+{of_Heracleopolis}of Heracleopolis
+{of_Heracleum}of Heracleum
+{of_Herat}of Herat
+{of_Hereford}of Hereford
+{of_Herning}of Herning
+{of_Hestiaeotis}of Hestiaeotis
+{of_Hilla}of Hilla
+{of_Himera}of Himera
+{of_Hims}of Hims
+{of_Hinckley}of Hinckley
+{of_Hippus}of Hippus
+{of_Hispalis}of Hispalis
+{of_Holmr}of Holmr
+{of_Horsens}of Horsens
+{of_Hungerford}of Hungerford
+{of_Hurghada}of Hurghada
+{of_Hurmuz}of Hurmuz
+{of_Hyrcania}of Hyrcania
+{of_Ibaconn}of Ibaconn
+{of_Ibera}of Ibera
+{of_Ichnae}of Ichnae
+{of_Iconium}of Iconium
+{of_Ictis}of Ictis
+{of_Ierissos}of Ierissos
+{of_Ilerda}of Ilerda
+{of_Ilipa}of Ilipa
+{of_Ilium}of Ilium
+{of_Illyria}of Illyria
+{of_Ilorci}of Ilorci
+{of_Imbaba}of Imbaba
+{of_Ipsus}of Ipsus
+{of_Isara}of Isara
+{of_Isca}of Isca
+{of_Isfahan}of Isfahan
+{of_Istoma}of Istoma
+{of_Isurium}of Isurium
+{of_Itius_Portis}of Itius Portis
+{of_Ivashkovo}of Ivashkovo
+{of_Jand}of Jand
+{of_Jansbork}of Jansbork
+{of_Jiruft}of Jiruft
+{of_Jura_Mons}of Jura Mons
+{of_Jyllinge}of Jyllinge
+{of_Kabul}of Kabul
+{of_Kadikeui}of Kadikeui
+{of_Kainepolis}of Kainepolis
+{of_Kalisz}of Kalisz
+{of_Kaluga}of Kaluga
+{of_Kalundborg}of Kalundborg
+{of_Kangavar}of Kangavar
+{of_Karbala}of Karbala
+{of_Karvaioi}of Karvaioi
+{of_Kashan}of Kashan
+{of_Kashghar}of Kashghar
+{of_Kassa}of Kassa
+{of_Kastrion}of Kastrion
+{of_Kendal}of Kendal
+{of_Kharga}of Kharga
+{of_Khojend}of Khojend
+{of_Kholm}of Kholm
+{of_Kibotos}of Kibotos
+{of_Kingsbridge}of Kingsbridge
+{of_Kirkuk}of Kirkuk
+{of_Kirman}of Kirman
+{of_Kleppr}of Kleppr
+{of_Knossus}of Knossus
+{of_Knutsford}of Knutsford
+{of_Koge}of Køge
+{of_Kollr}of Kollr
+{of_Kolozsvar}of Kolozsvar
+{of_Kom_Ombo}of Kom Ombo
+{of_Konkobar}of Konkobar
+{of_Koros}of Koros
+{of_Koryo}of Koryo
+{of_Koszalin}of Koszalin
+{of_Krakow}of Krakow
+{of_Krisis}of Krisis
+{of_Krolewlec}of Krolewlec
+{of_Kuchki}of Kuchki
+{of_Kursk}of Kursk
+{of_Labus}of Labus
+{of_Lacaedon}of Lacaedon
+{of_Lacedon}of Lacedon
+{of_Lactodorum}of Lactodorum
+{of_Lacus_Lemannus}of Lacus Lemannus
+{of_Lahore}of Lahore
+{of_Lamavu}of Lamavu
+{of_Lamia}of Lamia
+{of_Lampe}of Lampe
+{of_Lampsacus}of Lampsacus
+{of_Lanarkshire}of Lanarkshire
+{of_Lancaster}of Lancaster
+{of_Laodicea}of Laodicea
+{of_Laodiceia}of Laodiceia
+{of_Larissa}of Larissa
+{of_Laughamarr}of Laughamarr
+{of_Lazica}of Lazica
+{of_Leeds}of Leeds
+{of_Legnica}of Legnica
+{of_Lemnos}of Lemnos
+{of_Lemonum}of Lemonum
+{of_Lesbos}of Lesbos
+{of_Leucas}of Leucas
+{of_Libanum}of Libanum
+{of_Libethron}of Libethron
+{of_Lidzbark}of Lidzbark
+{of_Liger}of Liger
+{of_Lilybaeum}of Lilybaeum
+{of_Lindinis}of Lindinis
+{of_Lindum}of Lindum
+{of_Lissus}of Lissus
+{of_Liubech}of Liubech
+{of_Loadicea}of Loadicea
+{of_Lodz}of Lodz
+{of_Lokken}of Løkken
+{of_London}of London
+{of_Loroton}of Loroton
+{of_Lozikin}of Lozikin
+{of_Lublin}of Lublin
+{of_Lugdunum}of Lugdunum
+{of_Luguvalium}of Luguvalium
+{of_Lutetia}of Lutetia
+{of_Luxor}of Luxor
+{of_Lwow}of Lwow
+{of_Lycus}of Lycus
+{of_Lydham}of Lydham
+{of_Lyncestis}of Lyncestis
+{of_Lysias}of Lysias
+{of_Lysimachia}of Lysimachia
+{of_Macedonia}of Macedonia
+{of_Magnesia}of Magnesia
+{of_Maidstone}of Maidstone
+{of_Mainake}of Mainake
+{of_Malaca}of Malaca
+{of_Malaga}of Malaga
+{of_Malayta}of Malayta
+{of_Mallus}of Mallus
+{of_Mamucium}of Mamucium
+{of_Mange}of Mange
+{of_Marathus}of Marathus
+{of_Mardin}of Mardin
+{of_Marisa}of Marisa
+{of_Maroneia}of Maroneia
+{of_Marrakesh}of Marrakesh
+{of_Marstal}of Marstal
+{of_Mashhad}of Mashhad
+{of_Massilia}of Massilia
+{of_Matisco}of Matisco
+{of_Matrona}of Matrona
+{of_Mazaca}of Mazaca
+{of_Meclodunum}of Meclodunum
+{of_Media}of Media
+{of_Mediolanum}of Mediolanum
+{of_Mediomanum}of Mediomanum
+{of_Melilla}of Melilla
+{of_Merida}of Merida
+{of_Merryfield}of Merryfield
+{of_Merv}of Merv
+{of_Mesene}of Mesene
+{of_Messana}of Messana
+{of_Messene}of Messene
+{of_Metellinum}of Metellinum
+{of_Midlothian}of Midlothian
+{of_Miletus}of Miletus
+{of_Milovsh}of Milovsh
+{of_Mithradatkart}of Mithradatkart
+{of_Moguntiacum}of Moguntiacum
+{of_Mopsuestia}of Mopsuestia
+{of_Moray}of Moray
+{of_Morgantina}of Morgantina
+{of_Moridunum}of Moridunum
+{of_Morocco}of Morocco
+{of_Mosa}of Mosa
+{of_Mosella}of Mosella
+{of_Moskva}of Moskva
+{of_Mosul}of Mosul
+{of_Multan}of Multan
+{of_Munda}of Munda
+{of_Murcia}of Murcia
+{of_Mylae}of Mylae
+{of_Mylos}of Mylos
+{of_Myra}of Myra
+{of_Myrlea}of Myrlea
+{of_Mystakonon}of Mystakonon
+{of_Nagyszombat}of Nagyszombat
+{of_Nairnshire}of Nairnshire
+{of_Nakskov}of Nakskov
+{of_Nanortalik}of Nanortalik
+{of_Naulochus}of Naulochus
+{of_Naupactus}of Naupactus
+{of_Neakitou}of Neakitou
+{of_Neledina}of Neledina
+{of_Nemausus}of Nemausus
+{of_Nemetocenna}of Nemetocenna
+{of_Neocaesareia}of Neocaesareia
+{of_Nicaea}of Nicaea
+{of_Nicephorium}of Nicephorium
+{of_Nicomedia}of Nicomedia
+{of_Nicopolis}of Nicopolis
+{of_Nihavand}of Nihavand
+{of_Nineveh}of Nineveh
+{of_Nippur}of Nippur
+{of_Nisa}of Nisa
+{of_Nisaia}of Nisaia
+{of_Nishapur}of Nishapur
+{of_Nisibis}of Nisibis
+{of_Nordby}of Nordby
+{of_Noreia}of Noreia
+{of_Normandy}of Normandy
+{of_Northampton}of Northampton
+{of_Nottingham}of Nottingham
+{of_Noubarya}of Noubarya
+{of_Novaesium}of Novaesium
+{of_Novgorod}of Novgorod
+{of_Noviodunum}of Noviodunum
+{of_Noviomagus}of Noviomagus
+{of_Nyitra}of Nyitra
+{of_Obolensk}of Obolensk
+{of_Odoev}of Odoev
+{of_Olba}of Olba
+{of_Old_Sarum}of Old Sarum
+{of_Olicana}of Olicana
+{of_Olisipo}of Olisipo
+{of_Oltis}of Oltis
+{of_Olympia}of Olympia
+{of_Opole}of Opole
+{of_Oradea}of Oradea
+{of_Oran}of Oran
+{of_Oratha}of Oratha
+{of_Oricus}of Oricus
+{of_Orkney}of Orkney
+{of_Oropus}of Oropus
+{of_Osca}of Osca
+{of_Osdravikin}of Osdravikin
+{of_Ottolobus}of Ottolobus
+{of_Otumba}of Otumba
+{of_Oxford}of Oxford
+{of_Pachuca}of Pachuca
+{of_Paeonia}of Paeonia
+{of_Painswick}of Painswick
+{of_Pallantia}of Pallantia
+{of_Palmyra}of Palmyra
+{of_Panormus}of Panormus
+{of_Patrae}of Patrae
+{of_Pecs}of Pecs
+{of_Peeblesshire}of Peeblesshire
+{of_Peiraeeus}of Peiraeeus
+{of_Pella}of Pella
+{of_Peloponnese}of Peloponnese
+{of_Pelorygion}of Pelorygion
+{of_Pergamum}of Pergamum
+{of_Perge}of Perge
+{of_Perrhaebia}of Perrhaebia
+{of_Persis}of Persis
+{of_Perthshire}of Perthshire
+{of_Pessinus}of Pessinus
+{of_Pest}of Pest
+{of_Petra}of Petra
+{of_Petrola}of Petrola
+{of_Petuaria}of Petuaria
+{of_Pevista}of Pevista
+{of_Phalanna}of Phalanna
+{of_Pharnaceia}of Pharnaceia
+{of_Pharsalus}of Pharsalus
+{of_Phasis}of Phasis
+{of_Pherae}of Pherae
+{of_Philadelphia}of Philadelphia
+{of_Philippi}of Philippi
+{of_Philomelium}of Philomelium
+{of_Philoteria}of Philoteria
+{of_Phocis}of Phocis
+{of_Phoenice}of Phoenice
+{of_Phthiotis}of Phthiotis
+{of_Pickering}of Pickering
+{of_Pieria}of Pieria
+{of_Pimolisa}of Pimolisa
+{of_Pinnata_Castra}of Pinnata Castra
+{of_Piourkh}of Piourkh
+{of_Piraeus}of Piraeus
+{of_Plagena}of Plagena
+{of_Plock}of Plock
+{of_Plymouth}of Plymouth
+{of_Pogost}of Pogost
+{of_Pole}of Pole
+{of_Pons_Aelius}of Pons Aelius
+{of_Pontus}of Pontus
+{of_Porkhov}of Porkhov
+{of_Portaes}of Portaes
+{of_Portarea}of Portarea
+{of_Portus_Adurni}of Portus Adurni
+{of_Posideium}of Posideium
+{of_Potholinos}of Potholinos
+{of_Poznan}of Poznan
+{of_Pozsony}of Pozsony
+{of_Praaspa}of Praaspa
+{of_Preasnitza}of Preasnitza
+{of_Prusa}of Prusa
+{of_Prusias}of Prusias
+{of_Psalida}of Psalida
+{of_Ptolemais}of Ptolemais
+{of_Puoggion}of Puoggion
+{of_Pupki}of Pupki
+{of_Pydna}of Pydna
+{of_Pylos}of Pylos
+{of_Pythion}of Pythion
+{of_Qaanaq}of Qaanaq
+{of_Qatwan}of Qatwan
+{of_Qudunz}of Qudunz
+{of_Qum}of Qum
+{of_Radonezh}of Radonezh
+{of_Raphia}of Raphia
+{of_Ratae}of Ratae
+{of_Raurica}of Raurica
+{of_Rawa}of Rawa
+{of_Ray}of Ray
+{of_Regina}of Regina
+{of_Renfrewshire}of Renfrewshire
+{of_Rhenus}of Rhenus
+{of_Rhizus}of Rhizus
+{of_Rhodae}of Rhodae
+{of_Rhodanus}of Rhodanus
+{of_Rhodes}of Rhodes
+{of_Rhosus}of Rhosus
+{of_Rochester}of Rochester
+{of_Ross-shire}of Ross-shire
+{of_Rothwell}of Rothwell
+{of_Rowne}of Rowne
+{of_Rum}of Rum
+{of_Runavik}of Runavik
+{of_Rus}of Rus
+{of_Rybnik}of Rybnik
+{of_Sabis}of Sabis
+{of_Sabzavar}of Sabzavar
+{of_Saguntum}of Saguntum
+{of_Salinae}of Salinae
+{of_Salo}of Salo
+{of_Salona}of Salona
+{of_Samarabriva}of Samarabriva
+{of_Samaria}of Samaria
+{of_Samarqand}of Samarqand
+{of_Same}of Same
+{of_Samos}of Samos
+{of_Samosata}of Samosata
+{of_Samothrace}of Samothrace
+{of_Sandarr}of Sandarr
+{of_Sanok}of Sanok
+{of_Saramana}of Saramana
+{of_Satala}of Satala
+{of_Scaldis}of Scaldis
+{of_Scodra}of Scodra
+{of_Scotussa}of Scotussa
+{of_Sebasteia}of Sebasteia
+{of_Segesta}of Segesta
+{of_Segobriga}of Segobriga
+{of_Segontia}of Segontia
+{of_Segontium}of Segontium
+{of_Segovia}of Segovia
+{of_Seleuceia}of Seleuceia
+{of_Seleucia}of Seleucia
+{of_Seleucis}of Seleucis
+{of_Selge}of Selge
+{of_Selinus}of Selinus
+{of_Selkirkshire}of Selkirkshire
+{of_Serres}of Serres
+{of_Seville}of Seville
+{of_Shakhova}of Shakhova
+{of_Shetland}of Shetland
+{of_Shiraz}of Shiraz
+{of_Shushtar}of Shushtar
+{of_Sicilia}of Sicilia
+{of_Side}of Side
+{of_Sidera}of Sidera
+{of_Sidon}of Sidon
+{of_Sieradz}of Sieradz
+{of_Sikrum}of Sikrum
+{of_Silva}of Silva
+{of_Simnan}of Simnan
+{of_Singara}of Singara
+{of_Siqhnaq}of Siqhnaq
+{of_Sivas}of Sivas
+{of_Siwah}of Siwah
+{of_Skolhamarr}of Skolhamarr
+{of_Skyttingi}of Skyttingi
+{of_Slupsk}of Slupsk
+{of_Smolensk}of Smolensk
+{of_Smyrna}of Smyrna
+{of_Solace}of Solace
+{of_Soli}of Soli
+{of_Sophene}of Sophene
+{of_Sorviodunum}of Sorviodunum
+{of_Spalato}of Spalato
+{of_Sparta}of Sparta
+{of_Spasini}of Spasini
+{of_St_Albans}of St Albans
+{of_St_Giles}of St Giles
+{of_Stomion}of Stomion
+{of_Suez}of Suez
+{of_Susa}of Susa
+{of_Sutherland}of Sutherland
+{of_Suzdal}of Suzdal
+{of_Svalunes}of Svalunes
+{of_Svanabyr}of Svanabyr
+{of_Swendborg}of Swendborg
+{of_Syracuse}of Syracuse
+{of_Syrinx}of Syrinx
+{of_Szczecin}of Szczecin
+{of_Szeben}of Szeben
+{of_Szegedin}of Szegedin
+{of_Szolos}of Szolos
+{of_Taba}of Taba
+{of_Tabriz}of Tabriz
+{of_Tagae}of Tagae
+{of_Talas}of Talas
+{of_Tambrax}of Tambrax
+{of_Tangier}of Tangier
+{of_Tanta}of Tanta
+{of_Taourla}of Taourla
+{of_Tapuria}of Tapuria
+{of_Tarnis}of Tarnis
+{of_Tarnow}of Tarnów
+{of_Tarsus}of Tarsus
+{of_Tartessus}of Tartessus
+{of_Tashkent}of Tashkent
+{of_Tasiilaq}of Tasiilaq
+{of_Taulara}of Taulara
+{of_Tavium}of Tavium
+{of_Taxila}of Taxila
+{of_Temesvar}of Temesvar
+{of_Tempe}of Tempe
+{of_Tenochtitlan}of Tenochtitlan
+{of_Teotihuacan}of Teotihuacan
+{of_Tepexpan}of Tepexpan
+{of_Texcoco}of Texcoco
+{of_Thapsacus}of Thapsacus
+{of_Thasos}of Thasos
+{of_Thatcham}of Thatcham
+{of_Thebes}of Thebes
+{of_Thessalonica}of Thessalonica
+{of_Thessaly}of Thessaly
+{of_Thrace}of Thrace
+{of_Tibet}of Tibet
+{of_Tiflis}of Tiflis
+{of_Tiginabad}of Tiginabad
+{of_Tigranocerta}of Tigranocerta
+{of_Timrid}of Timrid
+{of_Tisbury}of Tisbury
+{of_Tium}of Tium
+{of_Tius}of Tius
+{of_Tlacopan}of Tlacopan
+{of_Tlapacoya}of Tlapacoya
+{of_Tlatelolco}of Tlatelolco
+{of_Tlatilco}of Tlatilco
+{of_Tlemcen}of Tlemcen
+{of_Toledo}of Toledo
+{of_Toletum}of Toletum
+{of_Tolosa}of Tolosa
+{of_Toluca}of Toluca
+{of_Tomisa}of Tomisa
+{of_Tonder}of Tønder
+{of_Torun}of Torun
+{of_Trapezus}of Trapezus
+{of_Traxiana}of Traxiana
+{of_Trebizond}of Trebizond
+{of_Trencsen}of Trencsen
+{of_Treverorum}of Treverorum
+{of_Trimontium}of Trimontium
+{of_Tripolis}of Tripolis
+{of_Trogir}of Trogir
+{of_Trubetsk}of Trubetsk
+{of_Tuetoburga}of Tuetoburga
+{of_Tula}of Tula
+{of_Turkistan}of Turkistan
+{of_Turov}of Turov
+{of_Tus}of Tus
+{of_Tvoroyri}of Tvoroyri
+{of_Tyana}of Tyana
+{of_Tychy}of Tychy
+{of_Uighur}of Uighur
+{of_Urfa}of Urfa
+{of_Urgench}of Urgench
+{of_Urso}of Urso
+{of_Uruk}of Uruk
+{of_Utrar}of Utrar
+{of_Uxellodunum}of Uxellodunum
+{of_Valdinga}of Valdinga
+{of_Valentia}of Valentia
+{of_Valsequillo}of Valsequillo
+{of_Varad}of Varad
+{of_Varde}of Varde
+{of_Vasharovo}of Vasharovo
+{of_Ve}of Ve
+{of_Vectis}of Vectis
+{of_Vellaunodunum}of Vellaunodunum
+{of_Velzistha}of Velzistha
+{of_Venorae}of Venorae
+{of_Venta}of Venta
+{of_Verad}of Verad
+{of_Vercovicium}of Vercovicium
+{of_Verulamium}of Verulamium
+{of_Vesontio}of Vesontio
+{of_Vestmanna}of Vestmanna
+{of_Vetera}of Vetera
+{of_Vidin}of Vidin
+{of_Vienna}of Vienna
+{of_Vikhus}of Vikhus
+{of_Vindelicum}of Vindelicum
+{of_Vindonissa}of Vindonissa
+{of_Vojens}of Vojens
+{of_Vokshera}of Vokshera
+{of_Volga}of Volga
+{of_Volhynia}of Volhynia
+{of_Vologesocerta}of Vologesocerta
+{of_Vyshgorod}of Vyshgorod
+{of_Warsaw}of Warsaw
+{of_Wellington}of Wellington
+{of_West_Derby}of West Derby
+{of_West_Lothian}of West Lothian
+{of_Westbury}of Westbury
+{of_Whitby}of Whitby
+{of_Wigtownshire}of Wigtownshire
+{of_Wyrsn}of Wyrsn
+{of_Xochicalco}of Xochicalco
+{of_Yarkand}of Yarkand
+{of_Yautepec}of Yautepec
+{of_Yazd}of Yazd
+{of_York}of York
+{of_Zabdicene}of Zabdicene
+{of_Zabolota}of Zabolota
+{of_Zacynthos}of Zacynthos
+{of_Zagazig}of Zagazig
+{of_Zagrab}of Zagrab
+{of_Zallaca}of Zallaca
+{of_Zara}of Zara
+{of_Zavarnikeia}of Zavarnikeia
+{of_Zbarazh}of Zbarazh
+{of_Zela}of Zela
+{of_Zenodotium}of Zenodotium
+{of_Zhmuda}of Zhmuda
+{of_Zichna}of Zichna
+{of_Zuegma}of Zuegma
+{of_the_Arulad}of the Arulad
+{of_the_Bagarin}of the Bagarin
+{of_the_Bashkirs}of the Bashkirs
+{of_the_Borjigin}of the Borjigin
+{of_the_Geniges}of the Geniges
+{of_the_Jirgin}of the Jirgin
+{of_the_Jurkin}of the Jurkin
+{of_the_Kereyid}of the Kereyid
+{of_the_Kharlugh}of the Kharlugh
+{of_the_Khorilar}of the Khorilar
+{of_the_Kirghiz}of the Kirghiz
+{of_the_Manghud}of the Manghud
+{of_the_Merkid}of the Merkid
+{of_the_Mordvins}of the Mordvins
+{of_the_Naiman}of the Naiman
+{of_the_Oirat}of the Oirat
+{of_the_Onggut}of the Onggut
+{of_the_Oyirad}of the Oyirad
+{of_the_Qonggirat}of the Qonggirat
+{of_the_Tartars}of the Tartars
+{of_the_Tatar}of the Tatar
+{of_the_Tayichigud}of the Tayichigud
+{of_the_Ungirad}of the Ungirad
+{of_the_Uriangkhai}of the Uriangkhai
+{the_Atrebates}the Atrebates
+{the_Balleol}the Balleol
+{the_Belgae}the Belgae
+{the_Boroundoun}the Boroundoun
+{the_Brigantes}the Brigantes
+{the_Britanii}the Britanii
+{the_Britunculi}the Britunculi
+{the_Broiss}the Broiss
+{the_Callaici}the Callaici
+{the_Cantiaci}the Cantiaci
+{the_Carpetani}the Carpetani
+{the_Carvetii}the Carvetii
+{the_Catuvellauni}the Catuvellauni
+{the_Celtiberi}the Celtiberi
+{the_Conqueror}the Conqueror
+{the_Coritani}the Coritani
+{the_Cornovii}the Cornovii
+{the_Damnonii}the Damnonii
+{the_Deceangli}the Deceangli
+{the_Demetae}the Demetae
+{the_Dobunni}the Dobunni
+{the_Dumnonii}the Dumnonii
+{the_Durotriges}the Durotriges
+{the_Edetani}the Edetani
+{the_Iceni}the Iceni
+{the_Illergetes}the Illergetes
+{the_Lusitani}the Lusitani
+{the_Novantae}the Novantae
+{the_Ordovices}the Ordovices
+{the_Oretani}the Oretani
+{the_Parisi}the Parisi
+{the_Regnenses}the Regnenses
+{the_Ross}the Ross
+{the_Scotii}the Scotii
+{the_Selgovae}the Selgovae
+{the_Silures}the Silures
+{the_Sowlis}the Sowlis
+{the_Trinovantes}the Trinovantes
+{the_Turdetani}the Turdetani
+{the_Vaccaei}the Vaccaei
+{the_Votadini}the Votadini
+{von_Augsburg}von Augsburg
+{von_Austria}von Austria
+{von_Balk}von Balk
+{von_Bavaria}von Bavaria
+{von_Berlin}von Berlin
+{von_Bohmen}von Bohmen
+{von_Bremen}von Bremen
+{von_Darmstadt}von Darmstadt
+{von_Dassel}von Dassel
+{von_Duisberg}von Duisberg
+{von_Dusseldorf}von Düsseldorf
+{von_Erfurt}von Erfurt
+{von_Essen}von Essen
+{von_Felben}von Felben
+{von_Franconia}von Franconia
+{von_Franken}von Franken
+{von_Frankfurt}von Frankfurt
+{von_Frieberg}von Frieberg
+{von_Grunungen}von Grunungen
+{von_Hamburg}von Hamburg
+{von_Hapsburg}von Hapsburg
+{von_Heidelberg}von Heidelberg
+{von_Hesse}von Hesse
+{von_Holland}von Holland
+{von_Holstein}von Holstein
+{von_Jungingen}von Jungingen
+{von_Kassel}von Kassel
+{von_Kastilien}von Kastilien
+{von_Kniprode}von Kniprode
+{von_Lombardy}von Lombardy
+{von_Lubeck}von Lübeck
+{von_Luxemburg}von Luxemburg
+{von_Madgeburg}von Madgeburg
+{von_Mahren}von Mahren
+{von_Munich}von Munich
+{von_Nassau}von Nassau
+{von_Numerberg}von Numerberg
+{von_Salza}von Salza
+{von_Salzgitter}von Salzgitter
+{von_Saxony}von Saxony
+{von_Schwaben}von Schwaben
+{von_Swabia}von Swabia
+{von_Tyrolia}von Tyrolia
+{von_Wolfsburg}von Wolfsburg
+{von_der_Pfalz}von der Pfalz
+{women}women

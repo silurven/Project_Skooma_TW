@@ -1,0 +1,37 @@
+¬ M2TW strings
+{Anatolian_Rebels}Anatolian Rebels
+{Arab_Rebels}Arab Rebels
+{Armenian_Rebels}Armenian Rebels
+{Bohemian_Rebels}Bohemian Rebels
+{Bulgarian_Rebels}Bulgarian Rebels
+{Burgundian_Rebels}Burgundian Rebels
+{Croatian_Rebels}Croatian Rebels
+{English_Rebels}English Rebels
+{Fatimid_Rebels}Fatimid Rebels
+{Flemish_Rebels}Flemish Rebels
+{French_Rebels}French Rebels
+{German_Rebels}German Rebels
+{Greek_Rebels}Greek Rebels
+{Iberian_Rebels}Iberian Rebels
+{Irish_Rebels}Irish Rebels
+{Island_Rebels}Island Rebels
+{Italian_Rebels}Italian Rebels
+{Livonian_Rebels}Livonian Rebels
+{Magyar_Rebels}Magyar Rebels
+{Mexican_Rebels}Mexican Rebels
+{Native_Rebels}Native Rebels 
+{Norse_Rebels}Norse Rebels
+{Polish_Rebels}Polish Rebels
+{Rus_Rebels}Rus Rebels
+{Saharan_Rebels}Saharan Rebels
+{Scots_Rebels}Scots Rebels
+{Seljuk_Rebels}Seljuk Rebels
+{Spanish_Rebels}Spanish Rebels
+{Steppe_Rebels}Steppe Rebels
+{Swiss_Rebels}Swiss Rebels
+{Wallachian_Rebels}Wallachian Rebels
+{Welsh_Rebels}Welsh Rebels
+{brigands}Brigands
+{gladiator_uprising}The Gladiator Uprising
+{pirates}Pirates
+{slave_uprising}The Slave Uprising

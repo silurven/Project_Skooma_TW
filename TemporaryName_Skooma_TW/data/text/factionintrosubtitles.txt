@@ -1,0 +1,346 @@
+¬ ---------- Faction Intros Subtitles ---------------------
+¬ ---------- Exported from MTW2_Speech.xls ----------------
+¬ ---------------- English ----------------------
+
+{Prologue_Intro_1}
+Following the death of Edward the Confessor, England fell into a bitter power struggle. Harold Godwinson was quick to seize power, though the King of Norway, Harald Hardrada felt the land his birthright. However the late Edward had promised the throne to William, the Duke of Normandy, who, with the blessing of the Pope, readied his army for conquest.
+
+{Prologue_Intro_2}
+Father, word from England. Hardrada lies dead and his army defeated.
+
+{Prologue_Intro_3}
+And what of Harold Godwinson?
+
+{Prologue_Intro_4}
+His victory at Stamford Bridge has strengthened his hold on the throne ... Even now he musters his forces.
+
+{Prologue_Intro_5}
+Perhaps it is time.
+
+{Prologue_Intro_6}
+Then what shall I tell the troops is your command?
+
+{Prologue_Intro_7}
+Tell them we sail for England. And conquest!
+
+{Prologue_Intro_8}
+William’s fleet swept across the channel like a mighty tide, landing at Pevensey and amassing to confront Harold’s approaching horde at Hastings. This titanic clash would be the decisive battle for the future of the English throne.
+
+{Prologue_Intro_9}
+My son, remember this day, and remember this moment, for after this battle, these lands will be ours!
+
+{Prologue_Intro_10}
+And rightfully so father ... it is time, his men are ragged from the journey.
+
+{Prologue_Intro_11}
+Very well. Rufus, prepare your men for battle.
+
+{Milan_Intro_13}
+Saint Ambrose watches over the citizens of Milan, a leader amongst the disparate Italian cities. The toils of its people have set the city apart from Holy Roman Imperial rule. Now it awaits a King who will lead the land to glory.
+
+{Milan_Intro_14}
+War can be fought on many fronts and in many guises. For Milan to blossom into an Empire it will require the strength and wisdom of a leader who realizes this also.
+
+{Egyptian_Intro_14}
+A once ancient and mighty Empire whose Queen controlled the hearts of the world’s greatest leaders. Egypt has fallen from this former glory. Despite this, the ruling Caliph still wields great power and a mighty army.
+
+{Egyptian_Intro_15}
+If ever Egypt is to regain the majesty of its past, it will require the likes of a ruler not seen in over a thousand years.
+
+{English_Intro_1}
+With the Norman Conquest and a crowned King came the dawning of a new era for England. Nobles ordered the construction of mighty castles to fortify the realm ... To rule this land is a birthright. But to control it requires the courage and skill few possess.
+
+{English_Intro_4}
+It is a kingdom beset by enemies; the Scots press at its borders, the Vikings to the North and the French separated by a mere channel of water.
+
+{English_Intro_5}
+All of the country exists in a state of war, as even the common are called upon for duty.
+
+{English_Intro_9}
+In these times of total war, it rests on the shoulders of those who lead to ensure the kingdom does not fall into ruin.
+
+{Scottish_Intro_12}
+Scotland remains at the mercy of the English. Though its people are strong willed and defiant they face a daily struggle against subjugation. Despite this, these courageous people fight for a future where they are at the mercy of no one.
+
+{Scottish_Intro_13}
+For the Scottish, to fight is to survive. To shake off the shackles of oppression requires a mighty hero to unite the clans and forge an Empire.
+
+{French_Intro_1}
+France stands proud and powerful. Notions of courtly love have ushered in an era of nobility and chivalry. The legacy of Charlemagne still resonates with noble and commoner alike...
+
+{French_Intro_4}
+Europe is a continent divided by mistrust and centuries of violence. As crusades carve a bloody swathe in the distant east, the ideals of chivalry and honour are tested time and again.
+
+{French_Intro_5}
+In times of war, much is sacrificed. Countless lives are lost to battle and honour so that a Kingdom can prosper.
+
+{Spanish_Intro_1}
+Spain is a land divided. Enduring the conquest of the Moors for many centuries has left a bitter taste with her people, who fight for liberation in the name of God and King. The Reconquista is fought daily.
+
+{Spanish_Intro_5}
+Years of mistrust and in-fighting has left Spain directionless. Unfortunately the Moorish occupation of the Iberian Peninsula is still not enough to unite rival Nobles.
+
+{Spanish_Intro_6}
+In times as dark and seemingly hopeless as these the survival of the Spanish rests solely on the shoulders of those...
+
+{Spanish_Intro_6A}
+... willing to go above and beyond the call of duty. 
+
+{Spanish_Intro_6B}
+Heroes must rise so that the Spain can be free and united once more.
+
+{Portugal_Intro_12}
+Portugal is locked in a constant Reconquista, taking back land occupied by the Moors. Aided by the Knights Templar, its people are stoic in their mission and defiant to the end.
+
+{Portugal_Intro_13}
+Conquest can come only when the Reconquista is ended and Portugal is its own kingdom once more. Portugal awaits a King who will unite its people and conquer an Empire.
+
+{Venice_Intro_1}
+The Most Serene Republic of Venice, as it is known, has become a power through control of trade to the Levant. It expands through the Adriatic and Aegean seas.
+
+{Venice_Intro_3}
+A new class is emerging in this city-state, a class of those who seek to profit in all things. And in these times, what can be more profitable than war?
+
+{Venice_Intro_5}
+To the ruling Doge, war is simply another avenue for commerce. Soldiers' lives are spent like currency so that the few can rise to prominence and power.
+
+{Sicily_Intro_11}
+Sicily has achieved great feats for so small an isle. However, it is a land embroiled in conflict fuelled by religious war. The King who will lead this land to greatness must first quell the conflict between its own people.
+
+{Sicily_Intro_12}
+To establish itself as an Empire, Sicily needs a leader not afraid to settle conflicts within their own borders and march their armies to war across the world.
+
+{Byzantium_Intro_10}
+Byzantium stands on the crossroads of Europe, Asia and Africa. A prophetic dream led the Emperor Constantine to found the city which is a centre of culture, commerce and diplomacy.
+
+{Byzantium_Intro_11}
+For the dream of this land to become an Empire it requires the strength and courage of one willing to take charge of perhaps the most vibrant city in the world.
+
+{Russia_Intro_11}
+Russia faces invasion by nomadic tribes and foreign conquerors. Its harsh landscape has given rise to a steadfast people and their devotion has lead them to great deeds.
+
+{Russia_Intro_12}
+To survive, the Russians must fend off wild adversaries. To become an Empire they require a leader who will steel the kingdom and make its borders impenetrable.
+
+{Poland_Intro_10}
+Poland, a once proud kingdom, has fractured and splintered into a fragment of its former glory. Yet, even invasion and division can not break the spirit of these stoic people who toil to rebuild this once great land.
+
+{Poland_Intro_11}
+To the Polish people an Empire seems as distant a dream as a reunited kingdom. A King must stand strong and fight for a kingdom if ever this land is to rise to its potential.
+
+{Hungary_Intro_11}
+The kingdom of Hungary was forged by the will of King Saint Stephen. Foreign incursions rally its people who are determined that the country follow its own path.
+
+{Hungary_Intro_12}
+A kingdom founded by greatness requires the strength and will few possess to lead it to glory. An empire awaits one strong enough to carve it.
+
+{Turkey_Intro_15}
+The nomadic tribes of the Turks are scattered throughout the world. Fierce warriors, they value wisdom, and seek to both conquer and enlighten the world.
+
+{Turkey_Intro_16}
+Fierce in battle, but wildly independent, it will take the skills of a great leader to unite the Turks into an Empire.
+
+{Moors_Intro_13}
+From African roots to conquest on the Iberian Peninsula, the Moors have established for themselves a reputation as fierce warriors. They are a people united by religion yet divided by mistrust and rivalries.
+
+{Moors_Intro_14}
+These lands and their warlords, though fierce, remain directionless. The strength of a mighty ruler is needed to unite them into the Empire they could become.
+
+{Hre_Intro_1}
+The Holy Roman Empire stretches across a vast expanse of Europe. Ruled over by the Emperor, who is crowned by the Pope himself, the Empire’s influence is strong and far-reaching.
+
+{Hre_Intro_4}
+From the moment that Charlemagne was crowned Emperor, the soldiers of the Reich have fought and died for victory. Yet war, even when waged by a Holy Empire, is still a brutal affair.
+
+{Hre_Intro_5}
+It is the Germans who wield the most power in the Empire, though it exists as a shadow of what once was. It will take a great general to lead the Empire to its former glory.
+
+{Denmark_Intro_14}
+Denmark and its people have grown far beyond their Viking past. The tenacity of the country has now been turned towards forming a Kingdom with conquest and colonisation replacing raids and spoils.
+
+{Denmark_Intro_15}
+Ferocious in battle, the Danish people have lost none of their past expertise at war. However, a country requires not only a warrior, but a statesman, to lead it to greater glory.
+
+{England_Outro_Win_1}
+By the grace of all mighty God I proclaim his majesty, the King of England, as High King of the English Empire and Protector of Christendom.
+
+{England_Outro_Win_2}
+Already the achievements of the English Empire and its greatest leader have passed into legend. The once divided land now stands united under the greatest king who was ever born. From this throne the destiny of the world is shaped.
+
+{Venice_Outro_Win_1}
+By the grace of all mighty God I proclaim his Lordship, the Doge of Venice, as Emperor of the Venetian Empire and Protector of Christendom.
+
+{Venice_Outro_Win_2}
+The riches of Venice are now legendary across the world. A bustling Empire of commerce allows even the lowliest to strive for wealth and power. The achievements of the Venetian’s greatest leader will ring through the ages.
+
+{France_Outro_Win_1}
+By the grace of all mighty God I proclaim his majesty, King of France, as Emperor of the French Empire and Protector of Christendom.
+
+{France_Outro_Win_2}
+A kingdom built on ideals his risen into a mighty Empire. France is now the shining light of a once splintered Europe, illuminating the world with her ideas and ruling with her greatest hero.
+
+{Hre_Outro_Win_1}
+By the grace of all mighty God I proclaim his Holy Imperial Majesty, the Emperor of the Holy Roman Empire the Protector of all her realms and territories.
+
+{Hre_Outro_Win_1alt}
+By the grace of all mighty God I proclaim his Holy Imperial Majesty, the Emperor of the Holy Roman Empire and the founder of the mightiest of all Roman Empires.
+
+{Hre_Outro_Win_2}
+The Holy Roman Empire has united the disparate lands of Europe under the light of Christendom. The already legendary Emperor presses the missionary armies on, ensuring the whole world will be illuminated under the Light of God.
+
+{Spain_Outro_Win_1}
+By the grace of all mighty God I proclaim his majesty the King of Spain, as Emperor of the Spanish Empire and Protector of Christendom.
+
+{Spain_Outro_Win_2}
+With the Reconquista a triumph, Spain is united as a kingdom once more. Under the rule of the country’s greatest hero, an undreamt Empire of power and nobility has been born. The passion and triumphs of the Spanish shape the world.
+
+{Portugal_Outro_Win_1}
+Congratulations mighty King, you have led our matchless heroes through countless triumphs and won for Portugal undying fame and a magnificent empire, from whose throne all history does unfold.
+
+{Byzantium_Outro_Win_1}
+Congratulations blessed Emperor you have led our mighty heroes through the flames of battle and forged a glorious empire under the light of Heaven. From your glorious throne all history does unfold.
+
+{Sicily_Outro_Win_1}
+Congratulations most gracious Lord, under your intrepid and gallant guidance Sicily has built an empire that now spans the known world and beyond. From your glorious throne all history does unfold.
+
+{Scotland_Outro_Win_1}
+Congratulations most gracious King, under your rule the fearless Scots, with acts of valour and glory too numerous to mention, have forged a vast empire. From your mighty throne all history does unfold.
+
+{Poland_Outro_Win_1}
+Congratulations most blessed and noble King, under your reign Poland’s matchless triumphs have won an empire that now spans the known world and beyond. From your majestic throne all history does unfold.
+
+{Russia_Outro_Win_1}
+Congratulations noble Prince, you have with valour unmatched led our armies to glory and undying fame, winning Russia a vast empire, from whose throne all history does unfold.
+
+{Hungary_Outro_Win_1}
+Congratulations mighty King, with the strength and valour of Hungary’s matchless heroes you have forged a glorious empire spanning east and west, thus from your majestic throne all history does unfold.
+
+{Denmark_Outro_Win_1}
+Congratulations almighty King, with courage and strength unmatched you have forged a glorious empire, which spans the known world and beyond, and from your blessed throne all history does unfold.
+
+{Milan_Outro_Win_1}
+Congratulations noble Lord, under your magnificent reign Milan’s matchless traders and warriors, have built a glorious empire, and won undying fame. From upon your splendid throne all history does unfold.
+
+{Egypt_Outro_Win_1}
+Congratulations Caliph, by the will of Allah, the lord of us all, you have led Egypt’s mighty armies with matchless valour and forged a vast empire spanning the known world and beyond. From upon your merciful throne all history does unfold.
+
+{Turks_Outro_Win_1}
+Congratulations mighty Sultan, by the light of Mohammed, blessed be his name, your triumphs that have drawn on more than human prowess, have forged an empire and won dying fame for your people. From your magnificent throne all history does unfold.
+
+{Moors_Outro_Win_1}
+Congratulations wise Caliph, by the will of Allah, the lord of us all, you have with matchless courage built a magnificent empire whose splendour and grandeur the world has never seen, and from upon your mighty throne all history does unfold.
+
+{England_Outro_Lose_1}
+England, a land whose potential has been squandered by a weak leader and poor decisions. This country is now at the mercy of its enemies and all its great achievements will be forgotten.
+
+{Venice_Outro_Lose_1}
+Venice, this once rich and prosperous city-state, is now the domain of beggars and the dispossessed. The one who was to lead this land to greatness has instead lead it only to ruin.
+
+{France_Outro_Lose_1}
+France mourns, humbled and defeated. Her Knight’s have fallen in battle and her lands are divided amongst her enemies. The memory of Charlemagne remains a distant dream, ruined by the one who failed in their duty.
+
+{Hre_Outro_Lose_1}
+The Holy Roman Empire has fallen to heathen hordes. The Light of God has been extinguished through the sinful pride of the Reich’s once beloved leader.
+
+{Spain_Outro_Lose_1}
+The Reconquista has failed and the dream of a united Spain will forever remain unfulfilled. Spain’s scattered people make no secret that a task so noble should not have fallen into the hands of one so incompetent
+
+{Scotland_Outro_Lose_1}
+Scotland’s heroes lay dead and its dreams of glory and freedom with them. Naught is left of this once proud realm but dust and memories.
+
+{Egypt_Outro_Lose_1}
+How the mighty have fallen, once proud Egypt has been vanquished and its heroes slain. Its triumphs and dreams of conquest lie lost in history.
+
+{Denmark_Outro_Lose_1}
+The wind from the north blows naught but bitter ashes. Denmark has been swept aside and its people overcome; history is no place for the vanquished.
+
+{Russia_Outro_Lose_1}
+Woe betide these once proud children of God. How far they have fallen, their realms and heroes lie dead, no more will their songs be sung.
+
+{Poland_Outro_Lose_1}
+Poland’s greatness has been squandered and its dreams of glory betrayed by weakness. All that remains of this once proud Kingdom are ruins and ashes.
+
+{Hungary_Outro_Lose_1}
+Hungary is vanquished and it heroes slain. Poor rulership has dashed this once proud Kingdom’s dreams against the rocks of history.
+
+{Portugal_Outro_Lose_1}
+Portugal has been swept aside and its people cast asunder. The dreams of the Reconquista lie unfulfilled, and the glories of this once proud Kingdom lie forgotten.
+
+{Milan_Outro_Lose_1}
+Milan is vanquished and its once proud people cast asunder. Misrule has buried its heroes along with Milan’s dreams of glory.
+
+{Byzantium_Outro_Lose_1}
+The Byzantine Empire has been crushed and its heroes slain. Its achievements now naught but bitter ashes, and its dreams of glory dashed on the rocks of history.
+
+{Turkey_Outro_Lose_1}
+The once wild and proud Turks have been conquered. Their battle cries are no more. Misrule and weakness have earned them naught but the merciless blades of its enemies.
+
+{Sicily_Outro_Lose_1}
+Sicily is lost and so too its heroes. Bitter ashes are all that remains of this once proud realm’s glories and dreams of conquest.
+
+{Moors_Outro_Lose_1}
+A once mighty and vast empire has been vanquished. The Moors’ triumphs and heroes lie buried under the sands of defeat, and its dreams of glory will never be.
+
+{First_Huge_Cathedral_1}
+If there were any lingering doubts as to the power of the church, they were dispelled once the people gazed upon God’s greatest house on earth. Its towering presence here shall ensure Christian dominance throughout the land.
+
+{First_Inquisition_1}
+The Inquisition is charged with rooting out heresy wherever it dwells. Such holy work is not for the feint hearted, for it seems only after sufficient persuasion is applied, do the guilty confess their sins.
+
+{Black_Death_1}
+A new plague grips the land. The Black Death rides upon the wind, killing all who breathe it in a matter of days. What horrible crime has mankind committed for God to punish the whole world so horribly.
+
+{Gunpowder_Discovered_1}
+A new discovery that could change the course of warfare – Gunpowder. This dark powder may look innocent enough, but when brought to spark it explodes with a force that is unmatched.
+
+{Gunpowder_Discovered_2}
+This terrible weapon will make armour obsolete, and render castle walls near useless. It would be wise to be the first to master its use in war.
+
+{America_Discovered_1}
+Testing the theory that one can head east by sailing west carried the risk of a remote, watery grave.
+
+{America_Discovered_2}
+Yet this act of courage has been rewarded with the discovery of a strange new land ... perchance a whole new world. Who knows what riches await those with the courage to explore.
+
+{Mongols_Invade_1}
+It is easy to become comfortable with the enemy you know, our familiar foes.
+
+{Mongols_Invade_2}
+But to discount the menaces that lurk beyond the known world is to risk a rude awakening that can become a nightmare.
+
+{Mongols_Invade_3}
+This nightmare is the Mongol invasion.
+
+{Timurids_Invade_1}
+After facing the terror of the Mongol invasion, nobody would have dreamed that a serious peril could ever rise from the east again. However, Timur the Lame, a mighty warlord from Transoxania, has arrived on the eastern borders of our maps, bringing with him a legacy of conquest that cannot be ignored.
+
+{Timurids_Invade_2}
+Having already conquered Persia, and distant India, Timur is certain to bring with him something exotic to show the people of the west. Something they will be sure to remember ... as long as they live.
+
+{Aztecs_Contacted_1}
+It seems the new world is already dominated by an ancient culture – the Aztecs.
+
+{Aztecs_Contacted_2}
+For a seemingly simple people, their cities are vast and complicated. Their primitive outlook belies their ability to raise vast stone structures that rival anything the old world has to offer. And if gold is the measure of an Empire’s might, then the Aztecs are formidable indeed.
+
+{First_Great_Mosque_1}
+The Muslims do not worship symbols, for the prophet, blessed be his name, had decreed that to represent the divine with an icon or image is blasphemy in the extreme. However, nobody could really deny that the sight of this grand mosque serves as a shining example of the might and wisdom of Islam.
+
+{First_Crusade_1}
+The Holy Bible may preach peace, but when it is Christendom itself that is threatened, then it is every Christian’s duty to defend all that is holy!
+
+{First_Crusade_2}
+His Holiness, the Pope, has called a Crusade to reclaim the Holy lands from the infidel, who would deny Christian pilgrims their right to visit the Holy places
+
+{First_Crusade_3}
+It is time for the armies of Christendom to put aside their differences and unite under one banner – the sign of the Cross, and give back god’s children what is rightfully theirs ... or die trying.
+
+{First_Jihad_1}
+Through the holy word of the prophet, blessed be his name, have the people of Islam been taught to embrace peace and mercy. There are some sins that the infidels commit, however, that cannot be forgiven, and warrant no mercy. Islam can no longer stand idly by and allow further desecration to all that is sacred.
+
+{First_Jihad_2}
+Now is the time to wage holy war, Jihad, upon the blasphemous infidels, with such fervour that they shall not blaspheme in such a manner ever again.
+
+{Game_Intro_1}
+Storm clouds gather over Europe. Mistrust and rivalries between realms threaten to break and flood the world in a tide of total war.
+

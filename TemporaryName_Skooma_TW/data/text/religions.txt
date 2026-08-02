@@ -1,0 +1,6 @@
+¬ M2TW strings
+{catholic}Catholic
+{heretic}Heretic
+{islam}Islam
+{orthodox}Orthodox
+{pagan}Pagan
