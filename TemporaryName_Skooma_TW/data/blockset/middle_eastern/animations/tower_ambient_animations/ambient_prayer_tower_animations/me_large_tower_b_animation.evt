@@ -1,0 +1,16 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; Animation event file
+;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+event SOUND ANIM_Building_collapse 0 0
+event SHOCKWAVE 0 0 0
+event SOUND ANIM_Stone_collapse_LARGE_DISTANT 0 0
+event SOUND ANIM_Stone_HITS 49 49
+event SOUND ANIM_Stone_HITS 56 56
+event SOUND ANIM_Stone_collapse_LARGE 67 67
+event SOUND ANIM_Stone_HITS 78 78
+event SOUND ANIM_Stone_HITS 81 81
+event SOUND ANIM_Stone_HITS 93 93
+event SOUND ANIM_Stone_HITS 103 103
