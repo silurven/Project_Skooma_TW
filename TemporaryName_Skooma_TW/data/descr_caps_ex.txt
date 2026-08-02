@@ -1,0 +1,9 @@
+; descr_caps_ex.txt
+;
+; Engine feature toggles which can't be enabled transparently. Mods that don't ship this file get safe defaults so nothing breaks silently.
+
+
+; where sea trade fleet count comes from:
+;   port_level   = port building level (original non-Kingdoms behaviour)
+;   capability   = CAPABILITY_TRADE_FLEET from EDB (requires trade_fleet caps in export_descr_buildings)
+trade_fleet_source  capability
