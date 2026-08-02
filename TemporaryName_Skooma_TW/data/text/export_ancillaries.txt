@@ -1,0 +1,568 @@
+¬ M2TW strings
+{academic_advisor}Academic Advisor
+{academic_advisor_desc}You don't need to know everything if someone else at hand does.
+{academic_advisor_effects_desc}5% bonus on all trade income, 5% bonus on tax income
+{accomplice}Skilled Accomplice
+{accomplice_desc}Having an accomplice makes a dirty job easier, but a little more costly too.
+{accomplice_effects_desc}+1 to agent's skill
+{actor}Actor
+{actor_desc}Any lord who brings the dramatic arts with him is generally well received by the people.
+{actor_effects_desc}+1 to popularity (improves public order)
+{adultress}Adultress
+{adultress_desc}Though never publicly seen at his side, it is common knowledge that this woman is there when his wife is not.
+{adultress_effects_desc}+1 Dread, -1 Piety, -1 Morale for all troops on the battlefield, Decreases the chance of having children
+{adultress_foreign}Outlander Adultress
+{adultress_foreign_desc}Though long campaigns make his lordship's desire for this woman understandable, it's shameful that his wife back home has no chance to see the deception for herself.
+{adultress_foreign_effects_desc}+1 Dread, -1 Piety, -2 Morale for all troops on the battlefield, -1 from popularity (has a negative effect on public order), Decreases the chance of having children
+{adultress_she_man}Foreign Fruitcake
+{adultress_she_man_desc}Forsaking one's wedding vows for a 'woman' that can grow a beard does nothing for a leader's rapport with his men.
+{adultress_she_man_effects_desc}+1 Dread, -1 Piety, -3 Morale for all troops on the battlefield, -1 from popularity (has a negative effect on public order), Decreases the chance of having children
+{albertus_magnus}Albertus Magnus
+{albertus_magnus_desc}A philosopher most remarkable for his belief that science and faith can co-exist in harmony. A trait that endears him to many.
+{albertus_magnus_effects_desc}+2 to law (improves public order)
+{alchemist}Alchemist
+{alchemist_desc}Very few people manage to become experts at mixing dangerous compounds, making the few that exist valuable assets.
+{alchemist_effects_desc}+2 to your general's hitpoints (how many hits your general can take before dying), +1 Command when commanding gunpowder troops
+{aldus_manutius}Aldus Manutius
+{aldus_manutius_desc}One of the men driving the thriving new printing industry, and his invention of the 'Aldine Press'.
+{aldus_manutius_effects_desc}20% bonus on all trade income, -2 from squalor (increases public order and population growth)
+{amerigo_vespucci}Amerigo Vespucci
+{amerigo_vespucci_desc}A magnificent explorer and merchant, sure to be a boon on any voyage that may involve new lands or trade.
+{amerigo_vespucci_effects_desc}+15% to Movement Points (gives armies the ability to forced march), +3 to line of sight (increases the range at which enemies are spotted), 10% bonus on all trade income
+{anthony_of_padua}Anthony of Padua
+{anthony_of_padua_desc}An inspirational preacher, whose saintly virtues hold crowds in thrall of his shining example of piety.
+{anthony_of_padua_effects_desc}+2 Piety, -2 from squalor (increases public order and population growth), +2 to unrest (has a negative effect on public order)
+{apothecary}Apothecary
+{apothecary_desc}Dangerous toxins can be used as powerful tonics by those who understand their secrets.
+{apothecary_effects_desc}Increases the chance of having children, +4 to your general's hitpoints (how many hits your general can take before dying)
+{architect}Architect
+{architect_desc}Having a master of civil construction at hand can make realising a lord's visions of grandeur more affordable.
+{architect_effects_desc}10% discount on construction costs, -2 from squalor (increases public order and population growth)
+{ark_of_the_covenant}Ark of the Covenant
+{ark_of_the_covenant_desc}A sacred container built at the command of Moses, in which rests the stone tablets containing the Ten Commandments. It is said to instantly kill those who touch it.
+{ark_of_the_covenant_effects_desc}+2 Dread, +1 Command
+{armour_custom}Fine Armour
+{armour_custom_desc}An impressive suit of armour, custom fitted to it's owner's frame.
+{armour_custom_effects_desc}+4 to your general's hitpoints (how many hits your general can take before dying)
+{armour_ornate}Ornamental Armour
+{armour_ornate_desc}Though his lordship thinks he looks dashing in this ornate piece of foppery, he is a fool to wear it in battle.
+{armour_ornate_effects_desc}+1 Authority, -2 from your general's hitpoints (how many hits your general can take before dying)
+{arnold_von_winkelried}Arnold von Winkelried
+{arnold_von_winkelried_desc}A great Swiss war hero known for valiantly using his body to cast aside a wall of enemy pikes!
+{arnold_von_winkelried_effects_desc}+2 Morale for all troops on the battlefield, +2 Command when attacking, +4 to your general's hitpoints (how many hits your general can take before dying)
+{artist}Artist
+{artist_desc}Having a fine artist at hand always leads to having a much finer view.
+{artist_effects_desc}+1 to popularity (improves public order), 10% decrease to cost to bribe, -1 from squalor (increases public order and population growth)
+{assassins_apprentice}Young Apprentice
+{assassins_apprentice_desc}Nobody suspects a child of foul play, which is why they are so brutally effective at committing it.
+{assassins_apprentice_effects_desc}+1 Assassination
+{assassins_blade}Exquisite Blade
+{assassins_blade_desc}An exceptionally sharp and deadly blade, awarded to this man for succeeding on the most perilous of missions.
+{assassins_blade_effects_desc}+1 Assassination
+{astrologer}Astrologer
+{astrologer_desc}Though the most pious may denounce the art of Astrology as heretical nonsense, it is still extremely popular.
+{astrologer_effects_desc}-1 Piety, +1 Command
+{bard}Bard
+{bard_desc}Minstrel, poet, and chronicler - A fitting companion for a patron of the arts.
+{bard_effects_desc}+1 Morale for all troops on the battlefield, +1 to popularity (improves public order)
+{beguiling_bard}Beguiling Bard
+{beguiling_bard_desc}Charming, entertaining and an excellent distraction.
+{beguiling_bard_effects_desc}+1 to agent's skill, +1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{bertrand_du_guesclin}Bertrand du Guesclin
+{bertrand_du_guesclin_desc}A fantastic French field commander, and the ideal right hand man for any general raising the Orriflamme.
+{bertrand_du_guesclin_effects_desc}+2 Command, +2 Morale for all troops on the battlefield, +2 Command when fighting against English, +1 Command when fighting against Portugese, +1 Command when fighting against Spanish
+{biographer}Biographer
+{biographer_desc}When one is forging a great legacy, it must be recorded properly.
+{biographer_effects_desc}+1 Authority
+{black_stallion}Black Stallion
+{black_stallion_desc}A dark swift menacing steed makes light of the tyranny of distance.
+{black_stallion_effects_desc}+25% to Movement Points (gives armies the ability to forced march)
+{bodyguard}Bodyguard
+{bodyguard_desc}Even the most able sword-arm can use someone to cover his back.
+{bodyguard_effects_desc}+2 to personal security (improves the chances of detecting and foiling assassination attempts), -1 from popularity (has a negative effect on public order)
+{bridle_of_constantine}Bridle of Constantine
+{bridle_of_constantine_desc}This bridle was fashioned for the horse of Emperor Constantine, with a holy nail from the crucifixion of Christ. It ensures the safety of the rider.
+{bridle_of_constantine_effects_desc}+1 Piety, +1 to personal security (improves the chances of detecting and foiling assassination attempts), +1 to your general's hitpoints (how many hits your general can take before dying)
+{brilliant_inventor}Inventor
+{brilliant_inventor_desc}To have such a pioneer of wondrous technology by one's side helps keep a contemporary take on the world.
+{brilliant_inventor_effects_desc}+30 Build Points (required for the construction of siege equipment), +1 to farming output, 20% bonus on mining income
+{caravan_driver}Caravan Driver
+{caravan_driver_desc}Having a reliable and efficient man to oversee the hauling of exotic goods can save time and money.
+{caravan_driver_effects_desc}+25% to Movement Points (gives armies the ability to forced march), +1 to line of sight (increases the range at which enemies are spotted)
+{catamite}Catamite
+{catamite_desc}Not all men find the opposite sex to be the most distracting...
+{catamite_effects_desc}+1 to agent's skill
+{chastity_belt}Chastity Belt
+{chastity_belt_desc}Nothing says "No!" like underwear that requires a key to remove…
+{chastity_belt_effects_desc}-1 Charm, -10% to Movement Points (reduces the distance armies can march)
+{chevalier_de_bayard}Chevalier de Bayard
+{chevalier_de_bayard_desc}Known as 'the knight without fear and without reproach', and arguably the bravest man a commander could hope to have in his service.
+{chevalier_de_bayard_effects_desc}+2 Chivalry, +2 Piety, +2 Command, +2 to line of sight (increases the range at which enemies are spotted)
+{choir_boy}Choir Boy
+{choir_boy_desc}"This child's voice is a gift from God! One I must keep close at hand…"
+{choir_boy_effects_desc}+1 Piety, +1 Unorthodoxy-1 Purity
+{counterfeiter}Counterfeiter
+{counterfeiter_desc}This failed alchemist may not be able to make gold, but can fashion impressive faux-coinage regardless. 
+{counterfeiter_effects_desc}+1 Finance
+{courtesan}Courtesan
+{courtesan_desc}Some women have charms that can grant them access to bedchambers that even the most cunning killer can't hope to breach.
+{courtesan_effects_desc}+1 to agent's skill
+{crooked_judge}Judge
+{crooked_judge_desc}It's much easier to place trust in the laws of the land when you have men that control the trials themselves.
+{crooked_judge_effects_desc}+1 to unrest (has a negative effect on public order), +2 to law (improves public order)
+{crown_of_thorns}Crown of Thorns
+{crown_of_thorns_desc}The woven chaplet of thorn branches worn by Jesus before His crucifixion. "And the soldiers plaited a crown of thorns, and put it on his head, And said, Hail, King of the Jews!"
+{crown_of_thorns_effects_desc}+2 Piety, +1 Command
+{dancer}Dancer
+{dancer_desc}There is no finer way to distract a pack of men than with the swaying of the female form.
+{dancer_effects_desc}+2 to agent's skill
+{dark_apprentice}Dark Apprentice
+{dark_apprentice_desc}The few that actually seek to embrace the darker arts always need a master.
+{dark_apprentice_effects_desc}+1 Magic,+1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{deacon}Deacon
+{deacon_desc}Those that assist the church in its times of need are more likely to be assigned an assistant of their own.
+{deacon_effects_desc}+1 Piety
+{delicate_blade}Delicate Blade
+{delicate_blade_desc}Though many consider it inappropriate for a princess to carry a blade, her parents insisted that it may come in handy.
+{delicate_blade_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{diplomatic_escort}Diplomatic Escort
+{diplomatic_escort_desc}If you're going to offend someone very important, it's better to have another body in the way.
+{diplomatic_escort_effects_desc}+1 to line of sight (increases the range at which enemies are spotted), +1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{doctor}Doctor
+{doctor_desc}Always better to have  a physician close at hand to prod and poke one's body after the enemy has done so.
+{doctor_effects_desc}Increases the chance of having children, Improves the chances of casualties recovering from their wounds
+{donatello}Donatello
+{donatello_desc}Arguably the finest sculptor in the known world,  able to leave an image of life that will shine through the ages.
+{donatello_effects_desc}+2 to popularity (improves public order), -3 from squalor (increases public order and population growth)
+{drillmaster}Drillmaster
+{drillmaster_desc}Keeps a diligent officer handy to keep his troops vigilant and well-prepared.
+{drillmaster_effects_desc}+25% to Movement Points (gives armies the ability to forced march), 10% discount on unit training costs
+{enchanted_broom}Enchanted Broom
+{enchanted_broom_desc}If she has dark arcane arts at her disposal, why would she perform household chores?
+{enchanted_broom_effects_desc}+1 Magic,+15% to Movement Points (gives armies the ability to forced march)
+{eunuch}Eunuch
+{eunuch_desc}Some nobles take drastic measures to ensure that the men of their household can be trusted.
+{eunuch_effects_desc}+1 Authority, +1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{evil_mother-in-law}Mother-in-Law
+{evil_mother-in-law_desc}Marrying the daughter of a vile malcontent is a move that this man often rues.
+{evil_mother-in-law_effects_desc}-1 Authority, -1 Morale for all troops on the battlefield
+{executioner}Executioner
+{executioner_desc}The inquisitor himself only sentences the heretics, someone else is needed to administer the punishment.
+{executioner_effects_desc}+1 Piety
+{exotic_gifts}Exotic Gifts
+{exotic_gifts_desc}It is hard not to be swayed by exotic items from lands that are too distant to ever hope to visit.
+{exotic_gifts_effects_desc}+1 Influence
+{explosives}Explosives
+{explosives_desc}Has a large enough cache of gunpowder to ensure all his sabotage attempts will at least be impressive, even if not always successful.
+{explosives_effects_desc}+1 Sabotage
+{faithful_servant}Faithful Servant
+{faithful_servant_desc}You can always sense how much respect and authority a noble family truly wields by the devotion of its servants.
+{faithful_servant_effects_desc}+1 Charm
+{false_documents}False Documents
+{false_documents_desc}Carries papers of identification and authority that would convince all but their supposed author to be authentic. 
+{false_documents_effects_desc}+1 to agent's skill
+{false_relic}False Relic
+{false_relic_desc}So certain he was that this was a holy relic that he redefined his faith accordingly.
+{false_relic_effects_desc}+1 Piety
+{femme_fatale}Skilled Courtesan
+{femme_fatale_desc}A woman famous for being an object of desire more than fit for a king, but not so famous for her part in their demises.
+{femme_fatale_effects_desc}+2 to agent's skill
+{fine_cosmetics}Fine Cosmetics
+{fine_cosmetics_desc}Her father has a penchant for making his surroundings more beautiful… Including his own family.
+{fine_cosmetics_effects_desc}+1 Charm
+{foodtaster}Foodtaster
+{foodtaster_desc}An expedient servant to have around to avoid sudden death, as well as a disgusting meal.
+{foodtaster_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{fool_brilliant}Brilliant Fool
+{fool_brilliant_desc}He may look like an idiot, but this man is able say the things his monarch needs to hear whether he wants to or not.
+{fool_brilliant_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts), 5% bonus on all trade income
+{fool_usual}Fool
+{fool_usual_desc}Actually amused by a colourful buffoon prepared to say or do things upon command.
+{fool_usual_effects_desc}+1 Morale for all troops on the battlefield
+{foreign_dignitary}Foreign Dignitary
+{foreign_dignitary_desc}When one is accompanied by people of import from abroad, it only ever reinforces one's own need for respect.
+{foreign_dignitary_effects_desc}+1 Influence
+{fragment_of_the_black_stone}Fragment of the Black Stone
+{fragment_of_the_black_stone_desc}The Black Stone fell from the sky during the time of Adam and is believed to have the power to cleanse worshippers of their sins.
+{fragment_of_the_black_stone_effects_desc}+3 Piety
+{francesco_petrarca}Francesco Petrarca
+{francesco_petrarca_desc}An astounding philosopher, scholar and author. His works are considered incredibly influential.
+{francesco_petrarca_effects_desc}+2 Piety, +2 to popularity (improves public order), -1 from squalor (increases public order and population growth)
+{francis_of_assisi}Francis of Assisi
+{francis_of_assisi_desc}The founder of the Order of Friars Minor, and truly a living saint. His concern for the poor and nature endear him to countless.
+{francis_of_assisi_effects_desc}+2 Piety, -2 from squalor (increases public order and population growth), +2 to unrest (has a negative effect on public order)
+{geoffrey_chaucer}Geoffrey Chaucer
+{geoffrey_chaucer_desc}A multi-talented Englishman known for his abilities as an author, poet and civil master.
+{geoffrey_chaucer_effects_desc}10% discount on construction costs, +1 to popularity (improves public order)
+{george_of_antioch}George of Antioch
+{george_of_antioch_desc}A Sicilian war hero, greatly adept at attacking strategies. Despite his ways of war, he is also a most cultured and a servant of the faith.
+{george_of_antioch_effects_desc}+1 Piety, +2 Command, +2 to popularity (improves public order)
+{gerard_de_ridefort}Gerard de Ridefort
+{gerard_de_ridefort_desc}A Master of the Order of the Knights Templar, renowned for surviving his impossibly brave assaults.
+{gerard_de_ridefort_effects_desc}+1 Command, +1 Authority, +1 Morale for all troops on the battlefield, +2 Command when attacking
+{hair_from_mohammeds_beard}Hair from Mohammed's Beard
+{hair_from_mohammeds_beard_desc}A single strand of Prophet Mohammed's hair, kept in a silver and crystal bottle.
+{hair_from_mohammeds_beard_effects_desc}+1 Piety
+{handgun}Prototype Handgun
+{handgun_desc}A deadly and dangerous prototype of a new concealable firearm, something no man is ready to defend against.
+{handgun_effects_desc}+1 Assassination+2 to law (improves public order)
+{harsh_judge}Harsh Judge
+{harsh_judge_desc}"When I need to ensure that justice is done without any compromise at all, I can rely upon this man to see it done!"
+{harsh_judge_effects_desc}-1 from popularity (has a negative effect on public order)
+{herald}Herald
+{herald_desc}Nothing helps emphasise authority and importance than a booming voice to herald one's decisions and wishes.
+{herald_effects_desc}+1 Authority
+{hildegard_von_bingen}Hildegard von Bingen
+{hildegard_von_bingen_desc}This woman is renowned theologian and visionary, in the true sense of the word. She is also considered a pioneer in the art of music.
+{hildegard_von_bingen_effects_desc}+2 Piety, +1 Authority, +3 to popularity (improves public order)
+{holy_chalice}Holy Chalice
+{holy_chalice_desc}This vessel was used by Jesus at the Last Supper to serve wine.
+{holy_chalice_effects_desc}+1 Piety
+{holy_grail}Holy Grail
+{holy_grail_desc}The sacred vessel that Jesus drank from at the Last Supper. This cup has the power to heal all wounds.
+{holy_grail_effects_desc}+2 Piety, +5 to your general's hitpoints (how many hits your general can take before dying), Improves the chances of casualties recovering from their wounds
+{holy_lance}Holy Lance
+{holy_lance_desc}The spear that pierced the side of Jesus during the crucifixion. It is believed that whosoever holds this spear has the power to conquer the world, but losing it means instant death.
+{holy_lance_effects_desc}+1 Piety, +2 Command
+{holy_mantle}Holy Mantle
+{holy_mantle_desc}A mantle that was once worn by the Prophet Mohammed.
+{holy_mantle_effects_desc}+2 Piety
+{holy_prepuce}Holy Prepuce
+{holy_prepuce_desc}One of the few physical remainders of Jesus left behind on earth. This relic is said to ensure an easy and safe childbirth.
+{holy_prepuce_effects_desc}+1 Piety, Increases the chance of having children
+{holy_quran}Holy Qur'an
+{holy_quran_desc}This is the oldest existing Qur'an, inscribed on deer skin.
+{holy_quran_effects_desc}+2 Piety
+{holy_shroud}Holy Shroud
+{holy_shroud_desc}The burial cloth of Jesus, on which His image was recorded at his resurrection. It is rumoured to provide protection against criminal bands.
+{holy_shroud_effects_desc}+1 Piety, +1 Command when defending walls, +1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{ibn_khaldun}Ibn Khaldun
+{ibn_khaldun_desc}A deeply respected scholar, who has addressed many courts as a master of Islamic law, economics, and compiling a history of the world!
+{ibn_khaldun_effects_desc}+2 Piety, +2 Authority, 15% bonus on all trade income
+{icon_not_made_by_hands}Icon not Made by Hands
+{icon_not_made_by_hands_desc}Jesus sent this icon to the King of Edessa, to cure him of leprosy.
+{icon_not_made_by_hands_effects_desc}+1 Piety, +1 to public health
+{intrepid_explorer}Intrepid Explorer
+{intrepid_explorer_desc}An expert of blazing new trails through unfamiliar lands, and showing his master how to do the same.
+{intrepid_explorer_effects_desc}+15% to Movement Points (gives armies the ability to forced march), +1 to line of sight (increases the range at which enemies are spotted)
+{iron_crown_of_lombardy}Iron Crown of Lombardy
+{iron_crown_of_lombardy_desc}This crown was fashioned for Emperor Constantine, with a nail from the crucifixion of Christ. It is believed to protect the head of the wearer from the darts of his enemies.
+{iron_crown_of_lombardy_effects_desc}+1 Piety, +1 to personal security (improves the chances of detecting and foiling assassination attempts), +1 to your general's hitpoints (how many hits your general can take before dying)
+{jan_zizka}Jan Žižka
+{jan_zizka_desc}An outstandingly resourceful commander, particularly with makeshift fortifications.
+{jan_zizka_effects_desc}+2 Command, +1 Authority, +2 Command when defending, +50 Build Points (required for the construction of siege equipment)
+{joan_of_arc}Jeanne d'Arc
+{joan_of_arc_desc}This angelic girl believes God has chosen her to champion France... And so do the French.
+{joan_of_arc_effects_desc}+2 Piety, +1 Command, +2 Morale for all troops on the battlefield, +2 Command when fighting against English
+{johannes_faustes}Johannes Faustus
+{johannes_faustes_desc}An alchemist whispered to practise the most blasphemous arts of necromancy. 
+{johannes_faustes_effects_desc}+2 Dread, -2 Piety, Increases the chance of having children, +4 to your general's hitpoints (how many hits your general can take before dying)
+{john_gutenberg}John Gutenberg
+{john_gutenberg_desc}An inventor pioneering a new means of mass producing books, inspiring both literacy and trade.
+{john_gutenberg_effects_desc}20% bonus on all trade income, -2 from squalor (increases public order and population growth)
+{john_wycliffe}John Wycliffe
+{john_wycliffe_desc}A well-known and respected theologian, responsible for translating the Holy Bible into English.
+{john_wycliffe_effects_desc}+2 Piety
+{key_to_holy_kaaba}Key to Holy Kaaba
+{key_to_holy_kaaba_desc}A key to the door of the holiest place in Islam.
+{key_to_holy_kaaba_effects_desc}+1 Piety
+{knight_beserker}Notorious Berserker
+{knight_beserker_desc}Keeps the company of a hulking veteran of war, notorious for his wild and uncontrolled rage and unrelenting brutality.
+{knight_beserker_effects_desc}+1 Command, +1 Morale for all troops on the battlefield
+{knight_chivalrous}Chivalrous Knight
+{knight_chivalrous_desc}The more chivalrous and diligent knights of the realm will only follow a man who is an example to others himself.
+{knight_chivalrous_effects_desc}+2 Chivalry, +1 Command
+{knight_crusader}Knight of the Crusades
+{knight_crusader_desc}A noble and capable battle companion that follows those who champion worthy causes, such as the Crusades.
+{knight_crusader_effects_desc}+2 to personal security (improves the chances of detecting and foiling assassination attempts), +1 Violence
+{knight_dread}Dread Knight
+{knight_dread_desc}That so dread and dangerous a knight would follow this man says a lot about his own menace and capabilities in battle.
+{knight_dread_effects_desc}+2 Dread, +1 Command
+{knight_santiago}Knight of Santiago
+{knight_santiago_desc}The Knights of Santiago are always willing to protect those who would share their noble causes.
+{knight_santiago_effects_desc}+1 Chivalry, +1 Command
+{knight_stjohn}Hospitaller Knight
+{knight_stjohn_desc}Accompanied by a Hospitaller knight of Saint John, a side effect of dealing with their noble order.
+{knight_stjohn_effects_desc}+1 Chivalry, +1 Command
+{knight_templar}Templar Knight
+{knight_templar_desc}Strong relations with the Templar knights has brought this man under the protection of the order.
+{knight_templar_effects_desc}+1 Chivalry, +1 Command
+{knight_teutonic}Teutonic Knight
+{knight_teutonic_desc}Followed by a towering Rhinelander knight from the noble Teutonic order.
+{knight_teutonic_effects_desc}+1 Chivalry, +1 Command
+{lancebearer}Lancebearer
+{lancebearer_desc}Great lords can do even greater things in battle when they have a brave servant ready to keep the right weapon at hand.
+{lancebearer_effects_desc}+1 Command when commanding cavalry
+{librarian}Librarian
+{librarian_desc}There is much knowledge to be found in books, provided you know somebody that knows where to look.
+{librarian_effects_desc}+1 Piety
+{lock_of_kaaba}Lock of Kaaba
+{lock_of_kaaba_desc}A lock from the door of the holiest place in Islam.
+{lock_of_kaaba_effects_desc}+1 Piety
+{machiavelli}Niccolo Machiavelli
+{machiavelli_desc}A master musician, poet, and most notably, political philosopher. His approach is considered by many inhumanely clinical.
+{machiavelli_effects_desc}+1 Command, +1 Authority, -1 from squalor (increases public order and population growth), -1 from unrest (improves public order)
+{magician}Magician
+{magician_desc}Sleight of hand, wondrous tricks, and some clever pyrotechnics make for fine entertainment.
+{magician_effects_desc}+1 Morale for all troops on the battlefield, +1 to popularity (improves public order)
+{magician_pagan}Pagan Magician
+{magician_pagan_desc}Regardless how fascinating the arcane arts may seem, consorting with one who actually practises them is not something a noble should be seen to do.
+{magician_pagan_effects_desc}-2 Piety
+{marco_polo}Marco Polo
+{marco_polo_desc}A great explorer and capable merchant, famous for his epic journey down the Silk Road to the Far East.
+{marco_polo_effects_desc}+15% to Movement Points (gives armies the ability to forced march), 10% bonus on all trade income
+{martin_luther}Martin Luther
+{martin_luther_desc}Considered by most to be a very forward-thinking theologian. A little too forward thinking for the Church at times.
+{martin_luther_effects_desc}+2 Piety, -2 from unrest (improves public order)
+{master_mason}Master Mason
+{master_mason_desc}Has found a civil master that he can entrust to ensure that his building projects are completed without fuss.
+{master_mason_effects_desc}10% discount on construction costs
+{master_of_archers}Master Archer
+{master_of_archers_desc}Accompanied by a truly experienced marksman, able to help assist when best to give the order to fire.
+{master_of_archers_effects_desc}+1 Command
+{master_of_assassins}Master of Assassins
+{master_of_assassins_desc}Others do not suspect that the hooded figure in this man's shadow is the biggest threat at hand.
+{master_of_assassins_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts), 20% discount on agent training costs
+{master_of_horse}Stablemaster
+{master_of_horse_desc}Most warriors know how to ride a horse, but few truly understand how to maintain their mounts properly, or to train them for war.
+{master_of_horse_effects_desc}+1 Command when commanding cavalry
+{master_smith}Master Smith
+{master_smith_desc}Has befriended a truly gifted and renowned smith, who ensures his noble friend is always well armed and armoured.
+{master_smith_effects_desc}10% discount on unit training costs
+{mathematician}Mathematician
+{mathematician_desc}Has found cause and justification to employ a scholar well versed in complex calculations.
+{mathematician_effects_desc}5% bonus on all trade income, 5% bonus on tax income, +1 Command when commanding artillery
+{meister_eckhart}Meister Eckhart
+{meister_eckhart_desc}A master theologian, mystic and philosopher. Widely respected, and perhaps too influential for the Church's liking.
+{meister_eckhart_effects_desc}+2 Piety, +1 Authority
+{mentor}Mentor
+{mentor_desc}Has always been by his young master's side - wise and trustworthy enough to help raise royalty.
+{mentor_effects_desc}+1 Command
+{mercenary_captain}Mercenary Captain
+{mercenary_captain_desc}Having run a company of mercenaries himself, this man makes maintaining an army of sell-swords a more efficient process.
+{mercenary_captain_effects_desc}10% discount on unit training costs, 10% bonus to cash gained from looting
+{merchant_clerk}Merchant Clerk
+{merchant_clerk_desc}An educated assistant that can keep accurate records and write up trade agreements is worth his weight in gold.
+{merchant_clerk_effects_desc}+1 Finance
+{michaelangelo}Michaelangelo
+{michaelangelo_desc}The complete master artist - Sculptor, painter, poet and architect. The inspiration he creates seems certain to outlive him.
+{michaelangelo_effects_desc}+2 to popularity (improves public order), -3 from squalor (increases public order and population growth)
+{military_engineer}Military Engineer
+{military_engineer_desc}Wise commanders keep a mechanical expert at hand when relying upon siege artillery to conquer castle walls.
+{military_engineer_effects_desc}+2 Command when assaulting walls, +50 Build Points (required for the construction of siege equipment)
+{mohammeds_footprint}Mohammed's Footprint
+{mohammeds_footprint_desc}A footprint of the Prophet Mohammed, preserved in bronze.
+{mohammeds_footprint_effects_desc}+1 Piety
+{money_counter}Money Counter
+{money_counter_desc}As much as counting one's wealth is a pleasure, when you're this wealthy, you may need some help.
+{money_counter_effects_desc}5% bonus on all trade income, 10% bonus on tax income
+{monk}Monk
+{monk_desc}A monk is always keen to spend time with those that would sit around, feed themselves and discuss religion…
+{monk_effects_desc}+1 Piety, -1 Purity
+{musician}Musician
+{musician_desc}Loves the art of music enough to make sure that he can bring it with him, or at least those than can make it.
+{musician_effects_desc}+1 Morale for all troops on the battlefield, +2 to popularity (improves public order)
+{naive_knight}Naïve Knight
+{naive_knight_desc}"At last, I have found a living saint, and I shall lay down my life to protect him should it be God's will."
+{naive_knight_effects_desc}+2 to personal security (improves the chances of detecting and foiling assassination attempts)
+{naval_gunner}Gunner
+{naval_gunner_desc}"Have you tried aiming a cannon while struggling to stand upright on deck then?"
+{naval_gunner_effects_desc}+2 Command at sea
+{naval_navigator}Reliable Navigator
+{naval_navigator_desc}When entering the vast trackless seas, a keen sense of direction is key to seeing land again soon.
+{naval_navigator_effects_desc}+1 Command at sea, +10% to Movement Points (gives armies the ability to forced march), +1 to line of sight (increases the range at which enemies are spotted)
+{nicolau_copernicus}Nicolau Copernicus
+{nicolau_copernicus_desc}One of the most respected scholars in the field of astronomy. His understanding of the heavens is presently unsurpassed.
+{nicolau_copernicus_effects_desc}+1 to agent's skill, +2 to line of sight (increases the range at which enemies are spotted)
+{niels_ebbesen}Niels Ebbesen
+{niels_ebbesen_desc}Known as the "Tyrant Slayer", he is renowned for his heroics in the struggle for his homelands.
+{niels_ebbesen_effects_desc}+2 Chivalry, +2 Command, +2 Morale for all troops on the battlefield
+{nosy_mother}Nosy Mother
+{nosy_mother_desc}When there are spies within your own home, there's always a sense of unease.
+{nosy_mother_effects_desc}-1 Authority, +1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{nun}Nun
+{nun_desc}Has formed a bond of friendship with the sister that attended to his nobly-won injuries.
+{nun_effects_desc}+1 Piety, -1 Violence
+{obsessed_suitor}Obsessed Suitor
+{obsessed_suitor_desc}So long as this man won't give up on her, it is likely that better suitors probably will.
+{obsessed_suitor_effects_desc}-1 Charm, -2 from personal security (increases the chances of falling victim to assassination)
+{ordinance_master}Ordinance Master
+{ordinance_master_desc}One of the few experts on handling the dangerous but powerful new weapons of war that use gunpowder.
+{ordinance_master_effects_desc}+1 Command when commanding gunpowder troops, +1 Command when commanding artillery
+{overseer}Overseer
+{overseer_desc}When one can entrust another to oversee the workers, much more can be accomplished.
+{overseer_effects_desc}1% discount on construction costs, +1 to farming output, 1% bonus on mining income
+{paladin}Paladin
+{paladin_desc}This defender of the faith has sworn to protect those who would spread it.
+{paladin_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts), +1 Purity+1 Violence
+{paracelsus}Paracelsus
+{paracelsus_desc}A widely travelled alchemist and physician. Considered heretical by some, but his work with wounds is astounding.
+{paracelsus_effects_desc}+4 to your general's hitpoints (how many hits your general can take before dying), Improves the chances of casualties recovering from their wounds
+{pet_bloodhound}Tracking Dog
+{pet_bloodhound_desc}Able to follow trails that no human eye could possibly detect in the first place.
+{pet_bloodhound_effects_desc}+2 to agent's skill, +1 to line of sight (increases the range at which enemies are spotted), +1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{pet_guarddog}Guard Dog
+{pet_guarddog_desc}More vigilant, intimidating and loyal than even the most cunning of watchmen.
+{pet_guarddog_effects_desc}+2 to personal security (improves the chances of detecting and foiling assassination attempts)
+{pet_monkey}Pet Monkey
+{pet_monkey_desc}A tiny bundle of wonder and chaos, trained to steal the scene, or even better, valuable objects.
+{pet_monkey_effects_desc}+1 to agent's skill
+{peter_the_hermit}Peter the Hermit
+{peter_the_hermit_desc}A powerful rabblerouser known for his humble ascetic outlook that the people seem more than willing to flock behind.
+{peter_the_hermit_effects_desc}+2 to popularity (improves public order), -2 from squalor (increases public order and population growth)
+{physician}Physician
+{physician_desc}Keeping good health is vital for a man who leads his people from the front, and much less of a mystery when accompanied by a such a scholar as this.
+{physician_effects_desc}Increases the chance of having children, Improves the chances of casualties recovering from their wounds
+{pickpocket}Pickpocket
+{pickpocket_desc}An adorable little urchin to behold, but truly a menace with wandering hands.
+{pickpocket_effects_desc}+1 to agent's skill, +1 to line of sight (increases the range at which enemies are spotted)
+{pierre_abelard}Pierre Abélard
+{pierre_abelard_desc}A great scholar, known as the man responsible for the fall of the philosophy of 'Realism'.
+{pierre_abelard_effects_desc}+1 Piety, +1 to popularity (improves public order), -1 from squalor (increases public order and population growth)
+{poisoner}Poisoner
+{poisoner_desc}Able to offer the most subtle and discreet ways of seeing one's enemies disappear.
+{poisoner_effects_desc}+2 to agent's skill
+{priest}Priest
+{priest_desc}There are few better ways to keep the faith than to keep a man of the cloth at hand to ensure you are on the correct path.
+{priest_effects_desc}+1 Piety
+{quartermaster}Quartermaster
+{quartermaster_desc}Keeping a military force well maintained is a job that this man excels at, sparing his master time to dwell upon tactics and strategies instead.
+{quartermaster_effects_desc}+15% to Movement Points (gives armies the ability to forced march), 5% bonus to cash gained from looting
+{raphael}Raphael
+{raphael_desc}A master painter with the softest edge to his stunning work. His prolific output leaves beauty in his trail.
+{raphael_effects_desc}+2 to popularity (improves public order), -3 from squalor (increases public order and population growth)
+{roger_bacon}Roger Bacon
+{roger_bacon_desc}An English scholar known for his documented experimentation and 'discovery' of gunpowder.
+{roger_bacon_effects_desc}+1 Command when assaulting walls, +2 Command when commanding gunpowder troops
+{roger_de_moulins}Roger de Moulins
+{roger_de_moulins_desc}One of the Masters of the Knights Hospitaller, adept in the ways of both war and politics.
+{roger_de_moulins_effects_desc}+2 Command, +1 Authority
+{royal_escort}Royal Escort
+{royal_escort_desc}With important duties abroad, assigning her majesty an escort was to be expected.
+{royal_escort_effects_desc}+2 to personal security (improves the chances of detecting and foiling assassination attempts)
+{royal_seminarian}Royal Seminarian
+{royal_seminarian_desc}One simply has to be a pious presence when bringing royalty into the fold.
+{royal_seminarian_effects_desc}+1 Piety, +1 Unorthodoxy
+{runner}Reliable Runner
+{runner_desc}A man who can race through the thick of battle to deliver orders to friend out of earshot can be worth losing many other men to keep alive. 
+{runner_effects_desc}+1 Command
+{scout}Keen Scout
+{scout_desc}A man that can spot signs of distant or hidden armies far more reliably than most common soldier can lay claim to.
+{scout_effects_desc}+1 Command when ambushing, +2 to line of sight (increases the range at which enemies are spotted)
+{scribe_ancillary}Brilliant Scribe
+{scribe_ancillary_desc}Being able to have written works produced or translated within one's castle opens a wealth of knowledge unto the family.
+{scribe_ancillary_effects_desc}+1 Authority, 10% bonus on all trade income
+{seal_of_solomon}Seal of Solomon
+{seal_of_solomon_desc}Legend has it that King Solomon's signet ring gave him the power to command demons and speak with animals.
+{seal_of_solomon_effects_desc}+1 Dread, -1 Piety, +2 Command when commanding cavalry
+{secret_love}Secret Love
+{secret_love_desc}Finding love on her own terms has made her happy, but should one of her suitors find out…
+{secret_love_effects_desc}-1 Charm
+{shard_of_the_true_cross}Shard of the True Cross
+{shard_of_the_true_cross_desc}A piece of the cross upon which Jesus was crucified, rumoured to have been built from the Tree of Knowledge from the Garden of Eden.
+{shard_of_the_true_cross_effects_desc}+2 Piety, +1 Command
+{shieldbearer}Shieldbearer
+{shieldbearer_desc}Important figures on the battlefield should never be left defenceless, men like this one are there to either save him or die in his stead.
+{shieldbearer_effects_desc}-1 Morale for all troops on the battlefield, +2 to your general's hitpoints (how many hits your general can take before dying)
+{shipwright}Shipwright
+{shipwright_desc}Manufacturing and repairing naval vessels can be extremely costly and difficult without a specialist like this to oversee the work.
+{shipwright_effects_desc}+1 Command at sea
+{siege_engineer}Siege Engineer
+{siege_engineer_desc}An expert in how to deconstruct heavy structures and defences is always welcome when approaching towering walls.
+{siege_engineer_effects_desc}+1 Command when assaulting walls, +60 Build Points (required for the construction of siege equipment)
+{simon_de_montfort}Simon de Montfort
+{simon_de_montfort_desc}An outstanding field commander, known for championing the cause of an elected parliament, rather than a monarchy.
+{simon_de_montfort_effects_desc}+2 Chivalry, +2 Command, -1 Loyalty, +1 to popularity (improves public order)
+{sir_william_wallace}Sir William Wallace
+{sir_william_wallace_desc}He may look like a ruffian, but this patriotic Scot is better educated in both battle and scholarly matters than most Kings.
+{sir_william_wallace_effects_desc}+1 Chivalry, +1 Command, +1 Authority, +2 Morale for all troops on the battlefield, +3 Command when fighting against English
+{slaver}Slaver
+{slaver_desc}Ensures that his lord and master is only ever served by the most capable and obedient of slaves.
+{slaver_effects_desc}15% bonus on all trade income
+{smothering_bodyguard}Smothering Guards
+{smothering_bodyguard_desc}Her highness is well protected from both harm, and any chance of being courted.
+{smothering_bodyguard_effects_desc}-1 Charm, +3 to personal security (improves the chances of detecting and foiling assassination attempts)
+{soil_from_mohammeds_grave}Soil of Mohammed's Grave
+{soil_from_mohammeds_grave_desc}This soil comes from the sacred grave of the Prophet Mohammed.
+{soil_from_mohammeds_grave_effects_desc}+1 Piety
+{soothsayer}Soothsayer
+{soothsayer_desc}A spinner of tales to satiate those nobles that want to ensure that the news they hear is pleasing.
+{soothsayer_effects_desc}+2 Morale for all troops on the battlefield
+{spyglass}Spyglass
+{spyglass_desc}Allows a mortal man to spot distant things that are normally privy only to eagles.
+{spyglass_effects_desc}+2 to line of sight (increases the range at which enemies are spotted)
+{spymaster}Spymaster
+{spymaster_desc}Having others keep you aware of things you are not able to notice defeats a dangerous sort of ignorance.
+{spymaster_effects_desc}+1 Command, +1 to public security (improves the chances of detecting and capturing enemy agents), 20% discount on agent training costs
+{standard_of_mohammed}Standard of Mohammed
+{standard_of_mohammed_desc}The Standard of Mohammed is born aloft by the faithful amidst the storm of battle.
+{standard_of_mohammed_effects_desc}+1 Piety, +1 Command
+{strapping_stallion}Strapping Stallion
+{strapping_stallion_desc}What an impressive and powerful beast this young lady straddles on a daily basis.
+{strapping_stallion_effects_desc}+10% to Movement Points (gives armies the ability to forced march)
+{stunning_handmaiden}Stunning Handmaiden
+{stunning_handmaiden_desc}With company this exotic, it's hard for even a princess to remain the centre of attention.
+{stunning_handmaiden_effects_desc}-1 Charm
+{swift_steed}Swift Steed
+{swift_steed_desc}A dashing mount that can pass over the land as swiftly as the wind itself.
+{swift_steed_effects_desc}+15% to Movement Points (gives armies the ability to forced march), +1 to public health
+{swiss_guard}Swiss Guard
+{swiss_guard_desc}The Pope sometimes sends the Swiss Guard to defend those battling in the church's name.
+{swiss_guard_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts)
+{sword_of_mohammed}Sword of Mohammed
+{sword_of_mohammed_desc}A sword belonging to the Prophet Mohammed, decorated in precious stones.
+{sword_of_mohammed_effects_desc}+1 Piety, +2 Command
+{swordbearer}Swordbearer
+{swordbearer_desc}It is always best to not have to break from combat when one's weapon breaks first.
+{swordbearer_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts), +1 to your general's hitpoints (how many hits your general can take before dying)
+{taticius}Taticius
+{taticius_desc}One of the Empire's finest naval and field commanders. An outstanding orator and a man of action.
+{taticius_effects_desc}+2 Command
+{tax_farmer}Tax Farmer
+{tax_farmer_desc}If you are going to bleed the people dry, get someone else to be the face of your oppression.
+{tax_farmer_effects_desc}-1 from popularity (has a negative effect on public order), 10% bonus on tax income
+{the_lemegeton}The Lemegeton
+{the_lemegeton_desc}Also known as the Lesser Key of Solomon, this tome is banned by the church as a grimoire of arts most foul.
+{the_lemegeton_effects_desc}+2 Magic
+{tooth_of_mohammed}Tooth of Mohammed
+{tooth_of_mohammed_desc}A tooth extracted from the Prophet Mohammed.
+{tooth_of_mohammed_effects_desc}+1 Piety
+{torturer}Torturer
+{torturer_desc}Only a depraved and insidious beast feels the need to have someone to carry on acts of torture while he is busy elsewhere.
+{torturer_effects_desc}+3 Dread, +1 Authority, +2 to public security (improves the chances of detecting and capturing enemy agents), +1 to unrest (has a negative effect on public order), +3 to law (improves public order)
+{translator}Translator
+{translator_desc}The most valuable companion a diplomat can have when entering lands where his own tongue is simply not recognised.
+{translator_effects_desc}+2 Influence
+{treasurer}Treasurer
+{treasurer_desc}A man who has mastered the art of managing royal sums of money can help avoid wasting it, something royalty often does.
+{treasurer_effects_desc}5% bonus on all trade income, 5% bonus on tax income
+{trick_abacus}Trick Abacus
+{trick_abacus_desc}"See, when you carry the two over, it turns out you owe me another hundred florins."
+{trick_abacus_effects_desc}+1 Finance
+{trusty_steed}Trusty Steed
+{trusty_steed_desc}Noble warriors need a noble and trusty mount such as this fine animal.
+{trusty_steed_effects_desc}+5% to Movement Points (gives armies the ability to forced march), +1 Command when commanding cavalry
+{tutor}Tutor
+{tutor_desc}A lord humble enough to admit he still has much to learn is typically one of the smarter ones.
+{tutor_effects_desc}+1 Piety, 5% bonus on all trade income
+{vasco_de_gama}Vasco de Gama
+{vasco_de_gama_desc}An outstanding explorer from Portugal, and the perfect man to take on a gruelling voyage.
+{vasco_de_gama_effects_desc}+15% to Movement Points (gives armies the ability to forced march), 10% bonus on all trade income
+{veil_of_veronica}Veil of Veronica
+{veil_of_veronica_desc}This veil was used to wipe the sweat from Jesus' brow as he carried the cross, leaving his image imprinted on the cloth.
+{veil_of_veronica_effects_desc}+1 Piety
+{veteran_warrior}Veteran Warrior
+{veteran_warrior_desc}A hardened old brother in arms, always there to defend to the last, or serve as midfield mentor.
+{veteran_warrior_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts), +1 Command when commanding infantry
+{vlad_tepes}Vlad Tepes
+{vlad_tepes_desc}One of the greatest defenders of the Christian front, but known to deal with his enemies in ways that are inhumane.
+{vlad_tepes_effects_desc}+3 Dread, +3 Command when fighting against Muslims
+{witch_hunter}Witch Hunter
+{witch_hunter_desc}A would-be inquisitor that has readily partnered with a man of the cloth so he can hunt heretics with the church's blessing.
+{witch_hunter_effects_desc}+1 Piety, -1 Unorthodoxy
+{yappy_little_dog}Yappy Little Dog
+{yappy_little_dog_desc}How can this woman possibly find this evil, overgrown rodent adorable?!
+{yappy_little_dog_effects_desc}-1 Charm
+{zealous_disciple}Zealous Disciple
+{zealous_disciple_desc}"I will not leave the Prophet's side, nor let anyone harm him."
+{zealous_disciple_effects_desc}+1 Piety, +1 to personal security (improves the chances of detecting and foiling assassination attempts)
