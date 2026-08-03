@@ -730,12 +730,17 @@ Format(file → txt → xml) → alphabet
     <summary> <b> 📝export_descr_buildings.txt </b>                               $${\color{red}[Units]}$$ </summary>
 <pre> 
 <code>
-building [name of building tree] </b>;---Building tree</b>
-convert_to [name of building] </b>;---converts previous building to different one</b>
-levels [list of buildings, lowest to highest tier] </b>;---self explainatory</b>
-{
-[building name] requires factions { [culture 1] , [culture 2] ...}  </b>;---put one or more cultures</b>
-{
+<b>;;Warning the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
+building [name of building tree] <b>;; Building tree</b>
+	convert_to [name of building] <b>;; converts previous building to different one</b>
+	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from <u>1</u> to <u>number of last building in levels list</u></b>
+	{
+		[building name] requires factions { [culture 1] , [culture 2] ...}  </b>;; put one or more cultures</b>
+		{
+			convert_to [number from level list] 
+			capability
+			{
+				recruit_pool "[unit name]" 1
 </code>
 </pre>
 
