@@ -72,7 +72,7 @@ Format(file → txt → xml) → alphabet
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
-</details
+</details>
 
 <details>
     <summary> <b> 📁Menu </b> Menu UI, textures, symbols </summary> 
@@ -80,7 +80,7 @@ Format(file → txt → xml) → alphabet
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
-</details
+</details>
 
 <details>
     <summary> <b> 📁Model_effects </b>  Menu UI, textures, symbols </summary>
