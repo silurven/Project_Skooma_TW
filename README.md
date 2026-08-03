@@ -6,15 +6,14 @@ Thalmor put it there to sabotage our great efforts.
 # Data:
 <details>
     <summary> <h3> <b> Animations: </b> </h3> Animations folder </summary>
-	Contains skeletons and animations.
         <details>
-            <summary> <b>engine</b> </summary>
-            Contains  siege animations.
+            <summary> <h4> <b>engine</b> </h4> </summary>
+            Contains  Animations and models.
         </details>
 </details>
 
 <details>
-    <summary> <h3> <b> Banners: </b> </h3> Banners folder </summary>
+    <summary> <h3> <b> Banners: </b> </h3> vafolder </summary>
         <details>
             <summary> <h3> <b>engine</b> </h3> </summary>
             Contains  Animations and models.
