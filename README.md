@@ -4,21 +4,13 @@ Thalmor put it there to sabotage our great efforts.
 
 # Data:
 <details>
-<summary> <h3><b> Animations</b></h3> :Animations folder </summary>
+	<summary> <h3><b> Animations: </b></h3>Animations folder </summary>
 
-<details>
-<summary>1.1 Installation</summary>
-
-Installation instructions go here...
-
-</details>
-
-<details>
-<summary>1.2 Configuration</summary>
-
-Configuration details go here...
-
-</details>
+		<details>
+			<summary><h3><b>engine</b></h3></summary>
+				Contains  Animations and models.
+	
+		</details>
 
 </details>
 
