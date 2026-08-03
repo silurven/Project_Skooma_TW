@@ -10,7 +10,7 @@ BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
-<strong>INFO</strong>
+<h2>INFO</h2>
 
 We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
 
@@ -741,11 +741,11 @@ Format(file → txt → xml) → alphabet
 <pre class="custom-code"> 
 
 <code>
-<strong>;; Read "!" </strong>
-<b><strong>;; ! Warning:</strong> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
-<b><strong>;; ! Logic:</strong> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
-<b><strong>;; ! Conditions:</strong> ;; [Condition] = factions [culture/faction], resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [number] </b>
-<b><strong>;; ! Prefixes:</strong> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinter_land </b>
+<h2>;; Read "!" </h2>
+<b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
+<b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
+<b><h3>;; ! Conditions:</h3> ;; [Condition] = factions [culture/faction], resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [number] </b>
+<b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinter_land </b>
 <hr>
 building [prefix]_[name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
