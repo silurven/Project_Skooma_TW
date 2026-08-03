@@ -3,9 +3,8 @@ Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
 # Data: Data folder
-## Animations: Animations folder
 <details>
-<summary>Chapter 1: Getting Started</summary>
+<summary><b> Animations</b> Animations folder </summary>
 
 <details>
 <summary>1.1 Installation</summary>
@@ -23,67 +22,67 @@ Configuration details go here...
 
 </details>
 
-## Banners:  Banner folder
+<b> Banners</b>  Banner folder
 
-## blockset: 
+<b> blockset</b> 
 
-## cursors : Cursors folder
+<b> cursors </b> Cursors folder
 
-## fmv : cutscenes folder
+<b> fmv </b> cutscenes folder
 
-## font: font/text style folder
+<b> font</b> font/text style folder
 
-## global lighting : lighting folder
+<b> global lighting </b> lighting folder
 
-## Loading screens : Contains loading screen images
+<b> Loading screens </b> Contains loading screen images
 
-## menu : Menu UI, textures, symbols
+<b> menu </b> Menu UI, textures, symbols
 
-## models effects
+<b> models effects
 
-## models off map
+<b> models off map
 
-## models strat : campaign map models and textures
+<b> models strat </b> campaign map models and textures
 
-## overlay textures: blood, dirt, snow on units
+<b> overlay textures</b> blood, dirt, snow on units
 
-## Scripts: Scripts list, preset
+<b> Scripts</b> Scripts list, preset
 
-## Settlements :settlement models
+<b> Settlements </b>settlement models
 
-## Shaders
+<b> Shaders
 
-## Siege engines
+<b> Siege engines
 
-## sounds
+<b> sounds
 
-## terrain : campaign map textures
+<b> terrain </b> campaign map textures
 
-## text : languages, ingame text 
+<b> text </b> languages, ingame text 
 
-## textures: Selection, outlines
+<b> textures</b> Selection, outlines
 
-## UI : Ingame UI, not to be mixed with menu UI
+<b> UI </b> Ingame UI, not to be mixed with menu UI
 
-## Unit models : Unit models and textures
+<b> Unit models </b> Unit models and textures
 
-## Unit sprites : Sprites
+<b> Unit sprites </b> Sprites
 
-## Vegetation : Battle map Vegetation
+<b> Vegetation </b> Battle map Vegetation
 
-## world : Campaign settings and it's map
+<b> world </b> Campaign settings and it's map
 
-## Battle_event_subtitles_lookup.xt
+<b> Battle_event_subtitles_lookup.xt
 
-## custom_locations.txt
+<b> custom_locations.txt
 
-## debug_descr_advice.txt
+<b> debug_descr_advice.txt
 
-## descr_aerial_map_ground_types.txt
+<b> descr_aerial_map_ground_types.txt
 
-## descr_aerial_map_tile_models.tx
+<b> descr_aerial_map_tile_models.tx
 
-## descr_animals.txt
+<b> descr_animals.txt
 
 
 # Add new custom climate [max 32 slots] for MED2
