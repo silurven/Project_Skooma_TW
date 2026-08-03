@@ -123,7 +123,7 @@ class ladder
 
 ;;;;;;;;;;;;;;;;;;; ICE ;;;;;;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain ice
 					event lod 1 volume -40 mindist 2
 						folder data/sounds/SFX/Individual/Siege_Engines
@@ -138,7 +138,7 @@ class ladder
 
 ;;;;;;;;;;;;;;;;; SNOW ;;;;;;;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, dirt, snow
 					event lod 1 volume -40 mindist 2
 						folder data/sounds/SFX/Individual/Siege_Engines
@@ -189,7 +189,7 @@ class ladder
 					end
 					
 				season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, dirt, snow
 					event lod 1 volume 0 mindist 3
 						folder data/sounds/SFX/Individual/Siege_Engines
@@ -291,7 +291,7 @@ class ladder
 
 ;;;;;;;;;;;;;;; ICE ;;;;;;;;;;;;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain ice
 					event lod 1 volume -5 mindist 2
 						folder data/sounds/SFX/Individual/Siege_Engines
@@ -306,7 +306,7 @@ class ladder
 
 ;;;;;;;;;;;;;; SNOW ;;;;;;;;;;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, dirt, snow
 					event lod 1 volume -15 mindist 2
 						folder data/sounds/SFX/Individual/Siege_Engines
@@ -394,7 +394,7 @@ class ladder
 
 ;;;;;;;;;;;;;;;;;;;;;;;;  ICE  ;;;;;;;;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain ice
 					event lod 1 volume -5 mindist 2
 						folder data/sounds/SFX/Individual/Siege_Engines/Onager/Stone
@@ -409,7 +409,7 @@ class ladder
 
 ;;;;;;;;;;;;;;;;;;;;;;;; SNOW ;;;;;;;;;;;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, dirt
 					event lod 1 volume -15 mindist 2
 						folder data/sounds/SFX/Individual/Siege_Engines/Onager/Snow
@@ -471,7 +471,7 @@ class ladder
 
 			;;;;  ICE  ;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain ice
 					event lod 1 volume 0
 						folder data/sounds/SFX/Individual/Siege_Engines/all_rams
@@ -482,7 +482,7 @@ class ladder
 
 			;;;; SNOW ;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, dirt, snow
 					event lod 1 volume 0
 						folder data/sounds/SFX/Individual/Siege_Engines/all_rams
@@ -540,7 +540,7 @@ class ladder
 
 			;;;; ICE ;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain ice
 					event lod 1 mindist 10
 						folder data/sounds/SFX/Individual/Siege_Engines/Siege_Tower/stone
@@ -551,7 +551,7 @@ class ladder
 
 			;;;; SNOW ;;;;
 			season winter
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 				terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, dirt
 					event lod 1 mindist 10 volume -15
 						folder data/sounds/SFX/Individual/Siege_Engines/Siege_Tower/snow

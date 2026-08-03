@@ -284,6 +284,8 @@ effect arrow_model_flaming
 	{
 		model		models_effects/arrow_projectile_flaming.CAS
 		fade_time	0.01
+		view_dist  10000
+		distance_visibility 0.0075 0.015 2.0 0.45 0.0035
 		sort_for_speed
 	}
 }
@@ -294,6 +296,8 @@ effect crossbow_arrow_model_flaming
 	{
 		model		models_effects/arrow_projectile_flaming.CAS
 		fade_time	0.01
+		view_dist  10000
+		distance_visibility 0.0075 0.015 2.0 0.45 0.0035
 		sort_for_speed
 	}
 }
@@ -316,6 +320,8 @@ effect arrow_model_flaming_glow
 	{
 		model		models_effects/arrow_projectile_flaming_glow.CAS
 		fade_time	0.01
+		view_dist  10000
+		distance_visibility 0.0075 0.015 2.0 0.45 0.0035
 		sort_for_speed
 	}
 }

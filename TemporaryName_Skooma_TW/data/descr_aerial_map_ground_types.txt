@@ -12,12 +12,19 @@
 ;	hills
 ;	mountains_high
 ;	mountains_low
-;	swamp				
+;	swamp
 ;	beach
 ;	scorched
 ;
 ;
+;	texture_density <multiplier>   (optional, root level, default 1.0)
+;	Sampling density of this art set relative to vanilla. If you have higher-resolution
+;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2
+;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).
+;	Accepted range 0.25 - 8. Applies to every texture in this file at once.
 ;
+;
+texture_density 2
 
 climate default
 {
@@ -246,6 +253,27 @@ climate sandy_desert
 	beach				beach.tga
 	scorched			scorched.tga
 	impassable_land		texture3.tga
+	impassable_sea		impassable_sea.tga
+	impassable_shrouded		impassable_shrouded.tga
+}
+
+climate custom_1
+{
+	cultivated_low		temperate_grassland_farm.tga	snow_thick.tga
+	cultivated_medium	temperate_grassland_farm.tga	snow_thick.tga
+	cultivated_high		temperate_grassland_farm.tga	snow_thick.tga
+	fertility_low		fertility_7.tga					snow_thick.tga
+	fertility_medium	fertility_4.tga			snow_thick.tga
+	fertility_high		fertility_3.tga			snow_thick.tga
+	forest_dense		fertility_4.tga					snow_thick.tga
+	forest_sparse		fertility_4.tga					snow_thick.tga
+	hills				texture1_hilly_L.tga				arctic.tga
+	mountains_high		temperate_mountain_small.tga	snow_mountain.tga
+	mountains_low		temperate_mountain_small.tga		snow_mountain.tga
+	swamp				swamp.tga						arctic.tga
+	beach				beach.tga
+	scorched			scorched.tga
+	impassable_land		impassable_land.tga
 	impassable_sea		impassable_sea.tga
 	impassable_shrouded		impassable_shrouded.tga
 }

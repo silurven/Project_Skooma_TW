@@ -6035,6 +6035,35 @@
       <object_data></object_data>
       <object_id>empty_art</object_id>
     </UI piece>
+    <UI piece>Terrain_Detail_Text
+      <identifier>UIP_ADVANCED_OPTIONS_TEXT</identifier>
+      <Parameters>
+        <x>775</x>
+        <y>458</y>
+        <width>190</width>
+        <height>26</height>
+        <UI text>UI_VIDEO_TERRAIN_DETAIL
+          <font_id>verdana_med</font_id>
+          <align>left</align>
+        </UI text>
+        <locked>false</locked>
+      </Parameters>
+      <object_data></object_data>
+      <object_id>empty_art</object_id>
+    </UI piece>
+    <UI piece>Terrain_Detail_Dropdown
+      <identifier>UIP_VIDEO_TERRAIN_DETAIL_DROPDOWN</identifier>
+      <Parameters>
+        <x>774</x>
+        <y>478</y>
+        <width>189</width>
+        <height>21</height>
+        <tool_tip_id>UI_VIDEO_TERRAIN_DETAIL_INFO</tool_tip_id>
+        <locked>false</locked>
+      </Parameters>
+      <object_data></object_data>
+      <object_id>empty_art</object_id>
+    </UI piece>
     <UI piece>Brightness_Text
       <identifier>UIP_ADVANCED_OPTIONS_TEXT</identifier>
       <Parameters>
@@ -12573,6 +12602,35 @@
       <object_data></object_data>
       <object_id>empty_art</object_id>
     </UI piece>
+    <UI piece>cb_shared_deployment_toggle
+      <identifier>UIP_ARCADE_BATTLES</identifier>
+      <Parameters>
+        <x>27</x>
+        <y>549</y>
+        <width>32</width>
+        <height>32</height>
+        <tool_tip_id>UI_FACTION_SELECT_SHARED_DEPLOYMENT_INFO</tool_tip_id>
+        <locked>false</locked>
+      </Parameters>
+      <object_data></object_data>
+      <object_id>empty_toggle_button</object_id>
+    </UI piece>
+    <UI piece>cb_shared_deployment_label
+      <identifier>UIP_STATIC_TEXT</identifier>
+      <Parameters>
+        <x>65</x>
+        <y>553</y>
+        <width>218</width>
+        <height>26</height>
+        <UI text>UI_FACTION_SELECT_SHARED_DEPLOYMENT
+          <font_id>verdana_med</font_id>
+          <align>left</align>
+        </UI text>
+        <locked>false</locked>
+      </Parameters>
+      <object_data></object_data>
+      <object_id>empty_art</object_id>
+    </UI piece>
     <UI piece>CB_terrain_difficulty
       <identifier>UIP_CUSTOM_DIFFICULTY</identifier>
       <Parameters>
@@ -13451,7 +13509,7 @@
         <y>324</y>
         <width>218</width>
         <height>32</height>
-        <UI text>UI_FACTION_SELECT_VICTORY_CONDITIONS
+        <UI text>UI_FACTION_SELECT_SHARED_DEPLOYMENT
           <font_id>tnr_sml</font_id>
           <align>left</align>
         </UI text>
@@ -13480,7 +13538,7 @@
         <y>324</y>
         <width>32</width>
         <height>32</height>
-        <tool_tip_id>UI_FACTION_SELECT_ARCADE_BATTLES_INFO</tool_tip_id>
+        <tool_tip_id>UI_FACTION_SELECT_SHARED_DEPLOYMENT_INFO</tool_tip_id>
         <locked>false</locked>
       </Parameters>
       <object_data></object_data>
@@ -14419,6 +14477,35 @@
         <width>190</width>
         <height>21</height>
         <tool_tip_id>UI_CUSTOM_TIMELIMIT_TOOLTIP</tool_tip_id>
+        <locked>false</locked>
+      </Parameters>
+      <object_data></object_data>
+      <object_id>empty_art</object_id>
+    </UI piece>
+    <UI piece>cb_shared_deployment_toggle
+      <identifier>UIP_ARCADE_BATTLES</identifier>
+      <Parameters>
+        <x>27</x>
+        <y>549</y>
+        <width>32</width>
+        <height>32</height>
+        <tool_tip_id>UI_FACTION_SELECT_SHARED_DEPLOYMENT_INFO</tool_tip_id>
+        <locked>false</locked>
+      </Parameters>
+      <object_data></object_data>
+      <object_id>empty_toggle_button</object_id>
+    </UI piece>
+    <UI piece>cb_shared_deployment_label
+      <identifier>UIP_STATIC_TEXT</identifier>
+      <Parameters>
+        <x>65</x>
+        <y>553</y>
+        <width>218</width>
+        <height>26</height>
+        <UI text>UI_FACTION_SELECT_SHARED_DEPLOYMENT
+          <font_id>verdana_med</font_id>
+          <align>left</align>
+        </UI text>
         <locked>false</locked>
       </Parameters>
       <object_data></object_data>

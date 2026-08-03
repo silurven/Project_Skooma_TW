@@ -70,7 +70,7 @@ BANK: fall
 			
 
 season winter
-	climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+	climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 	terrain snow, grass_short,grass_long,sand,rock,forest_dense,scrub_dense,stone_road,ice,wood,dirt
 		event priority 140 volume -45 mindist 1
 			folder data/sounds/SFX/Individual/Falls/Infantry

@@ -106,7 +106,7 @@ BANK: unit_run
 
 	unit infantry light, skirmish, missile, heavy, spearmen
 		season winter
-		climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 		
 		terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, ice, dirt, snow
 		        
@@ -230,7 +230,7 @@ BANK: unit_run
 
 	unit infantry light, skirmish, missile, heavy, spearmen
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain sand
 				event lod 0 mindist 1 minPitch .5 maxPitch 1.5 volume -60 priority 10 distancepriority -2 probability .5 probradius 7
 						folder data/sounds/SFX/Individual/Footsteps/Infantry
@@ -532,7 +532,7 @@ BANK: unit_run
 
 	unit infantry light, skirmish, missile, heavy, spearmen
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 		terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock, ice, snow
 			event lod 0 mindist 1 minPitch .5 maxPitch 1.5 volume -35 priority 10 distancepriority -2 rndvolume -20 probability .5 probradius 7
 		       		folder data/sounds/SFX/Individual/Footsteps/Infantry/Snow
@@ -654,7 +654,7 @@ BANK: unit_run
 
 	unit infantry light, skirmish, missile, heavy, spearmen
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain sand
 				event lod 0 mindist 1 minPitch .5 maxPitch 1.5 volume -60 priority 10 distancepriority -2 probability .5 probradius 7
 						folder data/sounds/SFX/Individual/Footsteps/Infantry
@@ -948,7 +948,7 @@ DEFAULT: mindist 8 volume 0 priority 70 fadein .5 fadeout 1
 
 	unit cavalry light, heavy, spearmen, skirmish, missile
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock
 
 			event lod 5 minPitch .9 maxPitch 1.1 volume -20
@@ -1025,7 +1025,7 @@ DEFAULT: mindist 8 volume -25
 
 	type Bedouin Camel Riders, Camel Gunners, Tuareg Camel Spearmens
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock
 
 			event lod 5
@@ -1102,7 +1102,7 @@ DEFAULT: mindist 12 volume 0 priority 170
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	type Elephants, Elephant Artillery, Elephants Mercs, Elephant Artillery Mercs, Elephant Rocketeer
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain stone_road
 
 			event lod 1 volume -10
@@ -1149,7 +1149,7 @@ DEFAULT: mindist 12 volume 0 priority 170
 
 	type Elephants, Elephant Artillery, Elephants Mercs, Elephant Artillery Mercs, Elephant Rocketeer
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock
 
 
@@ -1354,7 +1354,7 @@ DEFAULT: 3D mindist 1 priority 10 fadein 0 fadeout 0 distancepriority -2 rndvolu
 
 
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 
 			terrain  grass_short, grass_long, forest_dense, scrub_dense, rock
 			event lod 0 mindist 1 minPitch .5 maxPitch 1.5 volume 0 priority 20 rndvolume -5 probability .5 probradius 7
@@ -1499,7 +1499,7 @@ DEFAULT: 3D mindist 1 priority 10 fadein 0 fadeout 0 distancepriority -2 rndvolu
 
 mount camel
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock
 			event lod 0 mindist 1 minPitch .5 maxPitch 1.5 volume -10 priority 20 rndvolume -20 probability .5 probradius 7
 		       		folder data/sounds/SFX/Individual/Footsteps/Camel/Snow
@@ -1607,7 +1607,7 @@ mount camel
 
 	mount elephant_cannon, elephant_rocket, elephant
 		season winter
-		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+		climates steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain  grass_short, grass_long, sand, forest_dense, scrub_dense, rock
 			event lod 0 mindist 2 minPitch .9 maxPitch 1.1 volume -10 priority 190 rndvolume -15 probability 1 probradius 7 distancepriority -5
 		       	folder data/sounds/SFX/Individual/Footsteps/Elephants/Snow

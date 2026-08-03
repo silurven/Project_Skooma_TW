@@ -211,7 +211,7 @@ BANK: weather
 
 	precipitate rain
 		season summer, winter
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, semi_arid, custom_1
 
 		event lod 0
 				folder	data/sounds/SFX/Environment/weather
@@ -237,7 +237,7 @@ BANK: weather
 
 	precipitate hail
 		season summer, winter
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, semi_arid, custom_1
 			event volume -20
 				folder data/sounds/SFX/Environment/weather
 				rain_hail_01L
@@ -271,7 +271,7 @@ BANK: weather
 	wind calm		15, 30
 		season summer
 			
-				climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+				climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 			
 				event volume 0
 					folder data/sounds/SFX/Environment/weather
@@ -281,7 +281,7 @@ BANK: weather
 	wind breezes	20, 40
 		season summer
 		
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_Breezes_02 volume -15
@@ -290,7 +290,7 @@ BANK: weather
 	wind wind		25, 50
 		season summer
 		
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_Lush
@@ -299,7 +299,7 @@ BANK: weather
 	wind gusts		30, 70
 		season summer
 		
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_Gusts_01 volume 0
@@ -308,7 +308,7 @@ BANK: weather
 	wind gales		40, 100
 		season summer
 		
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_Gales_03 volume -20
@@ -327,7 +327,7 @@ BANK: weather
 
 	wind calm		10, 30
 		season winter
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 
@@ -336,7 +336,7 @@ BANK: weather
 				end
 	wind breezes	20, 40
 		season winter
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_Winter_Icy	volume -10
@@ -344,7 +344,7 @@ BANK: weather
 				end
 	wind wind		20, 60
 		season winter
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_WinterHills
@@ -353,7 +353,7 @@ BANK: weather
 				end
 	wind gusts		30, 70
 		season winter
-			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event volume -25
 					folder data/sounds/SFX/Environment/weather
 				Wind_WinterStorm1 volume -20
@@ -362,7 +362,7 @@ BANK: weather
 				end
 	wind gales		30, 90
 		season winter
-			climates mediterranean,  unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical
+			climates mediterranean,  unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, unused2, highland, alpine, tropical, custom_1
 				event volume -15
 					folder data/sounds/SFX/Environment/weather
 				Wind_HowlGusty_02

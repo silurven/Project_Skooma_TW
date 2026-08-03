@@ -69,7 +69,7 @@ settlement
 	faction_creator england
 }
 
-character	William, named character, male, leader, age 50, x 839, y 827
+character	William, named character, male, leader, age 50, x 967, y 451
 traits Factionleader 1 , GoodCommander 1 , Intelligent 2 , VictorVirtue 3 , PublicFaith 2 , BattleDread 2 , StrategyDread 2 , ReligionStarter 1 
 army
 unit		NE Bodyguard				exp 1 armour 0 weapon_lvl 0
@@ -82,6 +82,17 @@ faction	slave, fortified stalin
 ai_label		slave_faction
 denari	10000
 denari_kings_purse	1000
+
+character	sub_faction england, Harold Dowell, general, male, age 24, x 963, y 451 
+army
+unit		Peasant Archers				exp 1 armour 0 weapon_lvl 0
+unit		Peasant Archers				exp 1 armour 0 weapon_lvl 0
+unit		Irish Kerns				exp 1 armour 0 weapon_lvl 0
+unit		Irish Kerns				exp 0 armour 0 weapon_lvl 0
+unit		Galloglaich				exp 0 armour 0 weapon_lvl 0
+unit		Galloglaich				exp 0 armour 0 weapon_lvl 0
+unit		Town Militia				exp 0 armour 0 weapon_lvl 0
+unit		Town Militia				exp 0 armour 0 weapon_lvl 0
 
 settlement
 {

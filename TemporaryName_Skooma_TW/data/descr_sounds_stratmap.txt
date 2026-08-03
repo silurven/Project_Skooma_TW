@@ -148,7 +148,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain mountains_high ; mountains_low, hills
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -162,7 +162,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain forest_dense
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX/environment
@@ -179,7 +179,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain forest_sparse
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX/environment
@@ -199,7 +199,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain swamp
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0 mindist 1
 					folder data/sounds/SFX/environment
@@ -226,7 +226,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain sea_shallow
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -276,7 +276,7 @@ season winter
 				end
 
 	terrain mountains_high ; mountains_low, hills
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 			event volume -35 probability 1 effect_level .8 mindist 2
 				folder data/sounds/SFX/Environment/Animals/winter_strat_animals
@@ -335,7 +335,7 @@ season winter
 				end
 
 
-			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest,  highland, alpine, tropical
+			climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest,  highland, alpine, tropical, custom_1
 				ambient
 			event volume -35 probability 1 effect_level 1 mindist 2
 				folder data/sounds/SFX/Environment/Animals/winter_strat_animals
@@ -371,7 +371,7 @@ season winter
 				end
 
 	terrain ocean, sea_deep
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -384,7 +384,7 @@ season winter
 				end
 
 	terrain sea_shallow
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -398,7 +398,7 @@ season winter
 				end
 
 	terrain beach
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
 			ambient
 				event volume 0
 					folder data/sounds/SFX

@@ -1,6 +1,6 @@
 version_info
 {
-	35
+	36
 }
 
 ; This section defines all of the configuration parameters for the pathfinder
@@ -74,7 +74,7 @@ multires_pathfinder
 	; Zone configuration
 	zone_configuration
 	{
-		maximum_slope			40		; limit is 40 degrees
+		maximum_slope			50		; limit is 50 degrees
 	}
 	
 	; Heuristic configuration
@@ -255,8 +255,8 @@ multires_pathfinder
 
 		siege
 		{
-			min_slope	15		; minimum slope before penalty applies
-			max_slope	25		; maximum slope the unit can handle
+			min_slope	30		; minimum slope before penalty applies
+			max_slope	45		; maximum slope the unit can handle
 			penalty		1.02	; penalty per degree
 			min_width	0		; minimum width = 0m
 
@@ -280,7 +280,7 @@ multires_pathfinder
 
 		ladder
 		{
-			min_slope	15		; minimum slope before penalty applies
+			min_slope	30		; minimum slope before penalty applies
 			max_slope	40		; maximum slope the unit can handle
 			penalty		1.02	; penalty per degree
 			min_width	0		; minimum width = 0m
@@ -305,8 +305,8 @@ multires_pathfinder
 
 		ram
 		{
-			min_slope	10		; minimum slope before penalty applies
-			max_slope	25		; maximum slope the unit can handle
+			min_slope	30		; minimum slope before penalty applies
+			max_slope	45		; maximum slope the unit can handle
 			penalty		1.02	; penalty per degree
 			min_width	6		;
 
@@ -330,8 +330,8 @@ multires_pathfinder
 
 		tower
 		{
-			min_slope	10		; minimum slope before penalty applies
-			max_slope	15		; maximum slope the unit can handle
+			min_slope	30		; minimum slope before penalty applies
+			max_slope	45		; maximum slope the unit can handle
 			penalty		1.02	; penalty per degree
 			min_width	8		;
 

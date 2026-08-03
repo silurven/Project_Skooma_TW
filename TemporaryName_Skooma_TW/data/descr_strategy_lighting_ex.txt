@@ -1,0 +1,25 @@
+; Strategy map lighting - LINEAR light energy (the _ex format).
+; Values here are parsed raw by the linear pipeline, there is no gamma curve or any hidden
+; compensation factor. 1.0 is as bright as a white texel under full sun; values
+; above 1 are legal and are HDR values...
+; If this file doesn't exist in your mod, descr_strategy_lighting.txt is read in gamma space (^2.2 on the values)
+; You should update your mod though.
+
+; landscape				red		green		blue
+ambient_colour				0.185		0.185		0.202
+diffuse_colour				0.985575	0.985575	1.0494
+
+;piece specular
+;specular_colour				0.0220502	0.0220502	0.0220502
+specular_colour				0.161126	0.161126	0.161126
+
+;direction			x	y	z
+diffuse_direction		-1.0	-1.0	1.0
+
+specular_sharpness			90.0
+
+piece_ambient_colour			0.75		0.75		0.79
+piece_diffuse_colour			1.30534		1.30534		1.33673
+
+
+exposure				1.0

@@ -1,0 +1,13 @@
+; global lighting (linear, not the srgb crap like before)
+; When this file exists it wins over the
+; binary .lighting file.
+; colours are linear-light floating point numbers (r g b w; w is packed non-colour data).
+
+main_direction    0.713703 -0.338622 -0.613159
+main_diffuse      2.66115 0.682814 0.628583 1
+hemisphere_sky    0.119857 0.0962171 0.329912 1
+hemisphere_ground 0.0227256 0.0270303 0.0200949 1
+fog_colour        0.0117647 0.0196078 0.0509804 1
+fog_range         -50 1500
+envmap_intensity  1
+envmap_texture    globallighting/env_maps/environment_sunset_storm.texture

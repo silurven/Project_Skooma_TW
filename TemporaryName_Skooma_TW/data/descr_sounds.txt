@@ -190,7 +190,7 @@ EAX:
         
  ;;;;;  small forest
    forest
-    climates tropical, semi_arid, steppe, highland ; sandy_desert, 
+    climates tropical, semi_arid, steppe, highland, custom_1 ; sandy_desert, 
     provider "Miles Fast 2D Positional Audio"
         room        ENVIRONMENT_FOREST
         parameter   "EAX effect volume"     .2

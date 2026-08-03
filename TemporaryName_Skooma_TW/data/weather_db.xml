@@ -19,7 +19,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -36,7 +36,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/morning_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -53,7 +53,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/daytime_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="124"/>
                   </event>
                </events>
@@ -70,7 +70,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -87,7 +87,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -104,7 +104,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_clear_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="250"/>
                   </event>
                </events>
@@ -126,7 +126,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_arid_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -143,7 +143,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/morning_arid_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -160,7 +160,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/daytime_arid_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                </events>
@@ -177,7 +177,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_arid_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -194,7 +194,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_arid_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -211,7 +211,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_clear_arid_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="250"/>
                   </event>
                </events>
@@ -233,7 +233,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_winter_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -250,7 +250,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/morning_winter_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="90"/>
                   </event>
                </events>
@@ -267,7 +267,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/daytime_winter_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="70"/>
                   </event>
                </events>
@@ -284,7 +284,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_winter_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="90"/>
                   </event>
                </events>
@@ -301,7 +301,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_winter_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -318,7 +318,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_clear_winter_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2000"/>
+                     <fog min="-50" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="250"/>
                   </event>
                </events>
@@ -346,7 +346,7 @@
                      <lighting data="globallighting/sunrise_storm.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="170"/>
                   </event>
                   <event id="phase 2 - rain" duration="30" transition="30">
@@ -354,14 +354,14 @@
                      <lighting data="globallighting/sunrise_storm.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="170"/>
                   </event>
                   <event id="phase 3 - breaking" duration="60" transition="30">
                      <precipitation type="rain" level="light"/>
                      <lighting data="globallighting/sunrise_storm.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="170"/>
                   </event>
                </events>
@@ -384,14 +384,14 @@
                      <lighting data="globallighting/morning_storm.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                   <event id="phase 2 - storm" duration="30" transition="30">
                      <precipitation type="rain" level="light"/>
                      <lighting data="globallighting/morning_storm.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                   <event id="phase 3 - rain" duration="30" transition="30">
@@ -399,14 +399,14 @@
                      <lighting data="globallighting/morning_storm.lighting"/>
                      <wind type="gales"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                   <event id="phase 4 - storm" duration="60" transition="30">
                      <precipitation type="rain" level="light"/>
                      <lighting data="globallighting/morning_storm.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -429,7 +429,7 @@
                      <lighting data="globallighting/midday_storm.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                   <event id="phase 2 - rain" duration="30" transition="10">
@@ -437,14 +437,14 @@
                      <lighting data="globallighting/midday_storm.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                   <event id="phase 3 - storm" duration="60" transition="10">
                      <precipitation type="rain" level="light"/>
                      <lighting data="globallighting/midday_storm.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -467,7 +467,7 @@
                      <lighting data="globallighting/afternoon_storm.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>                   
                   </event>    
                   <event id="phase 2 - build up" duration="30" transition="30">
@@ -475,7 +475,7 @@
                      <lighting data="globallighting/afternoon_storm.lighting"/>
                      <wind type="gales"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>       
                   <event id="phase 3 - build up" duration="30" transition="30">
@@ -483,7 +483,7 @@
                      <lighting data="globallighting/afternoon_storm.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>                   
                </events>
@@ -506,7 +506,7 @@
                      <lighting data="globallighting/sunset_storm_bloom.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="4" intensity="210"/>
                   </event>
                   <event id="phase 2 - rain" duration="90" transition="30">
@@ -514,14 +514,14 @@
                      <lighting data="globallighting/sunset_storm_bloom.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1400"/>
+                     <fog min="0" max="5000"/>
                      <bloom red="255" green="255" blue="255" select="4" intensity="210"/>
                   </event>
                   <event id="phase 3 - storm" duration="30" transition="30">
                      <precipitation type="rain" level="light"/>
                      <lighting data="globallighting/sunset_storm_bloom.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="2000"/>
+                     <fog min="0" max="8000"/>
                      <bloom red="255" green="255" blue="255" select="4" intensity="210"/>
                   </event>
                </events>
@@ -544,7 +544,7 @@
                      <lighting data="globallighting/night_storm.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="700"/>
+                     <fog min="0" max="2800"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="250"/>
                   </event>
                    <event id="phase 2 - build up" duration="30" transition="10">
@@ -552,7 +552,7 @@
                      <lighting data="globallighting/night_storm.lighting"/>
                      <wind type="gales"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="700"/>
+                     <fog min="0" max="2800"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="250"/>
                   </event>
                    <event id="phase 3 - build up" duration="30" transition="10">
@@ -560,7 +560,7 @@
                      <lighting data="globallighting/night_storm.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="700"/>
+                     <fog min="0" max="2800"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="250"/>
                   </event>
                </events>
@@ -582,7 +582,7 @@
                      <precipitation type="rain" level="torrential"/>
                      <lighting data="globallighting/sunrise_fog.lighting"/>
                      <wind type="gales"/>
-                      <fog min="-60" max="230"/>
+                      <fog min="-60" max="920"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                      <lightning>
                         <frequency min="10" max="20"/>
@@ -603,7 +603,7 @@
                      <precipitation type="rain" level="torrential"/>
                      <lighting data="globallighting/morning_fog.lighting"/>
                      <wind type="gales"/>
-                      <fog min="-60" max="230"/>
+                      <fog min="-60" max="920"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                      <lightning>
                         <frequency min="10" max="20"/>
@@ -624,7 +624,7 @@
                      <precipitation type="rain" level="torrential"/>
                      <lighting data="globallighting/midday_fog.lighting"/>
                      <wind type="gales"/>
-                      <fog min="-60" max="230"/>
+                      <fog min="-60" max="920"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                      <lightning>
                         <frequency min="10" max="20"/>
@@ -645,7 +645,7 @@
                      <precipitation type="rain" level="torrential"/>
                      <lighting data="globallighting/afternoon_fog.lighting"/>
                      <wind type="gales"/>
-                      <fog min="-60" max="230"/>
+                      <fog min="-60" max="920"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="170"/>
                      <lightning>
                         <frequency min="10" max="20"/>
@@ -666,7 +666,7 @@
                      <precipitation type="rain" level="torrential"/>
                      <lighting data="globallighting/sunset_fog.lighting"/>
                      <wind type="gales"/>
-                     <fog min="-60" max="230"/>
+                     <fog min="-60" max="920"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                      <lightning>
                         <frequency min="10" max="20"/>
@@ -687,7 +687,7 @@
                      <precipitation type="rain" level="torrential"/>
                      <lighting data="globallighting/night_fog.lighting"/>
                      <wind type="gales"/>
-                      <fog min="-60" max="230"/>
+                      <fog min="-60" max="920"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                      <lightning>
                         <frequency min="10" max="20"/>
@@ -714,7 +714,7 @@
                      <lighting data="globallighting/sunrise_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 2 - snow" duration="180" transition="20">
@@ -722,21 +722,21 @@
                      <lighting data="globallighting/sunrise_blizzard.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 3 - blizzard" duration="600" transition="30">
                      <precipitation type="snow" level="drizzle"/>
                      <lighting data="globallighting/sunrise_blizzard.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 4 - breaking" duration="60" transition="30">
                      <precipitation type="snow" level="light"/>
                      <lighting data="globallighting/sunrise_blizzard.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -754,7 +754,7 @@
                      <lighting data="globallighting/morning_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 2 - snow" duration="180" transition="20">
@@ -762,21 +762,21 @@
                      <lighting data="globallighting/morning_blizzard.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 3 - blizzard" duration="600" transition="30">
                      <precipitation type="snow" level="drizzle"/>
                      <lighting data="globallighting/morning_blizzard.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 4 - breaking" duration="60" transition="30">
                      <precipitation type="snow" level="light"/>
                      <lighting data="globallighting/morning_blizzard.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -794,7 +794,7 @@
                      <lighting data="globallighting/midday_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                   <event id="phase 2 - snow" duration="180" transition="20">
@@ -802,21 +802,21 @@
                      <lighting data="globallighting/midday_blizzard.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                   <event id="phase 3 - blizzard" duration="600" transition="30">
                      <precipitation type="snow" level="drizzle"/>
                      <lighting data="globallighting/midday_blizzard.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                   <event id="phase 4 - breaking" duration="60" transition="30">
                      <precipitation type="snow" level="light"/>
                      <lighting data="globallighting/midday_blizzard.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                </events>
@@ -834,7 +834,7 @@
                      <lighting data="globallighting/afternoon_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 2 - snow" duration="180" transition="20">
@@ -842,21 +842,21 @@
                      <lighting data="globallighting/afternoon_blizzard.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 3 - blizzard" duration="600" transition="30">
                      <precipitation type="snow" level="drizzle"/>
                      <lighting data="globallighting/afternoon_blizzard.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                   <event id="phase 4 - breaking" duration="60" transition="30">
                      <precipitation type="snow" level="light"/>
                      <lighting data="globallighting/afternoon_blizzard.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -874,7 +874,7 @@
                      <lighting data="globallighting/sunset_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                   <event id="phase 2 - snow" duration="180" transition="20">
@@ -882,21 +882,21 @@
                      <lighting data="globallighting/sunset_blizzard.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                   <event id="phase 3 - blizzard" duration="600" transition="30">
                      <precipitation type="snow" level="drizzle"/>
                      <lighting data="globallighting/sunset_blizzard.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                   <event id="phase 4 - breaking" duration="60" transition="30">
                      <precipitation type="snow" level="light"/>
                      <lighting data="globallighting/sunset_blizzard.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                </events>
@@ -914,7 +914,7 @@
                      <lighting data="globallighting/night_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                   <event id="phase 2 - snow" duration="180" transition="20">
@@ -922,21 +922,21 @@
                      <lighting data="globallighting/night_blizzard.lighting"/>
                      <wind type="gusts"/>
                      <cloud_fade min="0.0" max="0.25"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                   <event id="phase 3 - blizzard" duration="600" transition="30">
                      <precipitation type="snow" level="drizzle"/>
                      <lighting data="globallighting/night_blizzard.lighting"/>
                      <wind type="gales"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                   <event id="phase 4 - breaking" duration="60" transition="30">
                      <precipitation type="snow" level="light"/>
                      <lighting data="globallighting/night_blizzard.lighting"/>
                      <wind type="wind"/>
-                     <fog min="0" max="1000"/>
+                     <fog min="0" max="4000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                </events>
@@ -959,7 +959,7 @@
                      <lighting data="globallighting/sunrise_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="-10" max="160"/>
+                     <fog min="-10" max="640"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -977,7 +977,7 @@
                      <lighting data="globallighting/morning_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="-10" max="160"/>
+                     <fog min="-10" max="640"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -995,7 +995,7 @@
                      <lighting data="globallighting/midday_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="-10" max="160"/>
+                     <fog min="-10" max="640"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                </events>
@@ -1013,7 +1013,7 @@
                      <lighting data="globallighting/afternoon_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="-10" max="160"/>
+                     <fog min="-10" max="640"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -1031,7 +1031,7 @@
                      <lighting data="globallighting/sunset_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="-10" max="160"/>
+                     <fog min="-10" max="640"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                </events>
@@ -1049,7 +1049,7 @@
                      <lighting data="globallighting/night_blizzard.lighting"/>
                      <wind type="wind"/>
                      <cloud_fade min="0.0" max="0.5"/>
-                     <fog min="-10" max="160"/>
+                     <fog min="-10" max="640"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                </events>
@@ -1071,7 +1071,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1088,7 +1088,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1105,7 +1105,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/daytime_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1122,7 +1122,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1139,7 +1139,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1156,7 +1156,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_time_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1178,7 +1178,7 @@
                      <precipitation type="none" level="light"/>
                      <lighting data="globallighting/sunrise_cloudy.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1195,7 +1195,7 @@
                      <precipitation type="none" level="light"/>
                      <lighting data="globallighting/morning_cloudy.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1212,7 +1212,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/daytime_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="130"/>
                   </event>
                </events>
@@ -1229,7 +1229,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1246,7 +1246,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1263,7 +1263,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_time_cloudy.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="255"/>
                   </event>
                </events>
@@ -1285,7 +1285,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_cloudy_arid.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1302,7 +1302,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/morning_cloudy_arid.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1319,7 +1319,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/daytime_cloudy_arid.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                </events>
@@ -1336,7 +1336,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_cloudy_arid.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1353,7 +1353,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_cloudy_glow.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1370,7 +1370,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_time_cloudy_arid.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="255"/>
                   </event>
                </events>
@@ -1392,7 +1392,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunrise_cloudy_arid.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="-50" max="300"/>
+                     <fog min="-50" max="1200"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1409,7 +1409,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/morning_cloudy_arid.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="-50" max="400"/>
+                     <fog min="-50" max="1600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1426,7 +1426,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/daytime_dusty_arid.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="-50" max="450"/>
+                     <fog min="-50" max="1800"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="120"/>
                   </event>
                </events>
@@ -1443,7 +1443,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/afternoon_dusty_arid.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="-50" max="400"/>
+                     <fog min="-50" max="1600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1460,7 +1460,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunset_cloudy_arid.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="-50" max="400"/>
+                     <fog min="-50" max="1600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1477,7 +1477,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/night_time_cloudy_arid.lighting"/>
                      <wind type="gusts"/>
-                     <fog min="-50" max="250"/>
+                     <fog min="-50" max="1000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="255"/>
                   </event>
                </events>
@@ -1499,7 +1499,7 @@
                      <precipitation type="none" level="light"/>
                      <lighting data="globallighting/sunrise_cloudy_winter.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1516,7 +1516,7 @@
                      <precipitation type="dust" level="light"/>
                      <lighting data="globallighting/morning_cloudy_winter.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -1533,7 +1533,7 @@
                      <precipitation type="dust" level="light"/>
                      <lighting data="globallighting/daytime_cloudy_winter.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="90"/>
                   </event>
                </events>
@@ -1550,7 +1550,7 @@
                      <precipitation type="dust" level="light"/>
                      <lighting data="globallighting/afternoon_cloudy_winter.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="120"/>
                   </event>
                </events>
@@ -1567,7 +1567,7 @@
                      <precipitation type="dust" level="light"/>
                      <lighting data="globallighting/sunset_cloudy_winter.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -1584,7 +1584,7 @@
                      <precipitation type="none" level="light"/>
                      <lighting data="globallighting/night_time_cloudy_arid.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="-50" max="1800"/>
+                     <fog min="-50" max="7000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="190"/>
                   </event>
                </events>
@@ -1606,7 +1606,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunrise_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -1623,7 +1623,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/morning_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1640,7 +1640,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/midday_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1657,7 +1657,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/afternoon_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="170"/>
                   </event>
                </events>
@@ -1674,7 +1674,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunset_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1691,7 +1691,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/night_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                </events>
@@ -1713,7 +1713,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunrise_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="110"/>
                   </event>
                </events>
@@ -1730,7 +1730,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/morning_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1747,7 +1747,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/midday_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1764,7 +1764,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/afternoon_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1781,7 +1781,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunset_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1798,7 +1798,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/night_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="350"/>
+                     <fog min="0" max="1400"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1820,7 +1820,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunrise_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="130"/>
                   </event>
                </events>
@@ -1837,7 +1837,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/morning_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1854,7 +1854,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/midday_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1871,7 +1871,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/afternoon_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="170"/>
                   </event>
                </events>
@@ -1888,7 +1888,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunset_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -1905,7 +1905,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/night_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="210"/>
                   </event>
                </events>
@@ -1927,7 +1927,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunrise_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="110"/>
                   </event>
                </events>
@@ -1944,7 +1944,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/morning_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1961,7 +1961,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/midday_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -1978,7 +1978,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/afternoon_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -1995,7 +1995,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/sunset_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="160"/>
                   </event>
                </events>
@@ -2012,7 +2012,7 @@
                      <precipitation type="dust" level="heavy"/>
                      <lighting data="globallighting/night_fog.lighting"/>
                      <wind type="breezes"/>
-                     <fog min="0" max="150"/>
+                     <fog min="0" max="600"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="190"/>
                   </event>
                </events>
@@ -2034,7 +2034,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunrise_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2500"/>
+                     <fog min="-50" max="9000"/>
                      <bloom red="255" green="230" blue="130" select="15" intensity="150"/>
                   </event>
                </events>
@@ -2051,7 +2051,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/morning_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2500"/>
+                     <fog min="-50" max="9000"/>
                      <bloom red="255" green="230" blue="150" select="15" intensity="150"/>
                   </event>
                </events>
@@ -2096,7 +2096,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/afternoon_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2500"/>
+                     <fog min="-50" max="9000"/>
                      <bloom red="255" green="255" blue="245" select="15" intensity="150"/>
                   </event>
                </events>
@@ -2113,7 +2113,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/sunset_clear.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2500"/>
+                     <fog min="-50" max="9000"/>
                      <bloom red="255" green="255" blue="255" select="15" intensity="150"/>
                   </event>
                </events>
@@ -2130,7 +2130,7 @@
                      <precipitation type="none" level="dry"/>
                      <lighting data="globallighting/night_clear_light.lighting"/>
                      <wind type="wind"/>
-                     <fog min="-50" max="2500"/>
+                     <fog min="-50" max="9000"/>
                      <bloom red="255" green="255" blue="255" select="0" intensity="150"/>
                   </event>
                </events>
@@ -2238,6 +2238,16 @@
                </patterns>
             </climate>
             <climate id="semi_arid" parent="mediterranean"/>
+            <climate id="custom_1">
+               <patterns>
+                  <pattern id="clear" chance="0.3"/>
+                  <pattern id="cloudy" chance="0.3"/>
+                  <pattern id="rain" chance="0.15"/>
+                  <pattern id="storm" chance="0.1"/>
+                  <pattern id="light fog" chance="0.05"/>
+                  <pattern id="heavy fog" chance="0.03"/>
+               </patterns>
+            </climate>
          </climates>
       </season>
       <!-- Winter -->
@@ -2263,7 +2273,7 @@
             <climate id="rocky_desert">
                <patterns>
                   <pattern id="clear arid" chance="0.375"/>
-                  <pattern id="cloudy arid" chance="03275"/>
+                  <pattern id="cloudy arid" chance="0.3275"/>
                   <pattern id="dusty" chance="0.25"/>
                   <pattern id="rain" chance="0.10"/>
                </patterns>
@@ -2319,6 +2329,17 @@
                   <pattern id="blizzard" chance="0.15"/>
                   <pattern id="light fog winter" chance="0.15"/>
                   <pattern id="heavy fog winter" chance="0.05"/>
+               </patterns>
+            </climate>
+			<climate id="custom_1">
+               <patterns>
+                  <pattern id="clear winter" chance="0.375"/>
+                  <pattern id="cloudy winter" chance="0.375"/>
+                  <pattern id="snow" chance="0.25"/>
+                  <pattern id="blizzard" chance="0.05"/>
+                  <pattern id="light fog winter" chance="0.1"/>
+                  <pattern id="heavy fog winter" chance="0.05"/>
+                  <pattern id="rain" chance="0.2"/>
                </patterns>
             </climate>
             <climate id="unused2" parent="mediterranean"/>

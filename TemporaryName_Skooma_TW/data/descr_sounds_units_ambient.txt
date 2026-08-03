@@ -771,7 +771,7 @@ event lod 10
 ;;;;;; SNOW ;;;;;;;
 
 	season winter
-	climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+	climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1 
 
 
 		terrain grass_long
@@ -1908,7 +1908,7 @@ event lod 10
 ;;;;;; SNOW ;;;;;;;
 
 	season winter
-	climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+	climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 		terrain  forest_dense, scrub_dense, grass_short, grass_long
 
 			event lod 1
@@ -2885,7 +2885,7 @@ event	lod 20
 ;;;;;;;;;;;  LIGHT Snow   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 	season winter
-	climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+	climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 		terrain grass_short, grass_long,swamp, mud, mud_road, ice, water, stone_road, rock
 		    event lod 1
 		
@@ -3815,7 +3815,7 @@ event	lod 20
 
 
 			season winter
-			climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+			climates unused1, temperate_grassland_infertile, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 			terrain grass_short, grass_long,swamp, mud, mud_road, ice, snow, water, stone_road, rock
 		    event	lod 1
 
@@ -4745,7 +4745,7 @@ event lod 10
 ;;;;;; SNOW ;;;;;;;
 
 	season winter
-	climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical
+	climates unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, custom_1
 
 
 		terrain grass_long

@@ -18,6 +18,7 @@ climates
 	alpine
 	tropical
 	semi_arid
+	custom_1
 }
 
 climate mediterranean
@@ -246,8 +247,6 @@ climate tropical
 	strategy	summer	sparse_tree tropical_group_B.CAS		8
 	strategy	summer	dense_tree tropical_group_A.CAS	9
 
-	strategy	summer	canopy deciduous_a_canopy.cas	9
-
 	
 	battle_vegetation
 	dense_forest	sub_arctic_dense_forest
@@ -275,6 +274,29 @@ climate semi_arid
 	battle_winter_vegetation
 	dense_forest	semi_arid_dense_forest
 	dense_scrub		semi_arid_dense_scrub
+	env_map			data/battlefield/envmaps/grass.dds
+}
+climate custom_1
+{
+	colour	178 0 255
+	heat	1
+	winter
+
+	strategy	summer	sparse_tree	deciduous_a.cas						1
+	strategy	summer	dense_tree	deciduous_a_impassable.cas			0
+	strategy	summer	canopy		deciduous_a_canopy.cas				12
+
+	strategy	winter	sparse_tree	deciduous_a_winter.cas				5
+	strategy	winter	dense_tree	deciduous_a_impassable_winter.cas	4
+	strategy	winter	canopy		deciduous_a_canopy_winter.cas		13
+
+	battle_vegetation
+	dense_forest	forest_open_dense_forest
+	dense_scrub		forest_open_dense_scrub
+
+	battle_winter_vegetation
+	dense_forest	forest_open_dense_forest_win
+	dense_scrub		forest_open_dense_scrub_win
 	env_map			data/battlefield/envmaps/grass.dds
 }
 

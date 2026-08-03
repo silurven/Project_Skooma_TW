@@ -67,6 +67,9 @@ keyset default
 ;;		fov_inc				NUM_9			repeating		
 		rot_u				NUM_ADD			repeating
 		rot_d				NUM_SUBTRACT	repeating
+		cam_reset			END
+		pitch_up			R			repeating
+		pitch_down			F			repeating
 		cam_up				NUM_MULTIPLY	repeating
 		cam_down			NUM_DIVIDE		repeating
 		toggle_move_fast	CAPS_LOCK
@@ -137,6 +140,7 @@ keyset default
 		dec_rotation				COMMA		repeating
 		next_army					TAB CTRL	hidden
 		orders_group				G
+		orders_group_locked			G	CTRL	hidden
 		assign0						1 CTRL	hidden
 		assign1						2 CTRL	hidden
 		assign2						3 CTRL	hidden
@@ -181,7 +185,7 @@ keyset default
 		select_prev					TAB SHIFT
 		deselect_all				ENTER
 		deselect_all                            NUM_ENTER
-		hide_gui					SCROLL_LOCK		hidden
+		hide_gui					SCROLL_LOCK	K
 		show_console				GRAVE_ACCENT	hidden
 		toggle_sound					S ALT
 		show_help					F1
@@ -201,7 +205,7 @@ keyset default
 		toggle_character_labels		N CTRL
 		toggle_settlement_labels	T CTRL
 		diplomacy_overview_button	D
-		finances_button				F
+		finances_button				G
 		construction_button			B
 		recruitment_button			R
 		faction_button				O
@@ -254,6 +258,9 @@ keyset fps
 ;;		fov_inc				NUM_9		 repeating		
 		rot_u				R			 repeating
 		rot_d				F			 repeating
+		cam_reset			END
+		pitch_up			R			repeating
+		pitch_down			F			repeating
 		cam_up				NUM_MULTIPLY repeating
 		cam_down			NUM_DIVIDE	 repeating
 		toggle_move_fast	CAPS_LOCK
@@ -324,6 +331,7 @@ keyset fps
 		dec_rotation				COMMA		repeating
 		next_army					TAB CTRL	hidden
 		orders_group				G
+		orders_group_locked			G	CTRL	hidden
 		assign0						1 CTRL	hidden
 		assign1						2 CTRL	hidden
 		assign2						3 CTRL	hidden
@@ -368,7 +376,7 @@ keyset fps
 		select_prev					TAB SHIFT
 		deselect_all				ENTER
 		deselect_all                            NUM_ENTER
-		hide_gui					SCROLL_LOCK		hidden
+		hide_gui					SCROLL_LOCK
 		show_console				GRAVE_ACCENT	hidden
 		toggle_sound					S ALT
 		show_help					F1
@@ -388,7 +396,7 @@ keyset fps
 		toggle_character_labels		N CTRL
 		toggle_settlement_labels	T CTRL
 		diplomacy_overview_button	G
-		finances_button				F
+		finances_button				G
 		construction_button			B
 		recruitment_button			R
 		faction_button				O
@@ -502,6 +510,7 @@ mappings
 		select_missile		card_manager
 		select_melee		card_manager
 		orders_group		card_manager
+		orders_group_locked	card_manager
 		assign0		card_manager
 		assign1		card_manager
 		assign2		card_manager
@@ -618,8 +627,11 @@ mappings
 		step_bck			camera
 		rot_l				camera
 		rot_r				camera
+		pitch_up			camera
+		pitch_down			camera
+		cam_reset			camera
 		select_next_selected			hud_select_next_item_cycle
-		select_prev_selected			hud_select_prev_item_cycle	
+		select_prev_selected			hud_select_prev_item_cycle
 	end
 
 	strat_ed
@@ -638,7 +650,10 @@ mappings
 		step_bck		camera
 		rot_l				camera
 		rot_r				camera
-		inc_scale						radar	
+		pitch_up			camera
+		pitch_down			camera
+		cam_reset			camera
+		inc_scale						radar
 		dec_scale						radar
 	end
 
