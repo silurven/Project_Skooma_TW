@@ -3,12 +3,27 @@ Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
 # Data: Data folder
+## Animations: Animations folder
 <details>
-<summary>## Animations: Animations folder</summary>
+<summary>Chapter 1: Getting Started</summary>
 
-This content is hidden by default and will be revealed when the user clicks on the summary.
+<details>
+<summary>1.1 Installation</summary>
 
-<summary>## Banners:  Banner folder</summary>
+Installation instructions go here...
+
+</details>
+
+<details>
+<summary>1.2 Configuration</summary>
+
+Configuration details go here...
+
+</details>
+
+</details>
+
+## Banners:  Banner folder
 
 ## blockset: 
 
@@ -69,8 +84,6 @@ This content is hidden by default and will be revealed when the user clicks on t
 ## descr_aerial_map_tile_models.tx
 
 ## descr_animals.txt
-
-</details>
 
 
 # Add new custom climate [max 32 slots] for MED2
