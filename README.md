@@ -10,6 +10,15 @@ We're not affiliated with Total war elder scrolls team. Nor do we use anything f
 
 The mod welcomes any help, translators, voice actors, modelers, anybody as long you can provide something. 
 
+<style>
+.custom-code {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+</style>
 
 
 <!-- Use spaces iniside bracket: [    ] instead of tabs. And please, if you decide to expand this. Format it like normal human being so it's readable for evreyone.-->
@@ -734,16 +743,8 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
-<pre> 
-<style>
-.custom-code {
-    background-color: #f4f4f4;
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: 'Courier New', Courier, monospace;
-}
-</style>
+<pre class="custom-code"> 
+
 <code>
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h2> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
