@@ -4,11 +4,10 @@ Thalmor put it there to sabotage our great efforts.
 
     
 # Data:
-$${\color{red}skibid}$$
 Order
 Format(file → txt → xml) → alphabet
 <details>
-    <summary>  <b> Animations</b> 									 </summary>
+    <summary>  <b> Animations</b> 								$${\color{red}Units}$$ </summary>
 		<details>
             Contains  Animations and models.
         </details>
