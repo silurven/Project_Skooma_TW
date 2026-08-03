@@ -1,3 +1,11 @@
+<head>
+    <style>
+        .box {
+            border: 2px solid blue;
+        }
+    </style>
+</head>
+
 <h2>$${\color{red}WARNING}$$ </summary></h2>
 
 BEWARE THE EVIL RWM FILE!!!
@@ -9,17 +17,6 @@ Thalmor put it there to sabotage our great efforts.
 We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
 
 The mod welcomes any help, translators, voice actors, modelers, anybody as long you can provide something. 
-
-<style>
-.custom-code {
-    background-color: #f4f4f4;
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: 'Courier New', Courier, monospace;
-}
-</style>
-
 
 <!-- Use spaces iniside bracket: [    ] instead of tabs. And please, if you decide to expand this. Format it like normal human being so it's readable for evreyone.-->
 # Data:
