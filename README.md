@@ -59,7 +59,7 @@ Format(file → txt → xml) → alphabet
 
 
 <details>
-    <summary>  <b> 📁Global Lighting </b> </summary>
+    <summary> <b> 📁Global Lighting </b> </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -67,7 +67,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Loading screens </b> </summary>
+    <summary> <b> 📁Loading screens </b> </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -75,17 +75,15 @@ Format(file → txt → xml) → alphabet
 </details
 
 <details>
-    <summary>  <b> 📁Menu </b>  Menu UI, textures, symbols </summary>
+    <summary> <b> 📁Menu </b> Menu UI, textures, symbols </summary> 
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
-</details>
-
-
+</details
 
 <details>
-    <summary>  <b> 📁Model_effects </b>  Menu UI, textures, symbols </summary>
+    <summary> <b> 📁Model_effects </b>  Menu UI, textures, symbols </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -93,7 +91,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Models Strat </b>  campaign map models and textures </summary>
+    <summary> <b> 📁Models Strat </b>  campaign map models and textures </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
