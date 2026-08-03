@@ -798,11 +798,11 @@ building [prefix] [name of building tree] <b>;; Building tree</b>
 				stage_games [number] <b>;; Hosts aztec stage games.</b>
 				stage_races [number] <b>;; Hosts race games.</b>
 			}
-			material [wooden/stone] Material type of the building
-			construction [turns] ;; Self explainatory
-			cost [money] ;; self explainatory
-			settlement_min [core_building] ;; Required minimum level of Castle or city to construct
-			upgrade ;; upgrades settlement, cost of it is decided underneath next level of building.
+			material [wooden/stone] <b>;; Material type of the building</b>
+			construction [turns] <b>;; Self explainatory</b>
+			cost [money] <b>;; self explainatory</b>
+			settlement_min [core_building] <b>;; Required minimum level of Castle or city to construct</b>
+			upgrade <b>;; upgrades settlement, cost of it is decided underneath next level of building.</b>
 			{
                 [building's level name]
 			}
