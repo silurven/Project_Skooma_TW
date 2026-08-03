@@ -747,9 +747,23 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 		{ 
 			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
-			{
+			<summary>{
 				recruit_pool "[unit name]" [recruitment time] [logic] [condition]
-			}
+				wall_level [level number] 
+				tower_level [level number]
+				free_upkeep bonus [number]
+				happiness_bonus bonus [number]
+				recruitment_slots [number]
+				stage_races [number]
+				law_bonus bonus [number]
+				armour [number]
+				trade_base_income_bonus bonus [number]
+				trade_fleet [number] <b>;; Max Port Trades routes</b>
+				recruitment_cost_bonus_naval bonus [number] <b>;;Reduces recruitment time 1=10% bonus</b>
+				navy_bonus [number] <b>;; Naval experience bonus</b>
+				agent [agent type] [level number] <b>;; Max Port Trades routes</b>
+				
+			}</summary>
 			material [wooden/stone] Material type of the building
 			construction [turns] ;; Self explainatory
 			cost [money] ;; self explainatory
