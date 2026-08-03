@@ -7,7 +7,7 @@ Thalmor put it there to sabotage our great efforts.
 Order
 Format(file → txt → xml) → alphabet
 <details>
-    <summary>  <b> Animations: </b>  Animations folder </summary>
+    <summary>  <b> Animations </b>                                  <h1 style="color:Tomato;"> Units </h1> </summary>
         <details>
             <summary>  <b>engine</b>  </summary>
             Contains  Animations and models.
@@ -15,23 +15,60 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> Banners: </b>  vafolder </summary>
+    <summary>  <b> Banners </b> </summary>
         <details>
             <summary>  <b>engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
-<b> blockset</b> 
+<details>
+    <summary>  <b> Blockset </b> </summary>
+        <details>
+            <summary>  <b>engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> cursors </b> Cursors folder
+<details>
+    <summary>  <b> Cursors </b> </summary>
+        <details>
+            <summary>  <b>engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> fmv </b> cutscenes folder
+<details>
+    <summary>  <b> FMV </b> cutscenes </summary>
+        <details>
+            <summary>  <b>engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> font</b> font/text style folder
+<details>
+    <summary>  <b> Font </b> </summary>
+        <details>
+            <summary>  <b>engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> global lighting </b> lighting folder
 
-<b> Loading screens </b> Contains loading screen images
+<details>
+    <summary>  <b> Global Lighting </b> </summary>
+        <details>
+            <summary>  <b>engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
+
+<details>
+    <summary>  <b> Loading screens </b> </summary>
+        <details>
+            <summary>  <b>engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
 <b> menu </b> Menu UI, textures, symbols
 
