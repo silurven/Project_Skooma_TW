@@ -1,93 +1,152 @@
+WARNING
+
 BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
-    
+$${\color{red}We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.}$$
+
+<!-- Use spaces iniside bracket: [    ] instead of tabs. And please, if you decide to expand this. Format it like normal human being so it's readable for evreyone.-->
 # Data:
 Order
 Format(file → txt → xml) → alphabet
 <details>
-    <summary>  <b> Animations</b>                                $${\color{red}[Units]}$$ </summary>
+    <summary>  <b> 📁Animations</b>                                $${\color{red}[Units]}$$ </summary>
 		<details>
+			<summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
 <details>
-    <summary>  <b> Banners </b> </summary>
+    <summary>  <b> 📁Banners </b> </summary>
         <details>
-            <summary>  <b>engine</b>  </summary>
+            <summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 <details>
-    <summary>  <b> Blockset </b> </summary>
+    <summary>  <b> 📁Blockset </b> </summary>
         <details>
-            <summary>  <b>engine</b>  </summary>
-            Contains  Animations and models.
-        </details>
-</details>
-
-<details>
-    <summary>  <b> Cursors </b> </summary>
-        <details>
-            <summary>  <b>engine</b>  </summary>
+            <summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
 <details>
-    <summary>  <b> FMV </b> cutscenes </summary>
+    <summary>  <b> 📁Cursors </b> </summary>
         <details>
-            <summary>  <b>engine</b>  </summary>
+            <summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
 <details>
-    <summary>  <b> Font </b> </summary>
+    <summary>  <b> 📁FMV </b> cutscenes </summary>
         <details>
-            <summary>  <b>engine</b>  </summary>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
+
+<details>
+    <summary>  <b> 📁Font </b> </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
 
 <details>
-    <summary>  <b> Global Lighting </b> </summary>
+    <summary>  <b> 📁Global Lighting </b> </summary>
         <details>
-            <summary>  <b>engine</b>  </summary>
+            <summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
 <details>
-    <summary>  <b> Loading screens </b> </summary>
+    <summary>  <b> 📁Loading screens </b> </summary>
         <details>
-            <summary>  <b>engine</b>  </summary>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details
+
+<details>
+    <summary>  <b> 📁menu </b>  Menu UI, textures, symbols </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
-<b> menu </b> Menu UI, textures, symbols
 
-<b> models effects</b> 
 
-<b> models off map</b> 
+<details>
+    <summary>  <b> 📁Model_effects </b>  Menu UI, textures, symbols </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> models strat </b> campaign map models and textures
+<details>
+    <summary>  <b> 📁Models Strat </b>  campaign map models and textures </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> overlay textures</b> blood, dirt, snow on units
+<details>
+    <summary>  <b> 📁Overlay Textures</b>  blood, dirt, snow on units </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> Scripts</b> Scripts list, preset
+<details>
+    <summary>  <b> 📁Scipts</b>  Scripts list/preset </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> Settlements </b>settlement models
+<details>
+    <summary>  <b> 📁Settlements</b> Battle settlement models </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> Shaders </b> 
+<details>
+    <summary>  <b> 📁Shaders</b> Rendering, Visuals </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> Siege engines</b> 
+<details>
+    <summary>  <b> 📁Siege engines</b> Models of siege engines </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
-<b> sounds</b> 
+<details>
+    <summary>  <b> 📁sounds</b> </summary>
+        <details>
+            <summary>  <b>📁engine</b>  </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 
 <b> terrain </b> campaign map textures
 
