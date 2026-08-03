@@ -7,9 +7,7 @@ Thalmor put it there to sabotage our great efforts.
 Order
 Format(file → txt → xml) → alphabet
 <details>
-    <summary>  <b> Animations 									<p style="color:Tomato;"> Units </p> 
-        <details></b> </summary>                                  
-            <summary>  <b>engine</b>  </summary>
+    <summary>  <b> Animations 									<span style="color: green"> Units </span> details></b> </summary>
             Contains  Animations and models.
         </details>
 </details>
