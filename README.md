@@ -734,19 +734,19 @@ Format(file → txt → xml) → alphabet
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_[building]" and "port_[building]" building trees.</b>
 <b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
-<b><h3>;; ! Conditions:</h3> ;; [Condition] = factions [culture/faction], resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [number] </b>
+<b><h3>;; ! Conditions:</h3> ;; [Condition] = factions {[culture/faction]}, resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [number] </b>
 <b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinter_land = farmland </b>
 <hr>
 building [prefix]_[name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
 	religion [Religion's name] <b>;; Isn't required.</b>
 	levels [list of buildings, lowest to highest tier] <b>;; Isn't required, numbers go from 1 to number of last building in levels list</b>
-<details><summary><b>	{</b> </summary>
+	{
 		<var>[building name]</var> requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
 		{ 
 			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
-<details><summary><b>			{ </b></summary>
+			{
 				recruit_pool "[unit name]" [recruitment time] [logic] [condition]
 				wall_level [level number] 
 				tower_level [level number]
@@ -755,15 +755,19 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 				recruitment_slots [number]
 				stage_races [number]
 				law_bonus bonus [number]
-				armour [number]
+				armour [number] <b>;; armor levels range from 0 to 6</b>
 				trade_base_income_bonus bonus [number]
 				trade_fleet [number] <b>;; Max Port Trades routes</b>
-				recruitment_cost_bonus_naval bonus [number] <b>;;Reduces recruitment time 1=10% bonus</b>
+				recruitment_cost_bonus_naval bonus [number] <b>;;Reduces recruitment time, [number]x10% bonus</b>
 				navy_bonus [number] <b>;; Naval experience bonus</b>
 				agent [agent type] [level number] <b>;; Max Port Trades routes</b>
+				agent_limit [agent type] [number] <b>;; incrases max agent type</b>
+				road_level [number] <b>;; Road levels range from 0 to 2</b>
+				farming_level [number] <b>;; Incrases farming income</b>
+				mine_resource [number] <b>;; Incrases mining income</b>
+				population_health_bonus bonus [number]<b>;; Incrases health by [number]x5</b>
 				
 			}
-			</details>
 			material [wooden/stone] Material type of the building
 			construction [turns] ;; Self explainatory
 			cost [money] ;; self explainatory
@@ -772,7 +776,6 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 			}
                 royal_arsenal
 			{
-</details> 
 			 
 			 
 </code>
