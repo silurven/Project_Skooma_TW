@@ -735,7 +735,7 @@ Format(file → txt → xml) → alphabet
 <details>
     <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
 <pre> 
-    background: #f4f4f4;
+    background: 333333;
 <code>
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h2> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
