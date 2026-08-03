@@ -2,20 +2,24 @@ BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
+    
 # Data:
 <details>
-	<summary> <h3><b> Animations: </b></h3>Animations folder </summary>
-
-		<details>
-			<summary><h3><b>engine</b></h3></summary>
-				Contains  Animations and models.
-	
-		</details>
-
+    <summary> <h3> <b> Animations: </b> </h3> Animations folder </summary>
+	Contains skeletons and animations.
+        <details>
+            <summary> <h3> <b>engine</b> </h3> </summary>
+            Contains  siege animations.
+        </details>
 </details>
 
-<b> Banners</b>  :Banner folder
-
+<details>
+    <summary> <h3> <b> Banners: </b> </h3> Banners folder </summary>
+        <details>
+            <summary> <h3> <b>engine</b> </h3> </summary>
+            Contains  Animations and models.
+        </details>
+</details>
 <b> blockset</b> 
 
 <b> cursors </b> Cursors folder
