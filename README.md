@@ -727,20 +727,22 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_buildings.txt </b>                               $${\color{red}[Units]}$$ </summary>
+    <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
 <pre> 
 <code>
-<sub>;;Warning the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</sub>
-building [name of building tree] <sub>;; Building tree</sub>
-	convert_to [name of building] <sub>;; converts previous building to different one</sub>
-	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from <u>1</u> to <u>number of last building in levels list</u></b>
+<b>;;! Warning the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
+<b>;;! [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
+<b>;;! [Condition] = faction, resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], marian_reforms</b>
+building [name of building tree] <b>;; Building tree</b>
+	convert_to [name of different building tree] <b>;; converts previous building to different one</b>
+	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from 1 to number of last building in levels list</u></b>
 	{
-		[building name] requires factions { [culture 1] , [culture 2] ...}  <b>;; put one or more cultures</b>
+		<u>[building name]</u> requires factions { [list or one culture(s)/faction(s)] } <b>;;you can one or more extra conditions: </b> [logic] resource [resource here] [logic] hidden_resource [condition] [logic] building_present_min_level x y [building's name, building level] 
 		{
-			convert_to [number from level list] 
-			capability
+			convert_to <u>[number from level list] </u> <b>;; This convert to is for upgrades, not a building type change</b>
+			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
 			{
-				recruit_pool "[unit name]" 1
+				recruit_pool "<u>[unit name]</u>" [recruitment time] [logic] [faction/resource/culture/hidden resource]
 </code>
 </pre>
 
