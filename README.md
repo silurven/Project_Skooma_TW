@@ -4,10 +4,11 @@ Thalmor put it there to sabotage our great efforts.
 
     
 # Data:
+<span style="color: green"> Units </span>
 Order
 Format(file → txt → xml) → alphabet
 <details>
-    <summary>  <b> Animations</b> 									<span style="color: green"> Units </span> </summary>
+    <summary>  <b> Animations</b> 									 </summary>
 		<details>
             Contains  Animations and models.
         </details>
