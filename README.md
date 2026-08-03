@@ -2,9 +2,9 @@ BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
-# Data: Data folder
+# Data:
 <details>
-<summary><b> Animations</b> Animations folder </summary>
+<summary> </h1><b> Animations</b></h1> Animations folder </summary>
 
 <details>
 <summary>1.1 Installation</summary>
@@ -38,9 +38,9 @@ Configuration details go here...
 
 <b> menu </b> Menu UI, textures, symbols
 
-<b> models effects
+<b> models effects</b> 
 
-<b> models off map
+<b> models off map</b> 
 
 <b> models strat </b> campaign map models and textures
 
@@ -50,11 +50,11 @@ Configuration details go here...
 
 <b> Settlements </b>settlement models
 
-<b> Shaders
+<b> Shaders </b> 
 
-<b> Siege engines
+<b> Siege engines</b> 
 
-<b> sounds
+<b> sounds</b> 
 
 <b> terrain </b> campaign map textures
 
@@ -72,17 +72,17 @@ Configuration details go here...
 
 <b> world </b> Campaign settings and it's map
 
-<b> Battle_event_subtitles_lookup.xt
+<b> Battle_event_subtitles_lookup.xt</b> 
 
-<b> custom_locations.txt
+<b> custom_locations.txt</b> 
 
-<b> debug_descr_advice.txt
+<b> debug_descr_advice.txt</b> 
 
-<b> descr_aerial_map_ground_types.txt
+<b> descr_aerial_map_ground_types.txt</b> 
 
-<b> descr_aerial_map_tile_models.tx
+<b> descr_aerial_map_tile_models.tx</b> 
 
-<b> descr_animals.txt
+<b> descr_animals.txt</b> 
 
 
 # Add new custom climate [max 32 slots] for MED2
