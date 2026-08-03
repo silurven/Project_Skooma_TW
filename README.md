@@ -4,7 +4,7 @@ Thalmor put it there to sabotage our great efforts.
 
     
 # Data:
-$${\color{skbiidi}Red}$$
+$${\color{red}skibid}$$
 Order
 Format(file → txt → xml) → alphabet
 <details>
