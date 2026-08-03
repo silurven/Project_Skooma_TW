@@ -728,16 +728,15 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝export_descr_buildings.txt </b>                               $${\color{red}[Units]}$$ </summary>
-<pre> <code class="md">
-<code>
+```
 building [name of building tree] $\color{green}{\textsf{Building tree}}$$${\color{red}[Units]}$$
 convert_to [name of building] $\color{green}{\textsf{conversion to different building}}$
 levels [list of buildings, lowest to highest tier] 
 {
 [building name] requires factions { northern_european, mesoamerican, middle_eastern, eastern_european, greek, southern_european, } 
 {
-</code>
-</pre>
+```
+</details> 
 
 <details>
     <summary> <b> 📝export_descr_buildings_enums.txt </b> </summary>
