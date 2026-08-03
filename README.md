@@ -735,7 +735,7 @@ Format(file → txt → xml) → alphabet
 <b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_[building]" and "port_[building]" building trees.</b>
 <b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
 <b><h3>;; ! Conditions:</h3> ;; [Condition] = factions {[culture/faction]}, resource [resource's name], hidden_resource [hidden resource's name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [minimum required number] </b>
-<b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinterland_ = farmland, </b>
+<b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_[building name] = settlement itself, Convert_to [building name] = Conversion between castle and city,  hinterland_[building name] = farmland, port_[building] = core port building </b>
 <hr>
 building [prefix]_[name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
