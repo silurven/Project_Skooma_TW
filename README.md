@@ -179,7 +179,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁Unit models</b>   Unit models and textures </summary>
+    <summary>  <b> 📁Unit models</b>   Unit models and textures                                $${\color{red}[Units]}$$ </summary>
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -187,7 +187,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁Unit sprites</b>   Sprites, optimization </summary>
+    <summary>  <b> 📁Unit sprites</b>   Sprites, optimization                                $${\color{red}[Units]}$$ </summary>
         <details>
            <b>   </b> <summary>  <b>📁english</b>  </summary>
             Contains  Animations and models.
@@ -727,7 +727,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> export_descr_buildings.txt </b> </summary>
+    <summary> <b> export_descr_buildings.txt </b> </summary>                               $${\color{red}[Units]}$$ </summary>
 </details> 
 
 <details>
@@ -779,7 +779,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> export_descr_unit.txt </b> </summary>
+    <summary> <b> export_descr_unit.txt </b>                                $${\color{red}[Units]}$$ </summary>
 </details> 
 
 <details>
@@ -855,7 +855,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> descr_recruitment.xml </b> </summary>
+    <summary> <b> descr_recruitment.xml </b> </summary>                               $${\color{black}[Unkown]}$$ </summary>
 </details> 
 
 <details>
