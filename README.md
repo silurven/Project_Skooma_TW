@@ -156,7 +156,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁text</b>  languages, ingame text  </summary>
+    <summary>  <b> 📁text</b>  languages, ingame text                                $${\color{red}[Units]}$$ </summary>	
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
