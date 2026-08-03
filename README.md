@@ -757,8 +757,8 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 	religion [Religion's name] ;; Isn't required.
 	levels [list of buildings, lowest to highest tier] <b>;; Isn't required, numbers go from 1 to number of last building in levels list</b>
 	{
-		[building name] requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
-		{
+		<var>[building name]</var> requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
+		{ 
 			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
 			{
