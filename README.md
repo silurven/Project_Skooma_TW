@@ -742,7 +742,7 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 	religion [Religion's name] <b>;; Isn't required.</b>
 	levels [list of buildings, lowest to highest tier] <b>;; Isn't required, numbers go from 1 to number of last building in levels list</b>
 	{
-		<var>[building name]</var> requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
+		[building name] requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
 		{ 
 			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
@@ -795,23 +795,17 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 				agent_limit [agent type] [number] <b>;; incrases max agent type</b>
 				stage_games [number] <b>;; Hosts aztec stage games.</b>
 				stage_races [number] <b>;; Hosts race games.</b>
-				
-				gun_bonus X - adds the specified amount of experience to all gunpowder-able units trained in this settlement
-archer_bonus X - adds the specified amount of experience to all archer units trained in this settlement
-cavalry_bonus X - adds the specified amount of experience to all cavalry units trained in this settlement
-navy_bonus X - gives an experience bonus to the ships.
-				
-				
 			}
 			material [wooden/stone] Material type of the building
 			construction [turns] ;; Self explainatory
 			cost [money] ;; self explainatory
-			settlement_min [core_building] ;; Required minimum level of Castle or city
-			upgrade
-			}
-                royal_arsenal
+			settlement_min [core_building] ;; Required minimum level of Castle or city to construct
+			upgrade ;; upgrades settlement, cost of it is decided underneath next level of building.
 			{
-			 
+                [building's level name]
+			}
+        }
+	} ;; Ends here once settlement has no more upgrade tiers.
 			 
 </code>
 </pre>
