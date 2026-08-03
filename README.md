@@ -8,7 +8,7 @@ Thalmor put it there to sabotage our great efforts.
     <summary> <h3> <b> Animations: </b> </h3> Animations folder </summary>
 	Contains skeletons and animations.
         <details>
-            <summary> <h3> <b>engine</b> </h3> </summary>
+            <summary> <b>engine</b> </summary>
             Contains  siege animations.
         </details>
 </details>
