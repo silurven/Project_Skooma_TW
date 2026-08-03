@@ -1,4 +1,4 @@
-<h2>$${\color{red}[WARNING]}$$ </summary></h2>
+<h2>$${\color{red}WARNING}$$ </summary></h2>
 
 BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
@@ -745,7 +745,7 @@ building [name of building tree] <b>;; Building tree</b>
 	convert_to [name of different building tree] <b>;; converts previous building to different one</b>
 	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from 1 to number of last building in levels list</b>
 	{
-		[building name] requires factions { [list or one culture(s)/faction(s)] } <b>;;you can one or more extra conditions: </b> [logic] resource [resource here] [logic] hidden_resource [condition] [logic] building_present_min_level x y [building's name, building level] 
+		[building name] requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
 		{
 			convert_to [number from level list]  <b>;; This convert to is for upgrades, not a building type change</b>
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
