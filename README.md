@@ -1,18 +1,10 @@
-<head>
-    <style>
-        .box {
-            border: 2px solid blue;
-        }
-    </style>
-</head>
-
 BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
 <h2>INFO</h2>
 
-We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
++ We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
 
 The mod welcomes any help, translators, voice actors, modelers, anybody as long you can provide something. 
 
