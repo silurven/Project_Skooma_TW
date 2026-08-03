@@ -734,8 +734,8 @@ Format(file → txt → xml) → alphabet
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_[building]" and "port_[building]" building trees.</b>
 <b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
-<b><h3>;; ! Conditions:</h3> ;; [Condition] = factions {[culture/faction]}, resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [number] </b>
-<b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinter_land = farmland </b>
+<b><h3>;; ! Conditions:</h3> ;; [Condition] = factions {[culture/faction]}, resource [resource's name], hidden_resource [hidden resource's name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [minimum required number] </b>
+<b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinterland_ = farmland, </b>
 <hr>
 building [prefix]_[name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
@@ -747,25 +747,60 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
 			{
-				recruit_pool "[unit name]" [recruitment time] [logic] [condition]
+				recruit_pool "[unit name]" [recruitment points] [gain] [maximum] [starting experience] [logic] [condition]
+				free_upkeep bonus [number] <b>;; adds free upkeep garrison slots to settlement</b>
+				recruitment_slots [number]
+				retrain_cost_bonus bonus [number] <b>;; reduces retain cost by 10%x[number]	</b>
+				recruitment_cost_bonus_naval bonus [number] <b>;;Reduces recruitment time, 10%x[number]</b>
+				armour [number] <b>;; armor levels range from 0 to 6</b>
+				weapon_missile_gunpowder [number] <b>;; Upgrades melee weapon level of units using guns.</b>
+				weapon_missile_mechanical [number] <b>;; Upgrades melee weapon level of units using crossbows, bows throwabale weapons.</b>
+				weapon_artillery_gunpowder [number] <b>;; Upgrades melee weapon level of gunpowder artillery.</b>
+				weapon_artillery_mechanical[number] <b>;; Upgrades melee weapon level of artillery.</b>
+				weapon_projectile [number] <b>;; Upgrades melee weapons of both guns and gunpowder artillery.</b>
+				weapon_melee_blade [number] <b>;; upgrades melee weapon of all melee units.</b>
+				weapon_melee_simple [number] <b>;; upgrades melee weapons of the units that use blunt weapon </b>
+				gun_bonus [number] <b>;; incrases experience of gun-armed units.</b>
+				archer_bonus [number] <b>;; incrases experience of archers.</b>
+				cavalry_bonus [number] <b>;; incrases experience of all cavalry.</b>
+				navy_bonus [number] <b>;; incrases experience of all naval units.</b>
+				heavy_cavalry_bonus bonus [number] <b>;; incrases experience of heavy cavlary units </b>
+				happiness_bonus bonus [number]
+				law_bonus bonus [number] <b>;; Incrases order by [number]x5%</b>
 				wall_level [level number] 
 				tower_level [level number]
-				free_upkeep bonus [number]
-				happiness_bonus bonus [number]
-				recruitment_slots [number]
-				stage_races [number]
-				law_bonus bonus [number]
-				armour [number] <b>;; armor levels range from 0 to 6</b>
-				trade_base_income_bonus bonus [number]
-				trade_fleet [number] <b>;; Max Port Trades routes</b>
-				recruitment_cost_bonus_naval bonus [number] <b>;;Reduces recruitment time, [number]x10% bonus</b>
-				navy_bonus [number] <b>;; Naval experience bonus</b>
-				agent [agent type] [level number] <b>;; Max Port Trades routes</b>
-				agent_limit [agent type] [number] <b>;; incrases max agent type</b>
 				road_level [number] <b>;; Road levels range from 0 to 2</b>
 				farming_level [number] <b>;; Incrases farming income</b>
 				mine_resource [number] <b>;; Incrases mining income</b>
-				population_health_bonus bonus [number]<b>;; Incrases health by [number]x5</b>
+				population_health_bonus bonus [number] <b>;; Incrases health by [number]x5</b>
+				population_growth_bonus bonus [number] <b>;; Incrases population growth by [number]x0.5</b>
+				trade_base_income_bonus bonus [number]
+				trade_fleet [number] <b>;; Max Port Trades routes</b>
+				income_bonus bonus <b>;; adds income to the building</b>
+				construction_cost_bonus_stone bonus [number] <b>;; decrases cost of stone buildings by 1%x[number] </b>
+				construction_cost_bonus_wooden bonus [number] <b>;; decrases cost of wooden buildings by 1%x[number] </b>
+				construction_cost_bonus_religious bonus [number] <b>;; decrases cost of religious buildings by 1%x[number] </b>
+				construction_cost_bonus_defensive bonus [number] <b>;; decrases cost of core buildings by 1%x[number] </b>
+				construction_cost_bonus_other bonus [number] <b>;; decrases cost of all buildings other than religious and core by 1%x[number] </b>
+				construction_time_bonus_wooden bonus [number] <b>;; incrases construction speed of wooden buildings by 1%x[number] </b>
+				construction_time_bonus_stone bonus [number] <b>;; incrases construction speed of stone buildings by 1%x[number] </b>
+				construction_time_bonus_religious bonus [number] <b>;; incrases construction speed of religious buildings by 1%x[number] </b>
+				construction_time_bonus_defensive bonus [number] <b>;; incrases construction speed of core buildings by 1%x[number] </b>
+				construction_time_bonus_other bonus [number] <b>;; incrases construction speed of all buildings other than religious and core 1%x[number] </b>
+				religion_level bonus [number] <b>;; reduces retain cost by 5%x[number]</b>
+				amplify_religion_level [number] <b>;; incrases effectiveness of religious buildings by [number]x0.3 </b>
+				pope_disapproval [number] <b>;; sets the approval of the Pope to the specific amount </b>
+				pope_approval [number] <b>;; makes pope happy upon construction </b>
+				agent [agent type] [level number] <b>;; Max Port Trades routes</b>
+				agent_limit [agent type] [number] <b>;; incrases max agent type</b>
+				stage_games [number] <b>;; Hosts aztec stage games.</b>
+				stage_races [number] <b>;; Hosts race games.</b>
+				
+				gun_bonus X - adds the specified amount of experience to all gunpowder-able units trained in this settlement
+archer_bonus X - adds the specified amount of experience to all archer units trained in this settlement
+cavalry_bonus X - adds the specified amount of experience to all cavalry units trained in this settlement
+navy_bonus X - gives an experience bonus to the ships.
+				
 				
 			}
 			material [wooden/stone] Material type of the building
