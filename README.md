@@ -1,10 +1,11 @@
-BEWARE THE EVIL RWM FILE!!!
-Thalmor put it there to sabotage our great efforts.
-[It's auto generated compiled map file by the game and exceeds the size limit]
+> [!WARNING]  
+> BEWARE THE EVIL RWM FILE!!!
+> Thalmor put it there to sabotage our great efforts.
+> [It's auto generated compiled map file by the game and exceeds the size limit]
 
 <h2>INFO</h2>
 
-+ We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
+We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
 
 The mod welcomes any help, translators, voice actors, modelers, anybody as long you can provide something. 
 
@@ -730,9 +731,8 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
-<pre class="custom-code"> 
-
-<code>
+<pre> 
+<code> 
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
 <b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
