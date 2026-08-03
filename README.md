@@ -730,7 +730,7 @@ Format(file → txt → xml) → alphabet
     <summary> <b> 📝export_descr_buildings.txt </b>                               $${\color{red}[Units]}$$ </summary>
 <pre> 
 <code>
-building [name of building tree] <font color="green">Building tree</font>
+building [name of building tree] <!-- Building tree -->
 convert_to [name of building] <font color="green">conversion to different building</font>
 levels [list of buildings, lowest to highest tier] 
 {
