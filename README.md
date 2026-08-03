@@ -735,9 +735,10 @@ Format(file → txt → xml) → alphabet
 <b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_[building]" and "port_[building]" building trees.</b>
 <b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
 <b><h3>;; ! Conditions:</h3> ;; [Condition] = factions {[culture/faction]}, resource [resource's name], hidden_resource [hidden resource's name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [minimum required number] </b>
-<b><h3>;; ! Prefixes:</h3> ;; Aren't required. Core_[building name] = settlement itself, Convert_to [building name] = Conversion between castle and city,  hinterland_[building name] = farmland, port_[building] = core port building </b>
+<b><h3>;; ! Prefixes:</h3> ;; Aren't required, each prefix has speific ability: Core_[building name] = settlement itself, Convert_to [building name] = Conversion between castle and city,  hinterland_[building name] = farmland, port_[building] = core port building, temple_[building] = Temple building, You can only have 1 in settlement, guild [building] = guild building</b>
+<b><h3>;; ! Capabilities:</h3> ;; Capability can have "bonus" after to it, even if it ends with bonus, ;; each capability offer ethier econommic bonus, unit/agent recruitment or religious buff. </b>
 <hr>
-building [prefix]_[name of building tree] <b>;; Building tree</b>
+building [prefix] [name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
 	religion [Religion's name] <b>;; Isn't required.</b>
 	levels [list of buildings, lowest to highest tier] <b>;; Isn't required, numbers go from 1 to number of last building in levels list</b>
@@ -762,13 +763,14 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 				weapon_melee_simple [number] <b>;; upgrades melee weapons of the units that use blunt weapon </b>
 				gun_bonus [number] <b>;; incrases experience of gun-armed units.</b>
 				archer_bonus [number] <b>;; incrases experience of archers.</b>
-				cavalry_bonus [number] <b>;; incrases experience of all cavalry.</b>
-				navy_bonus [number] <b>;; incrases experience of all naval units.</b>
+				cavalry_bonus [number] <b>;; incrases experience of cavalry.</b>
+				navy_bonus [number] <b>;; incrases experience of naval units.</b>
 				heavy_cavalry_bonus bonus [number] <b>;; incrases experience of heavy cavlary units </b>
 				happiness_bonus bonus [number]
 				law_bonus bonus [number] <b>;; Incrases order by [number]x5%</b>
-				wall_level [level number] 
-				tower_level [level number]
+				wall_level [number] <b>;; wall levels range from 0 to 4</b>
+				tower_level [number] <b>;; tower levels range from 1 to 3</b>
+				gate_strength [number] <b>;; gate levels range from 1 to 2</b>
 				road_level [number] <b>;; Road levels range from 0 to 2</b>
 				farming_level [number] <b>;; Incrases farming income</b>
 				mine_resource [number] <b>;; Incrases mining income</b>
