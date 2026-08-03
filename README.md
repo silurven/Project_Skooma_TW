@@ -746,7 +746,7 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 		{ 
 			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
-<details><summary><b>			{</b></summary>
+<details><summary><b>			{ </b></summary>
 				recruit_pool "[unit name]" [recruitment time] [logic] [condition]
 				wall_level [level number] 
 				tower_level [level number]
