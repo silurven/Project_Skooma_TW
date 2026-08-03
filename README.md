@@ -728,7 +728,7 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝export_descr_buildings.txt </b>                               $${\color{red}[Units]}$$ </summary>
-<pre>
+<pre> <code class="markdown">
 <code>
 building [name of building tree] $\color{green}{\textsf{Building tree}}$
 convert_to [name of building] $\color{green}{\textsf{conversion to different building}}$
