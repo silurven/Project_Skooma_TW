@@ -731,9 +731,9 @@ Format(file → txt → xml) → alphabet
 <pre> 
 <code>
 <h2>;; Read "!" </h2>
-<b><h3>;; ! Warning:</h2> ;;the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
-<b><h3>;; ! Logic:</h2> ;;[Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
-<b><h3>;; ! Conditions:</h2> ;;[Condition] = faction, resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], marian_reforms</b>
+<b><h3>;; ! Warning:</h2> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
+<b><h3>;; ! Logic:</h2> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
+<b><h3>;; ! Conditions:</h2> ;; [Condition] = faction, resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], marian_reforms</b>
 <hr>
 building [name of building tree] <b>;; Building tree</b>
 	convert_to [name of different building tree] <b>;; converts previous building to different one</b>
