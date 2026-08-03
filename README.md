@@ -1,10 +1,16 @@
-WARNING
+<h2>$${\color{red}[WARNING]}$$ </summary></h2>
 
 BEWARE THE EVIL RWM FILE!!!
 Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
+<h2>INFO</h2>
+
 We're not affiliated with Total war elder scrolls team. Nor do we use anything from there without permission! Inspiration is ok.
+
+The mod welcomes any help, translators, voice actors, modelers, anybody as long you can provide something. 
+
+
 
 <!-- Use spaces iniside bracket: [    ] instead of tabs. And please, if you decide to expand this. Format it like normal human being so it's readable for evreyone.-->
 # Data:

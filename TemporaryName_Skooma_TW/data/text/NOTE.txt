@@ -1,0 +1,1 @@
+EXE launcher that can switch languages will be needed.
