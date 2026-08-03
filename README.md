@@ -737,14 +737,14 @@ Format(file → txt → xml) → alphabet
 <hr>
 building [name of building tree] <b>;; Building tree</b>
 	convert_to [name of different building tree] <b>;; converts previous building to different one</b>
-	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from 1 to number of last building in levels list</u></b>
+	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from 1 to number of last building in levels list</b>
 	{
-		<u>[building name]</u> requires factions { [list or one culture(s)/faction(s)] } <b>;;you can one or more extra conditions: </b> [logic] resource [resource here] [logic] hidden_resource [condition] [logic] building_present_min_level x y [building's name, building level] 
+		[building name] requires factions { [list or one culture(s)/faction(s)] } <b>;;you can one or more extra conditions: </b> [logic] resource [resource here] [logic] hidden_resource [condition] [logic] building_present_min_level x y [building's name, building level] 
 		{
-			convert_to <u>[number from level list] </u> <b>;; This convert to is for upgrades, not a building type change</b>
+			convert_to [number from level list]  <b>;; This convert to is for upgrades, not a building type change</b>
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
 			{
-				recruit_pool "<u>[unit name]</u>" [recruitment time] [logic] [faction/resource/culture/hidden resource]
+				recruit_pool "[unit name]" [recruitment time] [logic] [condition]
 </code>
 </pre>
 
