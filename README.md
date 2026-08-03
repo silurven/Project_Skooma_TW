@@ -741,8 +741,7 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
 	religion [Religion's name] <b>;; Isn't required.</b>
 	levels [list of buildings, lowest to highest tier] <b>;; Isn't required, numbers go from 1 to number of last building in levels list</b>
-<details>
-<summary> <b>	{</b> </summary>
+<details><summary><b>	{</b> </summary>
 		<var>[building name]</var> requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
 		{ 
 			convert_to [number from level list]
@@ -763,7 +762,8 @@ building [prefix]_[name of building tree] <b>;; Building tree</b>
 				navy_bonus [number] <b>;; Naval experience bonus</b>
 				agent [agent type] [level number] <b>;; Max Port Trades routes</b>
 				
-			}</details>
+			}
+			</details>
 			material [wooden/stone] Material type of the building
 			construction [turns] ;; Self explainatory
 			cost [money] ;; self explainatory
