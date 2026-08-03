@@ -733,10 +733,10 @@ Format(file → txt → xml) → alphabet
 <code> 
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h3> ;; the export_descr_building must contain "core_[building]" and "port_[building]" building trees.</b>
-<b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
+<b><h3>;; ! Logic:</h3> ;; [Logic] = or, and, requires, not  ;; !!"Not" requires extra logic behind it!! </b>
 <b><h3>;; ! Conditions:</h3> ;; [Condition] = factions {[culture/faction]}, resource [resource's name], hidden_resource [hidden resource's name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [minimum required number] </b>
 <b><h3>;; ! Prefixes:</h3> ;; Aren't required, each prefix has speific ability: Core_[building name] = settlement itself, Convert_to [building name] = Conversion between castle and city,  hinterland_[building name] = farmland, port_[building] = core port building, temple_[building] = Temple building, You can only have 1 in settlement, guild [building] = guild building</b>
-<b><h3>;; ! Capabilities:</h3> ;; Capability can have "bonus" after to it, even if it ends with bonus, ;; each capability offer ethier econommic bonus, unit/agent recruitment or religious buff. </b>
+<b><h3>;; ! Capabilities:</h3> ;; Capability can have "bonus" after it, even if it ends with bonus, for example "retrain_cost_bonus bonus". Each capability offer ethier econommic bonus, unit/agent recruitment or religious buff. </b>
 <hr>
 building [prefix] [name of building tree] <b>;; Building tree</b>
 	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
