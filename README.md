@@ -735,22 +735,33 @@ Format(file → txt → xml) → alphabet
 <details>
     <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
 <pre> 
+    background: #f4f4f4;
 <code>
 <h2>;; Read "!" </h2>
 <b><h3>;; ! Warning:</h2> ;; the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
 <b><h3>;; ! Logic:</h2> ;; [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
-<b><h3>;; ! Conditions:</h2> ;; [Condition] = factions [culture/faction], resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], marian_reforms</b>
+<b><h3>;; ! Conditions:</h2> ;; [Condition] = factions [culture/faction], resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], Event_counter [event's name], region_religion [religion's name] [number] </b>
+<b><h3>;; ! Prefixes:</h2> ;; Aren't required. Core_ = settlement itself, Convert_to = Conversion between castle and city,  hinter_land </b>
 <hr>
-building [name of building tree] <b>;; Building tree</b>
-	convert_to [name of different building tree] <b>;; converts previous building to different one</b>
-	levels [list of buildings, lowest to highest tier] <b>;; self explainatory, numbers go from 1 to number of last building in levels list</b>
+building [prefix]_[name of building tree] <b>;; Building tree</b>
+	convert_to [Castle/city variant of the building] <b>;; Isn't required, converts previous building to different one, ! if the line is not included it will be destroyed during castle to town conversion or vice versa.</b>
+	religion [Religion's name] ;; Isn't required.
+	levels [list of buildings, lowest to highest tier] <b>;; Isn't required, numbers go from 1 to number of last building in levels list</b>
 	{
 		[building name] requires factions { [list or one culture(s)/faction(s)] } <b>;;you can then add one or more extra conditions: </b> [logic] [condition] , [logic] [condition]...
 		{
-			convert_to [number from level list]  <b>;; This convert to is for upgrades, not a building type change</b>
+			convert_to [number from level list]
 			capability <b>;; Building offers bonus or/and recruitment or/and religious belief</b>
 			{
 				recruit_pool "[unit name]" [recruitment time] [logic] [condition]
+			 }
+			 material [wooden/stone] Material type of the building
+			 construction [turns] ;; Self explainatory
+			 cost [money] ;; self explainatory
+			 settlement_min [core_building] ;; Required minimum level of Castle or city
+			 
+			 
+			 
 </code>
 </pre>
 
