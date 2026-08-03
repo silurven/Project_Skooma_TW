@@ -730,8 +730,8 @@ Format(file → txt → xml) → alphabet
     <summary> <b> 📝export_descr_buildings.txt </b>                               $${\color{red}[Units]}$$ </summary>
 <pre> 
 <code>
-building [name of building tree] <!-- Building tree -->
-convert_to [name of building] <font color="green">conversion to different building</font>
+building [name of building tree] <b>Building tree</b>
+convert_to [name of building]  <b>conversion to different building</b>
 levels [list of buildings, lowest to highest tier] 
 {
 [building name] requires factions { northern_european, mesoamerican, middle_eastern, eastern_european, greek, southern_european, } 
