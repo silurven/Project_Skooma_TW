@@ -3,129 +3,74 @@ Thalmor put it there to sabotage our great efforts.
 [It's auto generated compiled map file by the game and exceeds the size limit]
 
 # Data: Data folder
-	## Animations: Animations folder
-		<details>
-		<summary>Click to expand</summary>
+## Animations: Animations folder
+<details>
+<summary>Click to expand</summary>
 
-		This content is hidden by default and will be revealed when the user clicks on the summary.
+This content is hidden by default and will be revealed when the user clicks on the summary.
 
-		</details>
-	## Banners:  Banner folder
-	
-	## blockset: 
-	
-	## cursors : Cursors folder
-	
-	## fmv : cutscenes folder
-	
-	## font: font/text style folder
-	
-	## global lighting : lighting folder
-	
-	## Loading screens : Contains loading screen images
-	
-	## menu : Menu UI, textures, symbols
-	
-	## models effects
-	
-	## models off map
-	
-	## models strat : campaign map models and textures
-	
-	## overlay textures: blood, dirt, snow on units
-	
-	## Scripts: Scripts list, preset
-	
-	## Settlements :settlement models
-	
-	## Shaders
-	
-	## Siege engines
-	
-	## sounds
-	
-	## terrain : campaign map textures
-	
-	## text : languages, ingame text 
-	
-	## textures: Selection, outlines
-	
-	## UI : Ingame UI, not to be mixed with menu UI
-	
-	## Unit models : Unit models and textures
-	
-	## Unit sprites : Sprites
-	
-	## Vegetation : Battle map Vegetation
-	
-	## world : Campaign settings and it's map
-	
-	## Battle_event_subtitles_lookup.xt
-	
-	## custom_locations.txt
-	
-	## debug_descr_advice.txt
-	
-	## descr_aerial_map_ground_types.txt
-	
-	## descr_aerial_map_tile_models.tx
-	
-	## descr_animals.txt
-	
-	
-	
-	
+</details>
+## Banners:  Banner folder
 
+## blockset: 
 
+## cursors : Cursors folder
 
+## fmv : cutscenes folder
 
+## font: font/text style folder
 
+## global lighting : lighting folder
 
+## Loading screens : Contains loading screen images
 
+## menu : Menu UI, textures, symbols
 
+## models effects
 
+## models off map
 
+## models strat : campaign map models and textures
 
+## overlay textures: blood, dirt, snow on units
 
+## Scripts: Scripts list, preset
 
+## Settlements :settlement models
 
+## Shaders
 
+## Siege engines
 
+## sounds
 
+## terrain : campaign map textures
 
+## text : languages, ingame text 
 
+## textures: Selection, outlines
 
+## UI : Ingame UI, not to be mixed with menu UI
 
+## Unit models : Unit models and textures
 
+## Unit sprites : Sprites
 
+## Vegetation : Battle map Vegetation
 
+## world : Campaign settings and it's map
 
+## Battle_event_subtitles_lookup.xt
 
+## custom_locations.txt
 
+## debug_descr_advice.txt
 
+## descr_aerial_map_ground_types.txt
 
+## descr_aerial_map_tile_models.tx
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## descr_animals.txt
 
 
 # Add new custom climate [max 32 slots] for MED2
