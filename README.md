@@ -730,6 +730,7 @@ Format(file → txt → xml) → alphabet
     <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
 <pre> 
 <code>
+<h2>; Read "!" </h2>
 <b>;;! Warning the export_descr_building must contain "core_building", "port_buildings", and "defenses" building trees.</b>
 <b>;;! [Logic] = or, and, requires, not  ;; !!Not requires extra logic behind it!! </b>
 <b>;;! [Condition] = faction, resource [resource's name], hidden_resource [hidden resource's name], building_present [building's tree name], building_present_min_level [building's tree name] [building's level name], marian_reforms</b>
