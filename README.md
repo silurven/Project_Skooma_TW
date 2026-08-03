@@ -4,18 +4,20 @@ Thalmor put it there to sabotage our great efforts.
 
     
 # Data:
+Order
+Format(file → txt → xml) → alphabet
 <details>
-    <summary> <h3> <b> Animations: </b> </h3> Animations folder </summary>
+    <summary>  <b> Animations: </b>  Animations folder </summary>
         <details>
-            <summary> <h4> <b>engine</b> </h4> </summary>
+            <summary>  <b>engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
 
 <details>
-    <summary> <h3> <b> Banners: </b> </h3> vafolder </summary>
+    <summary>  <b> Banners: </b>  vafolder </summary>
         <details>
-            <summary> <h3> <b>engine</b> </h3> </summary>
+            <summary>  <b>engine</b>  </summary>
             Contains  Animations and models.
         </details>
 </details>
