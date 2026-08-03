@@ -4,7 +4,7 @@ Thalmor put it there to sabotage our great efforts.
 
 # Data:
 <details>
-<summary> <h3><b> Animations</b></h3> Animations folder </summary>
+<summary> <h3><b> Animations</b></h3> :Animations folder </summary>
 
 <details>
 <summary>1.1 Installation</summary>
@@ -22,7 +22,7 @@ Configuration details go here...
 
 </details>
 
-<b> Banners</b>  Banner folder
+<b> Banners</b>  :Banner folder
 
 <b> blockset</b> 
 
