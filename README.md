@@ -720,7 +720,90 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_ancillaries.txt </b> </summary>
+    <summary> <b> 📝export_descr_ancillaries.txt </b> </summary>				${\color{green}[characters]}$$
+		<details>
+			<summary> effects list  </summary>
+				<pre> 
+					<code> 
+Effect Ambush [number]
+Effect ArtilleryCommand [number]
+Effect Assassination [number]
+Effect Attack [number]
+Effect Authority [number]
+Effect BattleSurgery [number]
+Effect BribeResistance [number]
+Effect Bribery [number]
+Effect CavalryCommand [number]
+Effect Charm [number]
+Effect Chivalry [number]
+Effect Combat_V_Faction_[faction/culture] [number] ;;haven't tested modded factions or cultures 
+Effect Combat_V_Religion_[religion] [number] ;;haven't tested modded religions
+Effect Command [number]
+Effect Construction [number]
+Effect Defence [number]
+Effect Eligibility [number]
+Effect Farming [number]
+Effect Fertility [number]
+Effect Finance [number]
+Effect GunpowderCommand [number]
+Effect Health [number]
+Effect HeresyImmunity [number]
+Effect HitPoints [number]
+Effect InfantryCommand [number]
+Effect Influence [number]
+Effect Law [number]
+Effect Level [number]
+Effect LineOfSight [number]
+Effect LocalPopularity [number]
+Effect Looting [number]
+Effect Loyalty [number]
+Effect Magic [number]
+Effect Mining [number]
+Effect MovementPoints [number]
+Effect NavalCommand [number]
+Effect NightBattle [number]
+Effect PersonalSecurity [number]
+Effect Piety [number]
+Effect PublicSecurity [number]
+Effect Purity [number]
+Effect Sabotage [number]
+Effect SiegeAttack [number]
+Effect SiegeDefence [number]
+Effect SiegeEngineering [number]
+Effect Squalor [number]
+Effect Subterfuge [number]
+Effect TaxCollection [number]
+Effect Trading [number]
+Effect TrainingAgents [number]
+Effect TrainingUnits [number]
+Effect TroopMorale [number]
+Effect Unorthodoxy [number]
+Effect Unrest [number]
+Effect Violence [number]
+					</code> 
+				</pre> 
+		<pre> 
+			<code> 
+Ancillary [Ancillary name]
+    Type [Ancillary type]				<b>;; Type of the Ancillary</b>
+    Transferable  [0 or 1]		<b>;; Decides if Ancillary can be moved between characters/agents</b>
+    Image [image.tga]		<b>;;texture/image of the Ancillary</b>
+	ExcludedAncillaries [Ancillary name, ...]		<b>;; Not required, Ancillary won't be given if these Ancillaries are present.</b>
+	ExcludeCultures [culture, ...]			<b>;; Not required, Ancillary won't be given if these cultures are present.</b>
+    Description [description name]			<b>;; Text files description pointer</b>
+    EffectsDescription [effects description name]	<b>	;; Text files effects description pointer</b>
+	Unique				<b>;; presence of this decides if the if there can only be one, in nutshell Unique Ancillary in campaign</b>
+	
+	Effect [effect type] [number]			<b>;; Ancillarie's effect modifier, number can be positive or negative. Another effect goes below.</b>
+	Effect [effect type] [number]			<b>;; example of another effect</b>
+;------------------------------------------------------
+Trigger [Trigger name]
+	WhenToTest [WhenToTest identifier]		<b>;; Test for when it will be triggered</b>
+		[condition script]				
+	
+	AcquireAncillary [Ancillary name] chance [number] <b>;; % chance to get the Ancillary </b>
+			</code> 
+		</pre> 
 </details> 
 
 <details>
