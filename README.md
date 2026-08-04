@@ -217,22 +217,104 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝custom_locations.txt </b> </summary>
+		<pre>
+			<code>
+custom_location		[name]
+{
+	location		[coordinates] ;; coordinates of "map_regions"/ingame map.
+	image			data/menu/battlefield_pics/[name].tga ;; preview image of the batte location
+	sett_locked		[yes/no] ;; locks battle customization
+	climate			[climate type] ;; climate of the battle
+	summer			[yes/no]
+}
+;-----------------------
+			</code>
+		</pre>
 </details> 
 
 <details>
-    <summary> <b> 📝debug_descr_advice.txt </b> </summary>
+    <summary> <b> 📝debug_descr_advice.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary> </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝descr_aerial_map_ground_types.txt </b> </summary>
+    <summary> <b> 📝descr_aerial_map_ground_types.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary>
+<b>
+;===Ground type list===
+;	cultivated_low
+;	cultivated_medium
+;	cultivated_high
+;	fertility_low
+;	fertility_medium
+;	fertility_high
+;	forest_dense
+;	forest_sparse
+;	hills
+;	mountains_high
+;	mountains_low
+;	swamp
+;	beach
+;	scorched
+;
+;-===Texture density info===------------------------------------------------------------------------
+;	texture_density <multiplier>   (optional, root level, default 1.0)
+;	Sampling density of this art set relative to vanilla. If you have higher-resolution
+;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2
+;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).
+;	Accepted range 0.25 - 8. Applies to every texture in this file at once.
+;----------------------------------------------------------------------------------------------------
+</b>
+texture_density 2
+
+
+climate [Climate name] 
+{
+	[ground type]		[summer texture of ground the type.tga]	[winter texture of ground the type.tga] <b>;; First you set ground type from the list of existing ground types! then summer and lastly winter texture if the climate has one, this will show up on campaign map.</b>
+;	[ground type]... <b> ;; you then fill it with remaining ground types from the list.</b>
+}
 </details>
 
 <details>
-    <summary> <b> 📝descr_aerial_map_tile_models.txt </b> </summary>
+    <summary> <b> 📝descr_aerial_map_tile_models.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary>
+	this sets river and peak mountain tiles, Do not touch this!
 </details>
 
 <details>
     <summary> <b> 📝descr_animals.txt </b> </summary>
+		<pre>
+			<code>	
+;	This file contains the animal linkages; it gets parsed on application 
+;	startup but is not otherwise referred to. The data format is thus:
+;
+;	Fields should be entered in the order shown.
+;
+;	;						indicates a comment ;-)
+;	[]						indicates optional
+;
+;	type					indicates a new mount type, must be followed by id name string
+;	class					animal class (current possibilities - wardog, pig)
+;	model					model id from descr_model_battle 
+;	radius					animal radius
+;	[ x_radius ]			animal x axis radius for elliptical mounts (radius is y radius in this case) 
+;	height					animal height
+;	mass					animal mass
+
+type		wardog
+class		wardog
+model		wardog
+radius		0.75
+x_radius	0.35
+height		1.0
+mass		1.0
+
+type		pig
+class		pig
+model		pig
+radius		0.75
+x_radius	0.35
+height		1.0
+mass		0.5
+			</code>
+		</pre>
 </details> 
 
 <details>
@@ -241,10 +323,6 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝descr_artillery_effects.txt </b> </summary>
-</details> 
-
-<details>
-    <summary> <b> 📝descr_auto_optimise_options.txt </b> </summary>
 </details> 
 
 <details>
@@ -720,7 +798,8 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_ancillaries.txt </b> ${\color{green}[characters]}$$ </summary>				
+    <summary> <b> 📝export_descr_ancillaries.txt </b> ${\color{green}[characters]}$ </summary>	
+The file is split into two halves, the ancillaries and the triggers.
 		<details>
 			<summary> effects list  </summary>
 				<pre> 
@@ -896,7 +975,7 @@ building [prefix] [name of building tree] <b>;; Building tree</b>
 } ;; Tree ends here.		 
 </code>
 </pre>
-
+</details> 
 <details>
     <summary> <b> 📝export_descr_buildings_enums.txt </b> </summary>
 </details> 
