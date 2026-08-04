@@ -238,31 +238,32 @@ custom_location		[name]
 
 <details>
     <summary> <b> 📝descr_aerial_map_ground_types.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary>
-<b>
-;===Ground type list===
-;	cultivated_low
-;	cultivated_medium
-;	cultivated_high
-;	fertility_low
-;	fertility_medium
-;	fertility_high
-;	forest_dense
-;	forest_sparse
-;	hills
-;	mountains_high
-;	mountains_low
-;	swamp
-;	beach
-;	scorched
-;
-;-===Texture density info===------------------------------------------------------------------------
-;	texture_density <multiplier>   (optional, root level, default 1.0)
-;	Sampling density of this art set relative to vanilla. If you have higher-resolution
-;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2
-;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).
-;	Accepted range 0.25 - 8. Applies to every texture in this file at once.
-;----------------------------------------------------------------------------------------------------
-</b>
+		<pre>
+			<code>
+<b>;===Ground type list===</b>
+<be>;	cultivated_low</b>
+<be>;	cultivated_medium</b>
+<be>;	cultivated_high</b>
+<be>;	fertility_low</b>
+<be>;	fertility_medium</b>
+<be>;	fertility_high</b>
+<be>;	forest_dense</b>
+<be>;	forest_sparse</be>
+<be>;	hills</be>
+<be>;	mountains_high</be>
+<be>;	mountains_low</be>
+<be>;	swamp</be>
+<be>;	beach</be>
+<be>;	scorched</be>
+<br>
+<be>;-===Texture density info===------------------------------------------------------------------------</be>
+<be>;	texture_density <multiplier>   (optional, root level, default 1.0)</be>
+<be>;	Sampling density of this art set relative to vanilla. If you have higher-resolution</be>
+<be>;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2</be>
+<be>;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).</be>
+<be>;	Accepted range 0.25 - 8. Applies to every texture in this file at once.</be>
+<be>;----------------------------------------------------------------------------------------------------</be>
+
 texture_density 2
 
 
@@ -271,6 +272,8 @@ climate [Climate name]
 	[ground type]		[summer texture of ground the type.tga]	[winter texture of ground the type.tga] <b>;; First you set ground type from the list of existing ground types! then summer and lastly winter texture if the climate has one, this will show up on campaign map.</b>
 ;	[ground type]... <b> ;; you then fill it with remaining ground types from the list.</b>
 }
+			</code>
+		</pre>
 </details>
 
 <details>
