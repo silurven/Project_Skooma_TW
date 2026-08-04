@@ -720,7 +720,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_ancillaries.txt </b> </summary>				${\color{green}[characters]}$$
+    <summary> <b> 📝export_descr_ancillaries.txt </b> ${\color{green}[characters]}$$ </summary>				
 		<details>
 			<summary> effects list  </summary>
 				<pre> 
