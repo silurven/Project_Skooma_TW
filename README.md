@@ -794,14 +794,14 @@ Ancillary [Ancillary name]
     Description [description name]			<b>;; Text files description pointer</b>
     EffectsDescription [effects description name]	<b>	;; Text files effects description pointer</b>
 	Unique				<b>;; presence of this decides if the if there can only be one, in nutshell Unique Ancillary in campaign</b>
- 
+	<br>
 	Effect [effect type] [number]			<b>;; Ancillarie's effect modifier, number can be positive or negative. Another effect goes below.</b>
 	Effect [effect type] [number]			<b>;; example of another effect</b>
 ;------------------------------------------------------
 Trigger [Trigger name]
 	WhenToTest [WhenToTest identifier]		<b>;; Test for when it will be triggered</b>
 		[condition script]				
- 
+ 	<br>
 	AcquireAncillary [Ancillary name] chance [number] <b>;; % chance to get the Ancillary </b>
 			</code> 
 		</pre> 
