@@ -782,6 +782,7 @@ Effect Unrest [number]
 Effect Violence [number]
 					</code> 
 				</pre> 
+		</details>
 		<pre> 
 			<code> 
 Ancillary [Ancillary name]
