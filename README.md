@@ -256,7 +256,6 @@ custom_location		[name]
 <b>;	swamp</b>
 <b>;	beach</b>
 <b>;	scorched</b>
-<b>
 <b>;-===Texture density info===------------------------------------------------------------------------</b>
 <b>;	texture_density <multiplier>   (optional, root level, default 1.0)</b>
 <b>;	Sampling density of this art set relative to vanilla. If you have higher-resolution</b>
