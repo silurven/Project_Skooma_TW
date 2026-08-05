@@ -249,7 +249,7 @@ custom_location		[name]
 <b>;	fertility_medium</b>
 <b>;	fertility_high</b>
 <b>;	forest_dense</b>
-<b>;	forest_sparse</be>
+<b>;	forest_sparse</b>
 <b>;	hills</b>
 <b>;	mountains_high</b>
 <b>;	mountains_low</b>
