@@ -76,7 +76,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary> <b> 📁Menu </b> Menu UI, textures, symbols </summary> 
+    <summary> <b> 📁Menu </b> Menu UI, textures, symbols ${\color{yellow}[menu]}$ </summary> 
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -213,10 +213,11 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝battle_event_subtitles_lookup.txt </b> </summary>
+	Jsut here audio names of the battle sound events found in export_descr_sounds_units_battle_events.txt
 </details> 
 
 <details>
-    <summary> <b> 📝custom_locations.txt </b> </summary>
+    <summary> <b> 📝custom_locations.txt </b> ${\color{yellow}[menu‎]}$ </summary>
 		<pre>
 			<code>
 custom_location		[name]
@@ -241,35 +242,35 @@ custom_location		[name]
 		<pre>
 			<code>
 <b>;===Ground type list===</b>
-<be>;	cultivated_low</b>
-<be>;	cultivated_medium</b>
-<be>;	cultivated_high</b>
-<be>;	fertility_low</b>
-<be>;	fertility_medium</b>
-<be>;	fertility_high</b>
-<be>;	forest_dense</b>
-<be>;	forest_sparse</be>
-<be>;	hills</be>
-<be>;	mountains_high</be>
-<be>;	mountains_low</be>
-<be>;	swamp</be>
-<be>;	beach</be>
-<be>;	scorched</be>
-<br>
-<be>;-===Texture density info===------------------------------------------------------------------------</be>
-<be>;	texture_density <multiplier>   (optional, root level, default 1.0)</be>
-<be>;	Sampling density of this art set relative to vanilla. If you have higher-resolution</be>
-<be>;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2</be>
-<be>;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).</be>
-<be>;	Accepted range 0.25 - 8. Applies to every texture in this file at once.</be>
-<be>;----------------------------------------------------------------------------------------------------</be>
+<b>;	cultivated_low</b>
+<b>;	cultivated_medium</b>
+<b>;	cultivated_high</b>
+<b>;	fertility_low</b>
+<b>;	fertility_medium</b>
+<b>;	fertility_high</b>
+<b>;	forest_dense</b>
+<b>;	forest_sparse</be>
+<b>;	hills</be>
+<b>;	mountains_high</be>
+<b>;	mountains_low</be>
+<b>;	swamp</be>
+<b>;	beach</be>
+<b>;	scorched</be>
+<b>
+<b>;-===Texture density info===------------------------------------------------------------------------</be>
+<b>;	texture_density <multiplier>   (optional, root level, default 1.0)</be>
+<b>;	Sampling density of this art set relative to vanilla. If you have higher-resolution</be>
+<b>;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2</be>
+<b>;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).</be>
+<b>;	Accepted range 0.25 - 8. Applies to every texture in this file at once.</be>
+<b>;----------------------------------------------------------------------------------------------------</be>
 
 texture_density 2
 
-
+<b>;;First you set ground type from the list of existing ground types! then summer and lastly winter texture if the climate has one, this will show up on campaign map.</b>
 climate [Climate name] 
 {
-	[ground type]		[summer texture of ground the type.tga]	[winter texture of ground the type.tga] <b>;; First you set ground type from the list of existing ground types! then summer and lastly winter texture if the climate has one, this will show up on campaign map.</b>
+	[ground type]		[summer texture of the ground type.tga]	[winter texture of the ground type.tga] 
 ;	[ground type]... <b> ;; you then fill it with remaining ground types from the list.</b>
 }
 			</code>
@@ -285,21 +286,21 @@ climate [Climate name]
     <summary> <b> 📝descr_animals.txt </b> </summary>
 		<pre>
 			<code>	
-;	This file contains the animal linkages; it gets parsed on application 
-;	startup but is not otherwise referred to. The data format is thus:
-;
-;	Fields should be entered in the order shown.
-;
-;	;						indicates a comment ;-)
-;	[]						indicates optional
-;
-;	type					indicates a new mount type, must be followed by id name string
-;	class					animal class (current possibilities - wardog, pig)
-;	model					model id from descr_model_battle 
-;	radius					animal radius
-;	[ x_radius ]			animal x axis radius for elliptical mounts (radius is y radius in this case) 
-;	height					animal height
-;	mass					animal mass
+<b>;	This file contains the animal linkages; it gets parsed on application </b>
+<b>;	startup but is not otherwise referred to. The data format is thus:</b>
+<b>;</b>
+<b>;	Fields should be entered in the order shown.</b>
+<b>;</b>
+<b>;	;						indicates a comment ;-)</b>
+<b>;	[]						indicates optional</b>
+<b>;</b>
+<b>;	type					indicates a new mount type, must be followed by id name string</b>
+<b>;	class					animal class (current possibilities - wardog, pig)</b>
+<b>;	model					model id from descr_model_battle </b>
+<b>;	radius					animal radius</b>
+<b>;	[ x_radius ]			animal x axis radius for elliptical mounts (radius is y radius in this case)</b>
+<b>;	height					animal height</b>
+<b>;	mass					animal mass</b>
 
 type		wardog
 class		wardog
@@ -330,10 +331,80 @@ mass		0.5
 
 <details>
     <summary> <b> 📝descr_battle_map_lighting_and_fog_control.txt </b> </summary>
+		<pre>
+			<code>
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+<b>;</b>
+<b>; lighting</b>
+<b>;</b>
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+
+min_light_intensity							1.0
+max_light_intensity							1.4
+ambient_reduce_proportion					0.75
+ambient_red_increase_proportion				0.25
+ambient_green_increase_proportion			0.25
+ambient_blue_increase_proportion			0.5
+
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+<b>;</b>
+<b>; unit lighting</b>
+<b>;</b>
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+
+unit_min_light_intensity					1.0
+unit_max_light_intensity					1.6
+unit_ambient_reduce_proportion				0.25
+unit_ambient_red_increase_proportion		0.25
+unit_ambient_green_increase_proportion		0.25
+unit_ambient_blue_increase_proportion		0.5
+
+unit_ambient_multiplier						1.3
+unit_diffuse_multiplier						1.3
+
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+<b>;</b>
+<b>; fog</b>
+<b>;</b>
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+
+settlement_exponential_modifier				0.0002			
+camera_height_exponential_modifier			-0.00025		
+camera_exponential_modifier_max_height		100.0
+min_fog_exponential							0.00015
+min_fog_intensity							0.35
+haze_to_fog_transition_exponential			0.0004
+haze_to_fog_transition_exponential_range	0.00005
+
+<b>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</b>
+			</code>
+		</pre>
 </details> 
 
 <details>
     <summary> <b> 📝descr_battle_map_movement_modifiers.txt </b> </summary>
+		<pre>
+			<code>
+<b>; Sets climate's battle map speed modifier.</b>
+<b>;--------------------------------------------------------------------------</b>
+climate			default
+
+grass_short		1.0
+grass_long		1.0
+sand			1.0
+rock			1.0
+forest_dense		0.75
+scrub_dense		1.0
+swamp			1.0
+mud				1.0
+mud_road		1.0
+stone_road		1.0				
+water			0.6
+ice				0.5
+snow			0.75
+<b>;--------------------------------------------------------------------------</b>
+			<code>
+		</pre>
 </details> 
 
 <details>
@@ -988,7 +1059,23 @@ building [prefix] [name of building tree] <b>;; Building tree</b>
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_guilds.txt </b> </summary>
+    <summary> <b> 📝export_descr_guilds.txt </b> ${\color{blue}[Buildings]}$ </summary>
+;;====guilds====
+;------------------------------------------
+Guild [guild trigger pointer]
+    building [Tree building name] ; point's to building tree in export_descr_building. Look there for more info.
+    levels  [points][points][points] ;minimum points required for each level of guild, lowest to highest. Amount of tiers/levels should match the levels export_descr_building tree.
+;------------------------------------------
+;;====Triggers====
+;------------------------------------------
+Trigger [trigger name]
+    WhenToTest [WhenToTest identifier]	<b>;; When it will be triggered</b>
+
+	[condition script]
+
+    Guild [guild trigger pointer / this / all] [s / a / o ]  [points]  ;; adds or substracts to settlement's points, if it's pointed to guild, it will add points towards to that guild only in the settlement, if it's "this" it's simliar to before, but it's used for stuff like "Guild Destroyed" and if it's all then it will add points to towards all guilds "s" and "o" are local while "a" is global, next if the number is negative then it substracts and vice versa.
+
+
 </details> 
 
 <details>
