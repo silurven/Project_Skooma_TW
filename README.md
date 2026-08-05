@@ -20,7 +20,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Banners ${\color{red}[Units]}$ ${\color{orange}[Battle‎ Map]}$ </b> </summary>
+    <summary>  <b> 📁Banners </b> ${\color{red}[Units]}$ ${\color{orange}[Battle‎ Map]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -108,7 +108,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Scipts</b>  Scripts list/preset ${\color{#06402B}[Factions]}$ ${\color{green}[characters]}$ ${\color{brown}[cultures‎]}$ ${\color{pink}[Campaign]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
+    <summary>  <b> 📁Scipts</b>  Scripts list/preset ${\color{#06402B}[Factions]}$ ${\color{green}[characters]}$ ${\color{brown}[cultures‎]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
