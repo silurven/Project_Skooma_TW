@@ -116,7 +116,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Settlements</b> Battle settlement models  ${\color{brown}[culture‎s]}$ ${\color{orange}[Battle‎ Map]}$ </summary>
+    <summary>  <b> 📁Settlements</b> Battle settlement models  ${\color{brown}[cultures]}$ ${\color{orange}[Battle‎ Map]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -140,7 +140,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁sounds</b> ${\color{green}[characters]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{brown}[culture‎s]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
+    <summary>  <b> 📁sounds</b> ${\color{green}[characters]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{brown}[cultures]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -156,7 +156,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁text</b>  languages, ingame text  ${\color{#06402B}[Factions]}$ ${\color{green}[characters]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{brown}[culture‎s]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>	
+    <summary>  <b> 📁text</b>  languages, ingame text  ${\color{#06402B}[Factions]}$ ${\color{green}[characters]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{brown}[cultures]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>	
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -172,7 +172,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁UI</b>  Ingame UI, not to be confused with menu UI ${\color{brown}[culture‎s]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
+    <summary>  <b> 📁UI</b>  Ingame UI, not to be confused with menu UI ${\color{brown}[cultures]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -455,7 +455,7 @@ snow			0.75
 </details> 
 
 <details>
-    <summary> <b> 📝descr_cultures.txt </b> ${\color{brown}[culture‎s]}$ </summary>
+    <summary> <b> 📝descr_cultures.txt </b> ${\color{brown}[cultures]}$ </summary>
 </details> 
 
 <details>
@@ -964,7 +964,7 @@ Trigger [Trigger name]
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_buildings.txt </b>                        ${\color{#06402B}[Factions]}$ ${\color{blue}[Buildings]}$ ${\color{red}[Units]}$ ${\color{brown}[culture‎s]}$ </summary>
+    <summary> <b> 📝export_descr_buildings.txt </b>                        ${\color{#06402B}[Factions]}$ ${\color{blue}[Buildings]}$ ${\color{red}[Units]}$ ${\color{brown}[cultures]}$ </summary>
 <pre> 
 <code> 
 <h2>;; Read "!" </h2>
@@ -1116,7 +1116,7 @@ Trigger [trigger name]
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_unit.txt </b>                             ${\color{#06402B}[Factions]}$ ${\color{brown}[culture‎s]}$ ${\color{red}[Units]}$ </summary>
+    <summary> <b> 📝export_descr_unit.txt </b>                             ${\color{#06402B}[Factions]}$ ${\color{brown}[cultures]}$ ${\color{red}[Units]}$ </summary>
 </details> 
 
 <details>
