@@ -12,7 +12,7 @@ The mod welcomes any help, translators, voice actors, modelers, anybody as long 
 Order
 Format(file → txt → xml) → alphabet
 <details>
-    <summary>  <b> 📁Animations</b>                                $${\color{red}[Units]}$$ </summary>
+    <summary>  <b> 📁Animations</b>                        ${\color{blue}[Buildings]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{red}[Units]}$ </summary>
 		<details>
 			<summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -20,7 +20,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Banners </b> </summary>
+    <summary>  <b> 📁Banners ${\color{red}[Units]}$ ${\color{orange}[Battle‎ Map]}$ </b> </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -68,7 +68,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary> <b> 📁Loading screens </b> </summary>
+    <summary> <b> 📁Loading screens </b> ${\color{yellow} [menu]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -76,7 +76,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary> <b> 📁Menu </b> Menu UI, textures, symbols ${\color{yellow}[menu]}$ </summary> 
+    <summary> <b> 📁Menu </b> Menu UI, textures, symbols ${\color{yellow} [menu]}$ ${\color{red}[Units]}$ </summary> 
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -84,7 +84,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary> <b> 📁Model_effects </b>  Menu UI, textures, symbols </summary>
+    <summary> <b> 📁Model_effects </b>  ${\color{orange}[Battle‎ Map]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -92,7 +92,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary> <b> 📁Models Strat </b>  campaign map models and textures </summary>
+    <summary> <b> 📁Models Strat </b>  campaign map models and textures ${\color{pink}[Campaign‎ Map]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -100,7 +100,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Overlay Textures</b>  blood, dirt, snow on units </summary>
+    <summary>  <b> 📁Overlay Textures</b>  blood, dirt, snow on units  ${\color{red}[Units]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -108,7 +108,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Scipts</b>  Scripts list/preset </summary>
+    <summary>  <b> 📁Scipts</b>  Scripts list/preset ${\color{#06402B}[Factions]}$ ${\color{green}[characters]}$ ${\color{brown}[cultures‎]}$ ${\color{pink}[Campaign]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -116,7 +116,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Settlements</b> Battle settlement models </summary>
+    <summary>  <b> 📁Settlements</b> Battle settlement models  ${\color{brown}[culture‎s]}$ ${\color{orange}[Battle‎ Map]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -124,7 +124,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Shaders</b> Rendering, Visuals </summary>
+    <summary>  <b> 📁Shaders</b> Rendering, Visuals  </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -140,7 +140,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁sounds</b> </summary>
+    <summary>  <b> 📁sounds</b> ${\color{green}[characters]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{brown}[culture‎]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -148,7 +148,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁Terrain</b> campaign map textures </summary>
+    <summary>  <b> 📁Terrain</b> campaign map textures ${\color{pink}[Campaign‎ Map]}$ </summary>
         <details>
             <summary>  <b>   📁engine</b>  </summary>
             Contains  Animations and models.
@@ -156,7 +156,7 @@ Format(file → txt → xml) → alphabet
 </details>
 
 <details>
-    <summary>  <b> 📁text</b>  languages, ingame text                                $${\color{red}[Units]}$$ </summary>	
+    <summary>  <b> 📁text</b>  languages, ingame text  ${\color{#06402B}[Factions]}$ ${\color{green}[characters]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{brown}[culture‎]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>	
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -172,7 +172,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁UI</b>  Ingame UI, not to be confused with menu UI  </summary>
+    <summary>  <b> 📁UI</b>  Ingame UI, not to be confused with menu UI ${\color{brown}[culture‎]}$ ${\color{pink}[Campaign‎ Map]}$ ${\color{red}[Units]}$ ${\color{blue}[Buildings]}$ </summary>
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -180,7 +180,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁Unit models</b>   Unit models and textures                                $${\color{red}[Units]}$$ </summary>
+    <summary>  <b> 📁Unit models</b>   Unit models and textures                            ${\color{orange}[Battle‎ Map]}$ ${\color{red}[Units]}$ </summary>
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -188,7 +188,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁Unit sprites</b>   Sprites, optimization                                $${\color{red}[Units]}$$ </summary>
+    <summary>  <b> 📁Unit sprites</b>   Sprites, optimization                             ${\color{orange}[Battle‎ Map]}$ ${\color{red}[Units]}$ </summary>
         <details>
            <b>   </b> <summary>  <b>📁english</b>  </summary>
             Contains  Animations and models.
@@ -196,7 +196,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁Vegetation</b>   Battle map Vegetation </summary>
+    <summary>  <b> 📁Vegetation</b>   Battle map Vegetation ${\color{orange}[Battle‎ Map]}$ ${\color{#1BFFFE}[Climates]}$ </summary>
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -204,7 +204,7 @@ Format(file → txt → xml) → alphabet
 </details> 
 
 <details>
-    <summary>  <b> 📁world</b>   Campaign set up and it's map </summary>
+    <summary>  <b> 📁world</b>   Campaign set up and it's map ${\color{pink}[Campaign‎ Map]}$ ${\color{#1BFFFE}[Climates]}$ </summary>
         <details>
             <summary>  <b>   📁english</b>  </summary>
             Contains  Animations and models.
@@ -213,11 +213,11 @@ Format(file → txt → xml) → alphabet
 
 <details>
     <summary> <b> 📝battle_event_subtitles_lookup.txt </b> </summary>
-	Jsut here audio names of the battle sound events found in export_descr_sounds_units_battle_events.txt
+	Just here audio names of the battle sound events found in export_descr_sounds_units_battle_events.txt
 </details> 
 
 <details>
-    <summary> <b> 📝custom_locations.txt </b> ${\color{yellow}[menu‎]}$ </summary>
+    <summary> <b> 📝custom_locations.txt </b> ${\color{yellow}[menu‎]}$ ${\color{orange}[Battle‎ Map]}$ ${\color{#1BFFFE}[Climates]}$ </summary>
 		<pre>
 			<code>
 custom_location		[name]
@@ -234,11 +234,11 @@ custom_location		[name]
 </details> 
 
 <details>
-    <summary> <b> 📝debug_descr_advice.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary> </summary>
+    <summary> <b> 📝debug_descr_advice.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝descr_aerial_map_ground_types.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary>
+    <summary> <b> 📝descr_aerial_map_ground_types.txt </b> ${\color{pink}[Campaign‎ Map]}$ ${\color{#1BFFFE}[Climates]}$ </summary>
 		<pre>
 			<code>
 <b>;===Ground type list===</b>
@@ -381,7 +381,7 @@ haze_to_fog_transition_exponential_range	0.00005
 </details> 
 
 <details>
-    <summary> <b> 📝descr_battle_map_movement_modifiers.txt </b> </summary>
+    <summary> <b> 📝descr_battle_map_movement_modifiers.txt </b> ${\color{#1BFFFE}[Climates]}$ ${\color{orange}[Battle‎ Map]}$ </summary>
 		<pre>
 			<code>
 <b>; Sets climate's battle map speed modifier.</b>
@@ -435,7 +435,7 @@ snow			0.75
 </details> 
 
 <details>
-    <summary> <b> 📝descr_character.txt </b> </summary>
+    <summary> <b> 📝descr_character.txt </b> ${\color{#06402B}[Factions]}$ ${\color{pink}[Campaign‎ Map]}$ </summary>
 </details> 
 
 <details>
@@ -443,19 +443,19 @@ snow			0.75
 </details> 
 
 <details>
-    <summary> <b> 📝descr_cliffs.txt </b> </summary>
+    <summary> <b> 📝descr_cliffs.txt </b> ${\color{pink}[Campaign‎ Map]}$  </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝descr_climates.txt </b> </summary>
+    <summary> <b> 📝descr_climates.txt </b> ${\color{pink}[Campaign‎ Map]}$ ${\color{#1BFFFE}[Climates]}$ </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝descr_climates_lookup.txt </b> </summary>
+    <summary> <b> 📝descr_climates_lookup.txt </b> ${\color{pink}[Campaign‎ Map]}$ ${\color{#1BFFFE}[Climates]}$ </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝descr_cultures.txt </b> </summary>
+    <summary> <b> 📝descr_cultures.txt </b> ${\color{brown}[culture‎]}$ </summary>
 </details> 
 
 <details>
@@ -635,11 +635,11 @@ snow			0.75
 </details> 
 
 <details>
-    <summary> <b> 📝descr_sm_factions.txt </b> </summary>
+    <summary> <b> 📝descr_sm_factions.txt </b> ${\color{#06402B}[Factions]}$ </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝descr_sm_resources.txt </b> </summary>
+    <summary> <b> 📝descr_sm_resources.txt </b> ${\color{pink}[Campaign‎ Map]}$ </summary>
 </details> 
 
 <details>
@@ -960,11 +960,11 @@ Trigger [Trigger name]
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_ancillary_enums.txt </b> </summary>
+    <summary> <b> 📝export_descr_ancillary_enums.txt </b> ${\color{green}[characters]}$ </summary>
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_buildings.txt </b>                          $${\color{blue}[Buildings]}$$ $${\color{red}[Units]}$$ </summary>
+    <summary> <b> 📝export_descr_buildings.txt </b>                        ${\color{#06402B}[Factions]}$ ${\color{blue}[Buildings]}$ ${\color{red}[Units]}$ ${\color{brown}[culture‎]}$ </summary>
 <pre> 
 <code> 
 <h2>;; Read "!" </h2>
@@ -1074,7 +1074,7 @@ Trigger [trigger name]
 <br>
 	[condition script]
 <br>
-    Guild [guild trigger pointer / this / all] [s / a / o ]  [points]  ;; adds or substracts to settlement's points, if it's pointed to guild, it will add points towards to that guild only in the settlement, if it's "this" it's simliar to before, but it's used for stuff like "Guild Destroyed" and if it's all then it will add points to towards all guilds "s" and "o" are local while "a" is global, next if the number is negative then it substracts and vice versa.
+    Guild [guild trigger pointer / this / all] [s / a / o ]  [points]  ;; adds or substracts to settlement's points, if it's pointed to guild, it will add points towards to that guild only in the settlement, if it's "this" it's simliar to before, but it's used for stuff like "Guild Destroyed" and if it's "all" then it will add points to towards all guild's points. "s" and "o" are local while "a" is global, next if the number is negative then it substracts and vice versa.
 			</code>
 		</pre>
 </details> 
@@ -1116,7 +1116,7 @@ Trigger [trigger name]
 </details> 
 
 <details>
-    <summary> <b> 📝export_descr_unit.txt </b>                                $${\color{red}[Units]}$$ </summary>
+    <summary> <b> 📝export_descr_unit.txt </b>                             ${\color{#06402B}[Factions]}$ ${\color{brown}[culture‎]}$ ${\color{red}[Units]}$ </summary>
 </details> 
 
 <details>
