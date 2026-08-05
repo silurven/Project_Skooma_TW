@@ -388,7 +388,7 @@ haze_to_fog_transition_exponential_range	0.00005
 <b>; Sets climate's battle map speed modifier.</b>
 <b>;--------------------------------------------------------------------------</b>
 climate			default
-<br>
+
 grass_short		1.0
 grass_long		1.0
 sand			1.0
@@ -403,7 +403,7 @@ water			0.6
 ice				0.5
 snow			0.75
 <b>;--------------------------------------------------------------------------</b>
-			<code>
+			</code>
 		</pre>
 </details> 
 
