@@ -1059,6 +1059,8 @@ building [prefix] [name of building tree] <b>;; Building tree</b>
 
 <details>
     <summary> <b> 📝export_descr_guilds.txt </b> ${\color{blue}[Buildings]}$ </summary>
+		<pre>
+			<code>
 ;;====guilds====
 ;------------------------------------------
 Guild [guild trigger pointer]
@@ -1073,8 +1075,8 @@ Trigger [trigger name]
 	[condition script]
 
     Guild [guild trigger pointer / this / all] [s / a / o ]  [points]  ;; adds or substracts to settlement's points, if it's pointed to guild, it will add points towards to that guild only in the settlement, if it's "this" it's simliar to before, but it's used for stuff like "Guild Destroyed" and if it's all then it will add points to towards all guilds "s" and "o" are local while "a" is global, next if the number is negative then it substracts and vice versa.
-
-
+			</code>
+		</pre>
 </details> 
 
 <details>
