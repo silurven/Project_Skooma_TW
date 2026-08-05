@@ -250,20 +250,20 @@ custom_location		[name]
 <b>;	fertility_high</b>
 <b>;	forest_dense</b>
 <b>;	forest_sparse</be>
-<b>;	hills</be>
-<b>;	mountains_high</be>
-<b>;	mountains_low</be>
-<b>;	swamp</be>
-<b>;	beach</be>
-<b>;	scorched</be>
+<b>;	hills</b>
+<b>;	mountains_high</b>
+<b>;	mountains_low</b>
+<b>;	swamp</b>
+<b>;	beach</b>
+<b>;	scorched</b>
 <b>
-<b>;-===Texture density info===------------------------------------------------------------------------</be>
-<b>;	texture_density <multiplier>   (optional, root level, default 1.0)</be>
-<b>;	Sampling density of this art set relative to vanilla. If you have higher-resolution</be>
-<b>;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2</be>
-<b>;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).</be>
-<b>;	Accepted range 0.25 - 8. Applies to every texture in this file at once.</be>
-<b>;----------------------------------------------------------------------------------------------------</be>
+<b>;-===Texture density info===------------------------------------------------------------------------</b>
+<b>;	texture_density <multiplier>   (optional, root level, default 1.0)</b>
+<b>;	Sampling density of this art set relative to vanilla. If you have higher-resolution</b>
+<b>;	ground textures and declare their density here - e.g. 2x-res art + texture_density 2</b>
+<b>;	covers the SAME ground as vanilla, twice as sharp. Fractions work too (0.5 = half-res textures).</b>
+<b>;	Accepted range 0.25 - 8. Applies to every texture in this file at once.</b>
+<b>;----------------------------------------------------------------------------------------------------</b>
 
 texture_density 2
 
