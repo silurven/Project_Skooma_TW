@@ -1,33 +1,201 @@
 religions
 {
-	catholic
-	orthodox
-	islam
+	eight_divines
+	nine_divines
+	azura
+	good_daedra
+	dagoth
+	all_maker
+	riddle_thar
+	alkosh_pantheon
+	hist
+	altmer_aedra
+	bosmer_pantheon
+	power
+	Daedric
+	hircine
+	nocturnal
+	hermaeus_mora
+	peryite
+	malacath_creed
+	merida
+	mephala
+	namira
+	molag_bal
+	sheogorath
+	namira
+	vaermina
+	jyggalag
+	boethiath
+	trickster
+	mehurnes_dagon
+	sanguine
+	dragon_cult
+	syncretic_yokudan
+	yokudan_pantheon
+	xrib
+	sithis
+	the_green
+	undeath
 	pagan
-	heretic
+	heretic 
 }
 
-religion catholic
+religion undeath
 {
-	pip_path	ui/pips/pip_catholic.tga
+	pip_path	ui/pips/pip_pagan.tga
 }
-
-religion orthodox
-{
-	pip_path	ui/pips/pip_orthodox.tga
-}
-
-religion islam
-{
-	pip_path	ui/pips/pip_islam.tga
-}
-
 religion pagan
 {
 	pip_path	ui/pips/pip_pagan.tga
 }
 
 religion heretic
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+
+religion eight_divines
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion nine_divines
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion azura
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion good_daedra
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion dagoth
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion all_maker
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion riddle_thar
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion alkosh_pantheon
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion hist
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion altmer_aedra
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion bosmer_pantheon
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion power
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion Daedric
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion hircine
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion nocturnal
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion hermaeus_mora
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion peryite
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion malacath_creed
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion merida
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion mephala
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion namira
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion molag_bal
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion sheogorath
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion namira
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion vaermina
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion jyggalag
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion boethiath
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion trickster
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion mehurnes_dagon
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion sanguine
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion dragon_cult
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion syncretic_yokudan
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion yokudan_pantheon
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion xrib
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion sithis
+{
+	pip_path	ui/pips/pip_heretic.tga
+}
+religion the_green
 {
 	pip_path	ui/pips/pip_heretic.tga
 }

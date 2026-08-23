@@ -70,7 +70,7 @@
 {beguiling_bard_effects_desc}+1 to agent's skill, +1 to personal security (improves the chances of detecting and foiling assassination attempts)
 {bertrand_du_guesclin}Bertrand du Guesclin
 {bertrand_du_guesclin_desc}A fantastic French field commander, and the ideal right hand man for any general raising the Orriflamme.
-{bertrand_du_guesclin_effects_desc}+2 Command, +2 Morale for all troops on the battlefield, +2 Command when fighting against English, +1 Command when fighting against Portugese, +1 Command when fighting against Spanish
+{bertrand_du_guesclin_effects_desc}+2 Command, +2 Morale for all troops on the battlefield, +2 Command when fighting against imperial, +1 Command when fighting against Portugese, +1 Command when fighting against Spanish
 {biographer}Biographer
 {biographer_desc}When one is forging a great legacy, it must be recorded properly.
 {biographer_effects_desc}+1 Authority
@@ -192,7 +192,7 @@
 {francis_of_assisi_desc}The founder of the Order of Friars Minor, and truly a living saint. His concern for the poor and nature endear him to countless.
 {francis_of_assisi_effects_desc}+2 Piety, -2 from squalor (increases public order and population growth), +2 to unrest (has a negative effect on public order)
 {geoffrey_chaucer}Geoffrey Chaucer
-{geoffrey_chaucer_desc}A multi-talented Englishman known for his abilities as an author, poet and civil master.
+{geoffrey_chaucer_desc}A multi-talented imperialman known for his abilities as an author, poet and civil master.
 {geoffrey_chaucer_effects_desc}10% discount on construction costs, +1 to popularity (improves public order)
 {george_of_antioch}George of Antioch
 {george_of_antioch_desc}A Sicilian war hero, greatly adept at attacking strategies. Despite his ways of war, he is also a most cultured and a servant of the faith.
@@ -253,7 +253,7 @@
 {jan_zizka_effects_desc}+2 Command, +1 Authority, +2 Command when defending, +50 Build Points (required for the construction of siege equipment)
 {joan_of_arc}Jeanne d'Arc
 {joan_of_arc_desc}This angelic girl believes God has chosen her to champion France... And so do the French.
-{joan_of_arc_effects_desc}+2 Piety, +1 Command, +2 Morale for all troops on the battlefield, +2 Command when fighting against English
+{joan_of_arc_effects_desc}+2 Piety, +1 Command, +2 Morale for all troops on the battlefield, +2 Command when fighting against imperial
 {johannes_faustes}Johannes Faustus
 {johannes_faustes_desc}An alchemist whispered to practise the most blasphemous arts of necromancy. 
 {johannes_faustes_effects_desc}+2 Dread, -2 Piety, Increases the chance of having children, +4 to your general's hitpoints (how many hits your general can take before dying)
@@ -261,7 +261,7 @@
 {john_gutenberg_desc}An inventor pioneering a new means of mass producing books, inspiring both literacy and trade.
 {john_gutenberg_effects_desc}20% bonus on all trade income, -2 from squalor (increases public order and population growth)
 {john_wycliffe}John Wycliffe
-{john_wycliffe_desc}A well-known and respected theologian, responsible for translating the Holy Bible into English.
+{john_wycliffe_desc}A well-known and respected theologian, responsible for translating the Holy Bible into imperial.
 {john_wycliffe_effects_desc}+2 Piety
 {key_to_holy_kaaba}Key to Holy Kaaba
 {key_to_holy_kaaba_desc}A key to the door of the holiest place in Islam.
@@ -432,7 +432,7 @@
 {raphael_desc}A master painter with the softest edge to his stunning work. His prolific output leaves beauty in his trail.
 {raphael_effects_desc}+2 to popularity (improves public order), -3 from squalor (increases public order and population growth)
 {roger_bacon}Roger Bacon
-{roger_bacon_desc}An English scholar known for his documented experimentation and 'discovery' of gunpowder.
+{roger_bacon_desc}An imperial scholar known for his documented experimentation and 'discovery' of gunpowder.
 {roger_bacon_effects_desc}+1 Command when assaulting walls, +2 Command when commanding gunpowder troops
 {roger_de_moulins}Roger de Moulins
 {roger_de_moulins_desc}One of the Masters of the Knights Hospitaller, adept in the ways of both war and politics.
@@ -475,7 +475,7 @@
 {simon_de_montfort_effects_desc}+2 Chivalry, +2 Command, -1 Loyalty, +1 to popularity (improves public order)
 {sir_william_wallace}Sir William Wallace
 {sir_william_wallace_desc}He may look like a ruffian, but this patriotic Scot is better educated in both battle and scholarly matters than most Kings.
-{sir_william_wallace_effects_desc}+1 Chivalry, +1 Command, +1 Authority, +2 Morale for all troops on the battlefield, +3 Command when fighting against English
+{sir_william_wallace_effects_desc}+1 Chivalry, +1 Command, +1 Authority, +2 Morale for all troops on the battlefield, +3 Command when fighting against imperial
 {slaver}Slaver
 {slaver_desc}Ensures that his lord and master is only ever served by the most capable and obedient of slaves.
 {slaver_effects_desc}15% bonus on all trade income
@@ -516,7 +516,7 @@
 {swordbearer_desc}It is always best to not have to break from combat when one's weapon breaks first.
 {swordbearer_effects_desc}+1 to personal security (improves the chances of detecting and foiling assassination attempts), +1 to your general's hitpoints (how many hits your general can take before dying)
 {taticius}Taticius
-{taticius_desc}One of the Empire's finest naval and field commanders. An outstanding orator and a man of action.
+{taticius_desc}One of the Imperium's finest naval and field commanders. An outstanding orator and a man of action.
 {taticius_effects_desc}+2 Command
 {tax_farmer}Tax Farmer
 {tax_farmer_desc}If you are going to bleed the people dry, get someone else to be the face of your oppression.

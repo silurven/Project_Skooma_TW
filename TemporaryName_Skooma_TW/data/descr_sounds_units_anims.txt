@@ -180,42 +180,8 @@ BANK: animal_fall
 DEFAULT: mindist 25 priority 200 volume 0 probability 1  minPitch .95 maxPitch 1.05 probability 1 distancepriority 0
 
 BANK: war_horn
-	culture southern_european
-		event
-			folder data/sounds/SFX/Individual/War_Horns
-			SE_warhorn_charge
-		end
-	
-	
-	culture northern_european
+	culture placeholderC
 		event
 			folder data/sounds/SFX/Individual/War_Horns
 			NE_warhorn_charge
-		end
-	
-	culture mesoamerican
-		event
-			folder data/sounds/SFX/Individual/War_Horns
-			ME_warhorn_charge_01
-			ME_warhorn_charge_02
-		end
-	
-		
-	culture greek
-		event
-			folder data/sounds/SFX/Individual/War_Horns
-			SE_warhorn_charge
-		end
-	
-	culture eastern_european
-		event
-			folder data/sounds/SFX/Individual/War_Horns
-			NE_warhorn_charge
-		end
-	
-	culture middle_eastern
-		event
-			folder data/sounds/SFX/Individual/War_Horns
-			ME_warhorn_charge_01
-			ME_warhorn_charge_02
 		end

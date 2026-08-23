@@ -1,3 +1,0 @@
-<SYNC Start=15100>
-<P Class=ENUSCC>Milan_Outro_Lose_1
-<SYNC Stop=28300>

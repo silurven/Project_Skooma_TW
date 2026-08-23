@@ -53,13 +53,9 @@
 ;
 ;	valid culture types:
 ;	-------------------------------------------------------------------------
-;	
-;		southern_european
-;		northern_european
-;		mesoamerican
-;		greek
-;		eastern_european
-;		middle_eastern
+;
+;		placeholderC
+;
 ;	-------------------------------------------------------------------------
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -111,7 +107,7 @@ ambient_settlement	resource_roman_poor_farm_A
 {
 	type	farm
 	culture	southern_european
-	culture northern_european
+	culture placeholderC
 
 	plan	resource_roman_poor_farm_A
 
@@ -129,7 +125,7 @@ ambient_settlement	resource_roman_poor_farm_B
 {
 	type	farm
 	culture	southern_european
-	culture northern_european
+	culture placeholderC
 
 	plan	resource_roman_poor_farm_B
 
@@ -314,13 +310,13 @@ ambient_settlement	tholos_tomb
 
 }
 
-;;;;;;;;;;;;;;; northern_european  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;; placeholderC  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
 ambient_settlement	barrow_mound
 {
 	type	monument
-	culture northern_european
+	culture placeholderC
 
 	plan	barrow_mound
 }
@@ -329,7 +325,7 @@ ambient_settlement	barrow_mound
 ambient_settlement	henge
 {
 	type	monument
-	culture	northern_european
+	culture	placeholderC
 
 	plan	henge
 }
@@ -337,7 +333,7 @@ ambient_settlement	henge
 ambient_settlement	henge_half_built
 {
 	type	monument
-	culture	northern_european
+	culture	placeholderC
 
 	plan	henge_half_built
 }
@@ -345,7 +341,7 @@ ambient_settlement	henge_half_built
 ambient_settlement	standing_stones
 {
 	type	monument
-	culture	northern_european
+	culture	placeholderC
 
 	plan	standing_stones
 }
@@ -354,7 +350,7 @@ ambient_settlement	standing_stones
 ambient_settlement	wagon_laager
 {
 	type	special
-	culture	northern_european
+	culture	placeholderC
 
 	plan	LION_wagon_laager
 
@@ -481,7 +477,7 @@ ambient_settlement	watchtower_egyptian_eastern
 ambient_settlement	watchtower_barbarian
 {
 	type		watchtower
-	culture 	northern_european
+	culture 	placeholderC
 
 	plan		watchtower_barbarian
 }
@@ -597,35 +593,35 @@ ambient_settlement	barb_ruins
 {
 	type		ruin
 	plan		barb_ruins
-	culture 	northern_european
+	culture 	placeholderC
 }
 
 ambient_settlement	barb_ruins_01
 {
 	type		ruin
 	plan		barb_ruins_01	
-	culture 	northern_european
+	culture 	placeholderC
 }
 
 ambient_settlement	barb_ruins_02
 {
 	type		ruin
 	plan		barb_ruins_02
-	culture 	northern_european
+	culture 	placeholderC
 }
 
 ambient_settlement	barb_ruins_03
 {
 	type		ruin
 	plan		barb_ruins_03
-	culture 	northern_european
+	culture 	placeholderC
 }
 
 ambient_settlement	barb_ruins_04
 {
 	type		ruin
 	plan		barb_ruins_04
-	culture 	northern_european
+	culture 	placeholderC
 }
 
 ;ambient_settlement	eastern_blacksmith_ruin

@@ -148,7 +148,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain mountains_high ; mountains_low, hills
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1, custom_2, custom_3
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -162,7 +162,7 @@ BANK: stratmap_terrain
 				end
 
 		terrain forest_dense
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1, custom_2, custom_3
 			ambient
 				event volume 0
 					folder data/sounds/SFX/environment
@@ -259,7 +259,7 @@ BANK: stratmap_terrain
 
 season winter
 	terrain fertile_low,  fertile_medium, fertile_high, wilderness
-		climates sandy_desert, rocky_desert
+		climates sandy_desert, rocky_desert, custom_2, custom_3
 			ambient
 				event
 
@@ -276,7 +276,7 @@ season winter
 				end
 
 	terrain mountains_high ; mountains_low, hills
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1, custom_2, custom_3
 			ambient
 			event volume -35 probability 1 effect_level .8 mindist 2
 				folder data/sounds/SFX/Environment/Animals/winter_strat_animals
@@ -299,7 +299,7 @@ season winter
 				end
 
 	terrain forest_dense
-		climates mediterranean, sandy_desert, rocky_desert,  semi_arid
+		climates mediterranean, sandy_desert, rocky_desert, semi_arid, custom_2, custom_3
 			ambient
 			event
 
@@ -319,7 +319,7 @@ season winter
 
 
 	terrain forest_sparse
-	   climates mediterranean, sandy_desert, rocky_desert,  semi_arid
+	   climates mediterranean, sandy_desert, rocky_desert,  semi_arid, custom_2, custom_3
 			ambient
 				event
 
@@ -357,7 +357,7 @@ season winter
 
 
 	terrain swamp
-		climates mediterranean, sandy_desert, rocky_desert,  semi_arid
+		climates mediterranean, sandy_desert, rocky_desert,  semi_arid, custom_2, custom_3
 			ambient
 				event
 
@@ -371,7 +371,7 @@ season winter
 				end
 
 	terrain ocean, sea_deep
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1, custom_2, custom_3
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -384,7 +384,7 @@ season winter
 				end
 
 	terrain sea_shallow
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1, custom_2, custom_3
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -398,7 +398,7 @@ season winter
 				end
 
 	terrain beach
-		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1
+		climates mediterranean, sandy_desert, rocky_desert, unused1, steppe, temperate_deciduous_forest, temperate_coniferous_forest, highland, alpine, tropical, semi_arid, custom_1, custom_2, custom_3
 			ambient
 				event volume 0
 					folder data/sounds/SFX
@@ -415,7 +415,7 @@ season winter
 				
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; BANK: stratmap_object
-;; culture	southern_european, northern_european, middle_eastern, mesoamerican, greek, eastern_european
+;; culture	imperial, placeholderC,
 ;; level	village, town, large_town, city, large_city, huge_city
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DEFAULT: 3d volume 0 probability 1 fadein 0 fadeout 0
@@ -425,7 +425,7 @@ DEFAULT: priority 0 distancepriority -1
 BANK: stratmap_object
 
 	what settlement
-		culture	southern_european, northern_european, middle_eastern, mesoamerican, greek, eastern_european
+		culture	placeholderC,
 		level	village, town, large_town
 			event
 				folder data/sounds/SFX/Environment/Structures
@@ -433,7 +433,7 @@ BANK: stratmap_object
 			end
 
 	what settlement
-		culture	southern_european, northern_european, middle_eastern, mesoamerican, greek, eastern_european
+		culture	placeholderC,
 		level city, large_city, huge_city
 			event
 				folder data/sounds/SFX/Environment/Structures
@@ -441,7 +441,7 @@ BANK: stratmap_object
 			end
 
 	what port
-		culture	southern_european, northern_european, middle_eastern, mesoamerican, greek, eastern_european
+		culture	placeholderC,
 		level	fishing_village, sea_port, shipwright, dockyard
 			event
 				folder data/sounds/SFX/Environment/Structures

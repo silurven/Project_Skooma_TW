@@ -380,212 +380,212 @@
 {East_European_Tannenberg_5}Victory! The Grand Master of the Order, Ulrich von Jungingen, has met justice on the point of a Polish lance! No longer will his band of thieves be free to butcher our God-fearing people in the name of their false crusades! We have cast off the yoke of tyranny and soon we will cut the remainder of this vile canker from our lands! God be praised!
 {East_European_Tannenberg_6}Courage my brothers! God is with us!
 {East_European_Tannenberg_7}Drive the hated invaders from the field!
-{English_Agincourt_1}Our men have slain one of their generals! 
-{English_Agincourt_2}King Henry is slain! All is lost!
-{English_Agincourt_3}Once more into the breach M'lord.
-{English_Agincourt_4}Here they come!
-{English_Agincourt_5}They're sending another wave of hapless fools at us! Hold the line!
-{English_Agincourt_6}For St. George!
-{English_Agincourt_7}Oh Good Lord! There's more of these French dogs on their way!
-{English_Agincourt_8}Quickly! Guard the King! He must not fall!
-{English_Agincourt_9}Those cowardly dogs are behind us!
-{English_Allied_Army_Leader_Killed_1}Our noble allies have lost their leader! Without their general they may lose heart and flee!
-{English_Allied_Army_Leader_Killed_2}Our ally lies dead, slain by the enemy! We must help his men avenge him!
-{English_Allied_Army_Routed_1}Our allies have fled the field like cowards! We must look to our own men now.
-{English_Allied_Army_Routed_2}Our cowardly allies have fled the field! They are craven and not fit to be called true men.
-{English_Allied_General_Captured_1}Our foolish allied general has allowed himself to be captured by the enemy! I pray our foe extends the codes of chivalry to him.
-{English_Allied_General_Captured_2}Our allied general has been captured by the enemy! We must win this battle or his fate will be in the hands of our dreaded foe!
-{English_Allied_General_Executed_1}Our foe is without honour! He has executed the general of our allies so that our men may fear him! 
-{English_Allied_General_Executed_2}The enemy have executed our allies' general! Such a deed is abhorrent to God and man, and must be answered most strongly.
-{English_Allied_General_Routed_1}Our allies' general is quitting the field! His fear has overcome his honour.
-{English_Allied_General_Routed_2}Our allies lose heart! Their general is craven and flees the field.
-{English_Arsuf_1}The enemy cavalry are trying to outflank from the beach. They must be pushed back!!
-{English_Arsuf_2}Saladin is retreating!! This day is ours!
-{English_Arsuf_3}If you move the army out of position now all the preparation will have been for nothing!!
-{English_Enemy_Army_Half_Gone_1}The enemy are badly bloodied! They have lost half their men!
-{English_Enemy_Army_Half_Gone_2}Only half the enemy force remains!
-{English_Enemy_Army_Routing_1}The enemy army flees the field! Pursue and run them down!!
-{English_Enemy_Army_Routing_2}Behold how our cowardly foe runs! It is time to press the attack!
-{English_Enemy_Breached_Gate_1}To arms Milord! The enemy are through the gate!
-{English_Enemy_Breached_Gate_2}Great God! Our enemy have broken through the gates!
-{English_Enemy_Dominating_Plaza_Castle_1}Beware! The chance for us to regain control of the castle is almost gone!
-{English_Enemy_Dominating_Plaza_Castle_2}Milord! If we do not regain command of the castle now we will lose it!
-{English_Enemy_Dominating_Plaza_City_1}Beware! The chance for us to regain control of the city is almost gone!
-{English_Enemy_Dominating_Plaza_City_2}Milord! We must regain command of the city lest we lose it!
-{English_Enemy_Dominating_Plaza_Fort_1}Beware! The chance for us to regain control of the Fort is almost gone!
-{English_Enemy_Dominating_Plaza_Fort_2}Milord! If we do not regain command of the Fort now we will lose it!
-{English_Enemy_General_Captured_1}Our men have captured the enemy general! Guard him well and make it so he can see us defeat the rest of his army.
-{English_Enemy_General_Captured_2}By St. George! We have captured the enemy's general! That will teach the cowardly dog to turn tail and run. Now he can rest ... at our leisure.
-{English_Enemy_General_Killed_1}Good tidings! The enemy general lies dead! We have sent the base cur to Hell. 
-{English_Enemy_General_Killed_2}By St. George! Our men have slain the enemy general! Without him his troops will lose their will to fight.
-{English_Enemy_General_Routing_1}The enemy general flees, like the coward he is. Press onward, and break the spirit of his army!
-{English_Enemy_General_Routing_2}The enemy general has no honour! He flees the field of battle and abandons his men!
-{English_Enemy_King_Killed_1}The enemy king lies dead, slain by our gallant warriors! Attack while his men mourn their loss!
-{English_Enemy_King_Killed_2}The enemy king is slain! A worthy enemy but no less dead for that! We must press our advantage.
-{English_Enemy_King_Routing_1}Unbelievable! The craven enemy king flees from the battle. Such a coward does not deserve to live. 
-{English_Enemy_King_Routing_2}The enemy king flees! God has smiled upon us this very day. Press our advantage while his forces are in disarray.
-{English_Enemy_Ladders_Attacking_Walls_1}The enemy have ladders at the walls! Repel the attackers! Give them steel!
-{English_Enemy_Ladders_Attacking_Walls_2}Our enemy's ladders have reached our walls! It is time for butcher's work! 
-{English_Enemy_Ram_Attacking_Gate_1}Curses! The enemy are battering down our gates!
-{English_Enemy_Ram_Attacking_Gate_2}Milord! The enemy are battering down the gates!
-{English_Enemy_Ram_Breached_Gate_1}To arms Milord! The enemy's ram has breached the gates!
-{English_Enemy_Ram_Breached_Gate_2}Blast their eyes! The enemy's ram is through our gates!
-{English_Enemy_Reinforcements_Arrive_1}The enemy are bringing in reinforcements. 
-{English_Enemy_Reinforcements_Arrive_2}The enemy have brought up more men. They hope to make up in numbers what they lack in gallantry.
-{English_Enemy_Siege_Towers_Attacking_Walls_1}Our cunning foe has reached our walls with their siege tower! We must repel them!
-{English_Enemy_Siege_Towers_Attacking_Walls_2}The enemy siege tower has reached our walls! Let courage and skill at arms lead our way!
-{English_Enemy_Siege_Towers_Destroyed_1}The enemy's siege tower is naught but kindling now! Beware lest they try some other trick.
-{English_Enemy_Siege_Towers_Destroyed_2}By St. George! The enemy siege tower is utterly destroyed!
-{English_Enemy_Spy_Success_1}Deed most foul! Someone has opened our gates to the enemy! We must rally our men!
-{English_Enemy_Spy_Success_2}M'lord, some traitorous wretch has opened our gates to the enemy! We must defend gates!
-{English_Enemy_Stops_Winning_Plaza_Castle_1}By Heaven! Our foe has lost control of the castle.
-{English_Enemy_Stops_Winning_Plaza_Castle_2}Milord, the enemy is no longer in command of the castle!
-{English_Enemy_Stops_Winning_Plaza_City_1}By St. George! Our foe has lost control of the city.
-{English_Enemy_Stops_Winning_Plaza_City_2}Milord, the enemy is no longer in command of the city!
-{English_Enemy_Stops_Winning_Plaza_Fort_1}By Heaven! Our foe has lost control of the Fort.
-{English_Enemy_Stops_Winning_Plaza_Fort_2}Milord, the enemy is no longer in command of the Fort!
-{English_Enemy_Walls_Breached_By_Player_1}We are through the enemy's walls! Into the breach and onto victory! 
-{English_Enemy_Walls_Breached_By_Player_2}As in ancient Jericho, the walls fall before the righteous! Send our men through to slay our ungodly foe!
-{English_Enemy_Walls_Breached_By_Player_3}Milord, we have breached our enemies walls.
-{English_Enemy_Walls_Captured_By_Player_1}The Lord is with us today! We have captured the enemy's walls! 
-{English_Enemy_Walls_Captured_By_Player_2}Our soldiers have proved their worth today! The enemy's walls belong to us now! 
-{English_Enemy_Winning_Plaza_Castle_1}Heaven help us! Our foe has taken control of the castle.
-{English_Enemy_Winning_Plaza_Castle_2}Milord, Our enemy has command of the castle!
-{English_Enemy_Winning_Plaza_City_1}Heaven help us! Our foe has taken control of the city.
-{English_Enemy_Winning_Plaza_City_2}Milord, Our enemy has command of the city!
-{English_Enemy_Winning_Plaza_Fort_1}Heaven help us! Our foe has taken control of the Fort.
-{English_Enemy_Winning_Plaza_Fort_2}Milord, Our enemy has command of the Fort!
-{English_Hastings_1}The Huscarls on the enemy flanks are commanded by Harold's brothers. Killing them will disrupt our enemies' command structure. Launch an assault against them and cut them down!
-{English_Hastings_2}Attack the Huscarls on the Saxon flanks!
-{English_Hastings_3}Harold's brother Leofwine has been slain! Without him to control them, the troops on the Saxon right should be easier to lure from that accursed shield wall. Attack them then fake a retreat.
-{English_Hastings_4}Attack the Saxon right, then retreat to draw them out!
-{English_Hastings_5}Harold's brother Gyrth has been butchered, weakening discipline on the Saxon left. Attack the troops there then retreat to tempt the fools from their shield wall!
-{English_Hastings_6}Attack the enemy's left, then retreat to tempt them to give chase!
-{English_Hastings_7}Redden the earth with Saxon blood!
-{English_Hastings_8}No mercy! To kill or to die are our only choices!
-{English_Hastings_9}God be praised! The false king Harold has been cut down, and lies dead upon the field! Many of his men flee before us! The Huscarls though are honouring their oaths to their king and they fight on, even to the last. Give them the warrior's deaths they crave!
-{English_Muslim_Enemy_General_Killed_1}The enemy general lies dead! Good riddance to that Saracen desert dog! That will teach him to ride to war on a pony!
-{English_Muslim_Enemy_General_Killed_2}Our men have slain the Saracen general! Now we must send his men running back to the desert.
-{English_Pagan_Enemy_General_Killed_1}The Heathen general is slain! Let the crows have his miserable bones and let our swords have his men!
-{English_Pagan_Enemy_General_Killed_2}The enemy general has been slain by our men! Good riddance to that godless heathen! He won't be missed.
-{English_Player_Ammo_Depleted_1}We are out of ammunition!
-{English_Player_Ammo_Depleted_2}Our ammunition's run out!
-{English_Player_Ammo_Low_1}We are running out of ammunition!
-{English_Player_Ammo_Low_2}Our ammunition is getting low!
-{English_Player_Army_Half_Gone_1}Lord have mercy! We have lost half of our men!
-{English_Player_Army_Half_Gone_2}M'lord, only half our force remains!
-{English_Player_Army_Routing_1}O' shameful day! Our army is running from the field! We must rally our men before all is lost!
-{English_Player_Army_Routing_2}Our men are fleeing the battle! Rally them!
-{English_Player_Army_Tired_1}Our men have fought long and are becoming tired!
-{English_Player_Army_Tired_2}Our army is tiring!
-{English_Player_Breached_Gate_1}The gates are down! The gates are down!
-{English_Player_Breached_Gate_2}By St. George! We have breached the enemy's walls!
-{English_Player_Cannon_Exploding_1}Our cannon has exploded!
-{English_Player_Cannon_Exploding_2}Our cannon has blown up!
-{English_Player_Cavalry_Almost_Depleted_1}We have lost most of our cavalry!
-{English_Player_Cavalry_Almost_Depleted_2}We have little of our cavalry remaining!
-{English_Player_Defeat_Average_1}Our enemies may have won this battle, but they've not won this war!
-{English_Player_Defeat_Average_2}In God's name! We have been beaten by our foe! We can only vow to atone for this defeat.
-{English_Player_Defeat_Clear_1}Lord preserve us! We have been dealt a stinging defeat today. 
-{English_Player_Defeat_Clear_2}This defeat is a bitter drop to swallow, next time it will be our foe that sups from this most foul cup.
-{English_Player_Defeat_Close_1}Our enemies have snatched victory from us like thieves in the night. They will not be so lucky next time.
-{English_Player_Defeat_Close_2}Though defeat is ours on this day, we have nothing to be ashamed of. It was but a cruel twist of fate that snatched victory from our grasp.
-{English_Player_Defeat_Crushing_1}Oh Dark day! We have been crushed on the field of battle. We have reaped naught but food for the crows!
-{English_Player_Defeat_Crushing_2}May the Lord All Mighty have mercy on us! Our foes' victory could not be greater and our loss any more.
-{English_Player_Draw_1}This battle is ended. Yet there is no victor. Only the crows and worms may claim this day as theirs.
-{English_Player_Draw_2}There is no victory here today, but neither is there defeat. We must wait 'til the next battle to see who is the greater army.
-{English_Player_Engine_Unmanned_1}Milord, our siege machines stand idle. We must re-man them at once!
-{English_Player_Engine_Unmanned_2}Excuse me Milord, but that siege engine isn't going to man itself.
-{English_Player_General_Captured_1}Our brash general has been captured! Unless we defeat our foes quickly, his fate rests with the enemy!
-{English_Player_General_Captured_2}M'lord our general has been captured! We must secure his release by defeating our foe.
-{English_Player_General_Executed_1}Deed most foul! Our enemy has executed our general! To arms and avenge him!
-{English_Player_General_Executed_2}By all that's foul! The enemy have executed our general! He must be avenged!
-{English_Player_General_Killed_1}St. George protect us! Our general lies slain upon the battlefield!
-{English_Player_General_Killed_2}Our foolish general has thrown his life away, and perhaps our chances of victory with it.
-{English_Player_General_Routing_1}Our general shames us all! He flees battle while his soldiers still fight. May his infamy follow him.
-{English_Player_General_Routing_2}This is no way for a true son of God to behave! Our general runs before the enemy, leaving his troops behind!
-{English_Player_Infantry_Almost_Depleted_1}We have lost most of our infantry!
-{English_Player_Infantry_Almost_Depleted_2}We have little of our infantry remaining!
-{English_Player_Ladders_Attacking_Walls_1}Our men have reached the walls with their ladders! 
-{English_Player_Ladders_Attacking_Walls_2}The ladders are now in place! Walls are no match for the valour and force of our arms!
-{English_Player_Leader_Killed_1}O' Lord have mercy! Our Leader lies slain on the battlefield! 
-{English_Player_Leader_Killed_2}Oh All Mighty Lord! That this day should come to pass! Our King lies slain on the field.
-{English_Player_Leader_Routing_1}Our King runs from the field! May the Lord have mercy on his soul! I pray our victory does not run after him!
-{English_Player_Leader_Routing_2}No true King should disgrace himself in this fashion. He has shamed his realm before men, foes and God alike! 
-{English_Player_Losing_Combat_1}Only intervention by the Almighty, or a military genius can bring us victory from this.
-{English_Player_Losing_Combat_2}Pray something changes in the course of battle, for defeat seems almost certain!
-{English_Player_Missile_Units_Almost_Depleted_1}We have lost most of our missile forces!
-{English_Player_Missile_Units_Almost_Depleted_2}We have little of our missile forces remaining!
-{English_Player_Ram_Attacking_Gate_1}Our men have reached the gate with the battering ram!
-{English_Player_Ram_Attacking_Gate_2}The battering ram is in place! It will not be long before our enemy's defences fall!
-{English_Player_Ram_Breached_Gate_1}The battering ram has done its work! Now is the time for brave hearts and brave deeds!
-{English_Player_Ram_Breached_Gate_2}Our men have done well! The gates have fallen!
-{English_Player_Running_Out_Of_Time_1}M'lord we are have little time left to conclude this battle and reap a victory!
-{English_Player_Running_Out_Of_Time_2}Time is short, yet there is much to accomplish before we can claim victory.
-{English_Player_Siege_Ammunition_1}M'lord, We are running out of ammunition! It would be best if we concentrate on one target.
-{English_Player_Siege_Ammunition_2}Our ammunition has almost run out! May I suggest m'lord, we concentrate on the same target.
-{English_Player_Siege_Towers_Attacking_Walls_1}Our siege towers have reached the walls! Now the butcher's work begins!
-{English_Player_Siege_Towers_Attacking_Walls_2}Lord be praised! Our siege towers are at the walls! Our enemy have nowhere to hide now!
-{English_Player_Siege_Towers_Destroyed_1}Our siege towers have been destroyed! Now we must use other means to break our foe's defences.
-{English_Player_Siege_Towers_Destroyed_2}Dammnable luck! Our siege towers have been destroyed! We will only fight harder now to get to our foe!
-{English_Player_Spotted_1}M'Lord our men have been spotted!
-{English_Player_Spotted_2}M'Lord our men have been discovered!
-{English_Player_Stops_Winning_Plaza_Castle_1}Milord we have lost control of the castle!
-{English_Player_Stops_Winning_Plaza_Castle_2}Blast! Our men no longer command the castle.
-{English_Player_Stops_Winning_Plaza_City_1}Milord we have lost control of the city!
-{English_Player_Stops_Winning_Plaza_City_2}Blast! Our men no longer command the city.
-{English_Player_Stops_Winning_Plaza_Fort_1}Milord we have lost control of the Fort!
-{English_Player_Stops_Winning_Plaza_Fort_2}Blast! Our men no longer command the Fort.
-{English_Player_Tide_Of_Battle_Down_1}M'lord the tide of battle seems to have turned against us! We must act and halt this turn of events!
-{English_Player_Tide_Of_Battle_Down_2}Our foes appear to be gaining the upper hand in this battle! 
-{English_Player_Tide_Of_Battle_Up_1}For the moment the fortune of battle goes our way. Let's pray it remains as such!
-{English_Player_Tide_Of_Battle_Up_2}The battle seems to be swinging in our favour! From such tidings does victory emerge!
-{English_Player_Time_Limit_Expired_Defeat_Average_1}The day is over and the battle is lost simply because time has worked against us!
-{English_Player_Time_Limit_Expired_Defeat_Average_2}Long shadows lie over the battlefield now. We have lost to time but not our foe.
-{English_Player_Time_Limit_Expired_Defeat_Clear_1}The day has ended and we have reaped only defeat thus far.
-{English_Player_Time_Limit_Expired_Defeat_Clear_2}Both the battle and the day are finished. We can only pray for the fallen and bitterly swallow this clear defeat.
-{English_Player_Time_Limit_Expired_Defeat_Close_1}The day is done, and our enemies have command of the field, but only just...
-{English_Player_Time_Limit_Expired_Defeat_Close_2}Time makes a useful ally. Today it perched on the shoulder of our foe and together they have come away victorious ... but only just.
-{English_Player_Time_Limit_Expired_Defeat_Crushing_1}The Lord shows mercy upon us and ends this both terrible day and our slaughter at the hands of our foe.
-{English_Player_Time_Limit_Expired_Defeat_Crushing_2}Thank God it comes to an end. We have been spared only by the end of the day. This will ever be a dark page in the history of our people!
-{English_Player_Time_Limit_Expired_Draw_1}The shadows grow long and we are neither the vanquisher nor the vanquished. Only death claims any victory on this field today.
-{English_Player_Time_Limit_Expired_Draw_2}The day comes to an end and our honour must settle for a draw. For there is nothing else we can do at this hour.
-{English_Player_Time_Limit_Expired_Victory_Average_1}The day is over and both sides have been tested, and we have won the day.
-{English_Player_Time_Limit_Expired_Victory_Average_2}The day is done! Our bravery and arms have claimed victory. Yet our enemy is not yet vanquished.
-{English_Player_Time_Limit_Expired_Victory_Clear_1}We are victorious! The day has ended and spared our enemy even greater a defeat! May there be many more such victories.
-{English_Player_Time_Limit_Expired_Victory_Clear_2}Thanks to the Almighty God, the day is at an end and victory is clearly ours!
-{English_Player_Time_Limit_Expired_Victory_Close_1}The day is done, and we must settle for a small victory.
-{English_Player_Time_Limit_Expired_Victory_Close_2}The time for battle is over! Our foe fought well, yet we prevailed and earned ourselves a small victory!
-{English_Player_Time_Limit_Expired_Victory_Crushing_1}The day has ended and with it all hopes for our enemy! We have vanquished our foe. This is a victory all Christendom will come to know! 
-{English_Player_Time_Limit_Expired_Victory_Crushing_2}The day is over and we are victorious! Kings and beggars will look upon this most glorious victory and claim us mighty warriors!
-{English_Player_Under_Attack_Idle_1}Our men are under attack! We must act now!
-{English_Player_Under_Attack_Idle_2}Our men are under attack! We need to act!
-{English_Player_Unit_Destroyed_1}Our unit has been destroyed!
-{English_Player_Unit_Destroyed_2}Alas! A unit has been lost!
-{English_Player_Victory_Average_1}We are victorious! Our soldiers have fought and died well today.
-{English_Player_Victory_Average_2}Victory is ours! Let it be a salve upon our wounds.
-{English_Player_Victory_Clear_1}All of Christendom will be awed by the victory we have won here today!
-{English_Player_Victory_Clear_2}This is a clear victory that goes to only men of great virtue and valour!
-{English_Player_Victory_Close_1}Victory is ours, but only by a sword's edge!
-{English_Player_Victory_Close_2}It could have been we that were slain and defeated on the field, but fate has been kind, and delivered us victory. 
-{English_Player_Victory_Crushing_1}The enemy are utterly vanquished! This is a great victory worthy of only the mightiest of Generals!
-{English_Player_Victory_Crushing_2}By the Grace of God! Our foe is utterly vanquished! Let all who remember this day, remember it as the day of our most glorious victory!
-{English_Player_Walls_Breached_By_Enemy_1}The enemy are through the walls! Fight on! They must get no further!
-{English_Player_Walls_Breached_By_Enemy_2}The walls have fallen! Steel and valiant hearts must be our walls now!
-{English_Player_Walls_Captured_By_Enemy_1}The walls are no longer ours! The enemy have taken them!
-{English_Player_Walls_Captured_By_Enemy_2}St. George save us! The enemy have the walls! Look to our defence or all will be lost!
-{English_Player_Walls_Undermined_By_Enemy_1}The walls are down! The enemy have dug beneath them!
-{English_Player_Walls_Undermined_By_Enemy_2}Our cunning foe have dug underneath our walls! They fight like moles instead of men!
-{English_Player_Winning_Combat_1}Our men are winning the battle! If we continue like this we will smash the enemy!
-{English_Player_Winning_Combat_2}The battle is very much in our favour. If we remain true and steadfast victory will be ours!
-{English_Player_Winning_Plaza_Castle_1}By St. George! Our men have taken control of the Castle.
-{English_Player_Winning_Plaza_Castle_2}Milord! Our men are in command of the Castle!
-{English_Player_Winning_Plaza_City_1}By St. George! Our men have taken control of the city.
-{English_Player_Winning_Plaza_City_2}Milord! Our men are in command of the city!
-{English_Player_Winning_Plaza_Fort_1} By St. George! Our men have taken control of the Fort.
-{English_Player_Winning_Plaza_Fort_2}Milord! Our men are in command of the Fort!
-{English_Spy_Success_1}By St. George our spy has done it! He has opened the gates!
-{English_Spy_Success_2}Excellent, our spy has opened the gates. Let's be done with this wretched siege!
+{imperial_Agincourt_1}Our men have slain one of their generals! 
+{imperial_Agincourt_2}King Henry is slain! All is lost!
+{imperial_Agincourt_3}Once more into the breach M'lord.
+{imperial_Agincourt_4}Here they come!
+{imperial_Agincourt_5}They're sending another wave of hapless fools at us! Hold the line!
+{imperial_Agincourt_6}For St. George!
+{imperial_Agincourt_7}Oh Good Lord! There's more of these French dogs on their way!
+{imperial_Agincourt_8}Quickly! Guard the King! He must not fall!
+{imperial_Agincourt_9}Those cowardly dogs are behind us!
+{imperial_Allied_Army_Leader_Killed_1}Our noble allies have lost their leader! Without their general they may lose heart and flee!
+{imperial_Allied_Army_Leader_Killed_2}Our ally lies dead, slain by the enemy! We must help his men avenge him!
+{imperial_Allied_Army_Routed_1}Our allies have fled the field like cowards! We must look to our own men now.
+{imperial_Allied_Army_Routed_2}Our cowardly allies have fled the field! They are craven and not fit to be called true men.
+{imperial_Allied_General_Captured_1}Our foolish allied general has allowed himself to be captured by the enemy! I pray our foe extends the codes of chivalry to him.
+{imperial_Allied_General_Captured_2}Our allied general has been captured by the enemy! We must win this battle or his fate will be in the hands of our dreaded foe!
+{imperial_Allied_General_Executed_1}Our foe is without honour! He has executed the general of our allies so that our men may fear him! 
+{imperial_Allied_General_Executed_2}The enemy have executed our allies' general! Such a deed is abhorrent to God and man, and must be answered most strongly.
+{imperial_Allied_General_Routed_1}Our allies' general is quitting the field! His fear has overcome his honour.
+{imperial_Allied_General_Routed_2}Our allies lose heart! Their general is craven and flees the field.
+{imperial_Arsuf_1}The enemy cavalry are trying to outflank from the beach. They must be pushed back!!
+{imperial_Arsuf_2}Saladin is retreating!! This day is ours!
+{imperial_Arsuf_3}If you move the army out of position now all the preparation will have been for nothing!!
+{imperial_Enemy_Army_Half_Gone_1}The enemy are badly bloodied! They have lost half their men!
+{imperial_Enemy_Army_Half_Gone_2}Only half the enemy force remains!
+{imperial_Enemy_Army_Routing_1}The enemy army flees the field! Pursue and run them down!!
+{imperial_Enemy_Army_Routing_2}Behold how our cowardly foe runs! It is time to press the attack!
+{imperial_Enemy_Breached_Gate_1}To arms Milord! The enemy are through the gate!
+{imperial_Enemy_Breached_Gate_2}Great God! Our enemy have broken through the gates!
+{imperial_Enemy_Dominating_Plaza_Castle_1}Beware! The chance for us to regain control of the castle is almost gone!
+{imperial_Enemy_Dominating_Plaza_Castle_2}Milord! If we do not regain command of the castle now we will lose it!
+{imperial_Enemy_Dominating_Plaza_City_1}Beware! The chance for us to regain control of the city is almost gone!
+{imperial_Enemy_Dominating_Plaza_City_2}Milord! We must regain command of the city lest we lose it!
+{imperial_Enemy_Dominating_Plaza_Fort_1}Beware! The chance for us to regain control of the Fort is almost gone!
+{imperial_Enemy_Dominating_Plaza_Fort_2}Milord! If we do not regain command of the Fort now we will lose it!
+{imperial_Enemy_General_Captured_1}Our men have captured the enemy general! Guard him well and make it so he can see us defeat the rest of his army.
+{imperial_Enemy_General_Captured_2}By St. George! We have captured the enemy's general! That will teach the cowardly dog to turn tail and run. Now he can rest ... at our leisure.
+{imperial_Enemy_General_Killed_1}Good tidings! The enemy general lies dead! We have sent the base cur to Hell. 
+{imperial_Enemy_General_Killed_2}By St. George! Our men have slain the enemy general! Without him his troops will lose their will to fight.
+{imperial_Enemy_General_Routing_1}The enemy general flees, like the coward he is. Press onward, and break the spirit of his army!
+{imperial_Enemy_General_Routing_2}The enemy general has no honour! He flees the field of battle and abandons his men!
+{imperial_Enemy_King_Killed_1}The enemy king lies dead, slain by our gallant warriors! Attack while his men mourn their loss!
+{imperial_Enemy_King_Killed_2}The enemy king is slain! A worthy enemy but no less dead for that! We must press our advantage.
+{imperial_Enemy_King_Routing_1}Unbelievable! The craven enemy king flees from the battle. Such a coward does not deserve to live. 
+{imperial_Enemy_King_Routing_2}The enemy king flees! God has smiled upon us this very day. Press our advantage while his forces are in disarray.
+{imperial_Enemy_Ladders_Attacking_Walls_1}The enemy have ladders at the walls! Repel the attackers! Give them steel!
+{imperial_Enemy_Ladders_Attacking_Walls_2}Our enemy's ladders have reached our walls! It is time for butcher's work! 
+{imperial_Enemy_Ram_Attacking_Gate_1}Curses! The enemy are battering down our gates!
+{imperial_Enemy_Ram_Attacking_Gate_2}Milord! The enemy are battering down the gates!
+{imperial_Enemy_Ram_Breached_Gate_1}To arms Milord! The enemy's ram has breached the gates!
+{imperial_Enemy_Ram_Breached_Gate_2}Blast their eyes! The enemy's ram is through our gates!
+{imperial_Enemy_Reinforcements_Arrive_1}The enemy are bringing in reinforcements. 
+{imperial_Enemy_Reinforcements_Arrive_2}The enemy have brought up more men. They hope to make up in numbers what they lack in gallantry.
+{imperial_Enemy_Siege_Towers_Attacking_Walls_1}Our cunning foe has reached our walls with their siege tower! We must repel them!
+{imperial_Enemy_Siege_Towers_Attacking_Walls_2}The enemy siege tower has reached our walls! Let courage and skill at arms lead our way!
+{imperial_Enemy_Siege_Towers_Destroyed_1}The enemy's siege tower is naught but kindling now! Beware lest they try some other trick.
+{imperial_Enemy_Siege_Towers_Destroyed_2}By St. George! The enemy siege tower is utterly destroyed!
+{imperial_Enemy_Spy_Success_1}Deed most foul! Someone has opened our gates to the enemy! We must rally our men!
+{imperial_Enemy_Spy_Success_2}M'lord, some traitorous wretch has opened our gates to the enemy! We must defend gates!
+{imperial_Enemy_Stops_Winning_Plaza_Castle_1}By Heaven! Our foe has lost control of the castle.
+{imperial_Enemy_Stops_Winning_Plaza_Castle_2}Milord, the enemy is no longer in command of the castle!
+{imperial_Enemy_Stops_Winning_Plaza_City_1}By St. George! Our foe has lost control of the city.
+{imperial_Enemy_Stops_Winning_Plaza_City_2}Milord, the enemy is no longer in command of the city!
+{imperial_Enemy_Stops_Winning_Plaza_Fort_1}By Heaven! Our foe has lost control of the Fort.
+{imperial_Enemy_Stops_Winning_Plaza_Fort_2}Milord, the enemy is no longer in command of the Fort!
+{imperial_Enemy_Walls_Breached_By_Player_1}We are through the enemy's walls! Into the breach and onto victory! 
+{imperial_Enemy_Walls_Breached_By_Player_2}As in ancient Jericho, the walls fall before the righteous! Send our men through to slay our ungodly foe!
+{imperial_Enemy_Walls_Breached_By_Player_3}Milord, we have breached our enemies walls.
+{imperial_Enemy_Walls_Captured_By_Player_1}The Lord is with us today! We have captured the enemy's walls! 
+{imperial_Enemy_Walls_Captured_By_Player_2}Our soldiers have proved their worth today! The enemy's walls belong to us now! 
+{imperial_Enemy_Winning_Plaza_Castle_1}Heaven help us! Our foe has taken control of the castle.
+{imperial_Enemy_Winning_Plaza_Castle_2}Milord, Our enemy has command of the castle!
+{imperial_Enemy_Winning_Plaza_City_1}Heaven help us! Our foe has taken control of the city.
+{imperial_Enemy_Winning_Plaza_City_2}Milord, Our enemy has command of the city!
+{imperial_Enemy_Winning_Plaza_Fort_1}Heaven help us! Our foe has taken control of the Fort.
+{imperial_Enemy_Winning_Plaza_Fort_2}Milord, Our enemy has command of the Fort!
+{imperial_Hastings_1}The Huscarls on the enemy flanks are commanded by Harold's brothers. Killing them will disrupt our enemies' command structure. Launch an assault against them and cut them down!
+{imperial_Hastings_2}Attack the Huscarls on the Saxon flanks!
+{imperial_Hastings_3}Harold's brother Leofwine has been slain! Without him to control them, the troops on the Saxon right should be easier to lure from that accursed shield wall. Attack them then fake a retreat.
+{imperial_Hastings_4}Attack the Saxon right, then retreat to draw them out!
+{imperial_Hastings_5}Harold's brother Gyrth has been butchered, weakening discipline on the Saxon left. Attack the troops there then retreat to tempt the fools from their shield wall!
+{imperial_Hastings_6}Attack the enemy's left, then retreat to tempt them to give chase!
+{imperial_Hastings_7}Redden the earth with Saxon blood!
+{imperial_Hastings_8}No mercy! To kill or to die are our only choices!
+{imperial_Hastings_9}God be praised! The false king Harold has been cut down, and lies dead upon the field! Many of his men flee before us! The Huscarls though are honouring their oaths to their king and they fight on, even to the last. Give them the warrior's deaths they crave!
+{imperial_Muslim_Enemy_General_Killed_1}The enemy general lies dead! Good riddance to that Saracen desert dog! That will teach him to ride to war on a pony!
+{imperial_Muslim_Enemy_General_Killed_2}Our men have slain the Saracen general! Now we must send his men running back to the desert.
+{imperial_Pagan_Enemy_General_Killed_1}The Heathen general is slain! Let the crows have his miserable bones and let our swords have his men!
+{imperial_Pagan_Enemy_General_Killed_2}The enemy general has been slain by our men! Good riddance to that godless heathen! He won't be missed.
+{imperial_Player_Ammo_Depleted_1}We are out of ammunition!
+{imperial_Player_Ammo_Depleted_2}Our ammunition's run out!
+{imperial_Player_Ammo_Low_1}We are running out of ammunition!
+{imperial_Player_Ammo_Low_2}Our ammunition is getting low!
+{imperial_Player_Army_Half_Gone_1}Lord have mercy! We have lost half of our men!
+{imperial_Player_Army_Half_Gone_2}M'lord, only half our force remains!
+{imperial_Player_Army_Routing_1}O' shameful day! Our army is running from the field! We must rally our men before all is lost!
+{imperial_Player_Army_Routing_2}Our men are fleeing the battle! Rally them!
+{imperial_Player_Army_Tired_1}Our men have fought long and are becoming tired!
+{imperial_Player_Army_Tired_2}Our army is tiring!
+{imperial_Player_Breached_Gate_1}The gates are down! The gates are down!
+{imperial_Player_Breached_Gate_2}By St. George! We have breached the enemy's walls!
+{imperial_Player_Cannon_Exploding_1}Our cannon has exploded!
+{imperial_Player_Cannon_Exploding_2}Our cannon has blown up!
+{imperial_Player_Cavalry_Almost_Depleted_1}We have lost most of our cavalry!
+{imperial_Player_Cavalry_Almost_Depleted_2}We have little of our cavalry remaining!
+{imperial_Player_Defeat_Average_1}Our enemies may have won this battle, but they've not won this war!
+{imperial_Player_Defeat_Average_2}In God's name! We have been beaten by our foe! We can only vow to atone for this defeat.
+{imperial_Player_Defeat_Clear_1}Lord preserve us! We have been dealt a stinging defeat today. 
+{imperial_Player_Defeat_Clear_2}This defeat is a bitter drop to swallow, next time it will be our foe that sups from this most foul cup.
+{imperial_Player_Defeat_Close_1}Our enemies have snatched victory from us like thieves in the night. They will not be so lucky next time.
+{imperial_Player_Defeat_Close_2}Though defeat is ours on this day, we have nothing to be ashamed of. It was but a cruel twist of fate that snatched victory from our grasp.
+{imperial_Player_Defeat_Crushing_1}Oh Dark day! We have been crushed on the field of battle. We have reaped naught but food for the crows!
+{imperial_Player_Defeat_Crushing_2}May the Lord All Mighty have mercy on us! Our foes' victory could not be greater and our loss any more.
+{imperial_Player_Draw_1}This battle is ended. Yet there is no victor. Only the crows and worms may claim this day as theirs.
+{imperial_Player_Draw_2}There is no victory here today, but neither is there defeat. We must wait 'til the next battle to see who is the greater army.
+{imperial_Player_Engine_Unmanned_1}Milord, our siege machines stand idle. We must re-man them at once!
+{imperial_Player_Engine_Unmanned_2}Excuse me Milord, but that siege engine isn't going to man itself.
+{imperial_Player_General_Captured_1}Our brash general has been captured! Unless we defeat our foes quickly, his fate rests with the enemy!
+{imperial_Player_General_Captured_2}M'lord our general has been captured! We must secure his release by defeating our foe.
+{imperial_Player_General_Executed_1}Deed most foul! Our enemy has executed our general! To arms and avenge him!
+{imperial_Player_General_Executed_2}By all that's foul! The enemy have executed our general! He must be avenged!
+{imperial_Player_General_Killed_1}St. George protect us! Our general lies slain upon the battlefield!
+{imperial_Player_General_Killed_2}Our foolish general has thrown his life away, and perhaps our chances of victory with it.
+{imperial_Player_General_Routing_1}Our general shames us all! He flees battle while his soldiers still fight. May his infamy follow him.
+{imperial_Player_General_Routing_2}This is no way for a true son of God to behave! Our general runs before the enemy, leaving his troops behind!
+{imperial_Player_Infantry_Almost_Depleted_1}We have lost most of our infantry!
+{imperial_Player_Infantry_Almost_Depleted_2}We have little of our infantry remaining!
+{imperial_Player_Ladders_Attacking_Walls_1}Our men have reached the walls with their ladders! 
+{imperial_Player_Ladders_Attacking_Walls_2}The ladders are now in place! Walls are no match for the valour and force of our arms!
+{imperial_Player_Leader_Killed_1}O' Lord have mercy! Our Leader lies slain on the battlefield! 
+{imperial_Player_Leader_Killed_2}Oh All Mighty Lord! That this day should come to pass! Our King lies slain on the field.
+{imperial_Player_Leader_Routing_1}Our King runs from the field! May the Lord have mercy on his soul! I pray our victory does not run after him!
+{imperial_Player_Leader_Routing_2}No true King should disgrace himself in this fashion. He has shamed his realm before men, foes and God alike! 
+{imperial_Player_Losing_Combat_1}Only intervention by the Almighty, or a military genius can bring us victory from this.
+{imperial_Player_Losing_Combat_2}Pray something changes in the course of battle, for defeat seems almost certain!
+{imperial_Player_Missile_Units_Almost_Depleted_1}We have lost most of our missile forces!
+{imperial_Player_Missile_Units_Almost_Depleted_2}We have little of our missile forces remaining!
+{imperial_Player_Ram_Attacking_Gate_1}Our men have reached the gate with the battering ram!
+{imperial_Player_Ram_Attacking_Gate_2}The battering ram is in place! It will not be long before our enemy's defences fall!
+{imperial_Player_Ram_Breached_Gate_1}The battering ram has done its work! Now is the time for brave hearts and brave deeds!
+{imperial_Player_Ram_Breached_Gate_2}Our men have done well! The gates have fallen!
+{imperial_Player_Running_Out_Of_Time_1}M'lord we are have little time left to conclude this battle and reap a victory!
+{imperial_Player_Running_Out_Of_Time_2}Time is short, yet there is much to accomplish before we can claim victory.
+{imperial_Player_Siege_Ammunition_1}M'lord, We are running out of ammunition! It would be best if we concentrate on one target.
+{imperial_Player_Siege_Ammunition_2}Our ammunition has almost run out! May I suggest m'lord, we concentrate on the same target.
+{imperial_Player_Siege_Towers_Attacking_Walls_1}Our siege towers have reached the walls! Now the butcher's work begins!
+{imperial_Player_Siege_Towers_Attacking_Walls_2}Lord be praised! Our siege towers are at the walls! Our enemy have nowhere to hide now!
+{imperial_Player_Siege_Towers_Destroyed_1}Our siege towers have been destroyed! Now we must use other means to break our foe's defences.
+{imperial_Player_Siege_Towers_Destroyed_2}Dammnable luck! Our siege towers have been destroyed! We will only fight harder now to get to our foe!
+{imperial_Player_Spotted_1}M'Lord our men have been spotted!
+{imperial_Player_Spotted_2}M'Lord our men have been discovered!
+{imperial_Player_Stops_Winning_Plaza_Castle_1}Milord we have lost control of the castle!
+{imperial_Player_Stops_Winning_Plaza_Castle_2}Blast! Our men no longer command the castle.
+{imperial_Player_Stops_Winning_Plaza_City_1}Milord we have lost control of the city!
+{imperial_Player_Stops_Winning_Plaza_City_2}Blast! Our men no longer command the city.
+{imperial_Player_Stops_Winning_Plaza_Fort_1}Milord we have lost control of the Fort!
+{imperial_Player_Stops_Winning_Plaza_Fort_2}Blast! Our men no longer command the Fort.
+{imperial_Player_Tide_Of_Battle_Down_1}M'lord the tide of battle seems to have turned against us! We must act and halt this turn of events!
+{imperial_Player_Tide_Of_Battle_Down_2}Our foes appear to be gaining the upper hand in this battle! 
+{imperial_Player_Tide_Of_Battle_Up_1}For the moment the fortune of battle goes our way. Let's pray it remains as such!
+{imperial_Player_Tide_Of_Battle_Up_2}The battle seems to be swinging in our favour! From such tidings does victory emerge!
+{imperial_Player_Time_Limit_Expired_Defeat_Average_1}The day is over and the battle is lost simply because time has worked against us!
+{imperial_Player_Time_Limit_Expired_Defeat_Average_2}Long shadows lie over the battlefield now. We have lost to time but not our foe.
+{imperial_Player_Time_Limit_Expired_Defeat_Clear_1}The day has ended and we have reaped only defeat thus far.
+{imperial_Player_Time_Limit_Expired_Defeat_Clear_2}Both the battle and the day are finished. We can only pray for the fallen and bitterly swallow this clear defeat.
+{imperial_Player_Time_Limit_Expired_Defeat_Close_1}The day is done, and our enemies have command of the field, but only just...
+{imperial_Player_Time_Limit_Expired_Defeat_Close_2}Time makes a useful ally. Today it perched on the shoulder of our foe and together they have come away victorious ... but only just.
+{imperial_Player_Time_Limit_Expired_Defeat_Crushing_1}The Lord shows mercy upon us and ends this both terrible day and our slaughter at the hands of our foe.
+{imperial_Player_Time_Limit_Expired_Defeat_Crushing_2}Thank God it comes to an end. We have been spared only by the end of the day. This will ever be a dark page in the history of our people!
+{imperial_Player_Time_Limit_Expired_Draw_1}The shadows grow long and we are neither the vanquisher nor the vanquished. Only death claims any victory on this field today.
+{imperial_Player_Time_Limit_Expired_Draw_2}The day comes to an end and our honour must settle for a draw. For there is nothing else we can do at this hour.
+{imperial_Player_Time_Limit_Expired_Victory_Average_1}The day is over and both sides have been tested, and we have won the day.
+{imperial_Player_Time_Limit_Expired_Victory_Average_2}The day is done! Our bravery and arms have claimed victory. Yet our enemy is not yet vanquished.
+{imperial_Player_Time_Limit_Expired_Victory_Clear_1}We are victorious! The day has ended and spared our enemy even greater a defeat! May there be many more such victories.
+{imperial_Player_Time_Limit_Expired_Victory_Clear_2}Thanks to the Almighty God, the day is at an end and victory is clearly ours!
+{imperial_Player_Time_Limit_Expired_Victory_Close_1}The day is done, and we must settle for a small victory.
+{imperial_Player_Time_Limit_Expired_Victory_Close_2}The time for battle is over! Our foe fought well, yet we prevailed and earned ourselves a small victory!
+{imperial_Player_Time_Limit_Expired_Victory_Crushing_1}The day has ended and with it all hopes for our enemy! We have vanquished our foe. This is a victory all Christendom will come to know! 
+{imperial_Player_Time_Limit_Expired_Victory_Crushing_2}The day is over and we are victorious! Kings and beggars will look upon this most glorious victory and claim us mighty warriors!
+{imperial_Player_Under_Attack_Idle_1}Our men are under attack! We must act now!
+{imperial_Player_Under_Attack_Idle_2}Our men are under attack! We need to act!
+{imperial_Player_Unit_Destroyed_1}Our unit has been destroyed!
+{imperial_Player_Unit_Destroyed_2}Alas! A unit has been lost!
+{imperial_Player_Victory_Average_1}We are victorious! Our soldiers have fought and died well today.
+{imperial_Player_Victory_Average_2}Victory is ours! Let it be a salve upon our wounds.
+{imperial_Player_Victory_Clear_1}All of Christendom will be awed by the victory we have won here today!
+{imperial_Player_Victory_Clear_2}This is a clear victory that goes to only men of great virtue and valour!
+{imperial_Player_Victory_Close_1}Victory is ours, but only by a sword's edge!
+{imperial_Player_Victory_Close_2}It could have been we that were slain and defeated on the field, but fate has been kind, and delivered us victory. 
+{imperial_Player_Victory_Crushing_1}The enemy are utterly vanquished! This is a great victory worthy of only the mightiest of Generals!
+{imperial_Player_Victory_Crushing_2}By the Grace of God! Our foe is utterly vanquished! Let all who remember this day, remember it as the day of our most glorious victory!
+{imperial_Player_Walls_Breached_By_Enemy_1}The enemy are through the walls! Fight on! They must get no further!
+{imperial_Player_Walls_Breached_By_Enemy_2}The walls have fallen! Steel and valiant hearts must be our walls now!
+{imperial_Player_Walls_Captured_By_Enemy_1}The walls are no longer ours! The enemy have taken them!
+{imperial_Player_Walls_Captured_By_Enemy_2}St. George save us! The enemy have the walls! Look to our defence or all will be lost!
+{imperial_Player_Walls_Undermined_By_Enemy_1}The walls are down! The enemy have dug beneath them!
+{imperial_Player_Walls_Undermined_By_Enemy_2}Our cunning foe have dug underneath our walls! They fight like moles instead of men!
+{imperial_Player_Winning_Combat_1}Our men are winning the battle! If we continue like this we will smash the enemy!
+{imperial_Player_Winning_Combat_2}The battle is very much in our favour. If we remain true and steadfast victory will be ours!
+{imperial_Player_Winning_Plaza_Castle_1}By St. George! Our men have taken control of the Castle.
+{imperial_Player_Winning_Plaza_Castle_2}Milord! Our men are in command of the Castle!
+{imperial_Player_Winning_Plaza_City_1}By St. George! Our men have taken control of the city.
+{imperial_Player_Winning_Plaza_City_2}Milord! Our men are in command of the city!
+{imperial_Player_Winning_Plaza_Fort_1} By St. George! Our men have taken control of the Fort.
+{imperial_Player_Winning_Plaza_Fort_2}Milord! Our men are in command of the Fort!
+{imperial_Spy_Success_1}By St. George our spy has done it! He has opened the gates!
+{imperial_Spy_Success_2}Excellent, our spy has opened the gates. Let's be done with this wretched siege!
 {French_Allied_Army_Leader_Killed_1}Our noble allies have lost their leader! With their chef de troupe gone they may lose heart and flee!
 {French_Allied_Army_Leader_Killed_2}Our ally has been slain! Now we will see if his men will hold in the face of this calamité!
 {French_Allied_Army_Routed_1}Our allies have fled the field like cowards! We must look to our own men now.
@@ -781,9 +781,9 @@
 {French_Player_Winning_Plaza_Fort_2}Seigneur! Our men are in command of the Fort!
 {French_Spy_Success_1}Montjoie St Denis! Our spy has opened the gates!
 {French_Spy_Success_2}Tres bien! Our spy has opened the gates. It is time to move in.
-{German_Allied_Army_Leader_Killed_1}A noble brother has died for his Empire!
+{German_Allied_Army_Leader_Killed_1}A noble brother has died for his Imperium!
 {German_Allied_Army_Leader_Killed_2}Gott im himmel! Our allied general has been slain! Avenge him!
-{German_Allied_Army_Routed_1}Our allies flee the field! This ist a grim day for the empire!
+{German_Allied_Army_Routed_1}Our allies flee the field! This ist a grim day for the imperium!
 {German_Allied_Army_Routed_2}Our allies hast fled! They will burn in hell for this shame!
 {German_Allied_General_Captured_1}Our allied general has allowed himself to be captured!
 {German_Allied_General_Captured_2}Ach Nein! Our allied general has been captured! We must win to get him back!
@@ -822,7 +822,7 @@
 {German_Enemy_Reinforcements_Arrive_1}The enemy bring reinforcements. 
 {German_Enemy_Reinforcements_Arrive_2}The enemy have brought up more men. Gut! It gives us more to kill!
 {German_Enemy_Siege_Towers_Attacking_Walls_1}Our verdammt foe has reached our walls with their siege tower! Repel the Schwein!
-{German_Enemy_Siege_Towers_Attacking_Walls_2}The enemy siege tower has reached our walls! Stand strong and defend the Empire
+{German_Enemy_Siege_Towers_Attacking_Walls_2}The enemy siege tower has reached our walls! Stand strong and defend the Imperium
 {German_Enemy_Siege_Towers_Destroyed_1}The enemy's siege tower is kindling now! 
 {German_Enemy_Siege_Towers_Destroyed_2}Gott be praised! the enemy siege tower ist completely Kaputt!
 {German_Enemy_Spy_Success_1}Ach nein! Some schwein has opened our gates to the enemy! We must rally our men!
@@ -836,7 +836,7 @@
 {German_Enemy_Walls_Breached_By_Player_1}We are through the enemy's walls! Into the breach and onto glory and triumph! 
 {German_Enemy_Walls_Breached_By_Player_2}We have smashed a hole in the enemy wall. Charge through the breach and crush our enemy.
 {German_Enemy_Walls_Breached_By_Player_3}Excellent! We have breached our enemy's walls.
-{German_Enemy_Walls_Captured_By_Player_1}These walls now belong to the Empire!
+{German_Enemy_Walls_Captured_By_Player_1}These walls now belong to the Imperium!
 {German_Enemy_Walls_Captured_By_Player_2}Our soldiers have captured the schweins walls!
 {German_Enemy_Winning_Plaza_Castle_1}Gott im Himmel! Our enemy has taken control of the castle!
 {German_Enemy_Winning_Plaza_Castle_2}Curses! Our enemy has command of the castle!
@@ -875,8 +875,8 @@
 {German_Player_Cavalry_Almost_Depleted_1}We have lost most of our cavalry!
 {German_Player_Cavalry_Almost_Depleted_2}We have little of our cavalry left!
 {German_Player_Defeat_Average_1}Our enemy may have won this battle, but they have not won this war!
-{German_Player_Defeat_Average_2}Ach! the battle ist lost and we have failed die Empire!
-{German_Player_Defeat_Clear_1}This defeat leaves a bitter taste in the mouths of all of the Empire's warriors!
+{German_Player_Defeat_Average_2}Ach! the battle ist lost and we have failed die Imperium!
+{German_Player_Defeat_Clear_1}This defeat leaves a bitter taste in the mouths of all of the Imperium's warriors!
 {German_Player_Defeat_Clear_2}This loss saddens the heart of all the folk who call the Reich Home.
 {German_Player_Defeat_Close_1}The enimies have snatched away victory today but the Reich will never be defeated!
 {German_Player_Defeat_Close_2}Today's defeat was close fought, there is little shame today.
@@ -899,7 +899,7 @@
 {German_Player_Ladders_Attacking_Walls_1}Our ladders are at the walls!
 {German_Player_Ladders_Attacking_Walls_2}The ladders are now in place! 
 {German_Player_Leader_Killed_1}Mein gott have mercy! Our Leader lies slain on the battlefield! 
-{German_Player_Leader_Killed_2}Our Kaiser lies dead on the field. Tonight our empire weeps.
+{German_Player_Leader_Killed_2}Our Kaiser lies dead on the field. Tonight our imperium weeps.
 {German_Player_Leader_Routing_1}Our Kaiser has chosen to flee from this fight! For shame!
 {German_Player_Leader_Routing_2}The Kaiser Runs from this battle. Pray our men do not run with him.
 {German_Player_Losing_Combat_1}This battle goes poorly for the Reich! We need to reverse our fortunes!
@@ -914,7 +914,7 @@
 {German_Player_Running_Out_Of_Time_2}The sands of time are nearly gone from this battlefield.
 {German_Player_Siege_Ammunition_1}We are running low on our siege ammunition. We need to concentrate on one point to brake through!
 {German_Player_Siege_Ammunition_2}Our siege ammunition ist nearly gone! I suggest we aim all our siege weapons at one point!
-{German_Player_Siege_Towers_Attacking_Walls_1}Our siege towers have reached the walls! For the Empire!
+{German_Player_Siege_Towers_Attacking_Walls_1}Our siege towers have reached the walls! For the Imperium!
 {German_Player_Siege_Towers_Attacking_Walls_2}Now our siege towers are at the wall! We shall conquer!
 {German_Player_Siege_Towers_Destroyed_1}Zum Teufel! Our siege towers are kindling!
 {German_Player_Siege_Towers_Destroyed_2}Verdammt! Our siege towers have been destroyed!
@@ -929,7 +929,7 @@
 {German_Player_Tide_Of_Battle_Down_1}This battle ist slipping away from us! Act now!
 {German_Player_Tide_Of_Battle_Down_2}The enemy ist gaining the upper hand!
 {German_Player_Tide_Of_Battle_Up_1}This battle seems to be creeping in our favour.
-{German_Player_Tide_Of_Battle_Up_2}The battle seems to be swinging towards the empire!
+{German_Player_Tide_Of_Battle_Up_2}The battle seems to be swinging towards the imperium!
 {German_Player_Time_Limit_Expired_Defeat_Average_1}The sands of time have trickled away and deprived us of victory.
 {German_Player_Time_Limit_Expired_Defeat_Average_2}This battle is lost! We have lost to time, not our foe!
 {German_Player_Time_Limit_Expired_Defeat_Clear_1}This battle is over! We fought with little urgency and gained only clear loss.
@@ -952,22 +952,22 @@
 {German_Player_Under_Attack_Idle_2}Our men are ander attack! We need to act!
 {German_Player_Unit_Destroyed_1}A unit has been destroyed!
 {German_Player_Unit_Destroyed_2}Ach! A unit has been lost!
-{German_Player_Victory_Average_1}Today we claim Victory for the Empire!
+{German_Player_Victory_Average_1}Today we claim Victory for the Imperium!
 {German_Player_Victory_Average_2}Victory ist ours! Let us Bury our dead and move on.
 {German_Player_Victory_Clear_1}The Reich shows its obvious superiority through victory.
 {German_Player_Victory_Clear_2}No one shall doubt that we are the victors on this day!
 {German_Player_Victory_Close_1}Zum Teufel! That was a closely won battle!
 {German_Player_Victory_Close_2}We nearly lost this battle but victory ist ours!
 {German_Player_Victory_Crushing_1}Only a true hero of the Reich could mastermind such a crushing victory!
-{German_Player_Victory_Crushing_2}This day will go down in the records of the empire as one of its most magnificent victories!
+{German_Player_Victory_Crushing_2}This day will go down in the records of the imperium as one of its most magnificent victories!
 {German_Player_Walls_Breached_By_Enemy_1}The enemy has breached our walls! Our Defence must be like iron!
-{German_Player_Walls_Breached_By_Enemy_2}The walls have fallen. Our men must think of the empire and be strong.
+{German_Player_Walls_Breached_By_Enemy_2}The walls have fallen. Our men must think of the imperium and be strong.
 {German_Player_Walls_Captured_By_Enemy_1}Our walls are captured by the enemy schwein!
 {German_Player_Walls_Captured_By_Enemy_2}Verdammt! Our walls are taken!
 {German_Player_Walls_Undermined_By_Enemy_1}Ach Gott Im Himmel! the walls have been undermined!
 {German_Player_Walls_Undermined_By_Enemy_2}The clever enemy has brought our walls down with miners!
 {German_Player_Winning_Combat_1}Our men are winning the battle! Continue like this and victory ist ours!
-{German_Player_Winning_Combat_2}This battle progresses well for the empire! Stay strong and the enemy will be defeated!
+{German_Player_Winning_Combat_2}This battle progresses well for the imperium! Stay strong and the enemy will be defeated!
 {German_Player_Winning_Plaza_Castle_1}Excellent! Our men have taken control of the castle.
 {German_Player_Winning_Plaza_Castle_2}Mein Lord! Our men are in command of the castle!
 {German_Player_Winning_Plaza_City_1}Praise Gott! Our men have taken control of the city.

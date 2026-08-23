@@ -24,7 +24,7 @@
 
 
     <movie name="faction/major_intro.bik">
-        <faction name="england">
+        <faction name="empire">
             <track>0</track>
             <timing>fmv_timings/english_intro_Subtitle_Timing.txt</timing>
             <text>FactionIntroSubTitles.txt</text>
@@ -131,10 +131,10 @@
         </faction>
     </movie>
 
-    <movie name="faction/england_win.bik">
-        <faction name="england">
+    <movie name="faction/empire_win.bik">
+        <faction name="empire">
             <track>0</track>
-            <timing>fmv_timings/england_outro_win_Subtitle_Timing.txt</timing>
+            <timing>fmv_timings/empire_outro_win_Subtitle_Timing.txt</timing>
             <text>FactionIntroSubTitles.txt</text>
             <lookup>FactionIntroSubTitles_lookup.txt</lookup>
         </faction>
@@ -263,10 +263,10 @@
         </faction>
     </movie>
 
-    <movie name="faction/england_lose.bik">
-        <faction name="england">
+    <movie name="faction/empire_lose.bik">
+        <faction name="empire">
             <track>0</track>
-            <timing>fmv_timings/england_outro_lose_subtitle_timing.txt</timing>
+            <timing>fmv_timings/empire_outro_lose_subtitle_timing.txt</timing>
             <text>FactionIntroSubTitles.txt</text>
             <lookup>FactionIntroSubTitles_lookup.txt</lookup>
         </faction>

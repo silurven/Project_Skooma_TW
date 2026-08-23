@@ -87,7 +87,7 @@
 {East_European_One_Liner_42}To arms! To arms! But remember, a prayer never goes amiss either! 
 {East_European_One_Liner_43}There's precious little glory in killing peasants like those! Still, let's to our work and look for glory elsewhere! 
 {East_European_One_Liner_44}Some of those bastards may be worth a ransom, but if I catch any man staying his hand there will be Hell to pay! Now, to arms! 
-{East_European_One_Liner_45}Anyone would think that our enemies are French - or perhaps English sheep! Still, a sound thrashing will improve them no end! 
+{East_European_One_Liner_45}Anyone would think that our enemies are French - or perhaps imperial sheep! Still, a sound thrashing will improve them no end! 
 {East_European_One_Liner_46}Let's see how our foes fight when they meet honest Sons of the Church! Forward, brave warriors!
 {East_European_One_Liner_47}When your enemy runs away, don't be too keen to follow closely! Remember, his guts are quite watery by then! 
 {East_European_One_Liner_48}Our foes are as mad as any Cossack! And as rabid as any wolf yet birthed! Care, men! Do not let them bite you! 
@@ -97,295 +97,295 @@
 {East_European_One_Liner_7}Any man who breaks the line will answer to me - or the whips of the enemy! I will probably be kinder! Now, await your orders! 
 {East_European_One_Liner_8}Only strong drink can possibly explain why those piss-stained peasants think they are an army! Well, stand to! 
 {East_European_One_Liner_9}I would see our foes humbled, on bended knee, begging for mercy from us! I would see this soon! To arms! 
-{English_Enemy_10_1}The Danes - our foes on this field - are a brutal people, and we can expect scant mercy from them. Therefore, let us offer none, and strike at them with all our might. 
-{English_Enemy_10_2}The scrofulous Danes are hardly fit foes for true soldiers, but do not let pity weaken your resolve. Cut them down when the time comes, and I will bless you for it. 
-{English_Enemy_11_1}Our foes today are dangerous and mad in equal measure. The hot sun bakes madness into many creatures - especially Egyptians. Watch them closely and beware their tricks. 
-{English_Enemy_12_1}Our foes today are masters of falsehood and trickery. These Egyptians doubtless have plans to win the day, but they are fools to believe that they can prevail against brave men. 
-{English_Enemy_12_2}Our Egyptian foes should pray to their God as shortly they will be judged before him. We will send them all to Heaven or Hell soon enough. 
-{English_Enemy_13_1}Mother of God be my witness: any living Scot offends my eyes. And so I want all our foes dead. Aye, maimed would be good, but dead would be better. 
-{English_Enemy_14_1}Scotsmen! That's what we fight today: Scotsmen. Well, even mangy curs need a good whipping from time to time. 
-{English_Enemy_14_2}Those Scots over there need to be killed. But we do them a kindness because that way they escape their shrieking, shrill and horrid wives - women better suited to gutting fish than pleasing men. 
-{English_Enemy_15_1}Those heathen Aztecs yonder are children. Aye, the children of the Devil himself, for none but Satan would have spawned such a brood of murderers and sinners. Kill them now, and save yourselves. 
-{English_Enemy_16_1}Those Aztecs are bred from the blood of Cain, and they delight in bloody perversity and sin. No man who kills an Aztec here does any wrong in the sight of God or any honest man. He does only good. 
-{English_Enemy_16_2}Today you will face cruel and pagan foes. Every one of these Aztecs that you cut down will cleanse a sin. Do not stay your hands. 
-{English_Enemy_17_1}Look, you great English warriors: there is the loathsome Turk! God will bless our bloody work today! At them, and victory awaits. 
-{English_Enemy_18_1}The Turks are cruel men, known throughout the world for their harsh ways, and much given to trimming men of their private parts. It is well that they meet justice from honest Englishmen. 
-{English_Enemy_18_2}Our foes today are masters of cruelty. These Turks doubtless have plans to torture and geld us all, but they are fools to believe that they can prevail against noble soldiers and Englishmen. 
-{English_Enemy_19_1}I do not like the look of these Poles. They have a poxed and lunatic air about them, so be careful that they do not bite you, lads! 
-{English_Enemy_1_1}The Venetians are the web-footed children of poisonous frogs and sea eels. We do not need to fear them! 
-{English_Enemy_20_1}These Poles are more than half wolf, methinks. And like wolves everywhere, they deserve to be hunted down and slain. Let's to the hunt, men! 
-{English_Enemy_20_2}Lads, these Poles lack all manners and gentility - so let us not treat them with any great respect. Let us kill them cleanly, and show them how English gentlemen make war. 
-{English_Enemy_21_1}God's teeth! Our French foes provoke me to such wrath that I would bite them if I did not have a sword to hand! 
-{English_Enemy_22_1}Our foes, the French, it is said, are better lovers than they are fighters. This is true, lads: ask any goat, pig, or other farmyard animal. 
-{English_Enemy_22_2}Our French foes hold us in scant regard, lads. This is a mistake they often make, being arrogant and wine-sodden in equal measure. 
-{English_Enemy_23_1}Our foes call themselves followers of all that is Holy, Roman and an Empire - lies that must offend God! They offend me greatly too. 
-{English_Enemy_24_1}They call themselves 'Holy', our foes. I've seen holier heretics and heathens! I've even seen fish with more grasp of religious truth. 
-{English_Enemy_24_2}Over there stands a miserable collection of sausage-eating, beer-swilling, Imperial pudding-heads. I think they will welcome death. 
-{English_Enemy_25_1}God's teeth! Our English foes rouse me to such anger that I would bite them like a mastiff! 
-{English_Enemy_26_1}Hell is the proper home of our English foes today. We shall shortly send them to their master, Satan, and we shall praise God as we strike them down. 
-{English_Enemy_26_2}It grieves me greatly to see so many Englishmen opposing us today. But they have made their choice, and must now face their doom. 
-{English_Enemy_27_1}God's blood! The smell of these Hungarians is enough to sour good English beer, and turn any honest man's stomach. Let us be done with them quickly. 
-{English_Enemy_28_1}These Hungarians make a brave show, but that is hardly enough when it comes to battle. We shall see, shortly, if they know how to die well. 
-{English_Enemy_28_2}Our Hungarian foes would do well to run back to the stables where they were birthed. We will shortly harness them, geld them and break them to our purpose. 
-{English_Enemy_29_1}Our Mongol foes are not men, only Satan's lapdogs. We should send these ugly and deformed imps back to Hell and their black-hearted master. 
-{English_Enemy_2_1}Those Venetians can count money faster than a Norwich fishwife. Let's see how fast they count their dead. 
-{English_Enemy_2_2}The Venetians are all bankers. They would not recognise a soldier if he bared his arse in the market square! 
-{English_Enemy_30_1}Our Mongol enemies today think themselves to be great warriors. And perhaps they are, according to their lights. Well, I say they have met their match in you noble and honest soldiers. 
-{English_Enemy_30_2}I do not think honest, English men-at-arms should feel anything other than pity when they see our Mongol foes - pity for the horses having to support such arses. 
-{English_Enemy_31_1}These Byzantines are hardly fit enemies for Englishmen. Our foes today are a bunch of merkin-sniffing knaves, plotting backstabbers and foppish courtiers. 
-{English_Enemy_32_1}These Byzantine fools are less than worthy foes - they should go back to their whoremongering and leave soldiering to men who know their business. 
-{English_Enemy_32_2}Our foes, the foul Byzantines, cannot be trusted by honest Englishmen. Keep your wits about you, men, and strike as soon as the opportunity presents. 
-{English_Enemy_33_1}Our foes today are Moors, which means that they are all heretics, heathens and godless loons. Killing them is a duty and a pleasure for honest sons of Albion. 
-{English_Enemy_34_1}By Saint George, those Moorish madmen over there have a peculiar reek. That's the stench of the heathen mixed with the smell of the camels that they love. I almost thought I faced Scotsmen, until I saw that none of them wore skirts. 
-{English_Enemy_34_2}If our Moorish foes had any sense they would flee back to the scorpions and snakes that fathered them. For shame, they would not face worthy Englishmen, let alone brave men-at-arms. 
-{English_Enemy_35_1}The Russian peasants we face today will rue the day they were born. Those that are not slain must be driven back to their uncouth motherland. Taking such tales of woe and blood that our English name will be used to frighten children for a hundred years. 
-{English_Enemy_36_1}Our Russian foes should never have left their hovels to fight against Englishmen. They will think kindly of their masters' whips by the time we are done with them - those that still have brains within their crowns. 
-{English_Enemy_36_2}Over there are the Russians. Their womenfolk are bearlike in manners and looks. This makes the men folk eager to die, so let us oblige them. But that is likely to be our only satisfaction in this struggle, I fear. 
-{English_Enemy_37_1}Here you face a Spanish army full of mewling, over-pious fools and milksops. They spend too long on their knees to be good fighters, and lack all the iron that makes good Englishmen. I hate them with a passion, and it will be my pleasure to lead you to victory! 
-{English_Enemy_38_1}God has created two sorts of men: Spaniards and those who kill Spaniards. God loves only the killers of Spaniards, so let us English serve God extremely well in the coming battle. 
-{English_Enemy_38_2}Your Spanish enemies are proud, perhaps too proud. In this place I mean to see them humbled and cut down to size. We'll see how these over-proud Iberians like the taste of English steel. 
-{English_Enemy_39_1}By Saint George! I mean to see these Portuguese vagabonds humbled, and their banners trampled beneath my feet. Their fish-faced ways offend me and I suspect offend their wives too. God's blood, would you want to sleep with something that miserable?
-{English_Enemy_3_1}God's wounds! I don't know who smells worse - our foppish Milanese enemies or their repulsive womenfolk. 
-{English_Enemy_40_1}Our dandified Portuguese enemies reek of fish guts and their own vomit - the one because that is their trade, the other because they lack all courage. I suspect their smell has been not improved by the knowledge that they face English men-at-arms. 
-{English_Enemy_40_2}Cheer, you lusty English dogs, cheer! These Portuguese are fishermen, not soldiers! Put fear in the hearts of the fish-reeking enemy - that way, they'll be less inclined to dispute our right to victory!
-{English_Enemy_41_1}Rebels are an offence in the sight of God. They turn upon their own kind and their own masters. They turn upon the natural order of the world, and they turn against God. They deserve nothing but death. 
-{English_Enemy_42_1}Our foes are rebels and traitors, and deserve nothing but the edge of a blade upon their stinking necks. And a sword is a merciful end to them, for they should face the gallows.
-{English_Enemy_42_2}These rebellious knaves and villains are not fit to breathe the same air as we honest Englishmen. They must all die before dawn comes again; this is a mercy, because they richly deserve the gallows for turning against their betters. 
-{English_Enemy_43_1}These children of Timur are foul beasts, fit only to live in wastelands and, perhaps, stables. On the other hand, why should we upset valuable horses by letting them into stables? We need only kill them to make God's world a better place. 
-{English_Enemy_44_1}Cheer your hearts out, and show these Timurid beasts what Englishmen sound like when their blood is hot! Soon, they will feel the righteous strength of English arms. 
-{English_Enemy_44_2}These horse-lovers are not fit enemies for you lads, but they are the best that I can do today. I'm sure you will do your best to kill them anyway, as stout-hearted English yeomen. 
-{English_Enemy_4_1}Today we face the Milanese - men better suited to a counting bench than a battlefield, I think. 
-{English_Enemy_4_2}Our Milanese foes are reputed to be good with figures and accounts. This will help them when they count their dead. 
-{English_Enemy_5_1}The only good Sicilian is a dead Sicilian! Let us improve many of them today by ending their lives. 
-{English_Enemy_6_1}Those Sicilians are both treacherous and cruel - but they have no true mettle. This will be the work of minutes, I'm sure. 
-{English_Enemy_6_2}Those Sicilians are the servants of Satan. Well, Old Nick must be scraping the barrel to use them. 
-{English_Enemy_7_1}God's blood! Our foes are naught but lying priests, Papal toadies and cardinals' warming pans. 
-{English_Enemy_8_1}The Pope has sent his soldiers against us. Let us hope they have confessed their sins and emptied their bladders. 
-{English_Enemy_8_2}These Papal servants make a brave show, but that is not enough against the likes of us. False prayers will not turn aside our swords. 
-{English_Enemy_9_1}Our enemies today are Danes. By Christ and his Apostles, we should remember the wrongs they did to England in centuries past and strike them down. Let "Vengeance!" be our watchword and our battle-cry. 
-{English_Extros_10_1}And so we must drink - sorry, shed - a little blood now. Our foes are waiting. But when we have done that, I have a very nice tun of finest claret that needs our attention...
-{English_Extros_10_2}And now at them, lads! I want the pink elephants and green pixies to lead the attack. HAVE YOU MET MY WIFE? Bloody ugly woman. Probably fighting with that lot over there. And we're buggered if she's on their side! LOOK, DO YOU WANT A FIGHT? 
-{English_Extros_10_3}And so I say this to the enemy general: ARE YOU LOOKING AT MY BIRD? ARE YOU? EH? COME HERE AND SAY THAT, YOU NANCY! AAARGHHHH! 
-{English_Extros_11_1}And think on this: I am a well-read man. I have wrangled obscure points of law, conjugated verbs, ciphered, accounted, studied and yet I can still swing a sword and cleave a head or two! To battle!
-{English_Extros_11_2}And finally - as a man of wit and learning - I tell you that a book can be of much use before battle, particularly if your bowels are loosened. I do not recommend Tacitus though: the pages of his works are not soft on the nether regions! Let's away!
-{English_Extros_12_1}And after all that - just go and kill those arse-nibbling, merkin-grabbing, loon-faced, idiot nun-fondlers, will you? 
-{English_Extros_12_2}And now - just go and kill those moonfaced, winkle-sucking, goat-gobbling, codpiece thieves! Do it for me, do it for a laugh, do it for your poxed mum, do it for your fellow arse-pirating English bum-jaws, but damn well DO IT!
-{English_Extros_13_1}And when all is done, save at least a dozen of the tastiest tarts you find among the enemy baggage for me! I would be first to sample - and most fulsomely too - the juicy and lubricious dumplings of victory! 
-{English_Extros_13_2}And if you should happen to come across a particularly lovely young lady in need of my protection - well, scrub her clean and send her to my tent! Battle gives me two things: a powerful thirst ... and the horn. Let's to this lark, then, lads! 
-{English_Extros_14_1}And so we go to battle! We band of brothers will not fail - no, not even if some of us die here! We go on to victory, and when we have won that victory, we will celebrate! 
-{English_Extros_14_2}And so to battle. For my part I will not die in the company of anyone other than a good Englishman. And I would not die other than with friends and comrades in arms - but this talk of death is premature! Let us say, rather, that I would not have victory with anyone other than comrades in arms - you men! You Englishmen! 
-{English_Extros_15_1}And at the last I say this: unkind souls have called me mad, but I say there will be moonbeam coronets and horseshoe pie for all when we are victorious. Now, who is with me? 
-{English_Extros_15_2}And just to reassure you all - I have the oath of my good friend, the Raven King, that he'll be asking his flocks not to dine on our entrails if we fall in this fight. That's a great comfort, isn't it?
-{English_Extros_15_3}And remember, the Moonpeople lack interest in this fight. Thus we are spared their fearsome gaze, a mercy indeed as I have lost my lovely hat! It would have shielded me from their terrible eyes, but I now need it not! I am much relieved! 
-{English_Extros_16_1}I have fought long and hard in the service of Our Lord. My sins have long since been washed away in battle fighting His enemies and those of Mother Church. This battle will wash away your sins too, if you fight with courage and with the Lord's name on your lips! 
-{English_Extros_16_2}You know me. I have slain many heretics, pagans, heathens and malefactors for our Mother Church. I stand with you now as a man of war, your general, who would lead you to another victory in God's name. So let us go forth and conquer! 
-{English_Extros_16_3}And finally, I tell you that I have fought many battles. I face this one with the knowledge that I have followed the Cross and done God's work. Because I have done that, He will not allow me to face defeat! Victory is ours - for it is the gift of our Lord! 
-{English_Extros_1_1}And at the last, I have no more words, save that I want them all dead, dead, DEAD! Dead as a Scot's soul! 
-{English_Extros_1_2}And so to it! God save me from mewling days of peace! I want nothing more than to be at those bastards! GAHHHAHAR!
-{English_Extros_20_1}Now kneel, bow your heads to your Saviour and look only to God to grant us victory. Only with his aid can England surely triumph!
-{English_Extros_20_2}And now I trust my life - and victory - to the judgement of the Almighty, for I know our cause to be true and just. So pray, you miserable English buggers, and make sure God knows you think the same.
-{English_Extros_20_3}And now any man here who is not praying for our victory had better make his peace with God, for he'll find none with me or in England later. Now I place my fate in the hands of the Lord. Bring me my broadsword and let me kiss the Cross lest I die. To battle!
-{English_Extros_21_1}And now all is said! Let's to it pell-mell - and send our enemies to fry in Hell! 
-{English_Extros_22_1}And so let's be at it. I would dine soon, and a battle gives me a goodly appetite! I trust you will all dine with me! 
-{English_Extros_23_1}Now follow the banners and march away - to glory, you English, and a victorious day! 
-{English_Extros_24_1}And now, say your last prayers. Put your trust in your fellows - and in good steel too - then let us march to whatever God wills. 
-{English_Extros_25_1}And so make your peace with God and any rivals in our ranks, and set your heart on what is to come. Go with God, men! Raise our banners! 
-{English_Extros_2_1}And now we go to meet the foe! I will have no more mutterings about my worth as a commander! I will have you know that I am a fine commander, and you will now prove this! And then there will be victory! 
-{English_Extros_2_2}And so the enemy! By Saint George - and it seems unfair to call on him for this - I'll have no cunning plan ruined by poor execution of your part! This time when an order comes, obey it, or I'll know why! Fight like Englishmen and all will be well! 
-{English_Extros_2_3}And finally, I will have no more muttering about my fitness to lead. Learn your places, you English dogs, and victory will be ours. Doubt your masters, and the whip will be your sole reward! Now give the bastards yonder a cheer! 
-{English_Extros_3_1}And so we begin. I pray you listen to my orders this time, strike your targets quickly, and do what's needful! All clear? Good! Let's to it! 
-{English_Extros_3_2}And this time, lads, try to listen to the orders. I don't just shout this stuff out because I like the sound of my own voice. There is a point to all the shouting - and a battle to be won! 
-{English_Extros_4_1}And think of this: I would be first at the enemy. Aye, the first and the chief slayer of those craven whoreson bastards. I would kill them all, if I could. Now, to arms. DEATH TAKE THEM ALL! 
-{English_Extros_4_2}And no man will do much wrong today if he imitates me. I would have the enemy dead, aye, slain beneath my blade and lying gutted at my feet! I would have them ALL GUTTED! 
-{English_Extros_5_1}And finally I say this: I would see them all hanging from the gibbet - aye, and their carcasses dripping blood - before the sun next sets. If not, others will suffer the same fate. I'll have my share of blood! 
-{English_Extros_5_2}And remember - stay out of my way when the fighting starts. I will see blood this day - blood aplenty! I care not who bleeds ... so BEWARE, MY ENEMY - I AM COMING! 
-{English_Extros_6_1}And so to battle. Oh dear. This isn't going to be very pleasant is it? Still, could be worse. At least the weather's not too bad, for the time of year. No. But hasn't the food been shocking - and the portions so small - all except the peas. They were very green. Very green. Yes. I do hope you tried them and gave peas a chance. 
-{English_Extros_7_1}And so we come to it! Stiffen your backs, for there's nothing so becoming a man in battle as a noble air and a good carriage. Look to your front and do not worry - the fighting will be over before you know it! 
-{English_Extros_7_2}And remember - my enemies know that I am a brave man by repute, and I do not willingly keep company with poltroons. You are all picked, brave men here - and the enemy know this! Your bravery already un-mans them. Let's do the rest and finish them! 
-{English_Extros_7_3}And at the last, take heart - if you die, you die in the company of honest Englishmen. There is no better place to end your days. But knowing this, you can put aside thoughts of death. That way, even as your heart quails, you will seem brave, and your bravery will inspire your fellows. After all - this works for me! 
-{English_Extros_8_1}And so march away, soldiers! March away! I will await your victory from here, for my meagre contribution to the hurly-burly will be slight. I do more service to our English cause by keeping all our army within my eye from this vantage point! Off with you now!
-{English_Extros_8_2}Armoured with prudence and fortified by caution we now approach the time of battle! Our foes are gathered, our strength is mustered, and all is ready. Good. Now to our duties - you to the lines, and I to a commanding view of proceedings. Forward, all! 
-{English_Extros_8_3}Let any man who doubts my courage see me after this fight is done! Command of men is an art best practiced from a distance, as any of the Roman texts would tell you! Let the mutterers who doubt me be the first at the enemy, and then let them repair to me to make mock. So at them, lads, at them! 
-{English_Extros_9_1}And remember - I will have discipline in all things, according to the laws and usages of war. We will shame our opponents with our bearing! They will run from us because they fear our very approach! Now cheer, you English, cheer! 
-{English_Extros_9_2}And at the last, there are those who say I am a hard task master. I am proud to admit that there are few harder! If I lash you with my tongue, it saves you from the whips of foreigners. That way, more of you will come safe home! Now fight, you English sots - fight! 
-{English_Intro_10_1}Hurrah and huzzah! This is a glorious moment of history, my loyal lads, my comrades-in-arms - nay, my brothers! We stand ready to grasp the nettle of battle and from it pluck the rose of victory! This will be a moment of a notable triumph and I thank you in advance. 
-{English_Intro_11_1}I think you all know my quality, men! I would not lead you onto the field of battle without good cause. We are not here to dance a gavotte or pavane - we are here for the grim business of killing. I promise that I will make sure it is our foes who do any dying that is needed. All I ask of you is that you fight - like men possessed if needed. 
-{English_Intro_11_2}The time for battle has come, but it is not my way to send men into needless peril or throw lives away! Be assured I will not ask any more of you than I would ask of myself. I ask only that you fight with honour and do not turn your back to the foe! Together, then, we will have victory, for such is to my taste, and my custom in battle! 
-{English_Intro_11_3}I've heard men speak well of me because I do not throw lives away needlessly, and I gain victory for those who follow me. I will not use false modesty and deny these things. Indeed, I say proudly that they are true! I will give you victory - if you have the guts to fight like devils when I ask it! 
-{English_Intro_12_1}I see our foes have drawn themselves up into neat ranks. That's very nice of them, because it makes identifying the bodies so much easier! So lads, we're here to kill as many of them as necessary. And if we kill a few more - well, I won't be too bothered. Try not to get killed yourselves, though, and when this is all over we'll drink to our continued good health! 
-{English_Intro_13_1}Men, I am in two minds whether or not to take the fight to the enemy. There are arguments in favour of waiting here for them to come to us. Equally, there are arguments for advancing with a loud 'hurrah'. In either case, I know you will fight rather well! Or at least not badly. 
-{English_Intro_14_1}This moment, my English friends, is one worth living to the full! We stand on the field of battle, and place our fates in the hands of God. I have no doubt that He will reward virtue with victory when I see so many honest, manly faces in our company. 
-{English_Intro_15_1}And so it begins! Now we take up the sword and the axe, the bow and the spear. Now we buckle on our armour, and look to God for guidance. We do all these things knowing that danger is at hand - but I do them gladly because I am in the company of hearty, English fellows with the hearts of lions! 
-{English_Intro_16_1}Before the battle I call upon you all to pray for intercession of Saint Michael, Saint George, Saint Barbara, Saint Dunstan, Saint Maurice and - just to be on the safe side - Saint Jude and Saint Drausinus! Further, if any of you have a black cat to hand, slay it so that the foul beast cannot bring us bad luck! I would have no bad luck in this battle! 
-{English_Intro_17_1}There's nothing that offends my sight more than those sway-backed, leprous, pox-riddled children of she-wolves over there! I cannot begin to recount how my stomach burns with anger at them. 
-{English_Intro_1_1}There are some knaves and scoundrels who doubt my ability to command men in battle. The sword's edge is my argument - I would waste no breath on them. We shall prove them wrong shortly, as we crush our enemies. 
-{English_Intro_1_2}Doubt has been expressed about my abilities as a general! I laugh when I hear such remarks, for it shows that the speaker is a zany, a jester - a fool! Why, he might almost be a Frenchman! I have a mind to win a great victory and that will not come about if doubting fellows are allowed to spread malicious falsehoods. So we'll hear no more such talk! 
-{English_Intro_1_3}I have heard mutterings from lesser men that I do not have the ability to lead a gaggle of geese, let alone an army. I smile when I hear such foolishness - and more, I sharpen my sword as a further argument in my favour! However, on this field, at the head of this army, my run of bad luck ends! It ends here as we march to victory! 
-{English_Intro_20_1}Cry unto the heavens, soldiers! Let God and Saint George hear your righteous voices! Beg for the strength to master this enemy, for we have righteousness in our English cause. And when you have done that, take up your swords, and be armoured in faith! 
-{English_Intro_20_2}The love of God is a thousand times stronger than any mortal armour! His wrath against our foes is a thousand times better than a thousand arrows. Our faith gives us his aid, and more - it will give us victory! Now, cry "Saint George" and look for that victory. 
-{English_Intro_20_3}Our foes are ungodly beasts, and so we are but the swords in the hands of the hosts of Heaven! We do God's glorious work and if we fall, we do so in His cause! If we triumph, we do so because He has willed an English victory! Now, bow your heads, then let's to the appointed task! 
-{English_Intro_21_1}So we come to this: a battle! A battle, good Englishmen, is your chance to better yourselves, to gain glory and position. There are risks but it is my part to lead you so that such risks are small. This I promise - and more! If we all fight, then all will be ours! Loot, women, drink, honour, glory - not a bad list, all told! 
-{English_Intro_22_1}Through God's grace and the intercession of Saint George we have been brought to this place, brought here to fight for His glory and in His name. Our enemies must quail before our righteous might! We would do well to pray because the shedding of blood is an offence, but it is one that we willingly do - for by it, we establish God's peace! 
-{English_Intro_23_1}Well slap my thighs and call me for dinner! I see a foe worth the killing, and lads beside me who are up to the mark. I can also feel an inspiring speech coming on! So listen to me:
-{English_Intro_24_1}I have brought you here to fight! I can promise you nothing, save a hard struggle! Would you have me tell you anything else? But if I say we can win, then we can win. We shall be victorious, if all do their part! And all will do that! 
-{English_Intro_2_1}We have come here to fight! But we will only have victory if orders are obeyed - aye, to the letter! There will be discipline and order in the ranks, I tell you - and if there is not, my horsewhip will be used with a liberal hand! 
-{English_Intro_3_1}I carry many great wounds, all honourably earned in battle. Aye, and all earned in honourable service, like a true Englishman! Perhaps today I will gain another scar if that is God's will. I am certain, however, that I will strive to gain another victory! 
-{English_Intro_4_1}Well, yes, then. It's time to fight, methinks, and I suppose we must do our best and all that kind of thing. And let's try to do it with some style. Yes. Style. That's the word. And be brave, because I'm in command and you're good Englishmen. That was the other thing. Yes.
-{English_Intro_5_1}I am known for my bravery, even though I say it as one who comes from a nation of brave men. Thus I have every confidence that we will shortly crush our enemies. 
-{English_Intro_5_2}In war there's nothing so becomes a man as bravery before your enemies. A man can be afraid and still be brave - and any man who faces battle without concern is a moonstruck fool. To be brave is to go forward anyway, no matter how a-feared. That is why I go forward, in the company of so many other brave men. 
-{English_Intro_6_1}Now men, to arms, to arms. The enemy are in the field and all is nearly ready. I shall remain here to make sure that we have a secure line of retreat - not that such a thing will be needed, oh no. Still, you need to know that I'm right behind you as we start this fight. 
-{English_Intro_6_2}Fie upon any who think me a coward! I am so confident of victory that I shall let you handle these foes yourselves! What higher compliment can I pay you? After the battle, I shall think of suitable rewards, I'm sure. 
-{English_Intro_7_1}And so we come to battle! Order and discipline are the keys to the gates of victory. Without obedience we are nothing, a rabble like our foes! And I will not have that! But I will have the skin of any man who disobeys orders! 
-{English_Intro_8_1}It offends my eye that I should be forced to gaze upon such an unwashed and ignorant bunch of scrofulous, poxed knaves and villains. Men, I give you your enemies for the coming battle! I have rarely seen such a collection of worms and beetles beyond the walls of a dusty scriptorium! Let's be at it, then, in case their stupidity should prove infectious! 
-{English_Intro_9_1}Well. Here's a thing. I look at our foes and I see nothing but arseweasels - a bunch of piss-a-bed, cod-nibbling, rotund, hoof-merchants and sheepworrying gits. I've seen donkeys' arseholes with more guts than those tosspots. So, it's time to teach the buggers a lesson in fighting like men, not nancy winkle-pickers. Are you ready? 
-{English_One_Liner_1}Stap me if this will be a long battle. We face a rabble of whey-faced zanies.
-{English_One_Liner_10}And so to battle. Strike them all down, and God will forgive our sins.
-{English_One_Liner_11}Now cheer, you brave fighters, and sound the advance. To battle.
-{English_One_Liner_12}Zounds. Is that the best the enemy have? Let's be done with killing them.
-{English_One_Liner_13}The enemy are not going to be sensible and run away, so - let's kill them all.
-{English_One_Liner_14}What a bunch of mewling pukestains. It's a wonder our foes found the battlefield.
-{English_One_Liner_15}I've seen bowel movements with more skill in battle than those cowards. Kill them all.
-{English_One_Liner_16}My only worry, lads, is that they may run away before we get chance to send them to hell.
-{English_One_Liner_17}Stand firm. Kill your man when he comes at you. And put your faith in God.
-{English_One_Liner_18}A prayer's as good as a halberd on a day like this. To battle, lads.
-{English_One_Liner_19}Sound the trumpets. Beat the drums. Cheer your guts out. This is going to be a good battle.
-{English_One_Liner_2}Set your face against the enemy. Wherever courage is admired, our names will be remembered.
-{English_One_Liner_20}See the enemy? Soon many of them are going to be poisoning worms and carrion birds.
-{English_One_Liner_21}Pity the enemy wives and sweethearts, but don't let that stop you gutting their men folk.
-{English_One_Liner_22}It's time to fight, men. When you meet your enemy, remember that he smells because you scare him.
-{English_One_Liner_23}That smell is not a herd of pigs, but your enemies. Fear does terrible things to the bowels, lads. 
-{English_One_Liner_24}God is on our side. God hates our enemies. That's why they are all cross-eyed ... farts.
-{English_One_Liner_25}Forward lads. Let's be at them, before the dropsy carries them all off to Hell.
-{English_One_Liner_26}God save us from ever looking like the enemy. Have you ever seen such fops, milksops and moon-struck apes?
-{English_One_Liner_27}The enemy are mooncalves. Let us butcher and joint them, and then enjoy their womenfolk.
-{English_One_Liner_28}There stand the enemy. They are men feared only by sheep - and for all the wrong reasons.
-{English_One_Liner_29}The enemy are jawfallen swine, not men. Let us be at them, and then be at the wine jug.
-{English_One_Liner_3}The hour has come. Let us set about this butchery with a will.
-{English_One_Liner_30}Now lads, to arms. Just be careful not to let the yonder madmen bite you.
-{English_One_Liner_31}Take up your swords. This land needs watering with the blood of our foes.
-{English_One_Liner_32}Brave soldiers, it may be time to die, it is time to fight, but it is definitely time for victory!
-{English_One_Liner_33}Death has come, lads, but not for you. The enemy must feel His hand on their shoulders even now.
-{English_One_Liner_34}We did not come to this place looking for a hard fight. But by God, we'll give the enemy one.
-{English_One_Liner_35}God's wounds. Will no one show me an enemy worthy of my sword? Just kill them, lads.
-{English_One_Liner_36}This will be a grim day. The enemy face us, the finest soldiers in the world.
-{English_One_Liner_37}God's blood. My codpiece is getting tight as I think on the pretty spoils of victory. To arms.
-{English_One_Liner_38}God's teeth. A good fight always gives me the horn. Save a baggage girl for me! 
-{English_One_Liner_39}You see the enemy? We have put fear in their bellies, and their backsides already ache from it!
-{English_One_Liner_4}Lads, I have it on good authority that in the enemy camp there's fine wine. Let's go get it.
-{English_One_Liner_40}Is there a man among the enemy worthy of cleaning a privy, let alone carrying a sword? They deserve to die.
-{English_One_Liner_41}What a pack of mongrel curs. Not one of them is worthy of being called rabid - or a man. Finish them.
-{English_One_Liner_42}The enemy? The enemy?! I've seen offal with more about it than them. Kill them, and be quick about it.
-{English_One_Liner_43}Lads, killing old men and children is a dirty business, but if that's all the enemy send against us...
-{English_One_Liner_44}It sounds incredible, but some of the enemy may be worth a ransom. So let's kill when we must, but with an eye to profit.
-{English_One_Liner_45}May God pluck the eyes from my head if there's a bigger rabble of palsied, slack-jawed fools this side of Jerusalem.
-{English_One_Liner_46}Draw your swords. Harden your hearts, and this day's work will soon be done.
-{English_One_Liner_47}Stand to, men. Your very appearance will affright your foes and turn their bowels to water.
-{English_One_Liner_48}Look over there at the enemy. Satan's arse must be missing many pimples today.
-{English_One_Liner_49}Let's be about the killing, lads. There's knife-work to be done today.
-{English_One_Liner_5}Let your battle cry ring out clear and true: "For God, Saint George - and the money!" 
-{English_One_Liner_6}Soldiers. Stand to. Prepare to defend yourselves.
-{English_One_Liner_7}Before the dawn comes the enemy will be whimpering for mercy. I leave it to you to decide if they will receive any.
-{English_One_Liner_8}Soldiers, I say only this: fight with the courage our nation expects and all will be well. To victory.
-{English_One_Liner_9}Harden your hearts and remember your loved ones. Think of your rewards to come. Now, to battle.
-{English_Situation_10_1}Fully half our army is here, lads. You are a mighty force, made even mightier by the aid of Saint George. 
-{English_Situation_10_2}Beneath these proud English banners stand half of all our soldiers. We cannot lose, for that would be a sore blow to our cause. Instead, let us do great deeds and be worthy of honour. 
-{English_Situation_11_1}Today you are the largest English army in the wide world. I expect great things of you, that you will win great glory and make this a day long remembered. 
-{English_Situation_11_2}You men are three-quarters of all Englishmen under arms. This is a terrible thing for an enemy to face, and your deeds will further sear this day into the memories of our enemies. 
-{English_Situation_12_1}Those men are a quarter of our foe's total strength. Think on that, for when they are dead we will have torn the very arm from our enemy. 
-{English_Situation_12_2}With God's good graces, we shall strike down a quarter of our enemy's army today. "Courage" will be our watchword, "despair" theirs. 
-{English_Situation_13_1}Fully half the enemy's strength is ranged against us. But I am not downhearted. The loss of so many will bring the enemy to their knees and to their senses. 
-{English_Situation_13_2}This battle means a lot to our enemies - that is why half of all their men stand over there today. So, we shall make them rue the day they came to meet good Englishmen in combat. 
-{English_Situation_14_1}This battle is a vital one to our enemies. Fully three-quarters of their soldiers oppose us. They fear us that much. Well, today they will learn there is folly in numbers. 
-{English_Situation_14_2}Fully three in four of our foes stand before you, lads. Shall we show them how bravely Englishmen can fight, no matter what the enemy? 
-{English_Situation_15_1}Here is where we stand. Here is where we live or die as free Englishmen. Here is where we must turn the tide and triumph, or see our people crushed beneath a tyrant's heel. We must not fail. 
-{English_Situation_15_2}Today will be a judgement on us all. If some of us die it will count for nought, as long as England lives on. We cannot fail, for if we do then all is lost. And you, my fine soldiers, will never let that happen. 
-{English_Situation_16_1}This is the final dung-heap. Doubtless our foes will fight like cornered rats to keep their lives, but we must harden our hearts. Let your cry be 'no mercy' until they are utterly cast down. 
-{English_Situation_16_2}We have driven the enemy back to his last bolt-hole. Now is the time for the last great attack, lads. Now will your English courage be rewarded with final victory. 
-{English_Situation_17_1}We must not fail in this struggle, for if we do our allies will fail utterly. English honour will count for little if we let our friends be destroyed. 
-{English_Situation_17_2}Our ally's cause hangs by a thread, and it is within our power to save them. This day we must fight like lions - lions forged in the heat of battle. 
-{English_Situation_1_1}We stand today in defence of our lands - our homes for some - knowing that the enemy must not pass. This place is ours, and we will shed our blood to keep it so. 
-{English_Situation_1_2}Remember that we cannot let one of those bastards in. Not a one. Any foul attackers who enter must stay only to be meat for the carrion crows. 
-{English_Situation_2_1}We stand before this city because our foes should have no peace - or, for that matter, homes. Why should we give them any safety in this world, when they are so manifestly undeserving? And when the city is ours, it will be jewel in England's crown. 
-{English_Situation_2_2}We attack this city because we must, if our foe is to be broken. They must learn that the price of defiance is high - a home taken, loved ones lost. That this city would be a fine addition to English possessions is merely a further boon. 
-{English_Situation_3_1}These walls are stout enough, if our hearts be equally true. Let no man think of anything but defiance of the foe, for none shall enter and live while I draw breath. 
-{English_Situation_3_2}This fortress must be held against all the enemy's wiles and stratagems. We stand on these battlements and defy them all. 
-{English_Situation_4_1}This fortress must be taken, no matter what opposition our foes offer. Let no man think of anything except breaching the walls, and raising our English banners on its towers. 
-{English_Situation_4_2}We stand before mighty walls, but I am certain that we have the power to take them. Our foes would do well to throw open the gates and end this now - but of course, they won't. 
-{English_Situation_5_1}I will not speak much about our situation. It is simple. God's will and Saint George have brought us here, and the faithful have great hopes for us. With their prayers, we can finish this crusade. 
-{English_Situation_5_2}We have come a long way on crusade. Now we attack not for ourselves, but in God's name. We will triumph for that one reason: because we attack in His name. 
-{English_Situation_6_1}Here we must make a stand, and hold our foe on this field. We must make them rue the day that they invaded English lands. They must be broken utterly, lest they have the strength to attack your homes. 
-{English_Situation_6_2}This is where we make sure that our foes come no further, where we safeguard English homes, cities and families. We say to them: "this far, and no further." 
-{English_Situation_7_1}Now is our chance, brave soldiers! One swift battle, and the road to plunder is open. If we brush aside this army there are no other defenders to hinder our march on the city. 
-{English_Situation_7_2}The enemy must hold us here, or lose their lands. They will try their best, but lacking the guts of true warriors they will fail. 
-{English_Situation_8_1}This day will long be remembered, come what may. Men will say that here good Englishmen fought, that some died with courage - and they'll drink a toast in memory of what we do now. This is a day for true heroes. 
-{English_Situation_8_2}In years to come our bloody work will become the stuff of minstrels' tales. Any man who fights with me today need never have his courage or manhood doubted again. This is a day for heroes. 
-{English_Situation_9_1}You men represent fully one quarter of England's forces, and our people expect great things of you. I know you will not disappoint. 
-{English_Situation_9_2}We band of brothers are one-fourth of England's soldiers. And thus we carry a heavy duty to our people, our King and our God. 
-{English_Terrain_1_1}We stand today on high ground, a small advantage in battle, but it is not one I intend to throw away. 
-{English_Terrain_1_2}This ground suits my purpose. The enemy must climb to us, and tired men fight poorly. 
-{English_Terrain_2_1}The enemy stand on high ground - a small advantage, but one we shall overcome. 
-{English_Terrain_2_2}The foe has chosen his ground well, and we must fight uphill today. This is a challenge we will face. 
-{English_Terrain_5_1}Here among the trees we should wait - and then strike the enemy from cover. 
-{English_Terrain_5_2}With luck, the enemy will attack us here, where we have the cover of the trees. 
-{English_Terrain_6_1}Now, men, the enemy are cowering in the woods - and we must hunt them down like rabbits today. 
-{English_Terrain_6_2}Our enemies are wise enough to hide in the woods, but that will not save them from our swords. 
-{English_Troops_10_1}I have no intention of being nice to the enemy - we shall shoot them down in droves, if we can. 
-{English_Troops_10_3}I see little reason to needlessly risk English lives today. Let us rain death upon our foes and let them struggle to come to grips with us. 
-{English_Troops_11_1}Now, lads, this will need courage. We must advance into a hail of missiles and then kill them. 
-{English_Troops_11_2}I see the foe dare not fight us man to man, but must rely on a woman's stratagem of throwing things at us. 
-{English_Troops_12_1}Our horsemen may not be of the greatest use in this fight - but we will need someone to ride down our foes eventually. 
-{English_Troops_12_2}There will be hard fighting, lads, as our horsemen must wait until the breach has been taken. But what glory for those who make the attack. 
-{English_Troops_12_3}Our army faces a hard fight. Our horsemen must stand idly by while others breach the walls and gain great honour in so doing. 
-{English_Troops_13_1}Praise be to God. The Lord has clouded the thoughts of our enemies. They have brought too many horsemen to this battle. 
-{English_Troops_13_2}The enemy have brought many cavalrymen to this siege. Are they truly stupid, or is it some clever trick? It matters not. 
-{English_Troops_13_3}Praise God. The enemy are lead by idiots after all. To bring so many horsemen to a siege suggest a lack of wit - or a sense of cruel humour. 
-{English_Troops_14_1}I fear that we will feel the lack of gunpowder on our side today. Our foes have an ample supply of heavily armoured men. 
-{English_Troops_14_2}God's wounds! I see that our foes are amply supplied with heavily armoured troops. Would that we had some men who carry firelocks. We may feel their lack. 
-{English_Troops_15_1}Luck is with us! The enemy have heavily armoured soldiers, I see, but we have something to deal with them - guns! Gunpowder will blow them to Kingdom Come. 
-{English_Troops_15_2}The foes' heavily armoured soldiers look pretty, but they are big fat targets for our handgunners! This is good news indeed. 
-{English_Troops_16_1}God be praised! I see the enemy have no soldiers with firearms. Our heavily armoured troops should do them much harm as a consequence. 
-{English_Troops_16_2}Our heavy troops should see good service, for I see that the enemy have no troops with firelocks or the like. 
-{English_Troops_17_1}Our armoured troops will need careful use today if they are not to be mere targets for the enemy handgunners - but they should give a bloody account of themselves. 
-{English_Troops_17_2}I see they have handgunners - we must take care, lest we provide them too many easy targets. Our heavy armoured troops should prepare themselves for dealing with these brimstone-reeking fools. 
-{English_Troops_18_1}Our handgunners should do good work here today - the Satanic smell alone should affright the enemy! And see - our foes lack armoured troops to attack the gunners with any safety. 
-{English_Troops_18_2}Fortune favours the prepared even more than the brave! The foe lack heavily armoured soldiers, so our handgunners will do bloody work. 
-{English_Troops_19_1}Stap me! I see that the enemy have brought firearms with them. A pity, for we lack the armour to deal with such soldiers without an overly risky attack. 
-{English_Troops_19_2}The enemy have brought guns to this battle - guns, the weapons of cowards and women! But this may be tricky, for we have no heavily armoured troops to assault them directly. 
-{English_Troops_1_1}The enemy horsemen may be a problem as we have few spearmen. But courage will be our answer to their attacks. 
-{English_Troops_1_2}Our foes have the advantage in cavalry, and we lack spearmen. But if we fight with true English courage, their advantage will count for little. 
-{English_Troops_1_3}Our lack of spears must be made good by our courage and I see the enemy have many horsemen - all the better for them to escape, I'm sure. 
-{English_Troops_2_1}Do not fear their horsemen, for we are strongly provided with cavalry of our own. 
-{English_Troops_2_2}Our footsoldiers will play their part in this battle, but this is a fight for horsemen, methinks, as the enemy are well supplied with them.
-{English_Troops_2_3}Our horsemen are equally matched, I see, but hard fighting has never bothered honest soldiers. 
-{English_Troops_3_1}Now, spearmen, look to your front. Success hangs upon your courage in the face of our foes' many horsemen. 
-{English_Troops_3_2}Steady your nerves, lads, and stand fast. Our foes may have cavalry, but no horseman rides onto a spear point unless he is a madman. 
-{English_Troops_3_3}Thanks be to God - we are well provided with spears. Our foes' horsemen will do them little good. 
-{English_Troops_4_1}We have an opportunity here, brave lads. We can ride these fools down with impunity. 
-{English_Troops_4_2}Trust our foes to come ill-prepared. Well, we shall take advantage of their lack of spears, and use our horsemen to full advantage. 
-{English_Troops_4_3}I do not intend to fight on the enemy's terms. Our horsemen give us an advantage that I will use to full effect. 
-{English_Troops_5_1}They have spearmen aplenty, but cunning and speed will defeat them. Our cavalry will prevail. 
-{English_Troops_5_2}Stand fast, for any horsemen under my command who rides down this enemy is a fool. Their spears are worthy of respect. 
-{English_Troops_5_3}Caution must be one of our virtues today, lads. There are many spears in that army, and needless horse-killing on our part would be foolish indeed. 
-{English_Troops_6_1}I see that the enemy have brought elephants with them. This may be troublesome, but a steadfast heart is a good reply. 
-{English_Troops_6_2}I see our foes have elephants. They may have some profit from this, but shortly we will dine on elephant pies. 
-{English_Troops_6_3}Our foes doubtless think their elephants a great boon. We shall have to see about that, as I dislike having great beasts wander about my battlefields unchecked. 
-{English_Troops_7_1}I see our foes have brought guns to this battle. Cannons smell fouler than Satan's farts and they can kill just as surely. We must deal with those by and by. 
-{English_Troops_7_2}I see our enemy hope to blow us into the next world with their foul cannons. Let us hope that the barrels split and visit hell-fire upon them. 
-{English_Troops_7_3}The fire-and-brimstone smell from our enemies is not actually them, servants of Satan though they be. They have cannons among their armoury in the field. 
-{English_Troops_8_1}Our elephants are a boon today, for I see that the enemy may lack the wit and guts to deal with them properly. 
-{English_Troops_8_2}Praise God for our elephants. They are a useful tool in this fight, as the foe will find it hard to counter their strength. 
-{English_Troops_8_3}Our elephants are a useful addition to our ranks. The enemy will find it hard to counter them with the soldiers they have to hand. 
-{English_Troops_9_1}I'm sure our cannons will do bloody slaughter if the enemy are stupid enough to come within range. 
-{English_Troops_9_2}There's little so off-putting in battle as being fired at by a cannon. I intend our enemies should learn this the hard way. 
-{English_Troops_9_3}Our cannons could be a great help in the fighting, if only we can get over the smell - one that is worthy of Satan's privates. 
+{imperial_Enemy_10_1}The Danes - our foes on this field - are a brutal people, and we can expect scant mercy from them. Therefore, let us offer none, and strike at them with all our might. 
+{imperial_Enemy_10_2}The scrofulous Danes are hardly fit foes for true soldiers, but do not let pity weaken your resolve. Cut them down when the time comes, and I will bless you for it. 
+{imperial_Enemy_11_1}Our foes today are dangerous and mad in equal measure. The hot sun bakes madness into many creatures - especially Egyptians. Watch them closely and beware their tricks. 
+{imperial_Enemy_12_1}Our foes today are masters of falsehood and trickery. These Egyptians doubtless have plans to win the day, but they are fools to believe that they can prevail against brave men. 
+{imperial_Enemy_12_2}Our Egyptian foes should pray to their God as shortly they will be judged before him. We will send them all to Heaven or Hell soon enough. 
+{imperial_Enemy_13_1}Mother of God be my witness: any living Scot offends my eyes. And so I want all our foes dead. Aye, maimed would be good, but dead would be better. 
+{imperial_Enemy_14_1}Scotsmen! That's what we fight today: Scotsmen. Well, even mangy curs need a good whipping from time to time. 
+{imperial_Enemy_14_2}Those Scots over there need to be killed. But we do them a kindness because that way they escape their shrieking, shrill and horrid wives - women better suited to gutting fish than pleasing men. 
+{imperial_Enemy_15_1}Those heathen Aztecs yonder are children. Aye, the children of the Devil himself, for none but Satan would have spawned such a brood of murderers and sinners. Kill them now, and save yourselves. 
+{imperial_Enemy_16_1}Those Aztecs are bred from the blood of Cain, and they delight in bloody perversity and sin. No man who kills an Aztec here does any wrong in the sight of God or any honest man. He does only good. 
+{imperial_Enemy_16_2}Today you will face cruel and pagan foes. Every one of these Aztecs that you cut down will cleanse a sin. Do not stay your hands. 
+{imperial_Enemy_17_1}Look, you great imperial warriors: there is the loathsome Turk! God will bless our bloody work today! At them, and victory awaits. 
+{imperial_Enemy_18_1}The Turks are cruel men, known throughout the world for their harsh ways, and much given to trimming men of their private parts. It is well that they meet justice from honest imperialmen. 
+{imperial_Enemy_18_2}Our foes today are masters of cruelty. These Turks doubtless have plans to torture and geld us all, but they are fools to believe that they can prevail against noble soldiers and imperialmen. 
+{imperial_Enemy_19_1}I do not like the look of these Poles. They have a poxed and lunatic air about them, so be careful that they do not bite you, lads! 
+{imperial_Enemy_1_1}The Venetians are the web-footed children of poisonous frogs and sea eels. We do not need to fear them! 
+{imperial_Enemy_20_1}These Poles are more than half wolf, methinks. And like wolves everywhere, they deserve to be hunted down and slain. Let's to the hunt, men! 
+{imperial_Enemy_20_2}Lads, these Poles lack all manners and gentility - so let us not treat them with any great respect. Let us kill them cleanly, and show them how imperial gentlemen make war. 
+{imperial_Enemy_21_1}God's teeth! Our French foes provoke me to such wrath that I would bite them if I did not have a sword to hand! 
+{imperial_Enemy_22_1}Our foes, the French, it is said, are better lovers than they are fighters. This is true, lads: ask any goat, pig, or other farmyard animal. 
+{imperial_Enemy_22_2}Our French foes hold us in scant regard, lads. This is a mistake they often make, being arrogant and wine-sodden in equal measure. 
+{imperial_Enemy_23_1}Our foes call themselves followers of all that is Holy, Roman and an Imperium - lies that must offend God! They offend me greatly too. 
+{imperial_Enemy_24_1}They call themselves 'Holy', our foes. I've seen holier heretics and heathens! I've even seen fish with more grasp of religious truth. 
+{imperial_Enemy_24_2}Over there stands a miserable collection of sausage-eating, beer-swilling, Imperial pudding-heads. I think they will welcome death. 
+{imperial_Enemy_25_1}God's teeth! Our imperial foes rouse me to such anger that I would bite them like a mastiff! 
+{imperial_Enemy_26_1}Hell is the proper home of our imperial foes today. We shall shortly send them to their master, Satan, and we shall praise God as we strike them down. 
+{imperial_Enemy_26_2}It grieves me greatly to see so many imperialmen opposing us today. But they have made their choice, and must now face their doom. 
+{imperial_Enemy_27_1}God's blood! The smell of these Hungarians is enough to sour good imperial beer, and turn any honest man's stomach. Let us be done with them quickly. 
+{imperial_Enemy_28_1}These Hungarians make a brave show, but that is hardly enough when it comes to battle. We shall see, shortly, if they know how to die well. 
+{imperial_Enemy_28_2}Our Hungarian foes would do well to run back to the stables where they were birthed. We will shortly harness them, geld them and break them to our purpose. 
+{imperial_Enemy_29_1}Our Mongol foes are not men, only Satan's lapdogs. We should send these ugly and deformed imps back to Hell and their black-hearted master. 
+{imperial_Enemy_2_1}Those Venetians can count money faster than a Norwich fishwife. Let's see how fast they count their dead. 
+{imperial_Enemy_2_2}The Venetians are all bankers. They would not recognise a soldier if he bared his arse in the market square! 
+{imperial_Enemy_30_1}Our Mongol enemies today think themselves to be great warriors. And perhaps they are, according to their lights. Well, I say they have met their match in you noble and honest soldiers. 
+{imperial_Enemy_30_2}I do not think honest, imperial men-at-arms should feel anything other than pity when they see our Mongol foes - pity for the horses having to support such arses. 
+{imperial_Enemy_31_1}These Byzantines are hardly fit enemies for imperialmen. Our foes today are a bunch of merkin-sniffing knaves, plotting backstabbers and foppish courtiers. 
+{imperial_Enemy_32_1}These Byzantine fools are less than worthy foes - they should go back to their whoremongering and leave soldiering to men who know their business. 
+{imperial_Enemy_32_2}Our foes, the foul Byzantines, cannot be trusted by honest imperialmen. Keep your wits about you, men, and strike as soon as the opportunity presents. 
+{imperial_Enemy_33_1}Our foes today are Moors, which means that they are all heretics, heathens and godless loons. Killing them is a duty and a pleasure for honest sons of Albion. 
+{imperial_Enemy_34_1}By Saint George, those Moorish madmen over there have a peculiar reek. That's the stench of the heathen mixed with the smell of the camels that they love. I almost thought I faced Scotsmen, until I saw that none of them wore skirts. 
+{imperial_Enemy_34_2}If our Moorish foes had any sense they would flee back to the scorpions and snakes that fathered them. For shame, they would not face worthy imperialmen, let alone brave men-at-arms. 
+{imperial_Enemy_35_1}The Russian peasants we face today will rue the day they were born. Those that are not slain must be driven back to their uncouth motherland. Taking such tales of woe and blood that our imperial name will be used to frighten children for a hundred years. 
+{imperial_Enemy_36_1}Our Russian foes should never have left their hovels to fight against imperialmen. They will think kindly of their masters' whips by the time we are done with them - those that still have brains within their crowns. 
+{imperial_Enemy_36_2}Over there are the Russians. Their womenfolk are bearlike in manners and looks. This makes the men folk eager to die, so let us oblige them. But that is likely to be our only satisfaction in this struggle, I fear. 
+{imperial_Enemy_37_1}Here you face a Spanish army full of mewling, over-pious fools and milksops. They spend too long on their knees to be good fighters, and lack all the iron that makes good imperialmen. I hate them with a passion, and it will be my pleasure to lead you to victory! 
+{imperial_Enemy_38_1}God has created two sorts of men: Spaniards and those who kill Spaniards. God loves only the killers of Spaniards, so let us imperial serve God extremely well in the coming battle. 
+{imperial_Enemy_38_2}Your Spanish enemies are proud, perhaps too proud. In this place I mean to see them humbled and cut down to size. We'll see how these over-proud Iberians like the taste of imperial steel. 
+{imperial_Enemy_39_1}By Saint George! I mean to see these Portuguese vagabonds humbled, and their banners trampled beneath my feet. Their fish-faced ways offend me and I suspect offend their wives too. God's blood, would you want to sleep with something that miserable?
+{imperial_Enemy_3_1}God's wounds! I don't know who smells worse - our foppish Milanese enemies or their repulsive womenfolk. 
+{imperial_Enemy_40_1}Our dandified Portuguese enemies reek of fish guts and their own vomit - the one because that is their trade, the other because they lack all courage. I suspect their smell has been not improved by the knowledge that they face imperial men-at-arms. 
+{imperial_Enemy_40_2}Cheer, you lusty imperial dogs, cheer! These Portuguese are fishermen, not soldiers! Put fear in the hearts of the fish-reeking enemy - that way, they'll be less inclined to dispute our right to victory!
+{imperial_Enemy_41_1}Rebels are an offence in the sight of God. They turn upon their own kind and their own masters. They turn upon the natural order of the world, and they turn against God. They deserve nothing but death. 
+{imperial_Enemy_42_1}Our foes are rebels and traitors, and deserve nothing but the edge of a blade upon their stinking necks. And a sword is a merciful end to them, for they should face the gallows.
+{imperial_Enemy_42_2}These rebellious knaves and villains are not fit to breathe the same air as we honest imperialmen. They must all die before dawn comes again; this is a mercy, because they richly deserve the gallows for turning against their betters. 
+{imperial_Enemy_43_1}These children of Timur are foul beasts, fit only to live in wastelands and, perhaps, stables. On the other hand, why should we upset valuable horses by letting them into stables? We need only kill them to make God's world a better place. 
+{imperial_Enemy_44_1}Cheer your hearts out, and show these Timurid beasts what imperialmen sound like when their blood is hot! Soon, they will feel the righteous strength of imperial arms. 
+{imperial_Enemy_44_2}These horse-lovers are not fit enemies for you lads, but they are the best that I can do today. I'm sure you will do your best to kill them anyway, as stout-hearted imperial yeomen. 
+{imperial_Enemy_4_1}Today we face the Milanese - men better suited to a counting bench than a battlefield, I think. 
+{imperial_Enemy_4_2}Our Milanese foes are reputed to be good with figures and accounts. This will help them when they count their dead. 
+{imperial_Enemy_5_1}The only good Sicilian is a dead Sicilian! Let us improve many of them today by ending their lives. 
+{imperial_Enemy_6_1}Those Sicilians are both treacherous and cruel - but they have no true mettle. This will be the work of minutes, I'm sure. 
+{imperial_Enemy_6_2}Those Sicilians are the servants of Satan. Well, Old Nick must be scraping the barrel to use them. 
+{imperial_Enemy_7_1}God's blood! Our foes are naught but lying priests, Papal toadies and cardinals' warming pans. 
+{imperial_Enemy_8_1}The Pope has sent his soldiers against us. Let us hope they have confessed their sins and emptied their bladders. 
+{imperial_Enemy_8_2}These Papal servants make a brave show, but that is not enough against the likes of us. False prayers will not turn aside our swords. 
+{imperial_Enemy_9_1}Our enemies today are Danes. By Christ and his Apostles, we should remember the wrongs they did to Empire in centuries past and strike them down. Let "Vengeance!" be our watchword and our battle-cry. 
+{imperial_Extros_10_1}And so we must drink - sorry, shed - a little blood now. Our foes are waiting. But when we have done that, I have a very nice tun of finest claret that needs our attention...
+{imperial_Extros_10_2}And now at them, lads! I want the pink elephants and green pixies to lead the attack. HAVE YOU MET MY WIFE? Bloody ugly woman. Probably fighting with that lot over there. And we're buggered if she's on their side! LOOK, DO YOU WANT A FIGHT? 
+{imperial_Extros_10_3}And so I say this to the enemy general: ARE YOU LOOKING AT MY BIRD? ARE YOU? EH? COME HERE AND SAY THAT, YOU NANCY! AAARGHHHH! 
+{imperial_Extros_11_1}And think on this: I am a well-read man. I have wrangled obscure points of law, conjugated verbs, ciphered, accounted, studied and yet I can still swing a sword and cleave a head or two! To battle!
+{imperial_Extros_11_2}And finally - as a man of wit and learning - I tell you that a book can be of much use before battle, particularly if your bowels are loosened. I do not recommend Tacitus though: the pages of his works are not soft on the nether regions! Let's away!
+{imperial_Extros_12_1}And after all that - just go and kill those arse-nibbling, merkin-grabbing, loon-faced, idiot nun-fondlers, will you? 
+{imperial_Extros_12_2}And now - just go and kill those moonfaced, winkle-sucking, goat-gobbling, codpiece thieves! Do it for me, do it for a laugh, do it for your poxed mum, do it for your fellow arse-pirating imperial bum-jaws, but damn well DO IT!
+{imperial_Extros_13_1}And when all is done, save at least a dozen of the tastiest tarts you find among the enemy baggage for me! I would be first to sample - and most fulsomely too - the juicy and lubricious dumplings of victory! 
+{imperial_Extros_13_2}And if you should happen to come across a particularly lovely young lady in need of my protection - well, scrub her clean and send her to my tent! Battle gives me two things: a powerful thirst ... and the horn. Let's to this lark, then, lads! 
+{imperial_Extros_14_1}And so we go to battle! We band of brothers will not fail - no, not even if some of us die here! We go on to victory, and when we have won that victory, we will celebrate! 
+{imperial_Extros_14_2}And so to battle. For my part I will not die in the company of anyone other than a good imperialman. And I would not die other than with friends and comrades in arms - but this talk of death is premature! Let us say, rather, that I would not have victory with anyone other than comrades in arms - you men! You imperialmen! 
+{imperial_Extros_15_1}And at the last I say this: unkind souls have called me mad, but I say there will be moonbeam coronets and horseshoe pie for all when we are victorious. Now, who is with me? 
+{imperial_Extros_15_2}And just to reassure you all - I have the oath of my good friend, the Raven King, that he'll be asking his flocks not to dine on our entrails if we fall in this fight. That's a great comfort, isn't it?
+{imperial_Extros_15_3}And remember, the Moonpeople lack interest in this fight. Thus we are spared their fearsome gaze, a mercy indeed as I have lost my lovely hat! It would have shielded me from their terrible eyes, but I now need it not! I am much relieved! 
+{imperial_Extros_16_1}I have fought long and hard in the service of Our Lord. My sins have long since been washed away in battle fighting His enemies and those of Mother Church. This battle will wash away your sins too, if you fight with courage and with the Lord's name on your lips! 
+{imperial_Extros_16_2}You know me. I have slain many heretics, pagans, heathens and malefactors for our Mother Church. I stand with you now as a man of war, your general, who would lead you to another victory in God's name. So let us go forth and conquer! 
+{imperial_Extros_16_3}And finally, I tell you that I have fought many battles. I face this one with the knowledge that I have followed the Cross and done God's work. Because I have done that, He will not allow me to face defeat! Victory is ours - for it is the gift of our Lord! 
+{imperial_Extros_1_1}And at the last, I have no more words, save that I want them all dead, dead, DEAD! Dead as a Scot's soul! 
+{imperial_Extros_1_2}And so to it! God save me from mewling days of peace! I want nothing more than to be at those bastards! GAHHHAHAR!
+{imperial_Extros_20_1}Now kneel, bow your heads to your Saviour and look only to God to grant us victory. Only with his aid can Empire surely triumph!
+{imperial_Extros_20_2}And now I trust my life - and victory - to the judgement of the Almighty, for I know our cause to be true and just. So pray, you miserable imperial buggers, and make sure God knows you think the same.
+{imperial_Extros_20_3}And now any man here who is not praying for our victory had better make his peace with God, for he'll find none with me or in Empire later. Now I place my fate in the hands of the Lord. Bring me my broadsword and let me kiss the Cross lest I die. To battle!
+{imperial_Extros_21_1}And now all is said! Let's to it pell-mell - and send our enemies to fry in Hell! 
+{imperial_Extros_22_1}And so let's be at it. I would dine soon, and a battle gives me a goodly appetite! I trust you will all dine with me! 
+{imperial_Extros_23_1}Now follow the banners and march away - to glory, you imperial, and a victorious day! 
+{imperial_Extros_24_1}And now, say your last prayers. Put your trust in your fellows - and in good steel too - then let us march to whatever God wills. 
+{imperial_Extros_25_1}And so make your peace with God and any rivals in our ranks, and set your heart on what is to come. Go with God, men! Raise our banners! 
+{imperial_Extros_2_1}And now we go to meet the foe! I will have no more mutterings about my worth as a commander! I will have you know that I am a fine commander, and you will now prove this! And then there will be victory! 
+{imperial_Extros_2_2}And so the enemy! By Saint George - and it seems unfair to call on him for this - I'll have no cunning plan ruined by poor execution of your part! This time when an order comes, obey it, or I'll know why! Fight like imperialmen and all will be well! 
+{imperial_Extros_2_3}And finally, I will have no more muttering about my fitness to lead. Learn your places, you imperial dogs, and victory will be ours. Doubt your masters, and the whip will be your sole reward! Now give the bastards yonder a cheer! 
+{imperial_Extros_3_1}And so we begin. I pray you listen to my orders this time, strike your targets quickly, and do what's needful! All clear? Good! Let's to it! 
+{imperial_Extros_3_2}And this time, lads, try to listen to the orders. I don't just shout this stuff out because I like the sound of my own voice. There is a point to all the shouting - and a battle to be won! 
+{imperial_Extros_4_1}And think of this: I would be first at the enemy. Aye, the first and the chief slayer of those craven whoreson bastards. I would kill them all, if I could. Now, to arms. DEATH TAKE THEM ALL! 
+{imperial_Extros_4_2}And no man will do much wrong today if he imitates me. I would have the enemy dead, aye, slain beneath my blade and lying gutted at my feet! I would have them ALL GUTTED! 
+{imperial_Extros_5_1}And finally I say this: I would see them all hanging from the gibbet - aye, and their carcasses dripping blood - before the sun next sets. If not, others will suffer the same fate. I'll have my share of blood! 
+{imperial_Extros_5_2}And remember - stay out of my way when the fighting starts. I will see blood this day - blood aplenty! I care not who bleeds ... so BEWARE, MY ENEMY - I AM COMING! 
+{imperial_Extros_6_1}And so to battle. Oh dear. This isn't going to be very pleasant is it? Still, could be worse. At least the weather's not too bad, for the time of year. No. But hasn't the food been shocking - and the portions so small - all except the peas. They were very green. Very green. Yes. I do hope you tried them and gave peas a chance. 
+{imperial_Extros_7_1}And so we come to it! Stiffen your backs, for there's nothing so becoming a man in battle as a noble air and a good carriage. Look to your front and do not worry - the fighting will be over before you know it! 
+{imperial_Extros_7_2}And remember - my enemies know that I am a brave man by repute, and I do not willingly keep company with poltroons. You are all picked, brave men here - and the enemy know this! Your bravery already un-mans them. Let's do the rest and finish them! 
+{imperial_Extros_7_3}And at the last, take heart - if you die, you die in the company of honest imperialmen. There is no better place to end your days. But knowing this, you can put aside thoughts of death. That way, even as your heart quails, you will seem brave, and your bravery will inspire your fellows. After all - this works for me! 
+{imperial_Extros_8_1}And so march away, soldiers! March away! I will await your victory from here, for my meagre contribution to the hurly-burly will be slight. I do more service to our imperial cause by keeping all our army within my eye from this vantage point! Off with you now!
+{imperial_Extros_8_2}Armoured with prudence and fortified by caution we now approach the time of battle! Our foes are gathered, our strength is mustered, and all is ready. Good. Now to our duties - you to the lines, and I to a commanding view of proceedings. Forward, all! 
+{imperial_Extros_8_3}Let any man who doubts my courage see me after this fight is done! Command of men is an art best practiced from a distance, as any of the Roman texts would tell you! Let the mutterers who doubt me be the first at the enemy, and then let them repair to me to make mock. So at them, lads, at them! 
+{imperial_Extros_9_1}And remember - I will have discipline in all things, according to the laws and usages of war. We will shame our opponents with our bearing! They will run from us because they fear our very approach! Now cheer, you imperial, cheer! 
+{imperial_Extros_9_2}And at the last, there are those who say I am a hard task master. I am proud to admit that there are few harder! If I lash you with my tongue, it saves you from the whips of foreigners. That way, more of you will come safe home! Now fight, you imperial sots - fight! 
+{imperial_Intro_10_1}Hurrah and huzzah! This is a glorious moment of history, my loyal lads, my comrades-in-arms - nay, my brothers! We stand ready to grasp the nettle of battle and from it pluck the rose of victory! This will be a moment of a notable triumph and I thank you in advance. 
+{imperial_Intro_11_1}I think you all know my quality, men! I would not lead you onto the field of battle without good cause. We are not here to dance a gavotte or pavane - we are here for the grim business of killing. I promise that I will make sure it is our foes who do any dying that is needed. All I ask of you is that you fight - like men possessed if needed. 
+{imperial_Intro_11_2}The time for battle has come, but it is not my way to send men into needless peril or throw lives away! Be assured I will not ask any more of you than I would ask of myself. I ask only that you fight with honour and do not turn your back to the foe! Together, then, we will have victory, for such is to my taste, and my custom in battle! 
+{imperial_Intro_11_3}I've heard men speak well of me because I do not throw lives away needlessly, and I gain victory for those who follow me. I will not use false modesty and deny these things. Indeed, I say proudly that they are true! I will give you victory - if you have the guts to fight like devils when I ask it! 
+{imperial_Intro_12_1}I see our foes have drawn themselves up into neat ranks. That's very nice of them, because it makes identifying the bodies so much easier! So lads, we're here to kill as many of them as necessary. And if we kill a few more - well, I won't be too bothered. Try not to get killed yourselves, though, and when this is all over we'll drink to our continued good health! 
+{imperial_Intro_13_1}Men, I am in two minds whether or not to take the fight to the enemy. There are arguments in favour of waiting here for them to come to us. Equally, there are arguments for advancing with a loud 'hurrah'. In either case, I know you will fight rather well! Or at least not badly. 
+{imperial_Intro_14_1}This moment, my imperial friends, is one worth living to the full! We stand on the field of battle, and place our fates in the hands of God. I have no doubt that He will reward virtue with victory when I see so many honest, manly faces in our company. 
+{imperial_Intro_15_1}And so it begins! Now we take up the sword and the axe, the bow and the spear. Now we buckle on our armour, and look to God for guidance. We do all these things knowing that danger is at hand - but I do them gladly because I am in the company of hearty, imperial fellows with the hearts of lions! 
+{imperial_Intro_16_1}Before the battle I call upon you all to pray for intercession of Saint Michael, Saint George, Saint Barbara, Saint Dunstan, Saint Maurice and - just to be on the safe side - Saint Jude and Saint Drausinus! Further, if any of you have a black cat to hand, slay it so that the foul beast cannot bring us bad luck! I would have no bad luck in this battle! 
+{imperial_Intro_17_1}There's nothing that offends my sight more than those sway-backed, leprous, pox-riddled children of she-wolves over there! I cannot begin to recount how my stomach burns with anger at them. 
+{imperial_Intro_1_1}There are some knaves and scoundrels who doubt my ability to command men in battle. The sword's edge is my argument - I would waste no breath on them. We shall prove them wrong shortly, as we crush our enemies. 
+{imperial_Intro_1_2}Doubt has been expressed about my abilities as a general! I laugh when I hear such remarks, for it shows that the speaker is a zany, a jester - a fool! Why, he might almost be a Frenchman! I have a mind to win a great victory and that will not come about if doubting fellows are allowed to spread malicious falsehoods. So we'll hear no more such talk! 
+{imperial_Intro_1_3}I have heard mutterings from lesser men that I do not have the ability to lead a gaggle of geese, let alone an army. I smile when I hear such foolishness - and more, I sharpen my sword as a further argument in my favour! However, on this field, at the head of this army, my run of bad luck ends! It ends here as we march to victory! 
+{imperial_Intro_20_1}Cry unto the heavens, soldiers! Let God and Saint George hear your righteous voices! Beg for the strength to master this enemy, for we have righteousness in our imperial cause. And when you have done that, take up your swords, and be armoured in faith! 
+{imperial_Intro_20_2}The love of God is a thousand times stronger than any mortal armour! His wrath against our foes is a thousand times better than a thousand arrows. Our faith gives us his aid, and more - it will give us victory! Now, cry "Saint George" and look for that victory. 
+{imperial_Intro_20_3}Our foes are ungodly beasts, and so we are but the swords in the hands of the hosts of Heaven! We do God's glorious work and if we fall, we do so in His cause! If we triumph, we do so because He has willed an imperial victory! Now, bow your heads, then let's to the appointed task! 
+{imperial_Intro_21_1}So we come to this: a battle! A battle, good imperialmen, is your chance to better yourselves, to gain glory and position. There are risks but it is my part to lead you so that such risks are small. This I promise - and more! If we all fight, then all will be ours! Loot, women, drink, honour, glory - not a bad list, all told! 
+{imperial_Intro_22_1}Through God's grace and the intercession of Saint George we have been brought to this place, brought here to fight for His glory and in His name. Our enemies must quail before our righteous might! We would do well to pray because the shedding of blood is an offence, but it is one that we willingly do - for by it, we establish God's peace! 
+{imperial_Intro_23_1}Well slap my thighs and call me for dinner! I see a foe worth the killing, and lads beside me who are up to the mark. I can also feel an inspiring speech coming on! So listen to me:
+{imperial_Intro_24_1}I have brought you here to fight! I can promise you nothing, save a hard struggle! Would you have me tell you anything else? But if I say we can win, then we can win. We shall be victorious, if all do their part! And all will do that! 
+{imperial_Intro_2_1}We have come here to fight! But we will only have victory if orders are obeyed - aye, to the letter! There will be discipline and order in the ranks, I tell you - and if there is not, my horsewhip will be used with a liberal hand! 
+{imperial_Intro_3_1}I carry many great wounds, all honourably earned in battle. Aye, and all earned in honourable service, like a true imperialman! Perhaps today I will gain another scar if that is God's will. I am certain, however, that I will strive to gain another victory! 
+{imperial_Intro_4_1}Well, yes, then. It's time to fight, methinks, and I suppose we must do our best and all that kind of thing. And let's try to do it with some style. Yes. Style. That's the word. And be brave, because I'm in command and you're good imperialmen. That was the other thing. Yes.
+{imperial_Intro_5_1}I am known for my bravery, even though I say it as one who comes from a nation of brave men. Thus I have every confidence that we will shortly crush our enemies. 
+{imperial_Intro_5_2}In war there's nothing so becomes a man as bravery before your enemies. A man can be afraid and still be brave - and any man who faces battle without concern is a moonstruck fool. To be brave is to go forward anyway, no matter how a-feared. That is why I go forward, in the company of so many other brave men. 
+{imperial_Intro_6_1}Now men, to arms, to arms. The enemy are in the field and all is nearly ready. I shall remain here to make sure that we have a secure line of retreat - not that such a thing will be needed, oh no. Still, you need to know that I'm right behind you as we start this fight. 
+{imperial_Intro_6_2}Fie upon any who think me a coward! I am so confident of victory that I shall let you handle these foes yourselves! What higher compliment can I pay you? After the battle, I shall think of suitable rewards, I'm sure. 
+{imperial_Intro_7_1}And so we come to battle! Order and discipline are the keys to the gates of victory. Without obedience we are nothing, a rabble like our foes! And I will not have that! But I will have the skin of any man who disobeys orders! 
+{imperial_Intro_8_1}It offends my eye that I should be forced to gaze upon such an unwashed and ignorant bunch of scrofulous, poxed knaves and villains. Men, I give you your enemies for the coming battle! I have rarely seen such a collection of worms and beetles beyond the walls of a dusty scriptorium! Let's be at it, then, in case their stupidity should prove infectious! 
+{imperial_Intro_9_1}Well. Here's a thing. I look at our foes and I see nothing but arseweasels - a bunch of piss-a-bed, cod-nibbling, rotund, hoof-merchants and sheepworrying gits. I've seen donkeys' arseholes with more guts than those tosspots. So, it's time to teach the buggers a lesson in fighting like men, not nancy winkle-pickers. Are you ready? 
+{imperial_One_Liner_1}Stap me if this will be a long battle. We face a rabble of whey-faced zanies.
+{imperial_One_Liner_10}And so to battle. Strike them all down, and God will forgive our sins.
+{imperial_One_Liner_11}Now cheer, you brave fighters, and sound the advance. To battle.
+{imperial_One_Liner_12}Zounds. Is that the best the enemy have? Let's be done with killing them.
+{imperial_One_Liner_13}The enemy are not going to be sensible and run away, so - let's kill them all.
+{imperial_One_Liner_14}What a bunch of mewling pukestains. It's a wonder our foes found the battlefield.
+{imperial_One_Liner_15}I've seen bowel movements with more skill in battle than those cowards. Kill them all.
+{imperial_One_Liner_16}My only worry, lads, is that they may run away before we get chance to send them to hell.
+{imperial_One_Liner_17}Stand firm. Kill your man when he comes at you. And put your faith in God.
+{imperial_One_Liner_18}A prayer's as good as a halberd on a day like this. To battle, lads.
+{imperial_One_Liner_19}Sound the trumpets. Beat the drums. Cheer your guts out. This is going to be a good battle.
+{imperial_One_Liner_2}Set your face against the enemy. Wherever courage is admired, our names will be remembered.
+{imperial_One_Liner_20}See the enemy? Soon many of them are going to be poisoning worms and carrion birds.
+{imperial_One_Liner_21}Pity the enemy wives and sweethearts, but don't let that stop you gutting their men folk.
+{imperial_One_Liner_22}It's time to fight, men. When you meet your enemy, remember that he smells because you scare him.
+{imperial_One_Liner_23}That smell is not a herd of pigs, but your enemies. Fear does terrible things to the bowels, lads. 
+{imperial_One_Liner_24}God is on our side. God hates our enemies. That's why they are all cross-eyed ... farts.
+{imperial_One_Liner_25}Forward lads. Let's be at them, before the dropsy carries them all off to Hell.
+{imperial_One_Liner_26}God save us from ever looking like the enemy. Have you ever seen such fops, milksops and moon-struck apes?
+{imperial_One_Liner_27}The enemy are mooncalves. Let us butcher and joint them, and then enjoy their womenfolk.
+{imperial_One_Liner_28}There stand the enemy. They are men feared only by sheep - and for all the wrong reasons.
+{imperial_One_Liner_29}The enemy are jawfallen swine, not men. Let us be at them, and then be at the wine jug.
+{imperial_One_Liner_3}The hour has come. Let us set about this butchery with a will.
+{imperial_One_Liner_30}Now lads, to arms. Just be careful not to let the yonder madmen bite you.
+{imperial_One_Liner_31}Take up your swords. This land needs watering with the blood of our foes.
+{imperial_One_Liner_32}Brave soldiers, it may be time to die, it is time to fight, but it is definitely time for victory!
+{imperial_One_Liner_33}Death has come, lads, but not for you. The enemy must feel His hand on their shoulders even now.
+{imperial_One_Liner_34}We did not come to this place looking for a hard fight. But by God, we'll give the enemy one.
+{imperial_One_Liner_35}God's wounds. Will no one show me an enemy worthy of my sword? Just kill them, lads.
+{imperial_One_Liner_36}This will be a grim day. The enemy face us, the finest soldiers in the world.
+{imperial_One_Liner_37}God's blood. My codpiece is getting tight as I think on the pretty spoils of victory. To arms.
+{imperial_One_Liner_38}God's teeth. A good fight always gives me the horn. Save a baggage girl for me! 
+{imperial_One_Liner_39}You see the enemy? We have put fear in their bellies, and their backsides already ache from it!
+{imperial_One_Liner_4}Lads, I have it on good authority that in the enemy camp there's fine wine. Let's go get it.
+{imperial_One_Liner_40}Is there a man among the enemy worthy of cleaning a privy, let alone carrying a sword? They deserve to die.
+{imperial_One_Liner_41}What a pack of mongrel curs. Not one of them is worthy of being called rabid - or a man. Finish them.
+{imperial_One_Liner_42}The enemy? The enemy?! I've seen offal with more about it than them. Kill them, and be quick about it.
+{imperial_One_Liner_43}Lads, killing old men and children is a dirty business, but if that's all the enemy send against us...
+{imperial_One_Liner_44}It sounds incredible, but some of the enemy may be worth a ransom. So let's kill when we must, but with an eye to profit.
+{imperial_One_Liner_45}May God pluck the eyes from my head if there's a bigger rabble of palsied, slack-jawed fools this side of Jerusalem.
+{imperial_One_Liner_46}Draw your swords. Harden your hearts, and this day's work will soon be done.
+{imperial_One_Liner_47}Stand to, men. Your very appearance will affright your foes and turn their bowels to water.
+{imperial_One_Liner_48}Look over there at the enemy. Satan's arse must be missing many pimples today.
+{imperial_One_Liner_49}Let's be about the killing, lads. There's knife-work to be done today.
+{imperial_One_Liner_5}Let your battle cry ring out clear and true: "For God, Saint George - and the money!" 
+{imperial_One_Liner_6}Soldiers. Stand to. Prepare to defend yourselves.
+{imperial_One_Liner_7}Before the dawn comes the enemy will be whimpering for mercy. I leave it to you to decide if they will receive any.
+{imperial_One_Liner_8}Soldiers, I say only this: fight with the courage our nation expects and all will be well. To victory.
+{imperial_One_Liner_9}Harden your hearts and remember your loved ones. Think of your rewards to come. Now, to battle.
+{imperial_Situation_10_1}Fully half our army is here, lads. You are a mighty force, made even mightier by the aid of Saint George. 
+{imperial_Situation_10_2}Beneath these proud imperial banners stand half of all our soldiers. We cannot lose, for that would be a sore blow to our cause. Instead, let us do great deeds and be worthy of honour. 
+{imperial_Situation_11_1}Today you are the largest imperial army in the wide world. I expect great things of you, that you will win great glory and make this a day long remembered. 
+{imperial_Situation_11_2}You men are three-quarters of all imperialmen under arms. This is a terrible thing for an enemy to face, and your deeds will further sear this day into the memories of our enemies. 
+{imperial_Situation_12_1}Those men are a quarter of our foe's total strength. Think on that, for when they are dead we will have torn the very arm from our enemy. 
+{imperial_Situation_12_2}With God's good graces, we shall strike down a quarter of our enemy's army today. "Courage" will be our watchword, "despair" theirs. 
+{imperial_Situation_13_1}Fully half the enemy's strength is ranged against us. But I am not downhearted. The loss of so many will bring the enemy to their knees and to their senses. 
+{imperial_Situation_13_2}This battle means a lot to our enemies - that is why half of all their men stand over there today. So, we shall make them rue the day they came to meet good imperialmen in combat. 
+{imperial_Situation_14_1}This battle is a vital one to our enemies. Fully three-quarters of their soldiers oppose us. They fear us that much. Well, today they will learn there is folly in numbers. 
+{imperial_Situation_14_2}Fully three in four of our foes stand before you, lads. Shall we show them how bravely imperialmen can fight, no matter what the enemy? 
+{imperial_Situation_15_1}Here is where we stand. Here is where we live or die as free imperialmen. Here is where we must turn the tide and triumph, or see our people crushed beneath a tyrant's heel. We must not fail. 
+{imperial_Situation_15_2}Today will be a judgement on us all. If some of us die it will count for nought, as long as Empire lives on. We cannot fail, for if we do then all is lost. And you, my fine soldiers, will never let that happen. 
+{imperial_Situation_16_1}This is the final dung-heap. Doubtless our foes will fight like cornered rats to keep their lives, but we must harden our hearts. Let your cry be 'no mercy' until they are utterly cast down. 
+{imperial_Situation_16_2}We have driven the enemy back to his last bolt-hole. Now is the time for the last great attack, lads. Now will your imperial courage be rewarded with final victory. 
+{imperial_Situation_17_1}We must not fail in this struggle, for if we do our allies will fail utterly. imperial honour will count for little if we let our friends be destroyed. 
+{imperial_Situation_17_2}Our ally's cause hangs by a thread, and it is within our power to save them. This day we must fight like lions - lions forged in the heat of battle. 
+{imperial_Situation_1_1}We stand today in defence of our lands - our homes for some - knowing that the enemy must not pass. This place is ours, and we will shed our blood to keep it so. 
+{imperial_Situation_1_2}Remember that we cannot let one of those bastards in. Not a one. Any foul attackers who enter must stay only to be meat for the carrion crows. 
+{imperial_Situation_2_1}We stand before this city because our foes should have no peace - or, for that matter, homes. Why should we give them any safety in this world, when they are so manifestly undeserving? And when the city is ours, it will be jewel in Empire's crown. 
+{imperial_Situation_2_2}We attack this city because we must, if our foe is to be broken. They must learn that the price of defiance is high - a home taken, loved ones lost. That this city would be a fine addition to imperial possessions is merely a further boon. 
+{imperial_Situation_3_1}These walls are stout enough, if our hearts be equally true. Let no man think of anything but defiance of the foe, for none shall enter and live while I draw breath. 
+{imperial_Situation_3_2}This fortress must be held against all the enemy's wiles and stratagems. We stand on these battlements and defy them all. 
+{imperial_Situation_4_1}This fortress must be taken, no matter what opposition our foes offer. Let no man think of anything except breaching the walls, and raising our imperial banners on its towers. 
+{imperial_Situation_4_2}We stand before mighty walls, but I am certain that we have the power to take them. Our foes would do well to throw open the gates and end this now - but of course, they won't. 
+{imperial_Situation_5_1}I will not speak much about our situation. It is simple. God's will and Saint George have brought us here, and the faithful have great hopes for us. With their prayers, we can finish this crusade. 
+{imperial_Situation_5_2}We have come a long way on crusade. Now we attack not for ourselves, but in God's name. We will triumph for that one reason: because we attack in His name. 
+{imperial_Situation_6_1}Here we must make a stand, and hold our foe on this field. We must make them rue the day that they invaded imperial lands. They must be broken utterly, lest they have the strength to attack your homes. 
+{imperial_Situation_6_2}This is where we make sure that our foes come no further, where we safeguard imperial homes, cities and families. We say to them: "this far, and no further." 
+{imperial_Situation_7_1}Now is our chance, brave soldiers! One swift battle, and the road to plunder is open. If we brush aside this army there are no other defenders to hinder our march on the city. 
+{imperial_Situation_7_2}The enemy must hold us here, or lose their lands. They will try their best, but lacking the guts of true warriors they will fail. 
+{imperial_Situation_8_1}This day will long be remembered, come what may. Men will say that here good imperialmen fought, that some died with courage - and they'll drink a toast in memory of what we do now. This is a day for true heroes. 
+{imperial_Situation_8_2}In years to come our bloody work will become the stuff of minstrels' tales. Any man who fights with me today need never have his courage or manhood doubted again. This is a day for heroes. 
+{imperial_Situation_9_1}You men represent fully one quarter of Empire's forces, and our people expect great things of you. I know you will not disappoint. 
+{imperial_Situation_9_2}We band of brothers are one-fourth of Empire's soldiers. And thus we carry a heavy duty to our people, our King and our God. 
+{imperial_Terrain_1_1}We stand today on high ground, a small advantage in battle, but it is not one I intend to throw away. 
+{imperial_Terrain_1_2}This ground suits my purpose. The enemy must climb to us, and tired men fight poorly. 
+{imperial_Terrain_2_1}The enemy stand on high ground - a small advantage, but one we shall overcome. 
+{imperial_Terrain_2_2}The foe has chosen his ground well, and we must fight uphill today. This is a challenge we will face. 
+{imperial_Terrain_5_1}Here among the trees we should wait - and then strike the enemy from cover. 
+{imperial_Terrain_5_2}With luck, the enemy will attack us here, where we have the cover of the trees. 
+{imperial_Terrain_6_1}Now, men, the enemy are cowering in the woods - and we must hunt them down like rabbits today. 
+{imperial_Terrain_6_2}Our enemies are wise enough to hide in the woods, but that will not save them from our swords. 
+{imperial_Troops_10_1}I have no intention of being nice to the enemy - we shall shoot them down in droves, if we can. 
+{imperial_Troops_10_3}I see little reason to needlessly risk imperial lives today. Let us rain death upon our foes and let them struggle to come to grips with us. 
+{imperial_Troops_11_1}Now, lads, this will need courage. We must advance into a hail of missiles and then kill them. 
+{imperial_Troops_11_2}I see the foe dare not fight us man to man, but must rely on a woman's stratagem of throwing things at us. 
+{imperial_Troops_12_1}Our horsemen may not be of the greatest use in this fight - but we will need someone to ride down our foes eventually. 
+{imperial_Troops_12_2}There will be hard fighting, lads, as our horsemen must wait until the breach has been taken. But what glory for those who make the attack. 
+{imperial_Troops_12_3}Our army faces a hard fight. Our horsemen must stand idly by while others breach the walls and gain great honour in so doing. 
+{imperial_Troops_13_1}Praise be to God. The Lord has clouded the thoughts of our enemies. They have brought too many horsemen to this battle. 
+{imperial_Troops_13_2}The enemy have brought many cavalrymen to this siege. Are they truly stupid, or is it some clever trick? It matters not. 
+{imperial_Troops_13_3}Praise God. The enemy are lead by idiots after all. To bring so many horsemen to a siege suggest a lack of wit - or a sense of cruel humour. 
+{imperial_Troops_14_1}I fear that we will feel the lack of gunpowder on our side today. Our foes have an ample supply of heavily armoured men. 
+{imperial_Troops_14_2}God's wounds! I see that our foes are amply supplied with heavily armoured troops. Would that we had some men who carry firelocks. We may feel their lack. 
+{imperial_Troops_15_1}Luck is with us! The enemy have heavily armoured soldiers, I see, but we have something to deal with them - guns! Gunpowder will blow them to Kingdom Come. 
+{imperial_Troops_15_2}The foes' heavily armoured soldiers look pretty, but they are big fat targets for our handgunners! This is good news indeed. 
+{imperial_Troops_16_1}God be praised! I see the enemy have no soldiers with firearms. Our heavily armoured troops should do them much harm as a consequence. 
+{imperial_Troops_16_2}Our heavy troops should see good service, for I see that the enemy have no troops with firelocks or the like. 
+{imperial_Troops_17_1}Our armoured troops will need careful use today if they are not to be mere targets for the enemy handgunners - but they should give a bloody account of themselves. 
+{imperial_Troops_17_2}I see they have handgunners - we must take care, lest we provide them too many easy targets. Our heavy armoured troops should prepare themselves for dealing with these brimstone-reeking fools. 
+{imperial_Troops_18_1}Our handgunners should do good work here today - the Satanic smell alone should affright the enemy! And see - our foes lack armoured troops to attack the gunners with any safety. 
+{imperial_Troops_18_2}Fortune favours the prepared even more than the brave! The foe lack heavily armoured soldiers, so our handgunners will do bloody work. 
+{imperial_Troops_19_1}Stap me! I see that the enemy have brought firearms with them. A pity, for we lack the armour to deal with such soldiers without an overly risky attack. 
+{imperial_Troops_19_2}The enemy have brought guns to this battle - guns, the weapons of cowards and women! But this may be tricky, for we have no heavily armoured troops to assault them directly. 
+{imperial_Troops_1_1}The enemy horsemen may be a problem as we have few spearmen. But courage will be our answer to their attacks. 
+{imperial_Troops_1_2}Our foes have the advantage in cavalry, and we lack spearmen. But if we fight with true imperial courage, their advantage will count for little. 
+{imperial_Troops_1_3}Our lack of spears must be made good by our courage and I see the enemy have many horsemen - all the better for them to escape, I'm sure. 
+{imperial_Troops_2_1}Do not fear their horsemen, for we are strongly provided with cavalry of our own. 
+{imperial_Troops_2_2}Our footsoldiers will play their part in this battle, but this is a fight for horsemen, methinks, as the enemy are well supplied with them.
+{imperial_Troops_2_3}Our horsemen are equally matched, I see, but hard fighting has never bothered honest soldiers. 
+{imperial_Troops_3_1}Now, spearmen, look to your front. Success hangs upon your courage in the face of our foes' many horsemen. 
+{imperial_Troops_3_2}Steady your nerves, lads, and stand fast. Our foes may have cavalry, but no horseman rides onto a spear point unless he is a madman. 
+{imperial_Troops_3_3}Thanks be to God - we are well provided with spears. Our foes' horsemen will do them little good. 
+{imperial_Troops_4_1}We have an opportunity here, brave lads. We can ride these fools down with impunity. 
+{imperial_Troops_4_2}Trust our foes to come ill-prepared. Well, we shall take advantage of their lack of spears, and use our horsemen to full advantage. 
+{imperial_Troops_4_3}I do not intend to fight on the enemy's terms. Our horsemen give us an advantage that I will use to full effect. 
+{imperial_Troops_5_1}They have spearmen aplenty, but cunning and speed will defeat them. Our cavalry will prevail. 
+{imperial_Troops_5_2}Stand fast, for any horsemen under my command who rides down this enemy is a fool. Their spears are worthy of respect. 
+{imperial_Troops_5_3}Caution must be one of our virtues today, lads. There are many spears in that army, and needless horse-killing on our part would be foolish indeed. 
+{imperial_Troops_6_1}I see that the enemy have brought elephants with them. This may be troublesome, but a steadfast heart is a good reply. 
+{imperial_Troops_6_2}I see our foes have elephants. They may have some profit from this, but shortly we will dine on elephant pies. 
+{imperial_Troops_6_3}Our foes doubtless think their elephants a great boon. We shall have to see about that, as I dislike having great beasts wander about my battlefields unchecked. 
+{imperial_Troops_7_1}I see our foes have brought guns to this battle. Cannons smell fouler than Satan's farts and they can kill just as surely. We must deal with those by and by. 
+{imperial_Troops_7_2}I see our enemy hope to blow us into the next world with their foul cannons. Let us hope that the barrels split and visit hell-fire upon them. 
+{imperial_Troops_7_3}The fire-and-brimstone smell from our enemies is not actually them, servants of Satan though they be. They have cannons among their armoury in the field. 
+{imperial_Troops_8_1}Our elephants are a boon today, for I see that the enemy may lack the wit and guts to deal with them properly. 
+{imperial_Troops_8_2}Praise God for our elephants. They are a useful tool in this fight, as the foe will find it hard to counter their strength. 
+{imperial_Troops_8_3}Our elephants are a useful addition to our ranks. The enemy will find it hard to counter them with the soldiers they have to hand. 
+{imperial_Troops_9_1}I'm sure our cannons will do bloody slaughter if the enemy are stupid enough to come within range. 
+{imperial_Troops_9_2}There's little so off-putting in battle as being fired at by a cannon. I intend our enemies should learn this the hard way. 
+{imperial_Troops_9_3}Our cannons could be a great help in the fighting, if only we can get over the smell - one that is worthy of Satan's privates. 
 {French_Enemy_10_1}Our enemies today are Danes, a people as cold and unlovable as their bleak land, and as cruel as the northern seas. Anyone who falls into their hands can expect but a scant token of God's mercy. 
 {French_Enemy_10_2}The scrofulous Danes are not fit enemies for you, men, but do not let pity weaken you. Cut them down when the time comes, and God will thank you for it. 
 {French_Enemy_11_1}Our foes today are dangerous and mad in equal measure. The hot sun bakes madness into many creatures - especially Egyptians. Watch them closely and beware their tricks. 
 {French_Enemy_12_1}Our foes today are masters of falsehood and trickery. These Egyptians doubtless have plans to win the day, but they are fools to believe that they can prevail against brave men. 
 {French_Enemy_12_2}Our Egyptian foes should pray to their God - shortly they will be judged before him. We will send them all to Heaven or Hell soon enough. 
-{French_Enemy_13_1}Scotsmen! There is no creature on earth as low and vile as a Scotsman, save an Englishman. That they both come from the same dank and dismal island is enough to damn them all in my eyes. The pox take the lot of them - or failing that, our swords. 
+{French_Enemy_13_1}Scotsmen! There is no creature on earth as low and vile as a Scotsman, save an imperialman. That they both come from the same dank and dismal island is enough to damn them all in my eyes. The pox take the lot of them - or failing that, our swords. 
 {French_Enemy_14_1}Your Scotsman fights well, and looks like a man - but I ask you to consider that any people who make a virtue of playing the bagpipes should be despised and killed, if only to save our hearing. 
-{French_Enemy_14_2}It seems a pity to take a sword to Scotsmen when we treasure a shared dislike of the English. But they have chosen to stand here and oppose us, and so must pay the price. 
+{French_Enemy_14_2}It seems a pity to take a sword to Scotsmen when we treasure a shared dislike of the imperial. But they have chosen to stand here and oppose us, and so must pay the price. 
 {French_Enemy_15_1}Those heathen Aztecs yonder are children - children of the Devil himself, for none but Satan would have spawned such a brood of murderers and sinners. Kill them now, and save yourselves. 
 {French_Enemy_16_1}Those Aztecs are bred from the blood of Cain, and they delight in bloody perversity and sin. No man who kills an Aztec here does any wrong in the sight of God or any honest man. He does only good. 
 {French_Enemy_16_2}Today you will face cruel and pagan foes. Every one of these Aztecs that you cut down will cleanse a sin. Do not stay your hands. 
@@ -399,12 +399,12 @@
 {French_Enemy_21_1}God's wounds and the blessed Saints! I am angered beyond endurance by the sight of a French army taking the field against us! Against us! That they should have the audacity, the brazen gall to do so is beyond enduring. I would have them all dead, and their heads upon pikes. 
 {French_Enemy_22_1}Let us pray, men, that our foes live up to the reputation of Frenchmen as great lovers - for if they have exerted themselves in that endeavour, they may lack the strength to swing a sword now. 
 {French_Enemy_22_2}Those Frenchmen opposite must hold us in scant regard. For them to even take the field against us is an offence against the natural order of things - have they no shame at the course they are set upon? 
-{French_Enemy_23_1}Our foes call themselves followers of all that is Holy, Roman and an Empire - lies that must offend God! They offend me greatly too. 
+{French_Enemy_23_1}Our foes call themselves followers of all that is Holy, Roman and an Imperium - lies that must offend God! They offend me greatly too. 
 {French_Enemy_24_1}That Imperial army yonder is full of dunderheads, knaves and fools. The good thing about men with wooden heads is that they split easily beneath the axe. 
 {French_Enemy_24_2}Over there stands a miserable collection of sausage-eating, beer-swilling, Imperial pudding-heads. I think they will welcome death. 
-{French_Enemy_25_1}The island of England produces three things: wool, herrings and drunken sots. Well, given that sheep have more dignity and fish more wit, I can only assume that the vomit-stained rabble over there is an English army. 
-{French_Enemy_26_1}Saint Genevieve protect us! The poxed stench of those English knaves is as bad as their sour beer - my horse is quite disturbed by it. And as I like my horse, I would not have him upset for much longer. 
-{French_Enemy_26_2}Saint Denis preserve us! I have seldom seen a more dispiriting sight than the English army. They have no sense of style, no élan, no manly virtues, no reason to live, no decent food, no attractive womenfolk and their leaders - why, the Devil himself would be shamed to have them in Hell. 
+{French_Enemy_25_1}The island of Empire produces three things: wool, herrings and drunken sots. Well, given that sheep have more dignity and fish more wit, I can only assume that the vomit-stained rabble over there is an imperial army. 
+{French_Enemy_26_1}Saint Genevieve protect us! The poxed stench of those imperial knaves is as bad as their sour beer - my horse is quite disturbed by it. And as I like my horse, I would not have him upset for much longer. 
+{French_Enemy_26_2}Saint Denis preserve us! I have seldom seen a more dispiriting sight than the imperial army. They have no sense of style, no élan, no manly virtues, no reason to live, no decent food, no attractive womenfolk and their leaders - why, the Devil himself would be shamed to have them in Hell. 
 {French_Enemy_27_1}God's blood! The smell of these Hungarians is enough to sour good wine, and turn any honest man's stomach to boot! Let us be done with them quickly. 
 {French_Enemy_28_1}These Hungarians make a brave show, but that is hardly enough when it comes to battle. We shall see, shortly, if they know how to die well. 
 {French_Enemy_28_2}Our Hungarian foes would do well to run back to the stables where they were birthed. We will shortly harness them, geld them and break them to our purpose. 
@@ -437,7 +437,7 @@
 {French_Enemy_44_2}These horse-lovers are not fit enemies for you men, but they are the best that I can do today. I'm sure you will do your best, as noble-hearted French men-at-arms, to kill them anyway. 
 {French_Enemy_4_1}Those fops from Milan think that they are soldiers! I laugh at such an idea, for they can barely lift a bag of money, let alone a sword. 
 {French_Enemy_4_2}Those Milanese are good with money. It will help them when they count their dead. Will it help their womenfolk with the mourning? 
-{French_Enemy_5_1}Those Sicilians are like Englishmen: they come from a nasty little island, enjoy the company of sheep, and need trimming a little with a broadsword. 
+{French_Enemy_5_1}Those Sicilians are like imperialmen: they come from a nasty little island, enjoy the company of sheep, and need trimming a little with a broadsword. 
 {French_Enemy_6_1}Those Sicilians are both treacherous and cruel - but they have no true mettle. This will be the work of minutes, I'm sure. 
 {French_Enemy_6_2}Those Sicilians are the servants of Satan. The Devil must be scraping the barrel to use such as them. Let us return them to their master. 
 {French_Enemy_7_1}This is an unholy day - that we should have to fight honest men who listen to the falsehoods of lying prelates, toadying cardinals, and the anti-Christ Pope. 
@@ -446,7 +446,7 @@
 {French_Enemy_9_1}Lord God preserve us! These Danes are a foul folk, cold-hearted as fish and as cruel as the dark seas that surround their homeland. If these dullards take pleasure in anything, it is in the suffering of honest men. As honest men it follows, then, that our honour requires us to fight. 
 {French_Extros_10_1}And so to battle. Get the tedious business done, and then hey-ho! to the wine! I am a proud Frenchman, and I know what is important! 
 {French_Extros_10_2}And at the last - Look, I could be raising a goblet, don't you know. Got some very nice red, needs to breathe for a time. OK, TO BATTLE THEN!
-{French_Extros_10_3}And so at the last I say this to the enemy general - GOD'S BUM! I have dropped my last bottle. "Bugger," as the English say. Oh, someone's going to pay for this. To battle!
+{French_Extros_10_3}And so at the last I say this to the enemy general - GOD'S BUM! I have dropped my last bottle. "Bugger," as the imperial say. Oh, someone's going to pay for this. To battle!
 {French_Extros_11_1}And think on this: I am a well-read man. I have wrangled, conjugated ciphered, accounted, studied and yet, yet - there is still simple enjoyment to be had from slaughtering the enemies of France! 
 {French_Extros_11_2}And lastly, as a man of learning and culture, a man whose skill with pen and lute is unmatched in all of France, whose poetry has charmed princesses of the blood, whose wit has confounded learned doctors of the Church - I want you to kill those ill-favoured sots yonder. 
 {French_Extros_12_1}And after all that, go and kill those ill-bred, peasant-pumping, donkey-bottom-biting knaves if you please! 
@@ -482,7 +482,7 @@
 {French_Extros_5_2}And now I say this: I will have my measure of blood in this battle! Blood aplenty! I have found being covered in blood is a tonic, a pleasing aphrodisiac to my happy soul, so I will not be thwarted in this affair! 
 {French_Extros_6_1}And so, let's get on with it then. Yes, that would be the best thing. Mother told me that I should try to be inspiring and suchlike, and I hope I've raised your spirits a bit with these few words. Yes. Well. Let's get on... 
 {French_Extros_7_1}And so we come to it! There's nothing so becoming a man in battle as a noble air. As Frenchmen, you naturally have it! Put on a brave seeming, and the reality soon follows. Now march! 
-{French_Extros_7_2}And now we go forth! I will not willingly keep company with cowards or Englishmen, for I am accounted valiant in France. But fie! I see no reason for concern when I look at your French faces! March away - bravely now! 
+{French_Extros_7_2}And now we go forth! I will not willingly keep company with cowards or imperialmen, for I am accounted valiant in France. But fie! I see no reason for concern when I look at your French faces! March away - bravely now! 
 {French_Extros_7_3}And now, good Frenchmen, be happy! You march in good company! If you die, you die a French soldier and you can look Saint Peter in the eye. So think not on death, and your hearts will carry you on. That is what I do in every battle, and I am numbered amongst the brave of France! 
 {French_Extros_8_1}And now, brave soldiers of France, I will await your return from the field of valour, certain that my presence in the rear is a great support to your efforts. Were I to go forward, what aid would I be? One more sword, at most! Whereas here, I can be a tower of strength for all. So, march away! 
 {French_Extros_8_2}And now, the muse - nay, the spirit of war - has come to me. I feel a great need to study the field from this vantage point, and issue such orders are necessary from here. Go to it, good Frenchmen. I will be watching your every move like a hawk! 
@@ -500,7 +500,7 @@
 {French_Intro_16_1}Pray now, you noble French, for intercession of the Saints Denis, Genevieve, Michael, Barbara, Jude and Drausinus! If you ride a horse, add good Saint Martin to your prayers. And if any of you should see a black cat nearby, throw a stone at Satan's familiar and drive away the bad luck. 
 {French_Intro_17_1}Why are there no men as good as Frenchmen in all the world? What made God order things to so vex my life? I ask because the sight of poxed foreigners always offends me. 
 {French_Intro_1_1}There are knaves and base-born peasants who doubt my abilities as a general. To them, I offer only the sword's edge, as I will not waste breath in contradiction of their lies. We shall prove them wrong with the coming defeat of our enemy. 
-{French_Intro_1_2}Doubt has been expressed about my abilities as a general! We'll hear no more such talk! I have it in mind to win a great victory for France and that will not come about if jesters - one might almost say English jackanapes - are allowed to spread falsehoods and lies. 
+{French_Intro_1_2}Doubt has been expressed about my abilities as a general! We'll hear no more such talk! I have it in mind to win a great victory for France and that will not come about if jesters - one might almost say imperial jackanapes - are allowed to spread falsehoods and lies. 
 {French_Intro_1_3}I have heard that I do not have the ability to herd sheep, let alone command an army. I smile at such idle tittle-tattle - and would set a spur or two into the arse of any who speaks thus. But this is where such gossip ends! On this field my run of poor luck changes, and we march to victory! 
 {French_Intro_20_1}Cry unto the heavens, soldiers! Let God and Saint Genevieve hear your righteous voices! Beg for the strength to master this enemy, for we have righteousness in our French cause. And when you have done that, take up your swords, and be armoured in faith! 
 {French_Intro_20_2}The love of God is a thousand times stronger than any mortal armour! His wrath against our foes is a thousand times better than a thousand arrows. Our faith gives us his aid, and more - it will give us victory! Now, cry "Saint Denis" and look for that victory. 
@@ -516,7 +516,7 @@
 {French_Intro_5_2}Valour is becoming in a man. It gives him poise and a certain appeal to the ladies. I tell you this as one who is accounted brave - but then to be brave among Frenchmen is to be brave among the brave. There's comfort in that, should you find your own courage slipping. 
 {French_Intro_6_1}In war, there's little so becoming a man as valour - and courage can take many forms. Those malcontents and gossips who would question the need for me to gallop up and down our lines should remember that even where the enemy is not, a general may still be needed. I'll say no more on this matter now. 
 {French_Intro_6_2}What higher compliment can I pay you, good Frenchmen, when I say that you can handle this battle without my aid? Rather than fight and - although I should not say this - "get in the way", I shall remain here and order the preparations for our victory feast. 
-{French_Intro_7_1}I know that French honour demands satisfaction, but I will have no rashness and disobedience in this army. Without order we are a rabble, fit only to be counted as Englishmen! Doubt me not - I will have the skin from the back of any man who does not listen to orders. 
+{French_Intro_7_1}I know that French honour demands satisfaction, but I will have no rashness and disobedience in this army. Without order we are a rabble, fit only to be counted as imperialmen! Doubt me not - I will have the skin from the back of any man who does not listen to orders. 
 {French_Intro_8_1}It is an honour to be thought a well-educated Frenchman. But I tell you that in all the books I've ever studied, I have never seen an account of something as lowly and disgusting as our foes. Even bookworms and dusty beetles have more pride than they. 
 {French_Intro_9_1}Arse pickles. Puke stains. Codpiece fondlers, whoreson mollies, and male harlots. Bum sniffers. Lusting nun-hounds and winkle suckers. Have I missed out anything concerning these our foes? 
 {French_One_Liner_1}Hold high the banners! Let our enemies see that it is a French army that comes to destroy them! 
@@ -534,7 +534,7 @@
 {French_One_Liner_20}I would see our foes as carrion before I next breakfast! To arms, you French! 
 {French_One_Liner_21}I hesitate to call our enemies stupid. It is a useful word, and does not need to be devalued! Instead, I call them "targets!"
 {French_One_Liner_22}Battle is upon us! When you come at the enemy - try to ignore the smell of dung! Fear of you will have done that! Forward!
-{French_One_Liner_23}That foul reek - redolent of sottish Englishmen - is caused by simple fear! Our enemies need killing to end their misery! 
+{French_One_Liner_23}That foul reek - redolent of sottish imperialmen - is caused by simple fear! Our enemies need killing to end their misery! 
 {French_One_Liner_24}God hates our enemies! He hates any but true Frenchmen! So let's do God's work and slaughter them! 
 {French_One_Liner_25}Let's be at them, my children, let's be at them! I think they've manured that bit of the field enough now! 
 {French_One_Liner_26}Saint Genevieve prevent us from looking like our foes! What a rabble of moon-faced peasants and reeking scum! 
@@ -561,7 +561,7 @@
 {French_One_Liner_45}God's blood! I thought I might be struck blind at the sight of so many deformed wretches - then I realised they were our enemies! So let's get them!
 {French_One_Liner_46}You can tell those are the enemy! No honest Frenchman would let his bowels turn to water so! 
 {French_One_Liner_47}Fix the peasant dogs with a glaring eye, and strike while they quail before you! 
-{French_One_Liner_48}Our foes are as mad as Englishmen! Don't catch their lunacy! And if you do, pray to Saint Denis! 
+{French_One_Liner_48}Our foes are as mad as imperialmen! Don't catch their lunacy! And if you do, pray to Saint Denis! 
 {French_One_Liner_49}Saint Denis preserve us. There's much work for our swords today!
 {French_One_Liner_5}Let our rallying cry be: "France! France and Saint Denis!"
 {French_One_Liner_6}Frenchmen! It is time. Look to your weapons, say your prayers, and kneel before God! 
@@ -581,52 +581,52 @@
 {German_Enemy_11_1}Our foes today are dangerous and mad in equal measure. The hot sun bakes madness into many creatures - especially Egyptians. Watch them closely and beware their tricks. 
 {German_Enemy_12_1}Our foes today are masters of falsehood and trickery. These Egyptians doubtless have plans to win the day, but they are fools to believe that they can prevail against brave men. 
 {German_Enemy_12_2}Our Egyptian foes should pray to their God - shortly they will be judged before him. We will send them all to Heaven or Hell soon enough. 
-{German_Enemy_13_1}Scotsmen! There is no creature on earth as low and vile as a Scotsman, save an Englishman. That they both come from the same dank and dismal island is enough to damn them all in my eyes. The pox take the lot of them - or failing that, our swords. 
+{German_Enemy_13_1}Scotsmen! There is no creature on earth as low and vile as a Scotsman, save an imperialman. That they both come from the same dank and dismal island is enough to damn them all in my eyes. The pox take the lot of them - or failing that, our swords. 
 {German_Enemy_14_1}Your Scotsman fights well, and looks like a man but I ask you to consider that any people who make a virtue of playing the bagpipes should be despised and killed, if only to save our hearing. 
 {German_Enemy_14_2}Those Scots over there need to be killed. But we do them a kindness because that way they escape their shrieking, shrill and horrid wives - women better suited to gutting fish than pleasing men. 
 {German_Enemy_15_1}Those heathen Aztecs yonder are children. Aye, the children of the Devil himself, for none but Satan would have spawned such a brood of murderers and sinners. Kill them now, and save yourselves. 
 {German_Enemy_16_1}Those Aztecs are bred from the blood of Cain, and they delight in bloody perversity and sin. No man who kills an Aztec here does any wrong in the sight of God or any honest man. He does only good. 
 {German_Enemy_16_2}Today you will face cruel and pagan foes. Every one of these Aztecs that you cut down will cleanse a sin. Do not stay your hands. 
-{German_Enemy_17_1}Look, you steadfast Germans and see - there is the loathsome Turk! God will bless our bloody work today in defending Christendom and the Empire against these fiends! They are servants of evil, so at them, and victory awaits. 
+{German_Enemy_17_1}Look, you steadfast Germans and see - there is the loathsome Turk! God will bless our bloody work today in defending Christendom and the Imperium against these fiends! They are servants of evil, so at them, and victory awaits. 
 {German_Enemy_18_1}The Turks are cruel men, known throughout the world for their harsh ways. It is well that they meet justice at the hands of soldierly Germans. It is well that Imperial soldiers are here to strike them down and make safe our fatherland. 
 {German_Enemy_18_2}Our foes today are masters of cruelty. These Turks doubtless have plans to torture us all, but they are fools to believe that they can prevail against steel held in good German fists. Fools, but dangerous ones, and we do well to remember that too as we face them. 
 {German_Enemy_19_1}I like not these Polish whoresons. They have a poxed, knavish and crooked look, and resemble pigs in armour more than men. Be careful that they do not bite you, stout-hearted soldiers. 
 {German_Enemy_1_1}The Venetians are the web-footed children of poisonous frogs and sea eels. We do not need to fear them! 
 {German_Enemy_20_1}These Poles are more than half wolf, methinks. And like wolves everywhere, they deserve to be hunted down and slain. Let's to the hunt, men! 
-{German_Enemy_20_2}Men, these Poles lack all honour and martial quality that marks out a German. Let us treat them with the respect they merit and kill them, showing how sons of the Empire make war upon our enemies. 
+{German_Enemy_20_2}Men, these Poles lack all honour and martial quality that marks out a German. Let us treat them with the respect they merit and kill them, showing how sons of the Imperium make war upon our enemies. 
 {German_Enemy_21_1}Zounds! These French fools provoke a wrath in me that I cannot contain. From crown to soles, a Frenchman is an abomination - his taste in whores alone is enough to make a man wretch! I am glad that such creatures are our enemies, for business and pleasure can then mix. 
 {German_Enemy_22_1}Our foes, the French, it is said, are better lovers than they are fighters. This is true: ask any goat, pig, or other farmyard animal. 
 {German_Enemy_22_2}Our French foes hold us in scant regard, men. They treat duty and honour as things to be put aside, and cover their moral nakedness with words like "glory" and "France". They are not worthy foes for soldiers such as we. 
 {German_Enemy_23_1}I have little time - and much hate - for the so-called Imperial knaves yonder. They dishonour everyone that carries the proud title of German. They pollute the land they walk upon, and their blood would poison even the wide sea. I would see them dead, and their carcasses heaped for burning. 
-{German_Enemy_24_1}Our foes march beneath a sacred banner, the flag of the Empire. And they sully it simply by their foul touch. They are not good German soldiers, they are not even good Germans, or honest men! They are worms, to be trodden underfoot and fed to carrion crows. 
+{German_Enemy_24_1}Our foes march beneath a sacred banner, the flag of the Imperium. And they sully it simply by their foul touch. They are not good German soldiers, they are not even good Germans, or honest men! They are worms, to be trodden underfoot and fed to carrion crows. 
 {German_Enemy_24_2}Over there stand Germans who have been mislead by their lords and betters. They think themselves right in their cause, and worthy men as a result. Well, I say that they are scum and deserve nothing but contempt and punishment for their presumption in even being here. 
-{German_Enemy_25_1}An Englishman is a mongrel creature: part French, part almost-decent Saxon, part sheep ... and all utter bastard. If an Englishman could point to his father with certainty, I'd fall off my horse in shock. Still, that's what we have to fight. 
-{German_Enemy_26_1}To be called an "English soldier" is to be called nothing. A man cannot be English and call himself a soldier. He can be English and call himself a drunkard - or a sheep. So - those creatures are our enemies. 
-{German_Enemy_26_2}I spy an English army over there. At least, I assume it an English army, for I can think of no other people who think it necessary to reek like an alehouse privy! Even a Frenchman has more pride than that. 
+{German_Enemy_25_1}An imperialman is a mongrel creature: part French, part almost-decent Saxon, part sheep ... and all utter bastard. If an imperialman could point to his father with certainty, I'd fall off my horse in shock. Still, that's what we have to fight. 
+{German_Enemy_26_1}To be called an "imperial soldier" is to be called nothing. A man cannot be imperial and call himself a soldier. He can be imperial and call himself a drunkard - or a sheep. So - those creatures are our enemies. 
+{German_Enemy_26_2}I spy an imperial army over there. At least, I assume it an imperial army, for I can think of no other people who think it necessary to reek like an alehouse privy! Even a Frenchman has more pride than that. 
 {German_Enemy_27_1}God's blood! My codpiece swells as I think upon the Hungarian dead who will soon litter this field. I would have you, as good, honest Germans put aside any soft feelings of mercy, and strike them with all the vigour and iron in your souls. I would see not a one left alive. 
 {German_Enemy_28_1}These Hungarians make a brave show, but then apes can be trained to do remarkable things. Appearance is hardly enough when it comes to battle, especially when they face the true substance of warriorhood in you, my brave Germans. 
-{German_Enemy_28_2}Our Hungarian foes should never have left the stables where they were birthed. The reek of horse dung suits them better than the honest air of a battlefield. We will shortly geld them and break them, or I am no true servant of the Empire. 
+{German_Enemy_28_2}Our Hungarian foes should never have left the stables where they were birthed. The reek of horse dung suits them better than the honest air of a battlefield. We will shortly geld them and break them, or I am no true servant of the Imperium. 
 {German_Enemy_29_1}Our Mongol foes have the shape of men, but not men as we are! They are Satan's tools, made from horse dung in imitation of God's handiwork with Adam. And in fighting them, we do God's work, protecting all good people from their unholy savagery. Show no mercy, for they will certainly show none to you. 
 {German_Enemy_2_1}Those Venetians can count money faster than a Hamburg fishwife. Let's see how fast they count their dead. 
 {German_Enemy_2_2}Our foes don't look much like soldiers - more like a bunch of bankers, in fact. But then the loot from their corpses will be worth all our trouble. 
 {German_Enemy_30_1}Our Mongol enemies today think themselves to be great warriors. And perhaps they are, according to their lights. Well, I say they have met their match in you, brave Imperial soldiers. 
-{German_Enemy_30_2}I do not think honest soldiers for the Empire like us should feel anything other than pity when they see our Mongol foes - pity for the horses having to support such bony arses. 
-{German_Enemy_31_1}These Byzantines are hardly fit enemies for honest soldiers of the Empire. Our foes today are a bunch of backstabbing knaves and conspiratorial liars. I can think of no people in Christendom less honest. 
+{German_Enemy_30_2}I do not think honest soldiers for the Imperium like us should feel anything other than pity when they see our Mongol foes - pity for the horses having to support such bony arses. 
+{German_Enemy_31_1}These Byzantines are hardly fit enemies for honest soldiers of the Imperium. Our foes today are a bunch of backstabbing knaves and conspiratorial liars. I can think of no people in Christendom less honest. 
 {German_Enemy_32_1}These Byzantine fools are less than worthy foes - they should go back to their whoremongering and leave soldiering to men who know their business. 
 {German_Enemy_32_2}Our foes, the foul Byzantines, cannot be trusted by plain-speaking Germans. Keep your wits about you, men, and strike as soon as the opportunity presents. 
-{German_Enemy_33_1}Our foes today are Moors, which means that they are all heathens and godless loons. Killing them is a duty and a pleasure for soldiers of our Holy Empire. 
+{German_Enemy_33_1}Our foes today are Moors, which means that they are all heathens and godless loons. Killing them is a duty and a pleasure for soldiers of our Holy Imperium. 
 {German_Enemy_34_1}By Saint Michael, those Moorish madmen over there have a peculiar reek. That's the stench of the heathen mixed with the smell of the camels that they love. No nosegay could mask that, and I fear all the beer in our camp may be soured by it. 
 {German_Enemy_34_2}If our Moorish foes had any sense they would flee back to the scorpions and snakes that fathered them. For shame, they would not face the poorest Bohemian peasant, lest steadfast men-at-arms such as you. 
 {German_Enemy_35_1}The Russian peasants we face today will rue the day they were born. Those that are not slain must be driven back to their wild motherland with such tales of woe and blood that the word "German" will loosen bowels for a hundred years. 
 {German_Enemy_36_1}Our Russian foes should never have left their hovels to fight against an Imperial army. They will think kindly of their masters' whips by the time we are done with them - those that still have brains intact within their ugly heads. 
-{German_Enemy_36_2}Over there is a Russian army, men who have almost certainly run away from their womenfolk. And who would not, for Russian women are bear-like in manner and looks. We should give thanks that we live in an Empire blessed with good looking wives - even if they are usually married to someone else. 
+{German_Enemy_36_2}Over there is a Russian army, men who have almost certainly run away from their womenfolk. And who would not, for Russian women are bear-like in manner and looks. We should give thanks that we live in an Imperium blessed with good looking wives - even if they are usually married to someone else. 
 {German_Enemy_37_1}Here you face a Spanish army full of mewling, over-pious fools and milksops. They spend too long on their knees to be good fighters, and lack all the iron that makes Imperial soldiers. I hate them with a passion, and it will be my pleasure to lead you to victory! 
 {German_Enemy_38_1}God has created two sorts of men: Spaniards and those who kill Spaniards. God loves only the killers of Spaniards, so by Saint George let us serve God and be loved for it. 
 {German_Enemy_38_2}Your Spanish enemies are proud, perhaps too proud. In this place I mean to see them humbled and cut down to size. We'll see how these over-proud Iberians like the taste of German steel. 
 {German_Enemy_39_1}By Saint George! I mean to see these Portuguese vagabonds humbled, and their banners trampled beneath my feet. Their fish-faced ways offend me and I suspect offend their wives too. God's blood, would you want to sleep with something that miserable?
 {German_Enemy_3_1}God's wounds! I don't know who smells worse - our foppish Milanese enemies or their repulsive womenfolk. 
 {German_Enemy_40_1}I apologise for the smell of our Portuguese enemies: fish guts and their own vomit! The one is because that is their trade, the other because they lack all courage. I suspect their smell has been not improved by the knowledge that they face Imperial men-at-arms. 
-{German_Enemy_40_2}Cheer, servants of the Empire, cheer and put fear in the hearts of the fish-reeking enemy. That way, they'll be less inclined to dispute our right to victory, because these Portuguese are fishermen, not soldiers. 
+{German_Enemy_40_2}Cheer, servants of the Imperium, cheer and put fear in the hearts of the fish-reeking enemy. That way, they'll be less inclined to dispute our right to victory, because these Portuguese are fishermen, not soldiers. 
 {German_Enemy_41_1}Rebels are an offence in the sight of God. They turn upon their own kind and their own masters. They turn upon the natural order of the world, and they turn against God. They deserve nothing but death. 
 {German_Enemy_42_1}Our foes are rebels and traitors, and deserve nothing but the edge of a blade upon their stinking necks. And a sword is a merciful end to them, for they should face the gallows.
 {German_Enemy_42_2}These rebellious knaves and villains are not fit to breathe the same air as we honest Germans. They must all die before dawn comes again; this is a mercy, because they richly deserve the gallows for turning against their betters. 
@@ -635,7 +635,7 @@
 {German_Enemy_44_2}These horse-lovers are not fit enemies for you, but they are the best that I can do today. I'm sure you will do your utmost, as dutiful Imperial soldiers, to kill them anyway. 
 {German_Enemy_4_1}Those fops from Milan think that they are soldiers! I laugh at such an idea, for they can barely lift a bag of money, let alone a sword. 
 {German_Enemy_4_2}Those Milanese are good with money. It will help them when they count their dead, but will it help their womenfolk with the mourning? 
-{German_Enemy_5_1}Those Sicilians are like Englishmen: they come from a nasty little island, enjoy the company of sheep, and need trimming a little with a broadsword. 
+{German_Enemy_5_1}Those Sicilians are like imperialmen: they come from a nasty little island, enjoy the company of sheep, and need trimming a little with a broadsword. 
 {German_Enemy_6_1}Those Sicilians are both treacherous and cruel. I'm told, though, that they have no true courage. This will be the work of minutes, I'm sure. 
 {German_Enemy_6_2}Those Sicilians are the servants of Satan. The Devil must be scraping the barrel to use such as them. Let us return them to their master. 
 {German_Enemy_7_1}This is an unholy day - that we should have to fight honest men who listen to the falsehoods of lying prelates, toadying cardinals, and an anti-Christ Pope. 
@@ -651,8 +651,8 @@
 {German_Extros_12_2}And now, to your duties. Those poxed, hag-born, codpiece ends and slattern-fondlers need killing. Go to it! 
 {German_Extros_13_1}And when all is done, I will have my pick of the enemy women, although I fear that I will have little joy in it. I do not usually care to bed cabbages and turnips! I generally prefer something more ... jiggly!
 {German_Extros_13_2}And if you should happen to come across a lady in need of my protection - send her to my tent after the fighting! Battle gives me two things: a powerful thirst ... and a thrusting appetite! 
-{German_Extros_14_1}And so we go to battle! We band of brothers will go on to a great victory for the Empire! And when we have won that victory, we will drink until all grief is drowned in a sea of good ale! 
-{German_Extros_14_2}If God wills it, I will die content here, for I have fought besides the finest soldiers in the world. I would be in no other place, and have no other friends than good Germans and good soldiers of the Empire. But talk of death is too soon - I would rather share the honour of this battle with you, brave Germans. 
+{German_Extros_14_1}And so we go to battle! We band of brothers will go on to a great victory for the Imperium! And when we have won that victory, we will drink until all grief is drowned in a sea of good ale! 
+{German_Extros_14_2}If God wills it, I will die content here, for I have fought besides the finest soldiers in the world. I would be in no other place, and have no other friends than good Germans and good soldiers of the Imperium. But talk of death is too soon - I would rather share the honour of this battle with you, brave Germans. 
 {German_Extros_15_1}Unkind souls have called me mad, but I am not. It is true that I did think I was French, but now I am mostly better - my morbid fear of garlic is no hindrance to high command! All right - let's to the fight! 
 {German_Extros_15_2}And at the last, I tell you my madness is much reduced. My presentment that we are as chess pieces moved about for the amusement of strangely garbed darkling creatures was entirely mistaken! I feel much recovered in my wits! 
 {German_Extros_15_3}And remember, the enemy march between glittering banners, given to them by the King of Elvenfolk, but I have a secret whistle that shrivels all Faerie stuff. Isn't that nice? Do you feel safer now? I do!
@@ -661,7 +661,7 @@
 {German_Extros_16_3}And finally, I tell you that I have fought many battles. I face this one with the knowledge that I have followed the Cross and done God's work. Because I have done that, He will not allow me to face defeat! Victory is ours - for it is in the gift of our Lord! 
 {German_Extros_1_1}And at the last, I have no more words, save that I want them all dead, dead, DEAD! Dead as a Frenchman's honour!
 {German_Extros_1_2}And so to it! God knows I want nothing more than those bastards dead at my feet! GAHHHAHAR!
-{German_Extros_20_1}Now kneel, bow your heads to your Saviour and look only to God to grant us victory. Only with His aid can the Empire surely triumph. 
+{German_Extros_20_1}Now kneel, bow your heads to your Saviour and look only to God to grant us victory. Only with His aid can the Imperium surely triumph. 
 {German_Extros_20_2}And now I trust my life to God, for I know our Imperial cause is true and just. So pray, you brave fools, and make sure God knows you think the same.
 {German_Extros_20_3}And now any man here who is not praying for our victory had better make his peace with God, for he'll find none with me or in any Imperial lands hereafter. Now bring me my broadsword, then let me kiss our holy banner. I place my fate in the hands of the Lord.
 {German_Extros_21_1}And now all is said! Let's to it pell-mell - and send our enemies to fry in Hell! 
@@ -670,7 +670,7 @@
 {German_Extros_24_1}And now, put your trust in good steel and duty. Then let us see what God intends. 
 {German_Extros_25_1}And so make your peace with God and your fellows. Do not brood on what is to come. Raise high the Imperial banner! Go with God! 
 {German_Extros_2_1}And now to battle! I will have each man do his duty - and this includes silence rather than idle gossip. Those who speak of my leadership are only the most turnip-headed of knaves. And such turnips, sooner or later, are boiled - in their own lard. 
-{German_Extros_2_2}And at the last, I will have you carry out my plans to perfection. I will not spend time fruitlessly thinking up cunning stratagems for you soldiers to bugger them up. Do not let the Empire down. Do not let me down! 
+{German_Extros_2_2}And at the last, I will have you carry out my plans to perfection. I will not spend time fruitlessly thinking up cunning stratagems for you soldiers to bugger them up. Do not let the Imperium down. Do not let me down! 
 {German_Extros_2_3}And at the last, I'll have nothing more said about my skill as a general. I am an Imperial general. If you do not accept that, then you must be some kind of poxed Frenchman. Saint Michael will rightly see that you go to Hell. Now cheer, and put some fear into the foe! 
 {German_Extros_3_1}And now, I beseech you, listen well to orders. That simple matter, Imperial fortitude and duty will see all well. 
 {German_Extros_3_2}And now, we come to battle. I remind you that it is a soldier's duty to obey orders, from time to time. I do not shout because I love the sound of my own voice! I would have some orders obeyed. Sometimes. 
@@ -680,16 +680,16 @@
 {German_Extros_5_2}And now, I have a taste for blood. I have an appetite for their blood - I thirst for it! I would have it in tun-loads! So - AT THEM, GOOD GERMANS! 
 {German_Extros_6_1}And so, let's get on with it then. Yes, that would be the best thing. Do your duty and suchlike. Yes. Erm, that's the lot really. I hope I've raised your spirits a bit with these few words. Yes. Well. Let's get on... 
 {German_Extros_7_1}So we come to it! By Saint Michael, there's nothing so becoming a man in battle as duty. And as Imperial soldiers, you should know your duty! It will pass for true bravery until the real thing comes to you! Now march on with me! 
-{German_Extros_7_2}And now we come to the moment! I am accounted valiant within the Empire, and do not willing keep counsel with cowards. But fie! I see none when I look at you! So now we march! 
+{German_Extros_7_2}And now we come to the moment! I am accounted valiant within the Imperium, and do not willing keep counsel with cowards. But fie! I see none when I look at you! So now we march! 
 {German_Extros_7_3}And now, noble Germans, look to your duty - and smile! If you die, you die in the company of friends. No man can ask for a better end than that! It follows that worry and fear are needless burdens, and can be left behind! I do not march with them, and am considered a brave man. So, advance as I do! 
 {German_Extros_8_1}And so good soldiers, march away! My duties here will delay me until the battle is properly joined. But once the crisis comes, you'll see that I am a man of many parts and will be everywhere, and nowhere, at once. Now, march away! 
 {German_Extros_8_2}By Saint Michael! A cunning plan has come to me! I shall await events here, good soldiers, and act as a reserve, ready to fall upon the foe like an avenging angel. Or, mayhap, I will be ready to fall back and secure our rear, should that be needful. 
-{German_Extros_8_3}And remember, no man who does his duty is a coward! My duties are onerous and many, and leave no time for thoughts of cowardice! So march away, and think only of the Empire now! 
+{German_Extros_8_3}And remember, no man who does his duty is a coward! My duties are onerous and many, and leave no time for thoughts of cowardice! So march away, and think only of the Imperium now! 
 {German_Extros_9_1}And remember - by Saint Michael I will have all duties done according to the rules of war. We will shame our opponents with our good Imperial order! Now cheer, and affright them! Cheer! 
-{German_Extros_9_2}I am proud of the fact that there is no harder task master in the Empire than I. Men faint like ladies when I exercise command over them, and I would have it no other way. I will have absolute obedience - that will bring victory. Now: cheer! 
-{German_Intro_10_1}This is a glorious moment in the history of the Empire. Here we dutiful Germans will write a new page of the Imperial chronicles, a page where we will live forever, remembered and honoured down through the years, celebrated in tavern song and bawdy tales. And that's just if we die here. 
+{German_Extros_9_2}I am proud of the fact that there is no harder task master in the Imperium than I. Men faint like ladies when I exercise command over them, and I would have it no other way. I will have absolute obedience - that will bring victory. Now: cheer! 
+{German_Intro_10_1}This is a glorious moment in the history of the Imperium. Here we dutiful Germans will write a new page of the Imperial chronicles, a page where we will live forever, remembered and honoured down through the years, celebrated in tavern song and bawdy tales. And that's just if we die here. 
 {German_Intro_11_1}I will not lie to you. Battle is a dangerous thing, and we may go now to glory or to our doom. Now, I tell you that it is my duty to make sure that we have victory here, just as it is yours to fight. If God wills it, I will give you glory. Doom can take those other fellows. 
-{German_Intro_11_2}It is not my way to send men into needless peril during battle. But I do expect you to do your duty, as I will do mine. If all do their duty then the Empire will have a victory here. Now, let's to other matters. 
+{German_Intro_11_2}It is not my way to send men into needless peril during battle. But I do expect you to do your duty, as I will do mine. If all do their duty then the Imperium will have a victory here. Now, let's to other matters. 
 {German_Intro_11_3}And so we come to the hour of battle. I will give you victory - if you have the guts to fight like Imperial soldiers when I ask it! I will not ask men to die needlessly - I will throw no lives away. But I do expect each man to do his part. Victory will be the reward. 
 {German_Intro_12_1}And so to battle. I must tell you that being killed will damage your chances of promotion - ha! I do like my little jokes, I fear - but when this is all over we'll drink to victory. I'm sure a few peasants can be set to cleaning up the field while we enjoy our inevitable triumph. 
 {German_Intro_13_1}By Saint Michael, I am in two minds about this battle. Good arguments have been advanced as to our many strategies. There is much to say for all of them. I have it in mind to sit for a while and see how the battle develops. No harm can come to our Imperial cause from a little caution, sensibly applied. 
@@ -703,22 +703,22 @@
 {German_Intro_20_1}Cry unto the heavens, soldiers! Let God and Saint Michael hear your righteous voices! Beg for the strength to master this enemy, for we have righteousness in our Imperial cause. And when you have done that, take up your swords, and be armoured in faith! 
 {German_Intro_20_2}The love of God is a thousand times stronger than any mortal armour! His wrath against our foes is a thousand times better than a thousand arrows. Our faith gives us his aid, and more - it will give us victory! Now, cry "Saint Michael" and look for that victory. 
 {German_Intro_20_3}Our foes are ungodly beasts, and so we are but the swords in the hands of the hosts of Heaven! We do God's glorious work and if we fall, we do so in His cause! If we triumph, we do so because He has willed an Imperial victory! Now, bow your heads, then let's to the appointed task! 
-{German_Intro_21_1}This battle is your chance, good soldiers of the Empire, to gentle your condition. A few moments of blood, and duty done. Then all can be yours when we have victory! Loot, women, drink, good food, honour, glory, knighthood - each a fine reward, but together they are unsurpassed. 
-{German_Intro_22_1}Through Saint Michael's intercession we have been brought to this place, brought here to fight for God's glory and in His name. Our enemies must quail at the thought of our German might! We would do well to pray because the shedding of blood is an offence, but it is one that we willingly do - for by it, we establish God's peace! We do this for the Empire and God. 
+{German_Intro_21_1}This battle is your chance, good soldiers of the Imperium, to gentle your condition. A few moments of blood, and duty done. Then all can be yours when we have victory! Loot, women, drink, good food, honour, glory, knighthood - each a fine reward, but together they are unsurpassed. 
+{German_Intro_22_1}Through Saint Michael's intercession we have been brought to this place, brought here to fight for God's glory and in His name. Our enemies must quail at the thought of our German might! We would do well to pray because the shedding of blood is an offence, but it is one that we willingly do - for by it, we establish God's peace! We do this for the Imperium and God. 
 {German_Intro_23_1}Well here is a thing of glory! We have a foe worth the killing, and good Germans beside me who wait upon their orders. I also feel an inspiring speech coming on! So listen to me now, listen to me. 
 {German_Intro_24_1}I have brought you here to fight! I brought you here because you are duty-bound Germans, and no enemy looks on you without fear. I promise nothing save a hard struggle! But would you have me tell you anything else? Would you have me pour honeyed words into your ears? I thought not. 
 {German_Intro_2_1}A German's honour and duty should be the same thing. And here, duty should mean obedience. I will have that obedience on this field, else my wrath will fall upon the miscreants. I would not use the whip, but I will if needs must. 
-{German_Intro_3_1}Duty has brought me here, despite the many wounds that I have suffered and the scars that I bear. Duty to the Empire, and to you, my fine soldiers. I mean to lead you to victory, if God wills it. 
-{German_Intro_4_1}Well, yes, then. It's time and we must all do our best and try not to die too horribly. So let's try to do this with some old fashioned German order in our ranks. Yes. Order. And a sense of duty. And be resolute, because you're good, honest, stout-hearted German soldiers. That was the other thing - remember the Empire! Oh, Yes.
+{German_Intro_3_1}Duty has brought me here, despite the many wounds that I have suffered and the scars that I bear. Duty to the Imperium, and to you, my fine soldiers. I mean to lead you to victory, if God wills it. 
+{German_Intro_4_1}Well, yes, then. It's time and we must all do our best and try not to die too horribly. So let's try to do this with some old fashioned German order in our ranks. Yes. Order. And a sense of duty. And be resolute, because you're good, honest, stout-hearted German soldiers. That was the other thing - remember the Imperium! Oh, Yes.
 {German_Intro_5_1}I am known for my bravery, a honour indeed among the brave German people! But I also know my duty - and here that is to lead you to victory. That, or a valiant end, but I would prefer victory. 
-{German_Intro_5_2}In war there's nothing so becoming as valour. Fear is not an impediment to bravery, for any man in battle without some fear is simple. To be brave is to go forward, to face the enemy, to beat him, no matter how frightened. That is why we will go forwards, as good servants of the Empire. 
+{German_Intro_5_2}In war there's nothing so becoming as valour. Fear is not an impediment to bravery, for any man in battle without some fear is simple. To be brave is to go forward, to face the enemy, to beat him, no matter how frightened. That is why we will go forwards, as good servants of the Imperium. 
 {German_Intro_6_1}Duty is a terrible burden for a leader. And my burden today is to remain here, poised for action and ready to contain any sudden crisis. Do not presume that a sudden crisis will necessarily be visible to all - judging the moment is one of the arts of command. 
 {German_Intro_6_2}Duty sometimes demands sacrifices, and here my duty is clear. I will make every effort to secure our rear, thus sacrificing my own chances of glory. You, brave Imperial soldiers, will go forward and carry the battle - and fortunately without me bellowing distracting commands from time to time. 
 {German_Intro_7_1}Duty and discipline are the two things that separate an army from a rabble. We are an Imperial army. We should - we will - have both qualities in abundance. I have spoken. 
-{German_Intro_8_1}It is an honour to be thought a well-educated man. Our Empire is, after all, the refuge of Roman wisdom! But I tell you that in all my studies, I have never encountered the like of our foes. They would fill bestiaries as yet unwritten, and good scholars would blush to record their perversities. 
+{German_Intro_8_1}It is an honour to be thought a well-educated man. Our Imperium is, after all, the refuge of Roman wisdom! But I tell you that in all my studies, I have never encountered the like of our foes. They would fill bestiaries as yet unwritten, and good scholars would blush to record their perversities. 
 {German_Intro_9_1}We Germans know a thing or two about tosspots and piss-a-bed nun-fanciers. After all, we have Bohemians to look down upon. But I did not know until now there was a race of goat-sucker and doxy-poxed loons who used fishes' arses in place of their heads. 
 {German_One_Liner_1}Hold up the flag! Foes should always know who is about to kill them! Let the enemy see the Imperial banner!
-{German_One_Liner_10}Strike them down! Strike them down for the Empire and Saint Michael! 
+{German_One_Liner_10}Strike them down! Strike them down for the Imperium and Saint Michael! 
 {German_One_Liner_11}Those are your foes! They are maggot-ridden pus from Satan's own pimples! Kill them all! 
 {German_One_Liner_12}Cheer, you worthy Germans, cheer! And let the enemy hear what real soldiers sound like! 
 {German_One_Liner_13}What pudding heads! Is that the best the enemy can do? I will have them dead - aye, all of them! 
@@ -744,7 +744,7 @@
 {German_One_Liner_31}At them, noble Germans, at them! This land needs washing with the blood of our enemies! 
 {German_One_Liner_32}If it takes our blood to hallow this ground, so be it! But I would rather the enemy do the dying! Attack! 
 {German_One_Liner_33}Our enemy await Death and his scythe! We, brave Germans are the instruments of Death - advance! 
-{German_One_Liner_34}The Empire expects victory! I expect victory! Go forward, and take it! 
+{German_One_Liner_34}The Imperium expects victory! I expect victory! Go forward, and take it! 
 {German_One_Liner_35}I wonder why so many pigs have come here - no, wait, those are our foes! Let the butchery begin! 
 {German_One_Liner_36}I would have our Imperial flags carried forward! Our enemies should know who is coming to kill them! 
 {German_One_Liner_37}The enemy? The enemy? I've eaten sausages with more real meat! 
@@ -761,14 +761,14 @@
 {German_One_Liner_47}Keep the enemy at arms' length, men! I fear their bowels have turned to water! 
 {German_One_Liner_48}Our foes are as mad and wrong as Frenchmen! Lets help them - by removing their heads!
 {German_One_Liner_49}Saint Michael aid us! There is much work for honest German steel here! To arms! 
-{German_One_Liner_5}Let our rallying cry be: "The Empire! The Empire and Saint Michael!"
+{German_One_Liner_5}Let our rallying cry be: "The Imperium! The Imperium and Saint Michael!"
 {German_One_Liner_6}Soldiers! It is time! Look to your arms! Look to your hearts! And advance! 
 {German_One_Liner_7}Steady, you brave Germans, steady, I say! Let the enemy do the dying here. 
-{German_One_Liner_8}I say only this: you fight for the Empire, and great things are expected! But you will do nothing less! 
+{German_One_Liner_8}I say only this: you fight for the Imperium, and great things are expected! But you will do nothing less! 
 {German_One_Liner_9}We are Imperial soldiers! We bow down to no man, least of all that raggle-taggle band of brigands over there! 
 {German_Situation_10_1}Fully half of our army is here. You are a mighty force, made even mightier by the aid of Saint George. 
 {German_Situation_10_2}Beneath this Imperial banner stand half of all our soldiers. We cannot lose, for that would be a sore blow to our cause. Instead, let us do great deeds and be worthy of honour. 
-{German_Situation_11_1}Today you are the largest of our armies in the field. The Empire expects great things of you, that you will win great glory and make this a day long remembered. 
+{German_Situation_11_1}Today you are the largest of our armies in the field. The Imperium expects great things of you, that you will win great glory and make this a day long remembered. 
 {German_Situation_11_2}You men are three-quarters of all Germans under arms. This is a terrible thing for an enemy to face, and your deeds will further sear this day into the memories of our enemies. 
 {German_Situation_12_1}Those men are a quarter of our foe's total strength. Think on that, for when they are dead the enemy will be massively weaker. 
 {German_Situation_12_2}With God's good graces, we shall strike down a quarter of our enemy's army today. "Courage" will be our watchword, "despair" theirs. 
@@ -777,7 +777,7 @@
 {German_Situation_14_1}This battle is a vital one to our enemies. Fully three-quarters of their soldiers oppose us. They fear Germans that much. Well, today they will learn there is folly in numbers. 
 {German_Situation_14_2}Fully three in four of our foes stand before you. Shall we show them how bravely we Germans can fight, no matter who opposes us? 
 {German_Situation_15_1}Here is where we stand. Here is where we live or die as Germans. Here is where we must turn the tide and triumph, or see our people crushed beneath a tyrant's heel. We must not fail. 
-{German_Situation_15_2}Today will be a judgement on us all. If some of us die it will count for nought, as long as our Empire lives on. We cannot fail, if we do then all is lost. And you, my fine soldiers, will never let that happen. 
+{German_Situation_15_2}Today will be a judgement on us all. If some of us die it will count for nought, as long as our Imperium lives on. We cannot fail, if we do then all is lost. And you, my fine soldiers, will never let that happen. 
 {German_Situation_16_1}This is the final dung-heap. Doubtless our foes will fight like cornered rats to keep their lives, but we must harden our hearts. Let your cry be 'no mercy' until they are utterly cast down. 
 {German_Situation_16_2}We have driven the enemy back to his last bolt-hole. Now is the time for the last great attack, men. Now will German courage be rewarded with final victory. 
 {German_Situation_17_1}We must not fail in this struggle, for if we do our allies will fail utterly. Imperial honour will count for little if we let our friends be destroyed. 
@@ -785,21 +785,21 @@
 {German_Situation_1_1}We stand in defence of German lands - our homes - knowing that the enemy must not pass. This place is ours, and we will shed our blood to keep it so. 
 {German_Situation_1_2}Remember that we cannot let one of those pigs in. Not a one. Any who enters must stay only to be meat for the carrion crows. 
 {German_Situation_2_1}We stand before this city because our foes should have no peace - or, for that matter, homes. Why should we give them any safety in this world, when they are so manifestly undeserving? And when the city is ours, it will be the jewel in the Imperial sceptre. 
-{German_Situation_2_2}We attack this city because we must, if our foe is to be broken. They must learn that the price of defiance is high - a home taken, loved ones lost. That this city would be a fine addition to the Empire is a fine bonus. 
+{German_Situation_2_2}We attack this city because we must, if our foe is to be broken. They must learn that the price of defiance is high - a home taken, loved ones lost. That this city would be a fine addition to the Imperium is a fine bonus. 
 {German_Situation_3_1}These walls are stout enough, if German hearts be true. Let no man think of anything but defiance of the foe, for none shall enter and live while I draw breath. 
 {German_Situation_3_2}This fortress must be held against all the enemy's wiles and stratagems. We stand on these battlements and defy them all. 
 {German_Situation_4_1}This fortress must be taken, no matter what opposition our foes offer. Let no man think of anything except breaching the walls, and raising our German banners on its towers. 
 {German_Situation_4_2}We stand before mighty walls, but I am certain that we have the power to take them. Our foes would do well to throw open the gates and end this now - but they won't, of course. 
 {German_Situation_5_1}I will not speak much about our situation. It is simple. God and our faith have brought us here, and now the faithful have great hopes for us. With their prayers, we can finish this crusade. 
-{German_Situation_5_2}We have come a long way on crusade. Now we attack not for ourselves, but in God's name and for His Empire. We will triumph for that one reason: because we attack in His name. 
+{German_Situation_5_2}We have come a long way on crusade. Now we attack not for ourselves, but in God's name and for His Imperium. We will triumph for that one reason: because we attack in His name. 
 {German_Situation_6_1}Here we must make a stand, and hold our foe on this field. We must make them rue the day that they polluted our German soil. They must be broken utterly, lest they have the strength to attack your homes. 
-{German_Situation_6_2}This is where we make sure that our foes come no further, where we safeguard our homes, cities and families - the Empire itself. We say to them: "this far, and no further." 
+{German_Situation_6_2}This is where we make sure that our foes come no further, where we safeguard our homes, cities and families - the Imperium itself. We say to them: "this far, and no further." 
 {German_Situation_7_1}Now is our chance, brave solders! One swift battle, and the road to plunder is open. If we brush aside this army there are no other defenders to hinder our march on the city. 
 {German_Situation_7_2}The enemy must hold us here, or lose their lands. They will try their best, but lacking the raw courage of Germans they will fail. 
 {German_Situation_8_1}This day will long be remembered, come what may. Men will say that here many Germans fought with courage, some died well - and they will drink a toast in memory of all that we do today. This is a day for true heroes. 
 {German_Situation_8_2}In years to come our bloody work will become the stuff of minstrels' tales. Any German who fights with me today need never have his courage or manhood doubted again. This is a day for heroes. 
 {German_Situation_9_1}You men represent fully one quarter of our forces, and our people expect great things of you. I know you will not disappoint. 
-{German_Situation_9_2}We band of brothers are one-fourth of the Empire's soldiers. And thus we carry a heavy duty to our people, our King and our God. 
+{German_Situation_9_2}We band of brothers are one-fourth of the Imperium's soldiers. And thus we carry a heavy duty to our people, our King and our God. 
 {German_Terrain_1_1}We stand today on high ground, a small advantage in battle. It is not one I intend to throw away. 
 {German_Terrain_1_2}This ground suits my purpose. The enemy must climb to us, and tired men fight but poorly. 
 {German_Terrain_2_1}The enemy stand on high ground, a small advantage and one we will ignore. 
@@ -862,7 +862,7 @@
 {Mediterranean_Enemy_11_1}Our foes today are mad, bad and dangerous in equal measures. The sun of their homeland has baked their brains for many generations, producing a tendency to dark cunning in all Egyptian progeny. Watch them closely, and beware of their trickery. 
 {Mediterranean_Enemy_12_1}Our foes today are crack-brained, it is true, but they are masters of deceit. These Egyptians doubtless scheme and hope to win the day, but they are fools to assume that our honour is to be cheaply overthrown. 
 {Mediterranean_Enemy_12_2}Our Egyptian foes should look to the state of their souls in the last few moments of life left to them. Shortly they will be judged by whatever God they worship when our swords send them screaming into the afterlife. 
-{Mediterranean_Enemy_13_1}Scotsmen! There is no creature on earth as low and vile as a Scotsman, save an Englishman. That they both come from the same dank and dismal island is enough to damn them all in my eyes. The pox take the lot of them - or failing that, our swords. 
+{Mediterranean_Enemy_13_1}Scotsmen! There is no creature on earth as low and vile as a Scotsman, save an imperialman. That they both come from the same dank and dismal island is enough to damn them all in my eyes. The pox take the lot of them - or failing that, our swords. 
 {Mediterranean_Enemy_14_1}Your Scotsman fights well, and looks like a man but I ask you to consider that any people who make a virtue of playing the bagpipes should be despised and killed, if only to save our hearing. 
 {Mediterranean_Enemy_14_2}Those Scots over there need to be killed. But we do them a kindness because that way they escape their shrieking, shrill and horrid wives - women better suited to gutting fish than pleasing men. 
 {Mediterranean_Enemy_15_1}Those heathen Aztecs yonder are children. Aye, the children of the Devil himself, for none but El Diablo would have spawned such a brood of murderers and sinners. Kill them now, and save yourselves. 
@@ -878,12 +878,12 @@
 {Mediterranean_Enemy_21_1}Zounds! These French fools provoke a wrath in me that I cannot contain. From crown to soles, a Frenchman is an abomination - his taste in whores alone is enough to make a man wretch! I am glad that such creatures are our enemies, for business and pleasure can then mix. 
 {Mediterranean_Enemy_22_1}Our foes, the French, it is said, are better lovers than they are fighters. This is true: ask any goat, pig, or other farmyard animal. 
 {Mediterranean_Enemy_22_2}Our French foes hold us - along with the rest of the world - in scant regard. This is a mistake they repeat and repeat, being arrogant and wine-sodden in equal measure - and thus slow to learn from their errors. 
-{Mediterranean_Enemy_23_1}Our foes call themselves followers of all that is Holy, Roman and an Empire - lies that must offend God! They offend me greatly too. 
+{Mediterranean_Enemy_23_1}Our foes call themselves followers of all that is Holy, Roman and an Imperium - lies that must offend God! They offend me greatly too. 
 {Mediterranean_Enemy_24_1}That Imperial army yonder is full of dunderheads, knaves and fools. The good thing about men with wooden heads is that they split easily beneath the axe. 
 {Mediterranean_Enemy_24_2}Over there stands a miserable collection of sausage-eating, beer-swilling, Imperial pudding-heads. I think they will welcome death. 
-{Mediterranean_Enemy_25_1}God's blood! Is there anything more disgusting than those sheep-sucking English dotards over there? Possibly their mothers, mayhap, or their lords - men who would shame El Diablo with their repulsive perversities. 
-{Mediterranean_Enemy_26_1}That isle of England breeds dullards and fools, I see, possibly thanks to the damp weather and lack of decent wine. It will be a kindness to take the sword to those fellows, methinks. 
-{Mediterranean_Enemy_26_2}Pity those Englishmen! God forgot England when he set the sun in the heavens. Fogs and mists are all those people see from birth to death. It is a mercy to kill them, for at least the weather is better in Hell. 
+{Mediterranean_Enemy_25_1}God's blood! Is there anything more disgusting than those sheep-sucking imperial dotards over there? Possibly their mothers, mayhap, or their lords - men who would shame El Diablo with their repulsive perversities. 
+{Mediterranean_Enemy_26_1}That isle of Empire breeds dullards and fools, I see, possibly thanks to the damp weather and lack of decent wine. It will be a kindness to take the sword to those fellows, methinks. 
+{Mediterranean_Enemy_26_2}Pity those imperialmen! God forgot Empire when he set the sun in the heavens. Fogs and mists are all those people see from birth to death. It is a mercy to kill them, for at least the weather is better in Hell. 
 {Mediterranean_Enemy_27_1}God's blood! The smell of these Hungarians is enough to sour good wine, and turn any honest man's stomach to boot! Let us be done with them quickly. 
 {Mediterranean_Enemy_28_1}These Hungarians make a brave show, but that is hardly enough when it comes to battle. We shall see, shortly, if they know how to die well. 
 {Mediterranean_Enemy_28_2}Our Hungarian foes would do well to run back to the stables where they were birthed. We will shortly harness them, geld them and break them to our purpose. 
@@ -1192,7 +1192,7 @@
 {Scottish_One_Liner_11}Look at yon foemen! Satan's arse must ache from overuse!
 {Scottish_One_Liner_12}Cheer your hearts out, you noble Scots, and put fear in your foes' hearts!
 {Scottish_One_Liner_13}Our foes are lackwits! Perhaps they'll run when they feel the sword's edge!
-{Scottish_One_Liner_14}Our foes are aw moonfaced zanies! Anyone would think that they were English sheep!
+{Scottish_One_Liner_14}Our foes are aw moonfaced zanies! Anyone would think that they were imperial sheep!
 {Scottish_One_Liner_15}Aye, this may be a bonny fight, but let's make sure its a short one - for them!
 {Scottish_One_Liner_16}Yon fools are so scared of you that their breachers are fuller than there hearts.
 {Scottish_One_Liner_17}Ah, lads! My blood is up and would be at battle soon! Let's to it!

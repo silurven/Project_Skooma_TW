@@ -190,7 +190,7 @@ EAX:
         
  ;;;;;  small forest
    forest
-    climates tropical, semi_arid, steppe, highland, custom_1 ; sandy_desert, 
+    climates tropical, semi_arid, steppe, highland, custom_1 ; sandy_desert, custom_2, custom_3
     provider "Miles Fast 2D Positional Audio"
         room        ENVIRONMENT_FOREST
         parameter   "EAX effect volume"     .2
@@ -221,7 +221,7 @@ EAX:
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ; List of used music types
-music_types_enum northern_european eastern_european southern_european middle_eastern mesoamerican
+music_types_enum placeholderC, Imperial
 
 ; descr_sounds_music_types.txt is loaded in world_map from world/maps/base/
 

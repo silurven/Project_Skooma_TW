@@ -8,7 +8,7 @@
 {AZTECS_STRENGTH}Brave, zealous and vast in numbers.
 {AZTECS_UNIT}Jaguar Warriors 
 {AZTECS_WEAKNESS}Completely lacking in armour and weapon technology.
-{BYZANTIUM}The Byzantine Empire
+{BYZANTIUM}The Byzantine Imperium
 {BYZANTIUM_STRENGTH}Good heavy cavalry and missile cavalry, capable archers.
 {BYZANTIUM_UNIT}Varangian Guard
 {BYZANTIUM_WEAKNESS}Lacks late period gunpowder.
@@ -195,44 +195,44 @@
 {EMT_EGYPT_VILLAGE}Egyptian Village
 {EMT_EGYPT_WATCHTOWER}Egyptian Watchtower
 {EMT_EGYPT_WOODEN_CASTLE}Egyptian Motte and Bailey
-{EMT_ENGLAND_ADMIRAL}English Navy
-{EMT_ENGLAND_ARMOUR_LEVEL_1}Padded
-{EMT_ENGLAND_ASSASSIN}English Assassin
-{EMT_ENGLAND_CAPITAL}English Capital
-{EMT_ENGLAND_CASTLE}English Castle
-{EMT_ENGLAND_CITY}English City
-{EMT_ENGLAND_DIPLOMAT}English Diplomat
-{EMT_ENGLAND_DOCK}English Docks
-{EMT_ENGLAND_FACTION_HEIR}English Faction Heir
-{EMT_ENGLAND_FACTION_HEIR_NAME}Prince %S
-{EMT_ENGLAND_FACTION_HEIR_TITLE}Faction Heir
-{EMT_ENGLAND_FACTION_LEADER}English Faction Leader
-{EMT_ENGLAND_FACTION_LEADER_NAME}King %S
-{EMT_ENGLAND_FACTION_LEADER_TITLE}Faction Leader
-{EMT_ENGLAND_FISHING_VILLAGE}English Fishing Village
-{EMT_ENGLAND_FORMER_FACTION_LEADER_TITLE}King
-{EMT_ENGLAND_FORT}English Fort
-{EMT_ENGLAND_FORTRESS}English Citadel
-{EMT_ENGLAND_GENERAL}English Army
-{EMT_ENGLAND_HUGE_CITY}English Huge City
-{EMT_ENGLAND_LARGE_CASTLE}English Fortress
-{EMT_ENGLAND_LARGE_CITY}English Large City
-{EMT_ENGLAND_LARGE_TOWN}English Large Town
-{EMT_ENGLAND_MERCHANT}English Merchant
-{EMT_ENGLAND_NAMED_CHARACTER}English Family Member
-{EMT_ENGLAND_NAMED_GENERAL}English General
-{EMT_ENGLAND_PORT}English Port
-{EMT_ENGLAND_PRIEST}English Priest
-{EMT_ENGLAND_PRIEST_1}English Bishop
-{EMT_ENGLAND_PRIEST_2}English Cardinal
-{EMT_ENGLAND_PRINCESS}English Princess
-{EMT_ENGLAND_SPY}English Spy
-{EMT_ENGLAND_STAR_FORT}English Star Fort
-{EMT_ENGLAND_STONE_KEEP}English Wooden Castle
-{EMT_ENGLAND_TOWN}English Town
-{EMT_ENGLAND_VILLAGE}English Village
-{EMT_ENGLAND_WATCHTOWER}English Watchtower
-{EMT_ENGLAND_WOODEN_CASTLE}English Motte and Bailey
+{EMT_EMPIRE_ADMIRAL}imperial Navy
+{EMT_EMPIRE_ARMOUR_LEVEL_1}Padded
+{EMT_EMPIRE_ASSASSIN}imperial Assassin
+{EMT_EMPIRE_CAPITAL}imperial Capital
+{EMT_EMPIRE_CASTLE}imperial Castle
+{EMT_EMPIRE_CITY}imperial City
+{EMT_EMPIRE_DIPLOMAT}imperial Diplomat
+{EMT_EMPIRE_DOCK}imperial Docks
+{EMT_EMPIRE_FACTION_HEIR}imperial Faction Heir
+{EMT_EMPIRE_FACTION_HEIR_NAME}Prince %S
+{EMT_EMPIRE_FACTION_HEIR_TITLE}Faction Heir
+{EMT_EMPIRE_FACTION_LEADER}imperial Faction Leader
+{EMT_EMPIRE_FACTION_LEADER_NAME}King %S
+{EMT_EMPIRE_FACTION_LEADER_TITLE}Faction Leader
+{EMT_EMPIRE_FISHING_VILLAGE}imperial Fishing Village
+{EMT_EMPIRE_FORMER_FACTION_LEADER_TITLE}King
+{EMT_EMPIRE_FORT}imperial Fort
+{EMT_EMPIRE_FORTRESS}imperial Citadel
+{EMT_EMPIRE_GENERAL}imperial Army
+{EMT_EMPIRE_HUGE_CITY}imperial Huge City
+{EMT_EMPIRE_LARGE_CASTLE}imperial Fortress
+{EMT_EMPIRE_LARGE_CITY}imperial Large City
+{EMT_EMPIRE_LARGE_TOWN}imperial Large Town
+{EMT_EMPIRE_MERCHANT}imperial Merchant
+{EMT_EMPIRE_NAMED_CHARACTER}imperial Family Member
+{EMT_EMPIRE_NAMED_GENERAL}imperial General
+{EMT_EMPIRE_PORT}imperial Port
+{EMT_EMPIRE_PRIEST}imperial Priest
+{EMT_EMPIRE_PRIEST_1}imperial Bishop
+{EMT_EMPIRE_PRIEST_2}imperial Cardinal
+{EMT_EMPIRE_PRINCESS}imperial Princess
+{EMT_EMPIRE_SPY}imperial Spy
+{EMT_EMPIRE_STAR_FORT}imperial Star Fort
+{EMT_EMPIRE_STONE_KEEP}imperial Wooden Castle
+{EMT_EMPIRE_TOWN}imperial Town
+{EMT_EMPIRE_VILLAGE}imperial Village
+{EMT_EMPIRE_WATCHTOWER}imperial Watchtower
+{EMT_EMPIRE_WOODEN_CASTLE}imperial Motte and Bailey
 {EMT_FRANCE_ADMIRAL}French Navy
 {EMT_FRANCE_ASSASSIN}French Assassin
 {EMT_FRANCE_CAPITAL}French Capital
@@ -509,10 +509,10 @@
 {EMT_NORMANS_VILLAGE}Norman Village
 {EMT_NORMANS_WATCHTOWER}Norman Watchtower
 {EMT_NORMANS_WOODEN_CASTLE}Norman Motte and Bailey
-{EMT_NORTHERN_EUROPEAN_ARMOUR_LEVEL_1}Padded
-{EMT_NORTHERN_EUROPEAN_PRIEST}Priest
-{EMT_NORTHERN_EUROPEAN_PRIEST_1}Bishop
-{EMT_NORTHERN_EUROPEAN_PRIEST_2}Cardinal
+{EMT_placeholderC_ARMOUR_LEVEL_1}Padded
+{EMT_placeholderC_PRIEST}Priest
+{EMT_placeholderC_PRIEST_1}Bishop
+{EMT_placeholderC_PRIEST_2}Cardinal
 {EMT_PAPAL_STATES_ADMIRAL}Papal States Navy
 {EMT_PAPAL_STATES_ASSASSIN}Papal States Assassin
 {EMT_PAPAL_STATES_CAPITAL}Papal States Capital
@@ -959,14 +959,14 @@
 {EMT_VENICE_WATCHTOWER}Venetian Watchtower
 {EMT_VENICE_WOODEN_CASTLE}Venetian Motte and Bailey
 {EMT_VICTORY_AZTECS}The Aztecs are Victorious
-{EMT_VICTORY_BYZANTIUM}The Byzantine Empire is Victorious
+{EMT_VICTORY_BYZANTIUM}The Byzantine Imperium is Victorious
 {EMT_VICTORY_DENMARK}The Danes are Victorious
 {EMT_VICTORY_DESCR_SAXONS}<<< PLACEHOLDER TEXT >>>
 {EMT_VICTORY_DESCR_SLAVE}<<< PLACEHOLDER TEXT >>>
 {EMT_VICTORY_EGYPT}The Egyptians are Victorious
-{EMT_VICTORY_ENGLAND}The English are Victorious
+{EMT_VICTORY_EMPIRE}The imperial are Victorious
 {EMT_VICTORY_FRANCE}The French are Victorious
-{EMT_VICTORY_HRE}The Holy Roman Empire is Victorious
+{EMT_VICTORY_HRE}The Holy Roman Imperium is Victorious
 {EMT_VICTORY_HUNGARY}The Hungarians are Victorious
 {EMT_VICTORY_MILAN}The Milanese are Victorious
 {EMT_VICTORY_MONGOLS}The Mongols are Victorious
@@ -1003,9 +1003,9 @@
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_BYZANTIUM}Your forces are ambushed by an army of Byzantium
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_DENMARK}Your forces are ambushed by an army of Denmark
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_EGYPT}Your forces are ambushed by an army of Egypt
-{EMT_YOUR_FORCES_AMBUSHED_ARMY_ENGLAND}Your forces are ambushed by an army of England
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_EMPIRE}Your forces are ambushed by an army of Empire
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_FRANCE}Your forces are ambushed by an army of France
-{EMT_YOUR_FORCES_AMBUSHED_ARMY_HRE}Your forces are ambushed by an army of the Holy Roman Empire
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_HRE}Your forces are ambushed by an army of the Holy Roman Imperium
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_HUNGARY}Your forces are ambushed by an army of Hungary
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_MILAN}Your forces are ambushed by an army of Milan
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_MONGOLS}Your forces are ambushed by an army of Mongols
@@ -1027,9 +1027,9 @@
 {EMT_YOUR_FORCES_AMBUSH_ARMY_BYZANTIUM}Your forces ambush an army of Byzantium
 {EMT_YOUR_FORCES_AMBUSH_ARMY_DENMARK}Your forces ambush an army of Denmark
 {EMT_YOUR_FORCES_AMBUSH_ARMY_EGYPT}Your forces ambush an army of Egypt
-{EMT_YOUR_FORCES_AMBUSH_ARMY_ENGLAND}Your forces ambush an army of England
+{EMT_YOUR_FORCES_AMBUSH_ARMY_EMPIRE}Your forces ambush an army of Empire
 {EMT_YOUR_FORCES_AMBUSH_ARMY_FRANCE}Your forces ambush an army of France
-{EMT_YOUR_FORCES_AMBUSH_ARMY_HRE}Your forces ambush an army of the Holy Roman Empire
+{EMT_YOUR_FORCES_AMBUSH_ARMY_HRE}Your forces ambush an army of the Holy Roman Imperium
 {EMT_YOUR_FORCES_AMBUSH_ARMY_HUNGARY}Your forces ambush an army of Hungary
 {EMT_YOUR_FORCES_AMBUSH_ARMY_MILAN}Your forces ambush an army of Milan
 {EMT_YOUR_FORCES_AMBUSH_ARMY_MONGOLS}Your forces ambush an army of Mongols
@@ -1051,9 +1051,9 @@
 {EMT_YOUR_FORCES_ATTACKED_ARMY_BYZANTIUM}Your forces are attacked by an army of Byzantium
 {EMT_YOUR_FORCES_ATTACKED_ARMY_DENMARK}Your forces are attacked by an army of Denmark
 {EMT_YOUR_FORCES_ATTACKED_ARMY_EGYPT}Your forces are attacked by an army of Egypt
-{EMT_YOUR_FORCES_ATTACKED_ARMY_ENGLAND}Your forces are attacked by an army of England
+{EMT_YOUR_FORCES_ATTACKED_ARMY_EMPIRE}Your forces are attacked by an army of Empire
 {EMT_YOUR_FORCES_ATTACKED_ARMY_FRANCE}Your forces are attacked by an army of France
-{EMT_YOUR_FORCES_ATTACKED_ARMY_HRE}Your forces are attacked by an army of the Holy Roman Empire
+{EMT_YOUR_FORCES_ATTACKED_ARMY_HRE}Your forces are attacked by an army of the Holy Roman Imperium
 {EMT_YOUR_FORCES_ATTACKED_ARMY_HUNGARY}Your forces are attacked by an army of Hungary
 {EMT_YOUR_FORCES_ATTACKED_ARMY_MILAN}Your forces are attacked by an army of Milan
 {EMT_YOUR_FORCES_ATTACKED_ARMY_MONGOLS}Your forces are attacked by an army of the Mongols
@@ -1075,9 +1075,9 @@
 {EMT_YOUR_FORCES_ATTACKED_NAVY_BYZANTIUM}Your forces are attacked by a Byzantine navy
 {EMT_YOUR_FORCES_ATTACKED_NAVY_DENMARK}Your forces are attacked by a Danish navy
 {EMT_YOUR_FORCES_ATTACKED_NAVY_EGYPT}Your forces are attacked by an Egyptian navy
-{EMT_YOUR_FORCES_ATTACKED_NAVY_ENGLAND}Your forces are attacked by an English navy
+{EMT_YOUR_FORCES_ATTACKED_NAVY_EMPIRE}Your forces are attacked by an imperial navy
 {EMT_YOUR_FORCES_ATTACKED_NAVY_FRANCE}Your forces are attacked by a French navy
-{EMT_YOUR_FORCES_ATTACKED_NAVY_HRE}Your forces are attacked by a navy of the Holy Roman Empire
+{EMT_YOUR_FORCES_ATTACKED_NAVY_HRE}Your forces are attacked by a navy of the Holy Roman Imperium
 {EMT_YOUR_FORCES_ATTACKED_NAVY_HUNGARY}Your forces are attacked by a Hungarian navy
 {EMT_YOUR_FORCES_ATTACKED_NAVY_MILAN}Your forces are attacked by a navy of Milan
 {EMT_YOUR_FORCES_ATTACKED_NAVY_MONGOLS}Your forces are attacked by a Mongolian navy
@@ -1099,9 +1099,9 @@
 {EMT_YOUR_FORCES_ATTACK_ARMY_BYZANTIUM}Your forces attack an army of Byzantium
 {EMT_YOUR_FORCES_ATTACK_ARMY_DENMARK}Your forces attack an army of Denmark
 {EMT_YOUR_FORCES_ATTACK_ARMY_EGYPT}Your forces attack an army of Egypt
-{EMT_YOUR_FORCES_ATTACK_ARMY_ENGLAND}Your forces attack an army of England
+{EMT_YOUR_FORCES_ATTACK_ARMY_EMPIRE}Your forces attack an army of Empire
 {EMT_YOUR_FORCES_ATTACK_ARMY_FRANCE}Your forces attack an army of France
-{EMT_YOUR_FORCES_ATTACK_ARMY_HRE}Your forces attack an army of the Holy Roman Empire
+{EMT_YOUR_FORCES_ATTACK_ARMY_HRE}Your forces attack an army of the Holy Roman Imperium
 {EMT_YOUR_FORCES_ATTACK_ARMY_HUNGARY}Your forces attack an army of Hungary
 {EMT_YOUR_FORCES_ATTACK_ARMY_MILAN}Your forces attack an army of Milan
 {EMT_YOUR_FORCES_ATTACK_ARMY_MONGOLS}Your forces attack an army of Mongols
@@ -1123,9 +1123,9 @@
 {EMT_YOUR_FORCES_ATTACK_NAVY_BYZANTIUM}Your forces attack a Byzantine navy
 {EMT_YOUR_FORCES_ATTACK_NAVY_DENMARK}Your forces attack a Danish navy
 {EMT_YOUR_FORCES_ATTACK_NAVY_EGYPT}Your forces attack an Egyptian navy
-{EMT_YOUR_FORCES_ATTACK_NAVY_ENGLAND}Your forces attack an English navy
+{EMT_YOUR_FORCES_ATTACK_NAVY_EMPIRE}Your forces attack an imperial navy
 {EMT_YOUR_FORCES_ATTACK_NAVY_FRANCE}Your forces attack a French navy
-{EMT_YOUR_FORCES_ATTACK_NAVY_HRE}Your forces attack a navy of the Holy Roman Empire
+{EMT_YOUR_FORCES_ATTACK_NAVY_HRE}Your forces attack a navy of the Holy Roman Imperium
 {EMT_YOUR_FORCES_ATTACK_NAVY_HUNGARY}Your forces attack a Hungarian Navy
 {EMT_YOUR_FORCES_ATTACK_NAVY_MILAN}Your forces attack a navy of Milan
 {EMT_YOUR_FORCES_ATTACK_NAVY_MONGOLS}Your forces attack a Mongol navy
@@ -1143,10 +1143,10 @@
 {EMT_YOUR_FORCES_ATTACK_NAVY_TIMURIDS}Your forces attack a Timurid navy 
 {EMT_YOUR_FORCES_ATTACK_NAVY_TURKS}Your forces attack a Turkish navy
 {EMT_YOUR_FORCES_ATTACK_NAVY_VENICE}Your forces attack a Venetian navy
-{ENGLAND}England
-{ENGLAND_STRENGTH}Boasts superb longbowmen and strong infantry.
-{ENGLAND_UNIT}Longbowmen 
-{ENGLAND_WEAKNESS}Fields a poor variety of cavalry.
+{EMPIRE}Empire
+{EMPIRE_STRENGTH}Boasts superb longbowmen and strong infantry.
+{EMPIRE_UNIT}Longbowmen 
+{EMPIRE_WEAKNESS}Fields a poor variety of cavalry.
 {EXPLORERS_GUILD_MISSION_EXPIRE}Explorers' Guild Mission Expired
 {EXPLORERS_GUILD_MISSION_FAIL}Explorers' Guild Mission Failed
 {EXPLORERS_GUILD_MISSION_GIVEN}A Request from the Explorers' Guild
@@ -1165,10 +1165,10 @@
 {FRANCE_UNIT}Gendarmes
 {FRANCE_WEAKNESS}Relatively weak infantry in early period
 {GREEK}Byzantine
-{HRE}The Holy Roman Empire
+{HRE}The Holy Roman Imperium
 {HRE_STRENGTH}Strong all-round.
 {HRE_UNIT}Gothic Knights
-{HRE_WEAKNESS}Lacks the late period professional armies of England and France. 
+{HRE_WEAKNESS}Lacks the late period professional armies of Empire and France. 
 {HUGE_PAPAL_STANDING_REWARD_DESCR}Your reputation with the Pope has improved enormously.
 {HUGE_PAPAL_STANDING_REWARD_PRE_DESCR}Your reputation with the Pope will improve enormously. 
 {HUNGARY}Hungary
@@ -1224,7 +1224,7 @@
 {MOORS_WEAKNESS}Lacks strong late period units.
 {NORMANS}Normans
 {NORMANS_DESCR}Normans
-{NORTHERN_EUROPEAN}Northern European
+{Imperial}Imperial
 {PAPAL_STATES}The Papal States
 {PAPAL_STATES_STRENGTH}Have the typically strong militia of the Italian powers.
 {PAPAL_STATES_UNIT}Swiss Guards

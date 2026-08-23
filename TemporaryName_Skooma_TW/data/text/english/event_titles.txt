@@ -67,7 +67,7 @@
 {disaster_storm}Storm
 {disaster_volcano}Volcano Erupts
 {dominant_religion}A Powerful Faith
-{eastern_shadow_faction}A New Roman Empire in the East?
+{eastern_shadow_faction}A New Roman Imperium in the East?
 {emergent_faction_appears}A New Faction Emerges
 {excommunicate}Faction Excommunicated
 {exterminate_populace}Resistance is Futile!
@@ -180,7 +180,7 @@
 {relations_report}Relations Report
 {relations_worsened}Relations Worsened
 {retraining_complete}Retraining Complete
-{roman_empire_reunited}The Roman Empire is Reborn!
+{roman_imperium_reunited}The Roman Imperium is Reborn!
 {settlement_besieged}Settlement Besieged
 {settlement_bribed}Settlement Bribed!
 {settlement_destroyed}Settlement Destroyed
@@ -216,7 +216,7 @@
 {war_declared}War!!!
 {war_declared_non_player}War Declared
 {war_declared_on_ally}Allies Declare War!
-{western_shadow_faction}A New Western Roman Empire?
+{western_shadow_faction}A New Western Roman Imperium?
 {wonder_approval}Papal Approval
 {wonder_captured}Wonder Captured
 {wonder_lost}Wonder Lost

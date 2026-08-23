@@ -13,10 +13,10 @@ Milan_Intro_13
 Milan_Intro_14
 Egyptian_Intro_14
 Egyptian_Intro_15
-English_Intro_1
-English_Intro_4
-English_Intro_5
-English_Intro_9
+imperial_Intro_1
+imperial_Intro_4
+imperial_Intro_5
+imperial_Intro_9
 Scottish_Intro_12
 Scottish_Intro_13
 French_Intro_1
@@ -51,8 +51,8 @@ Hre_Intro_4
 Hre_Intro_5
 Denmark_Intro_14
 Denmark_Intro_15
-England_Outro_Win_1
-England_Outro_Win_2
+Empire_Outro_Win_1
+Empire_Outro_Win_2
 Venice_Outro_Win_1
 Venice_Outro_Win_2
 France_Outro_Win_1
@@ -74,7 +74,7 @@ Milan_Outro_Win_1
 Egypt_Outro_Win_1
 Turks_Outro_Win_1
 Moors_Outro_Win_1
-England_Outro_Lose_1
+Empire_Outro_Lose_1
 Venice_Outro_Lose_1
 France_Outro_Lose_1
 Hre_Outro_Lose_1

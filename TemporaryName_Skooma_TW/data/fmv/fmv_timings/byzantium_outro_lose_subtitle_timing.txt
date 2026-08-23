@@ -1,3 +1,0 @@
-<SYNC Start=14000>
-<P Class=ENUSCC>Byzantium_Outro_Lose_1
-<SYNC Stop=28600>

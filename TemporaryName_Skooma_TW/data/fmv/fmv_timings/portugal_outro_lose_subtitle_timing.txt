@@ -1,3 +1,0 @@
-<SYNC Start=13200>
-<P Class=ENUSCC>Portugal_Outro_Lose_1
-<SYNC Stop=28400>

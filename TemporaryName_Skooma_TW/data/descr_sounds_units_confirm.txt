@@ -10,14 +10,10 @@ DEFAULT: distancepriority -1 randomdelay .3  effect_level .6 rndvolume -15
 
 BANK: unit_confirm
 
-   	
-			
-; Mediterranean, English, Scottish, German, French, East_European, Arabic, Mongolian				
-			
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  ROMAN   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
-	accent Mediterranean, English, Scottish, German, French, East_European, Arabic, Mongolian
+	accent Generic_Human
 		class General, Heavy
  			event lod 5 minpitch .8 maxpitch 1.0
  			  folder data/sounds/voice/human/generic

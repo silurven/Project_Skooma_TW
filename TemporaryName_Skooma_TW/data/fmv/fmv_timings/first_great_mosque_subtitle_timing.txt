@@ -1,3 +1,0 @@
-<SYNC Start=0>
-<P Class=ENUSCC>First_Great_Mosque_1
-<SYNC Stop=22700>

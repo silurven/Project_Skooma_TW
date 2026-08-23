@@ -142,7 +142,7 @@ horde_settles
 horde_in_your_region
 city_sacked
 dominant_religion
-roman_empire_reunited
+roman_imperium_reunited
 settlement_razed
 rebels_victorious
 huns_hording

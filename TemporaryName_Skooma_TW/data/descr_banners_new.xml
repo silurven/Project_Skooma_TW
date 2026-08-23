@@ -27,14 +27,14 @@
       <!--textures should contain factions Ally0, Ally1, Ally2 and Enemy0, Enemy1, Enemy2, Enemy3 - these are used for multiplayer-->
       <Banner Name="FactionBanner_TEST" MainMesh="data\banners\test_banner\new_banner_test_main.mesh" MiniMesh="data\banners\test_banner\new_banner_test_experience.mesh" GeneralMesh="data\banners\test_banner\new_banner_test_main.mesh" BuildingMesh="data\banners\test_banner\new_banner_test_main.mesh" EffectOffsetX="0.0" EffectOffsetY="6.0" EffectOffsetZ="0.0">
          <Textures>
-            <Texture Faction="England" DiffuseMap="banners\test_banner\test_textures\test_banner_all.texture" TranslucencyMap="banners\test_banner\test_textures\test_banner_all_trans.texture"/>
+            <Texture Faction="Empire" DiffuseMap="banners\test_banner\test_textures\test_banner_all.texture" TranslucencyMap="banners\test_banner\test_textures\test_banner_all_trans.texture"/>
             <Texture Faction="Ally0" DiffuseMap="banners\test_banner\test_textures\test_banner_all.texture" TranslucencyMap="banners\test_banner\test_textures\test_banner_all_trans.texture"/>
             <Texture Faction="Enemy0" DiffuseMap="banners\test_banner\test_textures\test_banner_all.texture" TranslucencyMap="banners\test_banner\test_textures\test_banner_all_trans.texture"/>
          </Textures>
       </Banner>
       <Banner Name="main_spear" MainMesh="data\banners\main_spear.mesh" MiniMesh="data\banners\mini_spear.mesh" GeneralMesh="data\banners\main_general.mesh" BuildingMesh="data\banners\main_spear.mesh" EffectOffsetX="0.0" EffectOffsetY="8.1" EffectOffsetZ="-0.1">
          <Textures>
-            <Texture Faction="England" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Empire" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="France" DiffuseMap="banners\textures\Faction_banner_france.texture" TranslucencyMap="banners\textures\Faction_banner_france_trans.texture"/>
             <Texture Faction="Hre" DiffuseMap="banners\textures\Faction_banner_hre.texture" TranslucencyMap="banners\textures\Faction_banner_hre_trans.texture"/>
             <Texture Faction="Spain" DiffuseMap="banners\textures\Faction_banner_spain.texture" TranslucencyMap="banners\textures\Faction_banner_spain_trans.texture"/>
@@ -70,13 +70,13 @@
             <Texture Faction="Enemy5" DiffuseMap="banners\textures\Faction_banner_enemy5.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Enemy6" DiffuseMap="banners\textures\Faction_banner_enemy6.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Saxons" DiffuseMap="banners\textures\Faction_banner_saxons.texture" TranslucencyMap="banners\textures\Faction_banner_saxons_trans.texture"/>
-            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="Slave" DiffuseMap="banners\textures\Faction_banner_rebels.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
          </Textures>
       </Banner>
       <Banner Name="main_infantry" MainMesh="data\banners\main_infantry.mesh" MiniMesh="data\banners\mini_infantry.mesh" GeneralMesh="data\banners\main_general.mesh" BuildingMesh="data\banners\main_spear.mesh" EffectOffsetX="0.0" EffectOffsetY="8.9" EffectOffsetZ="-0.1">
          <Textures>
-            <Texture Faction="England" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Empire" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="France" DiffuseMap="banners\textures\Faction_banner_france.texture" TranslucencyMap="banners\textures\Faction_banner_france_trans.texture"/>
             <Texture Faction="Hre" DiffuseMap="banners\textures\Faction_banner_hre.texture" TranslucencyMap="banners\textures\Faction_banner_hre_trans.texture"/>
             <Texture Faction="Spain" DiffuseMap="banners\textures\Faction_banner_spain.texture" TranslucencyMap="banners\textures\Faction_banner_spain_trans.texture"/>
@@ -112,13 +112,13 @@
             <Texture Faction="Enemy5" DiffuseMap="banners\textures\Faction_banner_enemy5.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Enemy6" DiffuseMap="banners\textures\Faction_banner_enemy6.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Saxons" DiffuseMap="banners\textures\Faction_banner_saxons.texture" TranslucencyMap="banners\textures\Faction_banner_saxons_trans.texture"/>
-            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="Slave" DiffuseMap="banners\textures\Faction_banner_rebels.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
          </Textures>
       </Banner>
       <Banner Name="main_cavalry" MainMesh="data\banners\main_cavalry.mesh" MiniMesh="data\banners\mini_cavalry.mesh" GeneralMesh="data\banners\main_general.mesh" BuildingMesh="data\banners\main_spear.mesh" EffectOffsetX="0.0" EffectOffsetY="8.1" EffectOffsetZ="0.0">
          <Textures>
-            <Texture Faction="England" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Empire" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="France" DiffuseMap="banners\textures\Faction_banner_france.texture" TranslucencyMap="banners\textures\Faction_banner_france_trans.texture"/>
             <Texture Faction="Hre" DiffuseMap="banners\textures\Faction_banner_hre.texture" TranslucencyMap="banners\textures\Faction_banner_hre_trans.texture"/>
             <Texture Faction="Spain" DiffuseMap="banners\textures\Faction_banner_spain.texture" TranslucencyMap="banners\textures\Faction_banner_spain_trans.texture"/>
@@ -154,13 +154,13 @@
             <Texture Faction="Enemy5" DiffuseMap="banners\textures\Faction_banner_enemy5.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Enemy6" DiffuseMap="banners\textures\Faction_banner_enemy6.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Saxons" DiffuseMap="banners\textures\Faction_banner_saxons.texture" TranslucencyMap="banners\textures\Faction_banner_saxons_trans.texture"/>
-            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="Slave" DiffuseMap="banners\textures\Faction_banner_rebels.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
          </Textures>
       </Banner>
       <Banner Name="main_missile" MainMesh="data\banners\main_missile.mesh" MiniMesh="data\banners\mini_missile.mesh" GeneralMesh="data\banners\main_general.mesh" BuildingMesh="data\banners\main_spear.mesh" EffectOffsetX="0.0" EffectOffsetY="8.1" EffectOffsetZ="0.0">
          <Textures>
-            <Texture Faction="England" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Empire" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="France" DiffuseMap="banners\textures\Faction_banner_france.texture" TranslucencyMap="banners\textures\Faction_banner_france_trans.texture"/>
             <Texture Faction="Hre" DiffuseMap="banners\textures\Faction_banner_hre.texture" TranslucencyMap="banners\textures\Faction_banner_hre_trans.texture"/>
             <Texture Faction="Spain" DiffuseMap="banners\textures\Faction_banner_spain.texture" TranslucencyMap="banners\textures\Faction_banner_spain_trans.texture"/>
@@ -196,7 +196,7 @@
             <Texture Faction="Enemy5" DiffuseMap="banners\textures\Faction_banner_enemy5.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Enemy6" DiffuseMap="banners\textures\Faction_banner_enemy6.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
             <Texture Faction="Saxons" DiffuseMap="banners\textures\Faction_banner_saxons.texture" TranslucencyMap="banners\textures\Faction_banner_saxons_trans.texture"/>
-            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <Texture Faction="Normans" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
             <Texture Faction="Slave" DiffuseMap="banners\textures\Faction_banner_rebels.texture" TranslucencyMap="banners\textures\Faction_banner_rebels_trans.texture"/>
          </Textures>
       </Banner>
@@ -204,12 +204,12 @@
    <UnitSpecificBanners>
       <Banner Name="UnitBanner_TEST">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\main_spear.mesh" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\main_spear.mesh" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
          </MeshesAndTextures>
       </Banner>
       <Banner Name="Hospitaller">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\special_unit_hospitallers.mesh" DiffuseMap="banners\textures\special_unit_hospitaller.texture" TranslucencyMap="banners\textures\special_unit_hospitaller_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\special_unit_hospitallers.mesh" DiffuseMap="banners\textures\special_unit_hospitaller.texture" TranslucencyMap="banners\textures\special_unit_hospitaller_trans.texture"/>
             <MeshAndTexture Faction="France" Mesh="data\banners\special_unit_hospitallers.mesh" DiffuseMap="banners\textures\special_unit_hospitaller.texture" TranslucencyMap="banners\textures\special_unit_hospitaller_trans.texture"/>
             <MeshAndTexture Faction="Venice" Mesh="data\banners\special_unit_hospitallers.mesh" DiffuseMap="banners\textures\special_unit_hospitaller.texture" TranslucencyMap="banners\textures\special_unit_hospitaller_trans.texture"/>
             <MeshAndTexture Faction="Milan" Mesh="data\banners\special_unit_hospitallers.mesh" DiffuseMap="banners\textures\special_unit_hospitaller.texture" TranslucencyMap="banners\textures\special_unit_hospitaller_trans.texture"/>
@@ -224,7 +224,7 @@
       </Banner>
       <Banner Name="Teutonic">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\special_unit_teutonic.mesh" DiffuseMap="banners\textures\special_unit_teutonic.texture" TranslucencyMap="banners\textures\special_unit_teutonic_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\special_unit_teutonic.mesh" DiffuseMap="banners\textures\special_unit_teutonic.texture" TranslucencyMap="banners\textures\special_unit_teutonic_trans.texture"/>
             <MeshAndTexture Faction="France" Mesh="data\banners\special_unit_teutonic.mesh" DiffuseMap="banners\textures\special_unit_teutonic.texture" TranslucencyMap="banners\textures\special_unit_teutonic_trans.texture"/>
             <MeshAndTexture Faction="Venice" Mesh="data\banners\special_unit_teutonic.mesh" DiffuseMap="banners\textures\special_unit_teutonic.texture" TranslucencyMap="banners\textures\special_unit_teutonic_trans.texture"/>
             <MeshAndTexture Faction="Milan" Mesh="data\banners\special_unit_teutonic.mesh" DiffuseMap="banners\textures\special_unit_teutonic.texture" TranslucencyMap="banners\textures\special_unit_teutonic_trans.texture"/>
@@ -239,7 +239,7 @@
       </Banner>
       <Banner Name="Templars">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\special_unit_templars.mesh" DiffuseMap="banners\textures\special_unit_templars.texture" TranslucencyMap="banners\textures\special_unit_templars_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\special_unit_templars.mesh" DiffuseMap="banners\textures\special_unit_templars.texture" TranslucencyMap="banners\textures\special_unit_templars_trans.texture"/>
             <MeshAndTexture Faction="France" Mesh="data\banners\special_unit_templars.mesh" DiffuseMap="banners\textures\special_unit_templars.texture" TranslucencyMap="banners\textures\special_unit_templars_trans.texture"/>
             <MeshAndTexture Faction="Venice" Mesh="data\banners\special_unit_templars.mesh" DiffuseMap="banners\textures\special_unit_templars.texture" TranslucencyMap="banners\textures\special_unit_templars_trans.texture"/>
             <MeshAndTexture Faction="Milan" Mesh="data\banners\special_unit_templars.mesh" DiffuseMap="banners\textures\special_unit_templars.texture" TranslucencyMap="banners\textures\special_unit_templars_trans.texture"/>
@@ -254,7 +254,7 @@
       </Banner>
       <Banner Name="Santiago">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\special_unit_santiago.mesh" DiffuseMap="banners\textures\special_unit_santiago.texture" TranslucencyMap="banners\textures\special_unit_santiago_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\special_unit_santiago.mesh" DiffuseMap="banners\textures\special_unit_santiago.texture" TranslucencyMap="banners\textures\special_unit_santiago_trans.texture"/>
             <MeshAndTexture Faction="France" Mesh="data\banners\special_unit_santiago.mesh" DiffuseMap="banners\textures\special_unit_santiago.texture" TranslucencyMap="banners\textures\special_unit_santiago_trans.texture"/>
             <MeshAndTexture Faction="Venice" Mesh="data\banners\special_unit_santiago.mesh" DiffuseMap="banners\textures\special_unit_santiago.texture" TranslucencyMap="banners\textures\special_unit_santiago_trans.texture"/>
             <MeshAndTexture Faction="Milan" Mesh="data\banners\special_unit_santiago.mesh" DiffuseMap="banners\textures\special_unit_santiago.texture" TranslucencyMap="banners\textures\special_unit_santiago_trans.texture"/>
@@ -277,12 +277,12 @@
    <HolyBanners>
       <Banner Name="HolyBanner_TEST">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\main_spear.mesh" DiffuseMap="banners\textures\Faction_banner_england.texture" TranslucencyMap="banners\textures\Faction_banner_england_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\main_spear.mesh" DiffuseMap="banners\textures\Faction_banner_empire.texture" TranslucencyMap="banners\textures\Faction_banner_empire_trans.texture"/>
          </MeshesAndTextures>
       </Banner>
       <Banner Name="Crusade">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\holy_banner_crusade.mesh" DiffuseMap="banners\textures\holy_banner_crusade.texture" TranslucencyMap="banners\textures\holy_banner_crusade_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\holy_banner_crusade.mesh" DiffuseMap="banners\textures\holy_banner_crusade.texture" TranslucencyMap="banners\textures\holy_banner_crusade_trans.texture"/>
             <MeshAndTexture Faction="France" Mesh="data\banners\holy_banner_crusade.mesh" DiffuseMap="banners\textures\holy_banner_crusade.texture" TranslucencyMap="banners\textures\holy_banner_crusade_trans.texture"/>
             <MeshAndTexture Faction="Hre" Mesh="data\banners\holy_banner_crusade.mesh" DiffuseMap="banners\textures\holy_banner_crusade.texture" TranslucencyMap="banners\textures\holy_banner_crusade_trans.texture"/>
             <MeshAndTexture Faction="Spain" Mesh="data\banners\holy_banner_crusade.mesh" DiffuseMap="banners\textures\holy_banner_crusade.texture" TranslucencyMap="banners\textures\holy_banner_crusade_trans.texture"/>
@@ -306,7 +306,7 @@
       </Banner>
       <Banner Name="Crusade_cavalry">
          <MeshesAndTextures>
-            <MeshAndTexture Faction="England" Mesh="data\banners\holy_banner_crusade_cavalry.mesh" DiffuseMap="banners\textures\holy_banner_crusade_cavalry.texture" TranslucencyMap="banners\textures\holy_banner_crusade_cavalry_trans.texture"/>
+            <MeshAndTexture Faction="Empire" Mesh="data\banners\holy_banner_crusade_cavalry.mesh" DiffuseMap="banners\textures\holy_banner_crusade_cavalry.texture" TranslucencyMap="banners\textures\holy_banner_crusade_cavalry_trans.texture"/>
             <MeshAndTexture Faction="France" Mesh="data\banners\holy_banner_crusade_cavalry.mesh" DiffuseMap="banners\textures\holy_banner_crusade_cavalry.texture" TranslucencyMap="banners\textures\holy_banner_crusade_cavalry_trans.texture"/>
             <MeshAndTexture Faction="Hre" Mesh="data\banners\holy_banner_crusade_cavalry.mesh" DiffuseMap="banners\textures\holy_banner_crusade_cavalry.texture" TranslucencyMap="banners\textures\holy_banner_crusade_cavalry_trans.texture"/>
             <MeshAndTexture Faction="Spain" Mesh="data\banners\holy_banner_crusade_cavalry.mesh" DiffuseMap="banners\textures\holy_banner_crusade_cavalry.texture" TranslucencyMap="banners\textures\holy_banner_crusade_cavalry_trans.texture"/>
@@ -332,13 +332,13 @@
    <RoyalBanner Name="royal">
       <!--Only single royal banner is supported-->
       <MeshesAndTextures>
-         <MeshAndTexture Faction="England" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_england.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
+         <MeshAndTexture Faction="Empire" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_empire.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Denmark" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_denmark.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="France" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_france.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Scotland" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_scotland.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Hre" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_hre.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Saxons" Mesh="data\banners\secondary_dragon_standard.mesh" DiffuseMap="banners\textures\dragon_standard.texture" TranslucencyMap="banners\textures\dragon_standard_trans.texture"/>
-         <MeshAndTexture Faction="Normans" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_england.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
+         <MeshAndTexture Faction="Normans" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_empire.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Poland" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_poland.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Hungary" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_hungary.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>
          <MeshAndTexture Faction="Russia" Mesh="data\banners\main_royal.mesh" DiffuseMap="banners\textures\royal_banner_russia.texture" TranslucencyMap="banners\textures\royal_banner_trans.texture"/>

@@ -3,7 +3,7 @@
 {Author_10}Robert Guiscard 
 {Author_100}Matthew of Edessa
 {Author_102}Fulcher of Chartres
-{Author_103}Conrad III, ruler of the Holy Roman Empire
+{Author_103}Conrad III, ruler of the Holy Roman Imperium
 {Author_104}Bernard of Clairvaux
 {Author_105}Pope Eugenius III
 {Author_106}Imad ad-Din Zanghi
@@ -49,7 +49,7 @@
 {Author_35}Christopher Marlowe 
 {Author_36}John Milton
 {Author_37}John Milton
-{Author_38}Henry II, King of England
+{Author_38}Henry II, King of Empire
 {Author_39}John Milton
 {Author_4}Geoffrey Chaucer, Canterbury Tales, The Knights Tale
 {Author_40}John Milton
@@ -80,7 +80,7 @@
 {Author_65}Gabriel Biel
 {Author_66}Fredrick I, Barbarossa
 {Author_67}Niccolò Machiavelli
-{Author_68}Edward III, King of England, Battle of Crecy 1345
+{Author_68}Edward III, King of Empire, Battle of Crecy 1345
 {Author_69}Thomas Elthem, Henry V's Chaplain at Agincourt
 {Author_7}Erasmus
 {Author_71}Michel Eyquem de Montaigne

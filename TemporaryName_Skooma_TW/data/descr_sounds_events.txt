@@ -2739,7 +2739,7 @@ type marian_reform
 				
 			end	
 			
-			type roman_empire_reunited
+			type roman_imperium_reunited
 	event 
 			folder data/sounds/SFX/Campaign_Map
 				;historic_event.mp3

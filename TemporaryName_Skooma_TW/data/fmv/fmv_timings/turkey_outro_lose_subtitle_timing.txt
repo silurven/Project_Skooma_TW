@@ -1,3 +1,0 @@
-<SYNC Start=13100>
-<P Class=ENUSCC>Turkey_Outro_Lose_1
-<SYNC Stop=28500>

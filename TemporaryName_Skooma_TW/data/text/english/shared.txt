@@ -41,7 +41,7 @@
 {ST_SOUND_MUSIC_VOL}Music
 {ST_SOUND_SPEECH_VOL}Speech
 {ST_SOUND_SUBTITLES}Subtitles
-{ST_SOUND_ENGLISH}English
+{ST_SOUND_imperial}imperial
 {ST_GFX_OPTIONS}Graphics Options
 {ST_GFX_UNIT_DETAIL}Unit Detail
 {ST_GFX_BUILDING_DETAIL}Building Detail
@@ -360,7 +360,7 @@
 {UA_BONUS_FIGHTING_ELEPHANTS_AND_CAVALRY}Bonus vs. elephants and chariots
 {GERR_REINSTALL_DX}Medieval 2: Total War failed to find DirectX 9, which is required for the game to run.\nPlease reinstall DirectX.
 {GERR_ANOTHER_INSTANCE}Another instance of Medieval 2: Total War is already running. This instance of Medieval 2 will now exit.
-{GERR_GENERIC}M2EX has encountered an error and will now exit.\nA crash report has been saved to the reports/ folder.\nPlease send this report to the developers to help us fix this problem. <3
+{GERR_GENERIC}Dagoth Ur has casted crash spell.\nA crash report has been saved to the reports/ folder.\nPlease send this report to the developers to fix this.
 {GERR_UNSUPPORTEDCPU}The processor in this computer is not supported.\nA processor with SSE or better is required.
 {ST_CANCEL_CHANGES}Cancel changes
 {ST_BDL_NOT_SPECIFIED}Automatic

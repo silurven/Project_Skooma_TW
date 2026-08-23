@@ -4,6 +4,7 @@ winter		false
 summer		false
 warning		false
 climate		rocky_desert
+climate		custom_3
 min_scale	2
 max_scale	5
 
@@ -50,6 +51,7 @@ winter		false
 summer		false
 warning		false
 climate		sandy_desert
+climate		custom_3
 min_scale	2
 max_scale	5
 

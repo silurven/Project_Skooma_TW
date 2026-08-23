@@ -1,6 +1,40 @@
-¬ M2TW strings
-{catholic}Catholic
-{heretic}Heretic
-{islam}Islam
-{orthodox}Orthodox
+¬M2TWstrings
+{eight_divines}Eight divines
+{nine_divines}Nine divines
+{azura}Azura
+{good_daedra}Good Daedra
+{dagoth}Sleeper
+{all_maker}All maker
+{riddle_thar}Riddle'Thar
+{alkosh_pantheon}Alkosh Pantheon
+{hist}Hist
+{altmer_aedra}Aedra
+{bosmer_pantheon}Bosmer Pantheon
+{power}Philosophy of power
+{Daedric}Daedric
+{hircine}Hiricne
+{nocturnal}Nocturnal
+{hermaeus_mora}Hermaeus Mora
+{peryite}Perytie
+{malacath_creed}Malacath Creed
+{merida}Merida
+{mephala}Mephala
+{namira}Namira
+{molag_bal}Molag Bal
+{sheogorath}Mad Prince
+{namira}Namira
+{vaermina}Vaermina
+{jyggalag}Jyggalag
+{boethiath}Beothiath 
+{trickster}Trickster
+{mehurnes_dagon}Mehurnes Dagon
+{sanguine}Sanguine
+{dragon_cult}Dragon Cult
+{syncretic_yokudan}Syncretic Yokudan Pantheon
+{yokudan_pantheon}Yokudan Pantheon
+{xrib}Xrib
+{sithis}Sithis
+{the_green}Green
+{undeath}Undeath
 {pagan}Pagan
+{heretic}Heretic

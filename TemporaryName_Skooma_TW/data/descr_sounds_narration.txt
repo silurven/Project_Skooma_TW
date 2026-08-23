@@ -24,21 +24,21 @@ DEFAULT: probability 1 ducking
 					event Hastings_Tutorial_General_1 volume -40
 					
 					folder data/sounds/Voice/Human/Localized/Battle_Map
-					English_Heavy_Group_Order_Missile_Attack_1.wav
+					imperial_Heavy_Group_Order_Missile_Attack_1.wav
 					
 					end
 
 					event Hastings_Tutorial_General_2 volume -40
 					
 					folder data/sounds/Voice/Human/Localized/Battle_Map
-					English_Heavy_Group_Created_1.wav
+					imperial_Heavy_Group_Created_1.wav
 					
 					end
 
 					event Hastings_Tutorial_General_3 volume -40
 					
 					folder data/sounds/Voice/Human/Localized/Battle_Map
-					English_Heavy_Group_Order_Move_2.wav
+					imperial_Heavy_Group_Order_Move_2.wav
 					
 					end
 
@@ -50,47 +50,47 @@ DEFAULT: probability 1 ducking
                   event Hastings_Sergeant_1
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_1.mp3
+                                    imperial_Hastings_1.mp3
                   end
                   event Hastings_Sergeant_2
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_2.mp3
+                                    imperial_Hastings_2.mp3
                   end
                   event Hastings_Sergeant_3
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_3.mp3
+                                    imperial_Hastings_3.mp3
                   end
                   event Hastings_Sergeant_4
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_4.mp3
+                                    imperial_Hastings_4.mp3
                   end
                   event Hastings_Sergeant_5
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_5.mp3
+                                    imperial_Hastings_5.mp3
                   end
                   event Hastings_Sergeant_6
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_6.mp3
+                                    imperial_Hastings_6.mp3
                   end
                   event Hastings_Sergeant_7
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_7.mp3
+                                    imperial_Hastings_7.mp3
                            end
                   event Hastings_Sergeant_8
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_8.mp3
+                                    imperial_Hastings_8.mp3
                            end
                   event Hastings_Sergeant_9
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Hastings_9.mp3
+                                    imperial_Hastings_9.mp3
                            end
 
  
@@ -102,65 +102,65 @@ DEFAULT: probability 1 ducking
                   event Agincourt_Sergeant_1
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_1.mp3
+                                    imperial_Agincourt_1.mp3
                            end
                   event Agincourt_Sergeant_2
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_2.mp3
+                                    imperial_Agincourt_2.mp3
                            end
                   event Agincourt_Sergeant_3
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_3.mp3
+                                    imperial_Agincourt_3.mp3
                            end
 
                    event Agincourt_Sergeant_4
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_4.mp3
+                                    imperial_Agincourt_4.mp3
                            end                          
 
                    event Agincourt_Sergeant_5
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_5.mp3
+                                    imperial_Agincourt_5.mp3
                            end  
  
                    event Agincourt_Sergeant_6
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_6.mp3
+                                    imperial_Agincourt_6.mp3
                            end      
 
                    event Agincourt_Sergeant_7
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_7.mp3
+                                    imperial_Agincourt_7.mp3
                            end                                                                        
 
                    event Agincourt_Sergeant_8
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_8.mp3
+                                    imperial_Agincourt_8.mp3
                            end                                                                        
                            
                    event Agincourt_Sergeant_9
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Agincourt_9.mp3
+                                    imperial_Agincourt_9.mp3
                            end                            
 
                    event Agincourt_Win
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Player_Victory_Crushing_2.mp3
+                                    imperial_Player_Victory_Crushing_2.mp3
                            end                            
 
                    event Agincourt_Lose
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Player_Defeat_Crushing_2.mp3
+                                    imperial_Player_Defeat_Crushing_2.mp3
                            end                            
                                                       
 ;;;; Arsuf                          
@@ -171,17 +171,17 @@ DEFAULT: probability 1 ducking
                   event Arsuf_Sergeant_1
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Arsuf_1.mp3
+                                    imperial_Arsuf_1.mp3
                            end
                   event Arsuf_Sergeant_2
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Arsuf_2.mp3
+                                    imperial_Arsuf_2.mp3
                            end
                   event Arsuf_Sergeant_3
                            
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
-                                    English_Arsuf_3.mp3
+                                    imperial_Arsuf_3.mp3
                            end
                            
                            
@@ -243,13 +243,13 @@ DEFAULT: probability 1 ducking
                            end
                            
                   event Pavia_Sergeant_11
-                           ;this day will go down in the records of the empire as one of its most magnificent victories
+                           ;this day will go down in the records of the imperium as one of its most magnificent victories
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
                                     German_Player_Victory_Crushing_2.mp3
                            end
                            
                   event Pavia_Sergeant_12
-                           ;this defeat leaves a bitter taste in the mouths of all the empires warriors
+                           ;this defeat leaves a bitter taste in the mouths of all the imperiums warriors
                                     folder data/sounds/Voice/Human/Localized/Battle_Events
                                     German_Player_Defeat_Clear_1.mp3
                            end

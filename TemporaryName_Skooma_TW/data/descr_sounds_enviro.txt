@@ -379,7 +379,7 @@ BANK: weather
 
 	wind calm		10, 30
 		season summer, winter
-			climates sandy_desert, rocky_desert, semi_arid
+			climates sandy_desert, rocky_desert, semi_arid, custom_2, custom_3
 				event
 					folder data/sounds/SFX/Environment/weather
 				Wind_Mountain
@@ -387,28 +387,28 @@ BANK: weather
 				end
 	wind breezes	20, 40
 		season summer
-			climates sandy_desert, rocky_desert, semi_arid
+			climates sandy_desert, rocky_desert, semi_arid, custom_2, custom_3
 				event volume -10
 					folder data/sounds/SFX/Environment/weather
 				Wind_Sand_02
 				end
 	wind wind		20, 50
 		season summer
-			climates sandy_desert, rocky_desert, semi_arid
+			climates sandy_desert, rocky_desert, semi_arid, custom_2, custom_3
 				event volume -10
 					folder data/sounds/SFX/Environment/weather
 				Wind_Sand_02
 				end
 	wind gusts		20, 70
 		season summer
-			climates sandy_desert, rocky_desert, semi_arid
+			climates sandy_desert, rocky_desert, semi_arid, custom_2, custom_3
 				event volume -35
 					folder data/sounds/SFX/Environment/weather
 				Wind_Sand_03
 				end
 	wind gales		30, 90
 		season summer
-			climates sandy_desert, rocky_desert, semi_arid
+			climates sandy_desert, rocky_desert, semi_arid, custom_3
 				event volume -30
 					folder data/sounds/SFX/Environment/weather
 				Wind_Sand_03
@@ -504,7 +504,6 @@ BANK: terrain_ambient
 ; <pattern id="cloudy winter" 	audio_type="calm">
 ; <pattern id="light fog" 		audio_type="calm">
 ; <pattern id="heavy fog" 		audio_type="calm">
-; <pattern id="france custom" 	audio_type="calm">
 
 
 ;;; MTW2 DAYTIME is :

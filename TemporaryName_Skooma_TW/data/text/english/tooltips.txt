@@ -104,7 +104,7 @@
 {TMT_COMMAND_LEVEL_6}Calm and confident at the head of an army, and usually decisive in victory
 {TMT_COMMAND_LEVEL_7}Though he is but one man, his aura of command is powerful enough to inspire many on the battlefield. 
 {TMT_COMMAND_LEVEL_8}This man has leadership qualities to enable men to go beyond their own abilities on any battlefield. 
-{TMT_COMMAND_LEVEL_9}So bold and confident in command, this man could lead an angry mob to conquer an empire
+{TMT_COMMAND_LEVEL_9}So bold and confident in command, this man could lead an angry mob to conquer an imperium
 {TMT_COMMAND_LEVEL_10}On the battlefield, this man's will is always realised! He is a true master of warfare
 {TMT_MANAGEMENT_LEVEL_0}tooltips.txt:{TMT_MANAGEMENT_LEVEL_0}
 {TMT_MANAGEMENT_LEVEL_1}tooltips.txt:{TMT_MANAGEMENT_LEVEL_1}

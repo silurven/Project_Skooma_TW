@@ -1,3 +1,0 @@
-<SYNC Start=500>
-<P Class=ENUSCC>Black_Death_1
-<SYNC Stop=18000>

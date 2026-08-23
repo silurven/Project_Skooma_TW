@@ -130,14 +130,14 @@ UI_AUDIO_DIRECT_SOUND_SOFTWARE
 Direct Sound Software Mixing not supported.
 UI_AUDIO_DOLBY_SURROUND
 Dolby Surround not supported.
-UI_AUDIO_ENGLISH
-ENGLISH
+UI_AUDIO_imperial
+imperial
 UI_AUDIO_FX_VOL_INFO
 Change the sound effects volume
 UI_AUDIO_HW
 HARDWARE ACCELERATION
-UI_AUDIO_INFO_ENGLISH
-ALL SPEECH IN ENGLISH
+UI_AUDIO_INFO_imperial
+ALL SPEECH IN imperial
 UI_AUDIO_INFO_MUTE
 TOGGLE SOUND ON AND OFF
 UI_AUDIO_INFO_SUBTITLES
@@ -774,78 +774,10 @@ UI_FACTIONS_SET_DEFENDERS
 SELECT TO CHANGE THIS TEAM TO DEFENDERS
 UI_FACTIONS_UNSELECT_FACTION_INFO
 NO FACTION
-UI_FACTION_AZTECS
-THE AZTECS
-UI_FACTION_AZTECS_DESCRIPTION
-Aztecs\nFlexible selection of all troop types, plus powerful elephants!
-UI_FACTION_BYZANTIUM
-BYZANTIUM
-UI_FACTION_BYZANTIUM_DESCRIPTION
-Byzantines\nMany hoplite phalanxes (including Spartans) and missile support but limited cavalry choice
-UI_FACTION_DENMARK
-DENMARK
-UI_FACTION_DENMARK_DESCRIPTION
-Danes\nHoplites and pike phalanxes plus powerful cavalry
-UI_FACTION_EGYPT
-EGYPT
-UI_FACTION_EGYPT_DESCRIPTION
-Egyptians\nGood spearmen and foot archers along with swift cavalry and chariots
-UI_FACTION_ENGLAND
-ENGLAND
-UI_FACTION_ENGLAND_DESCRIPTION
-English\nFanatical barbarian infantry plus swift charioteers
-UI_FACTION_FRANCE
-FRANCE
-UI_FACTION_FRANCE_DESCRIPTION
-French\nStrong close-combat infantry, but very limited cavalry
-UI_FACTION_HRE
-THE HOLY ROMAN EMPIRE
-UI_FACTION_HRE_DESCRIPTION
-Romans\nAxemen and specialist infantry with limited selection of cavalry
-UI_FACTION_HUNGARY
-HUNGARY
-UI_FACTION_HUNGARY_DESCRIPTION
-Hungarians\nGood choice of hoplite phalanxes and barbarian close-combat specialists but limited cavalry
-UI_FACTION_MILAN
-MILAN
-UI_FACTION_MILAN_DESCRIPTION
-Milanese\nLegionary infantry and supporting auxiliary troops, limited cavalry
-UI_FACTION_MONGOLS
-THE MONGOLS
-UI_FACTION_MONGOLS_DESCRIPTION
-Mongolians\nCavalry, including horse archers and powerful armoured cataphracts; weak infantry
-UI_FACTION_MOORS
-THE MOORS
-UI_FACTION_MOORS_DESCRIPTION
-Moors\nLight desert infantry and good cavalry including camel-mounted specialists
-UI_FACTION_NORMANS
-NORMANS
-UI_FACTION_NORMANS_DESCRIPTION
-NORMANS SUMMARY DESCRIPTION
-UI_FACTION_PAPAL_STATES
-THE PAPAL STATES
-UI_FACTION_PAPAL_STATES_DESCRIPTION
-The Papal States\nLegionary infantry and supporting auxiliary troops, limited cavalry
-UI_FACTION_POLAND
-POLAND
-UI_FACTION_POLAND_DESCRIPTION
-Polish\nBarbarian close-combat infantry including falxmen but very little cavalry
-UI_FACTION_PORTUGAL
-PORTUGAL
-UI_FACTION_PORTUGAL_DESCRIPTION
-Portuguese\nHorse archers including armoured cataphract archers but few infantry types
-UI_FACTION_RUSSIA
-RUSSIA
-UI_FACTION_RUSSIA_DESCRIPTION
-Russians\nMaster horsemen and archers but almost no melee infantry
-UI_FACTION_SAXONS
-SAXONS
-UI_FACTION_SAXONS_DESCRIPTION
-SAXONS SUMMARY DESCRIPTION
-UI_FACTION_SCOTLAND
-SCOTLAND
-UI_FACTION_SCOTLAND_DESCRIPTION
-Scottish\nPowerful selection of phalanxes, heavy cataphract cavalry and elephants
+UI_FACTION_EMPIRE
+EMPIRE
+UI_FACTION_EMPIRE_DESCRIPTION
+imperial\nFanatical barbarian infantry plus swift charioteers
 UI_FACTION_SELECT_10000_GOLD
 10000 FLORINS
 UI_FACTION_SELECT_100_TURNS
@@ -1326,8 +1258,8 @@ UI_LOCATION_CILICIAN_HILLS
 Cilician Hills
 UI_LOCATION_EIFEL_MOUNTAINS
 Eifel Mountains
-UI_LOCATION_ENGLISH_DOWNS
-English Downs
+UI_LOCATION_imperial_DOWNS
+imperial Downs
 UI_LOCATION_GALLIC_COUNTRYSIDE
 Gallic Countryside
 UI_LOCATION_GERMANIC_FOREST

@@ -1,3 +1,0 @@
-<SYNC Start=10000>
-<P Class=ENUSCC>France_Outro_Lose_1
-<SYNC Stop=28700>
